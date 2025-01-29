@@ -353,6 +353,8 @@
 
 ## ▷ Live TV
 
+* ⭐ **[Tivimate IPTV](https://tivimate.ca)** [2](https://tivi-mate.net/) - TV / Sports / VOD / Worldwide
+* ⭐ **[SETIPTV](https://setiptv1.com)** TV / Sports / VOD / Worldwide
 * ⭐ **[TheTVApp](https://thetvapp.to/)**, [2](https://tvpass.org/) - TV / Sports / US Only
 * ⭐ **[TOTV](http://totv.org/channels)** - TV / Sports
 * ⭐ **[⁠tv.garden](https://tv.garden/)** - TV / Sports
