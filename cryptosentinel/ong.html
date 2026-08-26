@@ -1,312 +1,329 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ONG paper desk · CryptoSentinel</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ONG bot · $500 · 3-day test</title>
   <style>
     :root {
-      --ink: #0a0b14;
-      --panel: #12131f;
-      --panel2: #1a1b2e;
-      --line: #2e3050;
-      --text: #e8eaf8;
-      --mute: #8b8fad;
-      --accent: #22d3ee;
-      --accent-2: #a78bfa;
-      --mint: #34d399;
-      --rose: #f472b6;
-      --font: "IBM Plex Sans", sans-serif;
-      --display: "Syne", sans-serif;
-      --mono: "IBM Plex Mono", monospace;
+      --bg: #07090d; --panel: #10141c; --line: #1e2633;
+      --text: #e8edf5; --muted: #8b95a8; --green: #22c55e; --red: #f43f5e; --gold: #fbbf24;
     }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { min-height: 100%; }
-    body {
-      font-family: var(--font);
-      background:
-        radial-gradient(ellipse 70% 50% at 12% 0%, rgba(34,211,238,.12), transparent 55%),
-        radial-gradient(ellipse 50% 40% at 95% 90%, rgba(167,139,250,.1), transparent 50%),
-        var(--ink);
-      color: var(--text);
-      font-size: 14px;
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, system-ui, sans-serif; background: var(--bg); color: var(--text); }
+    .wrap { max-width: 920px; margin: 0 auto; padding: 16px; }
+    h1 { font-size: 1.15rem; margin: 0 0 4px; }
+    .sub { color: var(--muted); font-size: 0.82rem; margin: 0 0 16px; }
+    .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 12px; }
+    .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+    .kpi .l { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: .04em; }
+    .kpi .v { font-size: 1.25rem; font-weight: 800; font-variant-numeric: tabular-nums; margin-top: 4px; }
+    .pnl-pos { color: var(--green); }
+    .pnl-neg { color: var(--red); }
+    .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 12px; }
+    .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: end; }
+    label { display: block; font-size: 0.72rem; color: var(--muted); margin-bottom: 4px; }
+    select, button { font: inherit; }
+    select { background: #0b0e14; color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+    button {
+      border: 0; border-radius: 8px; padding: 10px 16px; font-weight: 700; cursor: pointer;
     }
-    .wrap { max-width: 1080px; margin: 0 auto; padding: 28px 20px 60px; }
-    header { display: flex; align-items: center; gap: 14px; margin-bottom: 22px; flex-wrap: wrap; }
-    .mark {
-      width: 42px; height: 42px; border: 1.5px solid var(--accent);
-      display: grid; place-items: center; font-family: var(--display); font-weight: 800; color: var(--accent);
-    }
-    h1 { font-family: var(--display); font-size: 22px; letter-spacing: -0.03em; }
-    .sub { color: var(--mute); font-family: var(--mono); font-size: 11px; }
-    .badge {
-      margin-left: auto; font-family: var(--mono); font-size: 11px;
-      border: 1px solid #8a6d12; color: #fbbf24; padding: 4px 10px; border-radius: 99px;
-    }
-    a.back { color: var(--accent); text-decoration: none; font-size: 12px; }
-    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-    @media (max-width: 820px) { .grid { grid-template-columns: 1fr; } }
-    .cell {
-      background: var(--panel); border: 1px solid var(--line); padding: 16px 18px;
-    }
-    .span2 { grid-column: 1 / -1; }
-    .cell-label {
-      font-family: var(--mono); font-size: 10px; letter-spacing: .12em;
-      text-transform: uppercase; color: var(--mute); margin-bottom: 10px;
-    }
-    .px { font-family: var(--mono); font-size: 26px; font-weight: 500; }
-    .hint { color: var(--mute); font-size: 12px; margin-top: 6px; line-height: 1.5; }
-    .row { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); }
-    .row:last-child { border-bottom: 0; }
-    .k { color: var(--mute); }
-    .v { font-family: var(--mono); }
-    .profit { color: var(--mint); }
-    .loss { color: var(--rose); }
-    .big { font-family: var(--mono); font-size: 32px; font-weight: 500; }
-    .btn {
-      border: 0; cursor: pointer; font-family: var(--font); font-weight: 600;
-      padding: 10px 16px; font-size: 13px;
-    }
-    .btn-primary { background: var(--accent); color: #041016; }
-    .btn-ghost { background: transparent; color: var(--text); border: 1px solid var(--line); }
-    .btn-danger { background: #3b1220; color: var(--rose); border: 1px solid #5b1a30; }
-    .btn:disabled { opacity: .4; cursor: not-allowed; }
-    input[type=number] {
-      background: var(--panel2); border: 1px solid var(--line); color: var(--text);
-      font-family: var(--mono); padding: 8px 10px; width: 140px;
-    }
-    .actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 12px; }
-    .explain {
-      background: var(--panel2); border-left: 3px solid var(--accent); padding: 14px 16px;
-      line-height: 1.55; font-size: 14px;
-    }
-    .explain b { color: var(--accent); }
-    .legs { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
-    @media (max-width: 820px) { .legs { grid-template-columns: 1fr; } }
-    .leg { background: var(--panel2); border: 1px solid var(--line); padding: 14px; }
-    .leg h3 { font-size: 12px; color: var(--mute); font-family: var(--mono); margin-bottom: 8px; }
-    .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--rose); display: inline-block; margin-right: 6px; }
-    .live-dot.on { background: var(--mint); box-shadow: 0 0 8px var(--mint); }
-    .err { color: var(--rose); font-size: 12px; margin-top: 8px; }
+    .go { background: #16a34a; color: #fff; }
+    .stop { background: #b91c1c; color: #fff; }
+    .ghost { background: transparent; color: var(--muted); border: 1px solid var(--line); }
+    .status { font-size: 0.9rem; margin: 8px 0 0; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+    th, td { text-align: left; padding: 7px 6px; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+    th { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; }
+    .mono { font-family: ui-monospace, monospace; }
+    .warn { color: var(--gold); font-size: 0.8rem; }
+    @media (max-width: 720px) { .grid { grid-template-columns: 1fr 1fr; } }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <header>
-      <div class="mark">CS</div>
-      <div>
-        <h1>ONG paper trade</h1>
-        <div class="sub"><span class="live-dot" id="dot"></span>Live Binance prices · no real orders · same coin, two prices</div>
-      </div>
-      <span class="badge">PAPER</span>
-      <a class="back" href="/">← CryptoSentinel desk</a>
-    </header>
+    <h1>ONG paper bot</h1>
+    <p class="sub">Capital $500 · short spot + long perp · take +$15 or +$20 · flatten · enter again · 3-day test. Paper only — no Binance keys.</p>
 
     <div class="grid">
-      <div class="cell">
-        <div class="cell-label">Spot · the expensive one · you SELL this</div>
-        <div class="px" id="spot-px">—</div>
-        <div class="hint">ONG/USDT spot bid. This is where you short (sell) the coin.</div>
-      </div>
-      <div class="cell">
-        <div class="cell-label">Perp · the cheap one · you BUY this</div>
-        <div class="px" id="perp-px">—</div>
-        <div class="hint">ONGUSDT perpetual mark. This is where you long (buy) the same amount of ONG.</div>
-      </div>
+      <div class="kpi"><div class="l">Total P&amp;L</div><div class="v" id="totalPnl">$0.00</div></div>
+      <div class="kpi"><div class="l">Equity</div><div class="v" id="equity">$500.00</div></div>
+      <div class="kpi"><div class="l">This clip</div><div class="v" id="clipPnl">—</div></div>
+      <div class="kpi"><div class="l">Time left</div><div class="v" id="timeLeft">3d 00:00</div></div>
+    </div>
+    <div class="grid">
+      <div class="kpi"><div class="l">Wins / losses</div><div class="v" id="wl">0 / 0</div></div>
+      <div class="kpi"><div class="l">Spot / perp</div><div class="v" id="px">—</div></div>
+      <div class="kpi"><div class="l">Gap</div><div class="v" id="gap">—</div></div>
+      <div class="kpi"><div class="l">Qty ONG</div><div class="v" id="qty">—</div></div>
+    </div>
 
-      <div class="cell span2">
-        <div class="cell-label">The gap</div>
-        <div class="big" id="gap">—</div>
-        <div class="hint" id="gap-hint">Waiting for live prices…</div>
-        <div class="row"><span class="k">Funding (perp pays this if negative)</span><span class="v" id="fund">—</span></div>
-        <div class="row"><span class="k">Next funding</span><span class="v" id="next-fund">—</span></div>
-        <div class="row"><span class="k">Last tick</span><span class="v" id="tick">—</span></div>
-      </div>
-
-      <div class="cell span2">
-        <div class="cell-label">Open a paper position</div>
-        <div class="hint">This does <b>not</b> talk to your Binance keys. It only records a pretend fill at the live prices, then tracks P&amp;L as prices move.</div>
-        <div class="actions">
-          <label class="k">Size USDT</label>
-          <input id="size" type="number" value="1000" min="50" step="50">
-          <button class="btn btn-primary" id="btn-open">Open paper: short spot + long perp</button>
-          <button class="btn btn-danger" id="btn-close" disabled>Close paper</button>
+    <div class="card">
+      <div class="row">
+        <div>
+          <label>Take profit (then cut &amp; re-enter)</label>
+          <select id="tpSel">
+            <option value="15" selected>+$15</option>
+            <option value="20">+$20</option>
+          </select>
         </div>
-        <div class="err hidden" id="err"></div>
+        <button class="go" id="startBtn" type="button">Start 3-day test</button>
+        <button class="stop" id="stopBtn" type="button" hidden>Stop now</button>
+        <button class="ghost" id="resetBtn" type="button">Reset</button>
       </div>
+      <p class="status" id="status">Idle. Start to enter the first clip when the spot/perp gap is at least 0.4%.</p>
+      <p class="warn">Loser cut at −$TP too, so the bot can re-enter. Fees: spot 0.10% + perp 0.05% each way. Leave this tab open (or it pauses until you come back — state is saved).</p>
+    </div>
 
-      <div class="cell span2">
-        <div class="cell-label">How the two legs add up · live</div>
-        <div class="explain" id="explain">Open a paper trade to watch one side lose while the other wins more.</div>
-        <div class="legs" style="margin-top:14px">
-          <div class="leg">
-            <h3>1 · SHORT SPOT</h3>
-            <div class="row"><span class="k">Sold at</span><span class="v" id="s-entry">—</span></div>
-            <div class="row"><span class="k">Spot now</span><span class="v" id="s-now">—</span></div>
-            <div class="row"><span class="k">This leg</span><span class="v" id="s-pnl">—</span></div>
-          </div>
-          <div class="leg">
-            <h3>2 · LONG PERP</h3>
-            <div class="row"><span class="k">Bought at</span><span class="v" id="p-entry">—</span></div>
-            <div class="row"><span class="k">Perp now</span><span class="v" id="p-now">—</span></div>
-            <div class="row"><span class="k">This leg</span><span class="v" id="p-pnl">—</span></div>
-          </div>
-          <div class="leg">
-            <h3>TOGETHER</h3>
-            <div class="row"><span class="k">ONG size</span><span class="v" id="qty">—</span></div>
-            <div class="row"><span class="k">Fees (in)</span><span class="v" id="fees">—</span></div>
-            <div class="row"><span class="k">Net P&amp;L</span><span class="v big" style="font-size:22px" id="net">—</span></div>
-          </div>
-        </div>
-      </div>
+    <div class="card">
+      <table>
+        <thead>
+          <tr><th>Time</th><th>Event</th><th>Spot</th><th>Perp</th><th>Clip $</th><th>Total P&amp;L</th></tr>
+        </thead>
+        <tbody id="log"></tbody>
+      </table>
     </div>
   </div>
+  <script>
+    const START_CASH = 500;
+    const TEST_MS = 3 * 24 * 60 * 60 * 1000;
+    const SPOT_FEE = 0.001;
+    const PERP_FEE = 0.0005;
+    const MIN_GAP = 0.004;
+    const POLL_MS = 4000;
+    const KEY = "cs_ong_bot_v1";
 
-<script>
-const SPOT_FEE = 0.001, PERP_FEE = 0.0005;
-const SPOT_URL = "https://data-api.binance.vision/api/v3/ticker/bookTicker?symbol=ONGUSDT";
-const PERP_URL = "https://www.binance.com/fapi/v1/premiumIndex?symbol=ONGUSDT";
-const PERP_BOOK = "https://www.binance.com/fapi/v1/ticker/bookTicker?symbol=ONGUSDT";
+    const el = (id) => document.getElementById(id);
 
-let spot = null, perp = null, book = null, pos = null;
+    let S = load() || {
+      running: false,
+      startAt: 0,
+      endAt: 0,
+      tp: 15,
+      cash: START_CASH,
+      totalPnl: 0,
+      wins: 0,
+      losses: 0,
+      pos: null,
+      log: [],
+    };
 
-const $ = (id) => document.getElementById(id);
-function fmt(n, d = 5) {
-  if (n == null || Number.isNaN(n)) return "—";
-  return Number(n).toLocaleString(undefined, { minimumFractionDigits: d, maximumFractionDigits: d });
-}
-function usd(n) {
-  if (n == null || Number.isNaN(n)) return "—";
-  const s = (n >= 0 ? "+" : "") + n.toFixed(2);
-  return s;
-}
-function setPnL(el, n) {
-  el.textContent = n == null ? "—" : usd(n) + " USDT";
-  el.className = "v " + (n > 0.005 ? "profit" : n < -0.005 ? "loss" : "");
-}
-function showErr(msg) {
-  const el = $("err");
-  if (!msg) { el.classList.add("hidden"); el.textContent = ""; return; }
-  el.textContent = msg; el.classList.remove("hidden");
-}
+    function load() {
+      try { return JSON.parse(localStorage.getItem(KEY) || "null"); } catch { return null; }
+    }
+    function save() { localStorage.setItem(KEY, JSON.stringify(S)); }
 
-async function tick() {
-  try {
-    const [s, p, b] = await Promise.all([
-      fetch(SPOT_URL).then((r) => r.json()),
-      fetch(PERP_URL).then((r) => r.json()),
-      fetch(PERP_BOOK).then((r) => r.json()),
-    ]);
-    spot = s; perp = p; book = b;
-    $("dot").classList.add("on");
-    showErr("");
-    render();
-  } catch (e) {
-    $("dot").classList.remove("on");
-    showErr("Could not reach Binance live prices: " + e.message);
-  }
-}
+    function fmtPnl(n) {
+      if (n > 0) return "+$" + n.toFixed(2);
+      if (n < 0) return "-$" + Math.abs(n).toFixed(2);
+      return "$0.00";
+    }
+    function winLossLabel(n) {
+      if (n > 0) return " WIN";
+      if (n < 0) return " LOSS";
+      return "";
+    }
 
-function prices() {
-  const spotBid = Number(spot?.bidPrice);
-  const spotAsk = Number(spot?.askPrice);
-  const perpAsk = Number(book?.askPrice);
-  const perpBid = Number(book?.bidPrice);
-  const mark = Number(perp?.markPrice);
-  const fund = Number(perp?.lastFundingRate);
-  return { spotBid, spotAsk, perpAsk, perpBid, mark, fund };
-}
+    function log(event, spot, perp, clip, total) {
+      S.log.unshift({
+        t: new Date().toISOString().slice(11, 19) + " UTC",
+        event, spot, perp, clip, total,
+      });
+      S.log = S.log.slice(0, 80);
+    }
 
-function render() {
-  if (!spot || !perp || !book) return;
-  const { spotBid, spotAsk, perpAsk, mark, fund } = prices();
-  $("spot-px").textContent = "$" + fmt(spotBid, 5);
-  $("perp-px").textContent = "$" + fmt(mark, 5);
-  const gap = spotBid / perpAsk - 1;
-  $("gap").textContent = (gap * 100).toFixed(2) + "%";
-  $("gap").className = "big " + (gap > 0 ? "profit" : "loss");
-  $("gap-hint").textContent = gap > 0
-    ? "Spot is higher than the perp. Paper trade = sell high (spot) and buy low (perp), same ONG amount."
-    : "No long-basis gap right now (spot is not above perp). You can still open to see how the two legs move.";
-  $("fund").textContent = (fund * 100).toFixed(3) + "%" + (fund < 0 ? "  · longs GET paid" : "  · longs PAY");
-  const next = new Date(Number(perp.nextFundingTime));
-  $("next-fund").textContent = next.toISOString().replace("T", " ").slice(0, 16) + " UTC";
-  $("tick").textContent = new Date().toISOString().replace("T", " ").slice(0, 19) + " UTC";
+    function renderLog() {
+      el("log").innerHTML = S.log.map((r) => {
+        const c = r.clip == null ? "—" : fmtPnl(r.clip);
+        const cls = r.clip > 0 ? "pnl-pos" : r.clip < 0 ? "pnl-neg" : "";
+        const tcls = r.total > 0 ? "pnl-pos" : r.total < 0 ? "pnl-neg" : "";
+        return `<tr>
+          <td class="mono">${r.t}</td>
+          <td>${r.event}</td>
+          <td class="mono">${r.spot != null ? r.spot.toFixed(5) : "—"}</td>
+          <td class="mono">${r.perp != null ? r.perp.toFixed(5) : "—"}</td>
+          <td class="${cls}">${c}</td>
+          <td class="${tcls}">${fmtPnl(r.total)}</td>
+        </tr>`;
+      }).join("") || `<tr><td colspan="6" style="color:#8b95a8">No clips yet.</td></tr>`;
+    }
 
-  if (!pos) {
-    $("s-entry").textContent = $("p-entry").textContent = $("qty").textContent = $("fees").textContent = "—";
-    $("s-now").textContent = fmt(spotBid, 5);
-    $("p-now").textContent = fmt(mark, 5);
-    setPnL($("s-pnl"), null); setPnL($("p-pnl"), null); setPnL($("net"), null);
-    $("net").className = "v big";
-    $("explain").innerHTML = "Prices are live. Click <b>Open paper</b> to freeze an entry: short at the spot bid, long at the perp ask, same number of ONG.";
-    return;
-  }
+    function setPnlClass(node, n) {
+      node.classList.remove("pnl-pos", "pnl-neg");
+      if (n > 0) node.classList.add("pnl-pos");
+      if (n < 0) node.classList.add("pnl-neg");
+    }
 
-  const qty = pos.qty;
-  const spotNow = spotAsk; // cover the short at the ask
-  const perpNow = mark;
-  const shortPnl = (pos.spotEntry - spotNow) * qty;
-  const longPnl = (perpNow - pos.perpEntry) * qty;
-  const holdFees = pos.openFee; // close fees shown on close
-  const net = shortPnl + longPnl - holdFees;
+    function remaining() {
+      if (!S.running) return "—";
+      const ms = Math.max(0, S.endAt - Date.now());
+      const d = Math.floor(ms / 86400000);
+      const h = Math.floor((ms % 86400000) / 3600000);
+      const m = Math.floor((ms % 3600000) / 60000);
+      return d + "d " + String(h).padStart(2, "0") + ":" + String(m).padStart(2, "0");
+    }
 
-  $("s-entry").textContent = fmt(pos.spotEntry, 5);
-  $("p-entry").textContent = fmt(pos.perpEntry, 5);
-  $("s-now").textContent = fmt(spotNow, 5);
-  $("p-now").textContent = fmt(perpNow, 5);
-  $("qty").textContent = fmt(qty, 2) + " ONG";
-  $("fees").textContent = usd(-holdFees) + " (open)";
-  setPnL($("s-pnl"), shortPnl);
-  setPnL($("p-pnl"), longPnl);
-  setPnL($("net"), net);
-  $("net").classList.add("big");
+    function clipPnl(spot, perp) {
+      if (!S.pos) return 0;
+      const q = S.pos.qty;
+      const spotPnl = (S.pos.spot - spot) * q;
+      const perpPnl = (perp - S.pos.perp) * q;
+      const openNotional = S.pos.qty * ((S.pos.spot + S.pos.perp) / 2);
+      const closeNotional = S.pos.qty * ((spot + perp) / 2);
+      const fees = openNotional * (SPOT_FEE + PERP_FEE) + closeNotional * (SPOT_FEE + PERP_FEE);
+      return spotPnl + perpPnl - fees;
+    }
 
-  const shortTxt = shortPnl >= 0
-    ? `the short is <b class="profit">up ${usd(shortPnl)}</b> because spot fell from ${fmt(pos.spotEntry)} to ${fmt(spotNow)}`
-    : `the short is <b class="loss">down ${usd(shortPnl)}</b> because spot rose from ${fmt(pos.spotEntry)} to ${fmt(spotNow)}`;
-  const longTxt = longPnl >= 0
-    ? `the long is <b class="profit">up ${usd(longPnl)}</b> because perp rose from ${fmt(pos.perpEntry)} to ${fmt(perpNow)}`
-    : `the long is <b class="loss">down ${usd(longPnl)}</b> because perp fell from ${fmt(pos.perpEntry)} to ${fmt(perpNow)}`;
+    async function prices() {
+      const [s, p] = await Promise.all([
+        fetch("https://data-api.binance.vision/api/v3/ticker/bookTicker?symbol=ONGUSDT").then((r) => r.json()),
+        fetch("https://www.binance.com/fapi/v1/ticker/bookTicker?symbol=ONGUSDT").then((r) => r.json()),
+      ]);
+      const spot = (Number(s.bidPrice) + Number(s.askPrice)) / 2;
+      const perp = (Number(p.bidPrice) + Number(p.askPrice)) / 2;
+      if (!spot || !perp) throw new Error("bad px");
+      return { spot, perp, gap: (spot - perp) / ((spot + perp) / 2) };
+    }
 
-  $("explain").innerHTML =
-    `You sold ${fmt(qty, 1)} ONG at <b>${fmt(pos.spotEntry)}</b> and bought the same ${fmt(qty, 1)} ONG at <b>${fmt(pos.perpEntry)}</b>. ` +
-    `Right now ${shortTxt}, and ${longTxt}. ` +
-    `Together that is <b class="${net>=0?"profit":"loss"}">${usd(net)} USDT</b> after open fees. ` +
-    `One leg can be red. The 9% is not “both win” — it is “the winner is bigger than the loser” because you sold higher than you bought.`;
-}
+    function enter(spot, perp) {
+      const equity = START_CASH + S.totalPnl;
+      const notional = Math.max(80, Math.min(equity * 0.8, 400));
+      const mid = (spot + perp) / 2;
+      const qty = notional / mid;
+      S.pos = { spot, perp, qty, notional, t: Date.now() };
+      log("ENTER short spot / long perp", spot, perp, null, S.totalPnl);
+      el("status").textContent = "In clip · waiting for " + fmtPnl(S.tp) + " then cut & re-enter.";
+    }
 
-function openPaper() {
-  if (!spot || !book) return showErr("Wait for live prices first.");
-  const { spotBid, perpAsk } = prices();
-  const usdSize = Math.max(50, Number($("size").value) || 1000);
-  const qty = usdSize / perpAsk;
-  const openFee = usdSize * SPOT_FEE + usdSize * PERP_FEE;
-  pos = {
-    qty, usdSize,
-    spotEntry: spotBid,
-    perpEntry: perpAsk,
-    openFee,
-    t: Date.now(),
-  };
-  $("btn-open").disabled = true;
-  $("btn-close").disabled = false;
-  render();
-}
+    function flatten(spot, perp, reason) {
+      const pnl = clipPnl(spot, perp);
+      S.totalPnl += pnl;
+      if (pnl >= 0) S.wins += 1; else S.losses += 1;
+      log(reason + " " + fmtPnl(pnl), spot, perp, pnl, S.totalPnl);
+      S.pos = null;
+      save();
+    }
 
-function closePaper() {
-  pos = null;
-  $("btn-open").disabled = false;
-  $("btn-close").disabled = true;
-  render();
-}
+    function finish(reason) {
+      S.running = false;
+      el("status").textContent = reason + "  Total P&L " + fmtPnl(S.totalPnl) +
+        winLossLabel(S.totalPnl) +
+        " · equity $" + (START_CASH + S.totalPnl).toFixed(2);
+      el("startBtn").hidden = false;
+      el("stopBtn").hidden = true;
+      save();
+    }
 
-$("btn-open").onclick = openPaper;
-$("btn-close").onclick = closePaper;
-tick();
-setInterval(tick, 2000);
-</script>
+    async function tick() {
+      if (!S.running) return;
+      if (Date.now() >= S.endAt) {
+        try {
+          const px = await prices();
+          if (S.pos) flatten(px.spot, px.perp, "3D END flatten");
+        } catch {}
+        finish("3-day test over.");
+        paint();
+        return;
+      }
+      let px;
+      try { px = await prices(); } catch (e) {
+        el("status").textContent = "Price fetch failed, retrying…";
+        return;
+      }
+      window._px = px;
+      paint();
+
+      if (!S.pos) {
+        if (px.gap >= MIN_GAP) enter(px.spot, px.perp);
+        else el("status").textContent = "Flat · waiting for gap ≥ 0.4% (now " + (px.gap * 100).toFixed(2) + "%).";
+        save();
+        return;
+      }
+
+      const pnl = clipPnl(px.spot, px.perp);
+      if (pnl >= S.tp) {
+        flatten(px.spot, px.perp, "TP HIT");
+        if (px.gap >= MIN_GAP) enter(px.spot, px.perp);
+        else el("status").textContent = "Took profit. Waiting for next gap ≥ 0.4%.";
+      } else if (pnl <= -S.tp) {
+        flatten(px.spot, px.perp, "CUT LOSS");
+        if (START_CASH + S.totalPnl < 80) {
+          finish("Stopped — equity too low.");
+          paint();
+          return;
+        }
+        if (px.gap >= MIN_GAP) enter(px.spot, px.perp);
+        else el("status").textContent = "Cut loser. Waiting for next gap ≥ 0.4%.";
+      }
+      save();
+    }
+
+    function paint() {
+      const equity = START_CASH + S.totalPnl;
+      el("totalPnl").textContent = fmtPnl(S.totalPnl);
+      setPnlClass(el("totalPnl"), S.totalPnl);
+      el("equity").textContent = "$" + equity.toFixed(2);
+      setPnlClass(el("equity"), S.totalPnl);
+      el("wl").textContent = S.wins + " / " + S.losses;
+      el("timeLeft").textContent = remaining();
+      el("tpSel").value = String(S.tp);
+      const px = window._px;
+      if (px) {
+        el("px").textContent = px.spot.toFixed(4) + " / " + px.perp.toFixed(4);
+        el("gap").textContent = (px.gap * 100).toFixed(2) + "%";
+        setPnlClass(el("gap"), px.gap);
+      }
+      if (S.pos && px) {
+        const pnl = clipPnl(px.spot, px.perp);
+        el("clipPnl").textContent = fmtPnl(pnl);
+        setPnlClass(el("clipPnl"), pnl);
+        el("qty").textContent = S.pos.qty.toFixed(1);
+      } else {
+        el("clipPnl").textContent = "flat";
+        el("clipPnl").classList.remove("pnl-pos", "pnl-neg");
+        el("qty").textContent = "—";
+      }
+      el("startBtn").hidden = S.running;
+      el("stopBtn").hidden = !S.running;
+      renderLog();
+    }
+
+    el("startBtn").onclick = () => {
+      S = {
+        running: true,
+        startAt: Date.now(),
+        endAt: Date.now() + TEST_MS,
+        tp: Number(el("tpSel").value),
+        cash: START_CASH,
+        totalPnl: 0,
+        wins: 0,
+        losses: 0,
+        pos: null,
+        log: [],
+      };
+      log("START 3d · $" + START_CASH + " · TP $" + S.tp, null, null, null, 0);
+      save();
+      tick();
+    };
+    el("stopBtn").onclick = async () => {
+      try {
+        const px = await prices();
+        if (S.pos) flatten(px.spot, px.perp, "MANUAL flatten");
+      } catch { S.pos = null; }
+      finish("Stopped.");
+      paint();
+    };
+    el("resetBtn").onclick = () => {
+      localStorage.removeItem(KEY);
+      location.reload();
+    };
+    el("tpSel").onchange = () => {
+      if (!S.running) { S.tp = Number(el("tpSel").value); save(); }
+    };
+
+    paint();
+    setInterval(tick, POLL_MS);
+    if (S.running) tick();
+  </script>
 </body>
 </html>
