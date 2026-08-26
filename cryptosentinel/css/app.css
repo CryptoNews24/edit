@@ -41,7 +41,16 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html, body { height: 100%; overflow: hidden; }
-.ong-frame { width: 100%; height: calc(100vh - 56px); border: 0; background: transparent; display: block; }
+.ong-section { margin-top: 14px; border-color: rgba(34, 211, 238, 0.28); }
+.ong-head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; margin-bottom: 12px; }
+.ong-head h3 { margin: 2px 0 6px; font-size: 16px; }
+.ong-kicker { font-size: 10px; color: var(--copper); text-transform: uppercase; letter-spacing: 0.08em; font-family: var(--mono); }
+.ong-kpis { margin: 0 0 12px; }
+.ong-controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; margin-bottom: 8px; }
+.ong-controls select {
+  background: var(--panel2); color: var(--text); border: 1px solid var(--line);
+  padding: 8px 10px; font: inherit; min-width: 120px;
+}
 body {
   font-family: var(--font);
   background: var(--ink);
@@ -293,6 +302,7 @@ body {
   font-weight: 600;
 }
 .form-group .hint { font-size: 11px; color: var(--mute); margin-top: 4px; }
+.hint { font-size: 11px; color: var(--mute); line-height: 1.45; }
 .form-group input, .form-group select, .form-group textarea {
   width: 100%;
   padding: 9px 10px;
@@ -606,7 +616,7 @@ tr:hover td { background: var(--glow-purple); }
 
 .bot-matrix {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
   gap: 8px;
 }
 .bot-tile {

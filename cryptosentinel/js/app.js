@@ -175,6 +175,227 @@ function startFuturesPumpLoop() {
   pumpLoop = setInterval(run, 60000);
 }
 
+/* ONG paper hedge — $500, TP $15/$20, 3-day recycle. Client-side only. */
+const ONG_CASH = 500;
+const ONG_MS = 3 * 24 * 60 * 60 * 1000;
+const ONG_SPOT_FEE = 0.001;
+const ONG_PERP_FEE = 0.0005;
+const ONG_MIN_GAP = 0.004;
+const ONG_KEY = 'cs_ong_bot_v1';
+let ongS = null;
+let ongPx = null;
+let ongLoop = null;
+
+function ongEmpty(tp) {
+  return { running: false, startAt: 0, endAt: 0, tp: tp || 15, totalPnl: 0, wins: 0, losses: 0, pos: null, log: [] };
+}
+function ongLoad() {
+  try { return JSON.parse(localStorage.getItem(ONG_KEY) || 'null'); } catch { return null; }
+}
+function ongSave() { localStorage.setItem(ONG_KEY, JSON.stringify(ongS)); }
+function ongFmt(n) {
+  if (n > 0) return '+$' + n.toFixed(2);
+  if (n < 0) return '-$' + Math.abs(n).toFixed(2);
+  return '$0.00';
+}
+function ongWL(n) { return n > 0 ? 'WIN' : n < 0 ? 'LOSS' : 'FLAT'; }
+function ongLog(event, spot, perp, clip, total) {
+  ongS.log.unshift({ t: new Date().toISOString().slice(11, 19) + ' UTC', event, spot, perp, clip, total });
+  ongS.log = ongS.log.slice(0, 80);
+}
+function ongLeft() {
+  if (!ongS?.running) return '—';
+  const ms = Math.max(0, ongS.endAt - Date.now());
+  const d = Math.floor(ms / 86400000);
+  const h = Math.floor((ms % 86400000) / 3600000);
+  const m = Math.floor((ms % 3600000) / 60000);
+  return d + 'd ' + String(h).padStart(2, '0') + ':' + String(m).padStart(2, '0');
+}
+function ongClipPnl(spot, perp) {
+  if (!ongS?.pos) return 0;
+  const q = ongS.pos.qty;
+  const spotPnl = (ongS.pos.spot - spot) * q;
+  const perpPnl = (perp - ongS.pos.perp) * q;
+  const openN = q * ((ongS.pos.spot + ongS.pos.perp) / 2);
+  const closeN = q * ((spot + perp) / 2);
+  return spotPnl + perpPnl - (openN + closeN) * (ONG_SPOT_FEE + ONG_PERP_FEE);
+}
+async function ongPrices() {
+  const [s, p] = await Promise.all([
+    fetch('https://data-api.binance.vision/api/v3/ticker/bookTicker?symbol=ONGUSDT').then((r) => r.json()),
+    fetch('https://www.binance.com/fapi/v1/ticker/bookTicker?symbol=ONGUSDT').then((r) => r.json()),
+  ]);
+  const spot = (Number(s.bidPrice) + Number(s.askPrice)) / 2;
+  const perp = (Number(p.bidPrice) + Number(p.askPrice)) / 2;
+  if (!spot || !perp) throw new Error('bad px');
+  return { spot, perp, gap: (spot - perp) / ((spot + perp) / 2) };
+}
+function ongEnter(spot, perp) {
+  const equity = ONG_CASH + ongS.totalPnl;
+  const notional = Math.max(80, Math.min(equity * 0.8, 400));
+  const qty = notional / ((spot + perp) / 2);
+  ongS.pos = { spot, perp, qty, notional, t: Date.now() };
+  ongLog('ENTER short spot / long perp', spot, perp, null, ongS.totalPnl);
+  const st = document.getElementById('ong-status');
+  if (st) st.textContent = 'In clip · waiting for ' + ongFmt(ongS.tp) + ' then cut & re-enter.';
+}
+function ongFlatten(spot, perp, reason) {
+  const pnl = ongClipPnl(spot, perp);
+  ongS.totalPnl += pnl;
+  if (pnl >= 0) ongS.wins += 1; else ongS.losses += 1;
+  ongLog(reason + ' ' + ongFmt(pnl), spot, perp, pnl, ongS.totalPnl);
+  ongS.pos = null;
+  ongSave();
+}
+function ongFinish(reason) {
+  ongS.running = false;
+  const st = document.getElementById('ong-status');
+  if (st) st.textContent = reason + '  Total P&L ' + ongFmt(ongS.totalPnl) + ' ' + ongWL(ongS.totalPnl) +
+    ' · equity $' + (ONG_CASH + ongS.totalPnl).toFixed(2);
+  ongSave();
+  paintOngDesk();
+}
+async function ongTick() {
+  if (!ongS?.running) { paintOngDesk(); return; }
+  if (Date.now() >= ongS.endAt) {
+    try {
+      const px = await ongPrices();
+      ongPx = px;
+      if (ongS.pos) ongFlatten(px.spot, px.perp, '3D END flatten');
+    } catch {}
+    ongFinish('3-day test over.');
+    return;
+  }
+  let px;
+  try { px = await ongPrices(); } catch {
+    const st = document.getElementById('ong-status');
+    if (st) st.textContent = 'Price fetch failed, retrying…';
+    return;
+  }
+  ongPx = px;
+  if (!ongS.pos) {
+    if (px.gap >= ONG_MIN_GAP) ongEnter(px.spot, px.perp);
+    else {
+      const st = document.getElementById('ong-status');
+      if (st) st.textContent = 'Flat · waiting for gap ≥ 0.4% (now ' + (px.gap * 100).toFixed(2) + '%).';
+    }
+    ongSave();
+    paintOngDesk();
+    return;
+  }
+  const pnl = ongClipPnl(px.spot, px.perp);
+  if (pnl >= ongS.tp) {
+    ongFlatten(px.spot, px.perp, 'TP HIT');
+    if (px.gap >= ONG_MIN_GAP) ongEnter(px.spot, px.perp);
+    else {
+      const st = document.getElementById('ong-status');
+      if (st) st.textContent = 'Took profit. Waiting for next gap ≥ 0.4%.';
+    }
+  } else if (pnl <= -ongS.tp) {
+    ongFlatten(px.spot, px.perp, 'CUT LOSS');
+    if (ONG_CASH + ongS.totalPnl < 80) {
+      ongFinish('Stopped — equity too low.');
+      return;
+    }
+    if (px.gap >= ONG_MIN_GAP) ongEnter(px.spot, px.perp);
+    else {
+      const st = document.getElementById('ong-status');
+      if (st) st.textContent = 'Cut loser. Waiting for next gap ≥ 0.4%.';
+    }
+  }
+  ongSave();
+  paintOngDesk();
+}
+function paintOngDesk() {
+  if (!ongS) return;
+  const set = (id, t) => { const el = document.getElementById(id); if (el) el.textContent = t; };
+  const cls = (id, n) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.classList.remove('profit', 'loss');
+    if (n > 0) el.classList.add('profit');
+    if (n < 0) el.classList.add('loss');
+  };
+  set('ong-total', ongFmt(ongS.totalPnl));
+  cls('ong-total', ongS.totalPnl);
+  set('ong-eq', '$' + (ONG_CASH + ongS.totalPnl).toFixed(2));
+  cls('ong-eq', ongS.totalPnl);
+  set('ong-wl', ongS.wins + ' / ' + ongS.losses);
+  set('ong-time', ongLeft());
+  set('ong-result', ongWL(ongS.totalPnl));
+  cls('ong-result', ongS.totalPnl);
+  const badge = document.getElementById('ong-badge');
+  if (badge) {
+    badge.textContent = ongS.running ? 'ON' : 'OFF';
+    badge.className = 'badge ' + (ongS.running ? 'badge-green' : 'badge-yellow');
+  }
+  const tp = document.getElementById('ong-tp');
+  if (tp && !ongS.running) tp.value = String(ongS.tp);
+  if (ongPx) {
+    set('ong-px', ongPx.spot.toFixed(4) + ' / ' + ongPx.perp.toFixed(4));
+    set('ong-gap', (ongPx.gap * 100).toFixed(2) + '%');
+    cls('ong-gap', ongPx.gap);
+  }
+  if (ongS.pos && ongPx) {
+    const pnl = ongClipPnl(ongPx.spot, ongPx.perp);
+    set('ong-clip', ongFmt(pnl));
+    cls('ong-clip', pnl);
+  } else {
+    set('ong-clip', 'flat');
+    cls('ong-clip', 0);
+  }
+  const start = document.getElementById('ong-start');
+  const stop = document.getElementById('ong-stop');
+  if (start) start.classList.toggle('hidden', !!ongS.running);
+  if (stop) stop.classList.toggle('hidden', !ongS.running);
+  const log = document.getElementById('ong-log');
+  if (log) {
+    log.innerHTML = (ongS.log || []).map((r) => {
+      const c = r.clip == null ? '—' : ongFmt(r.clip);
+      return `<tr>
+        <td>${r.t}</td><td>${r.event}</td>
+        <td>${r.spot != null ? r.spot.toFixed(5) : '—'}</td>
+        <td>${r.perp != null ? r.perp.toFixed(5) : '—'}</td>
+        <td class="${pnlC(r.clip)}">${c}</td>
+        <td class="${pnlC(r.total)}">${ongFmt(r.total)}</td>
+      </tr>`;
+    }).join('') || '<tr><td colspan="6" class="empty">No clips yet.</td></tr>';
+  }
+}
+function ongStart() {
+  const tpEl = document.getElementById('ong-tp');
+  ongS = ongEmpty(Number(tpEl?.value || 15));
+  ongS.running = true;
+  ongS.startAt = Date.now();
+  ongS.endAt = Date.now() + ONG_MS;
+  ongLog('START 3d · $' + ONG_CASH + ' · TP $' + ongS.tp, null, null, null, 0);
+  ongSave();
+  toast('ONG 3-day paper test started · $500 · TP $' + ongS.tp);
+  ongTick();
+}
+async function ongStop() {
+  try {
+    const px = await ongPrices();
+    ongPx = px;
+    if (ongS.pos) ongFlatten(px.spot, px.perp, 'MANUAL flatten');
+  } catch { if (ongS) ongS.pos = null; }
+  ongFinish('Stopped.');
+}
+function ongReset() {
+  localStorage.removeItem(ONG_KEY);
+  ongS = ongEmpty(15);
+  ongPx = null;
+  paintOngDesk();
+  const st = document.getElementById('ong-status');
+  if (st) st.textContent = 'Reset. Start a new 3-day test.';
+}
+function startOngLoop() {
+  ongS = ongLoad() || ongEmpty(15);
+  paintOngDesk();
+  if (ongLoop) clearInterval(ongLoop);
+  ongLoop = setInterval(() => ongTick().catch(() => {}), 4000);
+  if (ongS.running) ongTick().catch(() => {});
+}
 
 function fngLabel(v) {
   if (v == null) return '—';
@@ -267,7 +488,6 @@ function showPage(id) {
     signals: loadSignals,
     macro: loadMacro,
     pumps: loadPumps,
-    ong: () => {},
     whales: loadWhales,
     'auto-trades': loadAuto,
     trades: loadTrades,
@@ -296,7 +516,7 @@ function renderBotMatrix(d) {
   const enabled = new Set(d.enabled_bots || []);
   const stats = {};
   (d.bots || []).forEach((b) => { stats[b.bot_name] = b; });
-  document.getElementById('bot-matrix').innerHTML = BOT_NAMES.map((n) => {
+  const tiles = BOT_NAMES.map((n) => {
     const m = BOT_META[n];
     const s = stats[n] || {};
     const on = enabled.has(n);
@@ -305,11 +525,21 @@ function renderBotMatrix(d) {
       <div class="name">${n}</div>
       <div class="stats"><span>${s.total_trades || 0} tr</span><span class="${pnlC(s.total_pnl)}">$${fmt(s.total_pnl || 0, 0)}</span></div>
     </button>`;
-  }).join('');
+  });
+  const ongOn = !!ongS?.running;
+  const ongPnl = ongS?.totalPnl || 0;
+  const ongTr = (ongS?.wins || 0) + (ongS?.losses || 0);
+  tiles.push(`<button type="button" class="bot-tile ${ongOn ? 'on' : ''}" onclick="showPage('auto-trades')">
+      <div class="code">ONG · ${ongOn ? 'ON' : 'OFF'}</div>
+      <div class="name">ong</div>
+      <div class="stats"><span>${ongTr} tr</span><span class="${pnlC(ongPnl)}">${ongFmt(ongPnl)}</span></div>
+    </button>`);
+  document.getElementById('bot-matrix').innerHTML = tiles.join('');
 }
 
 function renderExposure(d) {
-  const bots = d.bots || [];
+  const bots = [...(d.bots || [])];
+  if (ongS) bots.push({ bot_name: 'ong', total_pnl: ongS.totalPnl || 0 });
   const max = Math.max(1, ...bots.map((b) => Math.abs(b.total_pnl || 0)));
   document.getElementById('exposure-bars').innerHTML = bots.map((b) => {
     const pnl = b.total_pnl || 0;
@@ -745,41 +975,46 @@ async function loadWhales() {
 }
 
 async function loadAuto() {
-  const d = await api('/auto-trades');
-  document.getElementById('bots-grid').innerHTML = (d.bots || []).map((b) => {
-    const on = d.settings?.[`${b.bot_name}_enabled`];
-    const m = BOT_META[b.bot_name] || ['BT', ''];
-    return `<div class="panel">
-      <div style="display:flex;justify-content:space-between;margin-bottom:10px">
-        <div><strong style="font-family:var(--mono)">${m[0]} · ${b.bot_name.toUpperCase()}</strong>
-          <div style="font-size:11px;color:var(--mute)">${m[1]}</div></div>
-        <span class="badge ${on ? 'badge-green' : 'badge-yellow'}">${on ? 'ON' : 'OFF'}</span>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:12px">
-        <div>Trades: <b>${b.total_trades}</b></div><div>Open: <b>${b.open_trades || 0}</b></div>
-        <div>Win: <b class="${b.win_rate >= 50 ? 'profit' : 'loss'}">${fmt(b.win_rate, 1)}%</b></div>
-        <div>P&L: <b class="${pnlC(b.total_pnl)}">$${fmt(b.total_pnl)}</b></div>
-      </div>
-      <button class="btn btn-ghost" style="width:100%;margin-top:10px" onclick="toggleBot('${b.bot_name}')">${on ? 'Disable' : 'Enable'}</button>
-    </div>`;
-  }).join('');
+  try {
+    const d = await api('/auto-trades');
+    document.getElementById('bots-grid').innerHTML = (d.bots || []).map((b) => {
+      const on = d.settings?.[`${b.bot_name}_enabled`];
+      const m = BOT_META[b.bot_name] || ['BT', ''];
+      return `<div class="panel">
+        <div style="display:flex;justify-content:space-between;margin-bottom:10px">
+          <div><strong style="font-family:var(--mono)">${m[0]} · ${b.bot_name.toUpperCase()}</strong>
+            <div style="font-size:11px;color:var(--mute)">${m[1]}</div></div>
+          <span class="badge ${on ? 'badge-green' : 'badge-yellow'}">${on ? 'ON' : 'OFF'}</span>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:12px">
+          <div>Trades: <b>${b.total_trades}</b></div><div>Open: <b>${b.open_trades || 0}</b></div>
+          <div>Win: <b class="${b.win_rate >= 50 ? 'profit' : 'loss'}">${fmt(b.win_rate, 1)}%</b></div>
+          <div>P&L: <b class="${pnlC(b.total_pnl)}">$${fmt(b.total_pnl)}</b></div>
+        </div>
+        <button class="btn btn-ghost" style="width:100%;margin-top:10px" onclick="toggleBot('${b.bot_name}')">${on ? 'Disable' : 'Enable'}</button>
+      </div>`;
+    }).join('');
 
-  document.getElementById('at-body').innerHTML = (d.recent_trades || []).map((t) => {
-    const open = t.status === 'open';
-    return `<tr>
-      <td><span class="badge badge-blue">${t.bot_name}</span></td>
-      <td>${t.coin}</td>
-      <td><span class="badge ${t.signal === 'long' ? 'badge-green' : 'badge-red'}">${t.signal}</span></td>
-      <td>$${fmt(t.entry_price)}</td>
-      <td>${t.exit_price ? '$' + fmt(t.exit_price) : '—'}</td>
-      <td class="${pnlC(t.pnl_usd)}">${t.pnl_usd != null ? '$' + fmt(t.pnl_usd) : '—'}</td>
-      <td>${t.duration_hours != null ? t.duration_hours + 'h' : '—'}</td>
-      <td><span class="badge ${t.status === 'win' ? 'badge-green' : t.status === 'loss' ? 'badge-red' : 'badge-blue'}">${t.status}</span></td>
-      <td>${open
-        ? `<button type="button" class="btn btn-danger btn-sm" onclick="closeTrade(${t.id})">Close</button>`
-        : '—'}</td>
-    </tr>`;
-  }).join('') || '<tr><td colspan="9" class="empty">No trades yet</td></tr>';
+    document.getElementById('at-body').innerHTML = (d.recent_trades || []).map((t) => {
+      const open = t.status === 'open';
+      return `<tr>
+        <td><span class="badge badge-blue">${t.bot_name}</span></td>
+        <td>${t.coin}</td>
+        <td><span class="badge ${t.signal === 'long' ? 'badge-green' : 'badge-red'}">${t.signal}</span></td>
+        <td>$${fmt(t.entry_price)}</td>
+        <td>${t.exit_price ? '$' + fmt(t.exit_price) : '—'}</td>
+        <td class="${pnlC(t.pnl_usd)}">${t.pnl_usd != null ? '$' + fmt(t.pnl_usd) : '—'}</td>
+        <td>${t.duration_hours != null ? t.duration_hours + 'h' : '—'}</td>
+        <td><span class="badge ${t.status === 'win' ? 'badge-green' : t.status === 'loss' ? 'badge-red' : 'badge-blue'}">${t.status}</span></td>
+        <td>${open
+          ? `<button type="button" class="btn btn-danger btn-sm" onclick="closeTrade(${t.id})">Close</button>`
+          : '—'}</td>
+      </tr>`;
+    }).join('') || '<tr><td colspan="9" class="empty">No trades yet</td></tr>';
+  } catch (e) {
+    console.warn('auto-trades', e);
+  }
+  paintOngDesk();
 }
 
 async function toggleBot(name) {
@@ -799,7 +1034,7 @@ async function loadLogs() {
 
 const SETTINGS_TABS = [
   ['api', 'API Keys'], ['markets', 'Markets'], ['signals', 'Signals'],
-  ['scalper', 'Scalper'], ['pump', 'Pump Alerts'], ['riskoff', 'Risk-Off Alerts'],
+  ['scalper', 'Scalper'], ['ong', 'ONG bot'], ['pump', 'Pump Alerts'], ['riskoff', 'Risk-Off Alerts'],
   ['risk', 'Risk Control'], ['advanced', 'Advanced'],
 ];
 
@@ -967,6 +1202,12 @@ function renderSettingsSection(tab) {
     f('scalper_sl_enabled', 'SL On', '', 'toggle'),
     f('scalper_max_hold_hours', 'Max Hold Hours'),
     f('scalper_max_open', 'Max Open'),
+  ].join('');
+  if (tab === 'ong') return [
+    '<div class="bn-section-title">ONG bot · paper hedge · $500 · 3-day test</div>',
+    '<div class="hint">Short ONG/USDT spot + long ONGUSDT perp, same quantity. Take +$15 or +$20, flatten, enter again. Loser cut at −$TP. Total P&amp;L shows WIN or LOSS on Auto Trades. Paper only — no Binance keys, no live orders.</div>',
+    '<div class="hint">Capital is locked at $500. Open Auto Trades → ONG bot section to start the 3-day test.</div>',
+    '<button type="button" class="btn btn-primary" onclick="showPage(\'auto-trades\')">Open ONG on Auto Trades</button>',
   ].join('');
   if (tab === 'pump') return [
     '<div class="bn-section-title">Pump · USDT-M futures top gainers · Telegram once at +500%</div>',
@@ -1154,6 +1395,7 @@ function init() {
   document.documentElement.setAttribute('data-theme', theme);
   showPage('dashboard');
   startFuturesPumpLoop();
+  startOngLoop();
   if (timer) clearInterval(timer);
   timer = setInterval(() => {
     const id = document.querySelector('.page.active')?.id?.replace('page-', '');
@@ -1181,6 +1423,12 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('btn-ops-risk').onclick = () => showPage('risk');
   document.getElementById('btn-bt').onclick = () => runBt().catch((e) => toast(e.message));
   document.getElementById('btn-reset-breaker').onclick = () => resetBreaker().catch((e) => toast(e.message));
+  document.getElementById('ong-start').onclick = () => ongStart();
+  document.getElementById('ong-stop').onclick = () => ongStop().catch((e) => toast(e.message));
+  document.getElementById('ong-reset').onclick = () => ongReset();
+  document.getElementById('ong-tp').onchange = () => {
+    if (ongS && !ongS.running) { ongS.tp = Number(document.getElementById('ong-tp').value); ongSave(); }
+  };
   if (token) {
     document.getElementById('login').classList.add('hidden');
     document.getElementById('app').classList.remove('hidden');
@@ -1190,6 +1438,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 window.closeTrade = closeTrade;
 window.toggleBot = toggleBot;
+window.showPage = showPage;
+window.ongStart = ongStart;
+window.ongStop = ongStop;
+window.ongReset = ongReset;
 window.flip = flip;
 window.queueSave = queueSave;
 window.bnSync = bnSync;
