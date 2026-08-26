@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ONG bot · $500 · 3-day test</title>
+  <style>
+    :root {
+      --bg: #07090d; --panel: #10141c; --line: #1e2633;
+      --text: #e8edf5; --muted: #8b95a8; --green: #22c55e; --red: #f43f5e; --gold: #fbbf24;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Inter, system-ui, sans-serif; background: var(--bg); color: var(--text); }
+    .wrap { max-width: 920px; margin: 0 auto; padding: 16px; }
+    h1 { font-size: 1.15rem; margin: 0 0 4px; }
+    .sub { color: var(--muted); font-size: 0.82rem; margin: 0 0 16px; }
+    .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 12px; }
+    .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+    .kpi .l { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: .04em; }
+    .kpi .v { font-size: 1.25rem; font-weight: 800; font-variant-numeric: tabular-nums; margin-top: 4px; }
+    .pnl-pos { color: var(--green); }
+    .pnl-neg { color: var(--red); }
+    .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin-bottom: 12px; }
+    .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: end; }
+    label { display: block; font-size: 0.72rem; color: var(--muted); margin-bottom: 4px; }
+    select, button { font: inherit; }
+    select { background: #0b0e14; color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+    button {
+      border: 0; border-radius: 8px; padding: 10px 16px; font-weight: 700; cursor: pointer;
+    }
+    .go { background: #16a34a; color: #fff; }
+    .stop { background: #b91c1c; color: #fff; }
+    .ghost { background: transparent; color: var(--muted); border: 1px solid var(--line); }
+    .status { font-size: 0.9rem; margin: 8px 0 0; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+    th, td { text-align: left; padding: 7px 6px; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+    th { color: var(--muted); font-size: 0.7rem; text-transform: uppercase; }
+    .mono { font-family: ui-monospace, monospace; }
+    .warn { color: var(--gold); font-size: 0.8rem; }
+    @media (max-width: 720px) { .grid { grid-template-columns: 1fr 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>ONG paper bot</h1>
+    <p class="sub">Capital $500 · short spot + long perp · take +$15 or +$20 · flatten · enter again · 3-day test. Paper only — no Binance keys.</p>
+
+    <div class="grid">
+      <div class="kpi"><div class="l">Total P&amp;L</div><div class="v" id="totalPnl">$0.00</div></div>
+      <div class="kpi"><div class="l">Equity</div><div class="v" id="equity">$500.00</div></div>
+      <div class="kpi"><div class="l">This clip</div><div class="v" id="clipPnl">—</div></div>
+      <div class="kpi"><div class="l">Time left</div><div class="v" id="timeLeft">3d 00:00</div></div>
+    </div>
+    <div class="grid">
+      <div class="kpi"><div class="l">Wins / losses</div><div class="v" id="wl">0 / 0</div></div>
+      <div class="kpi"><div class="l">Spot / perp</div><div class="v" id="px">—</div></div>
+      <div class="kpi"><div class="l">Gap</div><div class="v" id="gap">—</div></div>
+      <div class="kpi"><div class="l">Qty ONG</div><div class="v" id="qty">—</div></div>
+    </div>
+
+    <div class="card">
+      <div class="row">
+        <div>
+          <label>Take profit (then cut &amp; re-enter)</label>
+          <select id="tpSel">
+            <option value="15" selected>+$15</option>
+            <option value="20">+$20</option>
+          </select>
+        </div>
+        <button class="go" id="startBtn" type="button">Start 3-day test</button>
+        <button class="stop" id="stopBtn" type="button" hidden>Stop now</button>
+        <button class="ghost" id="resetBtn" type="button">Reset</button>
+      </div>
+      <p class="status" id="status">Idle. Start to enter the first clip when the spot/perp gap is at least 0.4%.</p>
+      <p class="warn">Loser cut at −$TP too, so the bot can re-enter. Fees: spot 0.10% + perp 0.05% each way. Leave this tab open (or it pauses until you come back — state is saved).</p>
+    </div>
+
+    <div class="card">
+      <table>
+        <thead>
+          <tr><th>Time</th><th>Event</th><th>Spot</th><th>Perp</th><th>Clip $</th><th>Total P&amp;L</th></tr>
+        </thead>
+        <tbody id="log"></tbody>
+      </table>
+    </div>
+  </div>
+  <script>
+    const START_CASH = 500;
+    const TEST_MS = 3 * 24 * 60 * 60 * 1000;
+    const SPOT_FEE = 0.001;
+    const PERP_FEE = 0.0005;
+    const MIN_GAP = 0.004;
+    const POLL_MS = 4000;
+    const KEY = "cs_ong_bot_v1";
+
+    const el = (id) => document.getElementById(id);
+
+    let S = load() || {
+      running: false,
+      startAt: 0,
+      endAt: 0,
+      tp: 15,
+      cash: START_CASH,
+      totalPnl: 0,
+      wins: 0,
+      losses: 0,
+      pos: null,
+      log: [],
+    };
+
+    function load() {
+      try { return JSON.parse(localStorage.getItem(KEY) || "null"); } catch { return null; }
+    }
+    function save() { localStorage.setItem(KEY, JSON.stringify(S)); }
+
+    function fmtPnl(n) {
+      if (n > 0) return "+$" + n.toFixed(2);
+      if (n < 0) return "-$" + Math.abs(n).toFixed(2);
+      return "$0.00";
+    }
+    function winLossLabel(n) {
+      if (n > 0) return " WIN";
+      if (n < 0) return " LOSS";
+      return "";
+    }
+
+    function log(event, spot, perp, clip, total) {
+      S.log.unshift({
+        t: new Date().toISOString().slice(11, 19) + " UTC",
+        event, spot, perp, clip, total,
+      });
+      S.log = S.log.slice(0, 80);
+    }
+
+    function renderLog() {
+      el("log").innerHTML = S.log.map((r) => {
+        const c = r.clip == null ? "—" : fmtPnl(r.clip);
+        const cls = r.clip > 0 ? "pnl-pos" : r.clip < 0 ? "pnl-neg" : "";
+        const tcls = r.total > 0 ? "pnl-pos" : r.total < 0 ? "pnl-neg" : "";
+        return `<tr>
+          <td class="mono">${r.t}</td>
+          <td>${r.event}</td>
+          <td class="mono">${r.spot != null ? r.spot.toFixed(5) : "—"}</td>
+          <td class="mono">${r.perp != null ? r.perp.toFixed(5) : "—"}</td>
+          <td class="${cls}">${c}</td>
+          <td class="${tcls}">${fmtPnl(r.total)}</td>
+        </tr>`;
+      }).join("") || `<tr><td colspan="6" style="color:#8b95a8">No clips yet.</td></tr>`;
+    }
+
+    function setPnlClass(node, n) {
+      node.classList.remove("pnl-pos", "pnl-neg");
+      if (n > 0) node.classList.add("pnl-pos");
+      if (n < 0) node.classList.add("pnl-neg");
+    }
+
+    function remaining() {
+      if (!S.running) return "—";
+      const ms = Math.max(0, S.endAt - Date.now());
+      const d = Math.floor(ms / 86400000);
+      const h = Math.floor((ms % 86400000) / 3600000);
+      const m = Math.floor((ms % 3600000) / 60000);
+      return d + "d " + String(h).padStart(2, "0") + ":" + String(m).padStart(2, "0");
+    }
+
+    function clipPnl(spot, perp) {
+      if (!S.pos) return 0;
+      const q = S.pos.qty;
+      const spotPnl = (S.pos.spot - spot) * q;
+      const perpPnl = (perp - S.pos.perp) * q;
+      const openNotional = S.pos.qty * ((S.pos.spot + S.pos.perp) / 2);
+      const closeNotional = S.pos.qty * ((spot + perp) / 2);
+      const fees = openNotional * (SPOT_FEE + PERP_FEE) + closeNotional * (SPOT_FEE + PERP_FEE);
+      return spotPnl + perpPnl - fees;
+    }
+
+    async function prices() {
+      const [s, p] = await Promise.all([
+        fetch("https://data-api.binance.vision/api/v3/ticker/bookTicker?symbol=ONGUSDT").then((r) => r.json()),
+        fetch("https://www.binance.com/fapi/v1/ticker/bookTicker?symbol=ONGUSDT").then((r) => r.json()),
+      ]);
+      const spot = (Number(s.bidPrice) + Number(s.askPrice)) / 2;
+      const perp = (Number(p.bidPrice) + Number(p.askPrice)) / 2;
+      if (!spot || !perp) throw new Error("bad px");
+      return { spot, perp, gap: (spot - perp) / ((spot + perp) / 2) };
+    }
+
+    function enter(spot, perp) {
+      const equity = START_CASH + S.totalPnl;
+      const notional = Math.max(80, Math.min(equity * 0.8, 400));
+      const mid = (spot + perp) / 2;
+      const qty = notional / mid;
+      S.pos = { spot, perp, qty, notional, t: Date.now() };
+      log("ENTER short spot / long perp", spot, perp, null, S.totalPnl);
+      el("status").textContent = "In clip · waiting for " + fmtPnl(S.tp) + " then cut & re-enter.";
+    }
+
+    function flatten(spot, perp, reason) {
+      const pnl = clipPnl(spot, perp);
+      S.totalPnl += pnl;
+      if (pnl >= 0) S.wins += 1; else S.losses += 1;
+      log(reason + " " + fmtPnl(pnl), spot, perp, pnl, S.totalPnl);
+      S.pos = null;
+      save();
+    }
+
+    function finish(reason) {
+      S.running = false;
+      el("status").textContent = reason + "  Total P&L " + fmtPnl(S.totalPnl) +
+        winLossLabel(S.totalPnl) +
+        " · equity $" + (START_CASH + S.totalPnl).toFixed(2);
+      el("startBtn").hidden = false;
+      el("stopBtn").hidden = true;
+      save();
+    }
+
+    async function tick() {
+      if (!S.running) return;
+      if (Date.now() >= S.endAt) {
+        try {
+          const px = await prices();
+          if (S.pos) flatten(px.spot, px.perp, "3D END flatten");
+        } catch {}
+        finish("3-day test over.");
+        paint();
+        return;
+      }
+      let px;
+      try { px = await prices(); } catch (e) {
+        el("status").textContent = "Price fetch failed, retrying…";
+        return;
+      }
+      window._px = px;
+      paint();
+
+      if (!S.pos) {
+        if (px.gap >= MIN_GAP) enter(px.spot, px.perp);
+        else el("status").textContent = "Flat · waiting for gap ≥ 0.4% (now " + (px.gap * 100).toFixed(2) + "%).";
+        save();
+        return;
+      }
+
+      const pnl = clipPnl(px.spot, px.perp);
+      if (pnl >= S.tp) {
+        flatten(px.spot, px.perp, "TP HIT");
+        if (px.gap >= MIN_GAP) enter(px.spot, px.perp);
+        else el("status").textContent = "Took profit. Waiting for next gap ≥ 0.4%.";
+      } else if (pnl <= -S.tp) {
+        flatten(px.spot, px.perp, "CUT LOSS");
+        if (START_CASH + S.totalPnl < 80) {
+          finish("Stopped — equity too low.");
+          paint();
+          return;
+        }
+        if (px.gap >= MIN_GAP) enter(px.spot, px.perp);
+        else el("status").textContent = "Cut loser. Waiting for next gap ≥ 0.4%.";
+      }
+      save();
+    }
+
+    function paint() {
+      const equity = START_CASH + S.totalPnl;
+      el("totalPnl").textContent = fmtPnl(S.totalPnl);
+      setPnlClass(el("totalPnl"), S.totalPnl);
+      el("equity").textContent = "$" + equity.toFixed(2);
+      setPnlClass(el("equity"), S.totalPnl);
+      el("wl").textContent = S.wins + " / " + S.losses;
+      el("timeLeft").textContent = remaining();
+      el("tpSel").value = String(S.tp);
+      const px = window._px;
+      if (px) {
+        el("px").textContent = px.spot.toFixed(4) + " / " + px.perp.toFixed(4);
+        el("gap").textContent = (px.gap * 100).toFixed(2) + "%";
+        setPnlClass(el("gap"), px.gap);
+      }
+      if (S.pos && px) {
+        const pnl = clipPnl(px.spot, px.perp);
+        el("clipPnl").textContent = fmtPnl(pnl);
+        setPnlClass(el("clipPnl"), pnl);
+        el("qty").textContent = S.pos.qty.toFixed(1);
+      } else {
+        el("clipPnl").textContent = "flat";
+        el("clipPnl").classList.remove("pnl-pos", "pnl-neg");
+        el("qty").textContent = "—";
+      }
+      el("startBtn").hidden = S.running;
+      el("stopBtn").hidden = !S.running;
+      renderLog();
+    }
+
+    el("startBtn").onclick = () => {
+      S = {
+        running: true,
+        startAt: Date.now(),
+        endAt: Date.now() + TEST_MS,
+        tp: Number(el("tpSel").value),
+        cash: START_CASH,
+        totalPnl: 0,
+        wins: 0,
+        losses: 0,
+        pos: null,
+        log: [],
+      };
+      log("START 3d · $" + START_CASH + " · TP $" + S.tp, null, null, null, 0);
+      save();
+      tick();
+    };
+    el("stopBtn").onclick = async () => {
+      try {
+        const px = await prices();
+        if (S.pos) flatten(px.spot, px.perp, "MANUAL flatten");
+      } catch { S.pos = null; }
+      finish("Stopped.");
+      paint();
+    };
+    el("resetBtn").onclick = () => {
+      localStorage.removeItem(KEY);
+      location.reload();
+    };
+    el("tpSel").onchange = () => {
+      if (!S.running) { S.tp = Number(el("tpSel").value); save(); }
+    };
+
+    paint();
+    setInterval(tick, POLL_MS);
+    if (S.running) tick();
+  </script>
+</body>
+</html>

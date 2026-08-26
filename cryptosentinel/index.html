@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CryptoSentinel Pro</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/app.css?v=20260826j">
+</head>
+<body>
+
+<div id="login" class="login-page">
+  <div class="login-card">
+    <div class="mark">CS</div>
+    <h1>CryptoSentinel Pro</h1>
+    <p class="sub">Command desk · 6 bots · Cursor AI</p>
+    <div class="form-group"><label>Username</label><input id="login-user" autocomplete="username" autofocus></div>
+    <div class="form-group"><label>Password</label><input id="login-pass" type="password" autocomplete="current-password" placeholder="Password"></div>
+    <div id="login-err" class="login-err hidden"></div>
+    <button class="btn btn-primary" id="login-btn" style="width:100%">Enter desk</button>
+  </div>
+</div>
+
+<div id="app" class="hidden">
+  <div class="shell">
+    <aside class="icon-rail">
+      <div class="mark">CS</div>
+      <a href="#" data-page="dashboard" class="active"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 13h4v7H4zM10 4h4v16h-4zM16 9h4v11h-4z"/></svg></span>Dashboard</a>
+      <a href="#" data-page="portfolio"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="7" width="18" height="13" rx="1"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></span>Portfolio</a>
+      <a href="#" data-page="risk"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3l8 4v5c0 5-3.5 8.5-8 9-4.5-.5-8-4-8-9V7l8-4z"/></svg></span>Risk</a>
+      <a href="#" data-page="signals"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2"/></svg></span>Signals</a>
+      <a href="#" data-page="history"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 5h12M4 12h16M4 19h8"/></svg></span>History</a>
+      <a href="#" data-page="macro"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="5" width="18" height="16" rx="1"/><path d="M8 3v4M16 3v4M3 11h18"/></svg></span>Macro</a>
+      <a href="#" data-page="pumps"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 18l6-6 4 3 6-8"/><path d="M15 7h5v5"/></svg></span>Pumps</a>
+      <a href="#" data-page="whales"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 14c2-4 6-6 10-5 2 .4 3 1 5 3 1.5 1.5 3 2 4 2v2c-2 0-3.5-.5-5-1.5C14 16 10 18 6 17c-1.5-.4-2.5-1-3-3z"/><circle cx="8" cy="12" r="1"/></svg></span>Whales</a>
+      <a href="#" data-page="auto-trades"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="4" width="14" height="16" rx="2"/><path d="M9 9h6M9 13h6M9 17h4"/></svg></span>Auto Trades</a>
+      <a href="#" data-page="trades"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 17l6-6 4 3 7-8"/><path d="M14 6h6v6"/></svg></span>Trades</a>
+      <a href="#" data-page="backtest"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 3h6v4H9zM5 7h14v14H5z"/><path d="M9 12h6M9 16h4"/></svg></span>Backtest</a>
+      <a href="#" data-page="settings"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M2 12h3M19 12h3M4.9 19.1L7 17M17 7l2.1-2.1"/></svg></span>Settings</a>
+      <a href="#" data-page="logs"><span class="nav-ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 4h9l3 3v13H6z"/><path d="M14 4v4h4M8 12h8M8 16h6"/></svg></span>Logs</a>
+      <div class="spacer"></div>
+      <button class="rail-btn" id="btn-theme">Theme</button>
+      <button class="rail-btn" id="btn-logout">Sign out</button>
+    </aside>
+
+    <header class="command">
+      <div class="command-left">
+        <span id="badge-bot"><span class="live-dot" id="bot-dot"></span><span id="bot-label">Bots Off</span></span>
+        <span id="clock"></span>
+      </div>
+      <div class="command-right">
+        <span id="badge-paper" class="mode-tag badge-yellow">PAPER</span>
+        <button class="btn btn-ghost btn-sm" id="btn-scan">Scan markets</button>
+        <button class="btn btn-primary btn-sm" id="btn-toggle">Start bots</button>
+      </div>
+    </header>
+
+    <main class="stage">
+
+      <!-- DASHBOARD: bento command desk -->
+      <div id="page-dashboard" class="page active">
+        <div class="bento">
+          <div class="cell hero">
+            <div class="cell-label">Portfolio value <em id="hero-mode">PAPER</em></div>
+            <div class="hero-value" id="k-pv">—</div>
+            <div class="hero-meta">
+              <div class="m"><div class="l">Balance</div><div class="v" id="k-bal">—</div></div>
+              <div class="m"><div class="l">Unrealized</div><div class="v" id="k-upnl">—</div></div>
+              <div class="m"><div class="l">Total P&amp;L</div><div class="v" id="k-tpnl">—</div></div>
+              <div class="m"><div class="l">Return</div><div class="v" id="k-ppct">—</div></div>
+            </div>
+          </div>
+
+          <div class="cell chart">
+            <div class="cell-label">Equity curve <em>live</em></div>
+            <div class="chart-wrap"><canvas id="equity-chart"></canvas></div>
+          </div>
+
+          <div class="cell span8 regime-cell">
+            <div class="cell-label">Market regime <em id="regime-sub">live</em></div>
+            <div class="regime-flags" id="regime-flags">
+              <div class="rflag mood" id="flag-mood">
+                <span class="rflag-k">Fear / Greed</span>
+                <span class="rflag-v" id="flag-mood-v">NEUTRAL</span>
+                <span class="rflag-s" id="flag-mood-s">F&amp;G —</span>
+              </div>
+              <div class="rflag trend" id="flag-trend">
+                <span class="rflag-k">Market</span>
+                <span class="rflag-v" id="flag-trend-v">MIXED</span>
+                <span class="rflag-s" id="flag-trend-s">Sentiment —</span>
+              </div>
+              <div class="rflag action" id="flag-action">
+                <span class="rflag-k">Flag</span>
+                <span class="rflag-v" id="flag-action-v">HOLD</span>
+                <span class="rflag-s" id="flag-action-s">Wait for edge</span>
+              </div>
+            </div>
+            <div class="regime-body">
+              <div class="gauge-row gauges-lg">
+                <div>
+                  <div class="ring ring-lg">
+                    <svg viewBox="0 0 120 120">
+                      <circle class="ring-track" cx="60" cy="60" r="54"></circle>
+                      <circle class="ring-val" id="sent-ring" cx="60" cy="60" r="54"></circle>
+                    </svg>
+                    <div class="ring-center">
+                      <div class="gauge-score" id="sent-score">50</div>
+                      <div class="gauge-label" id="sent-rec">Hold</div>
+                    </div>
+                  </div>
+                  <div class="gauge-cap">Sentiment</div>
+                  <div class="meter"><i id="sent-bar" style="width:50%"></i></div>
+                </div>
+                <div>
+                  <div class="ring ring-lg">
+                    <svg viewBox="0 0 120 120">
+                      <circle class="ring-track" cx="60" cy="60" r="54"></circle>
+                      <circle class="ring-val" id="fng-ring" cx="60" cy="60" r="54"></circle>
+                    </svg>
+                    <div class="ring-center">
+                      <div class="gauge-score" id="fng-score">50</div>
+                      <div class="gauge-label" id="fng-lbl">Neutral</div>
+                    </div>
+                  </div>
+                  <div class="gauge-cap">Fear &amp; Greed</div>
+                  <div class="meter"><i id="fng-bar" style="width:50%"></i></div>
+                </div>
+              </div>
+              <div class="regime-summary">
+                <div class="regime-pill" id="regime-text">Neutral market</div>
+                <p class="regime-hint" id="regime-hint">Waiting for live Fear &amp; Greed + sentiment…</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="cell span4">
+            <div class="cell-label">Desk vitals</div>
+            <div class="stat-grid">
+              <div class="s"><div class="l">Win rate</div><div class="v" id="k-wr">—</div></div>
+              <div class="s"><div class="l">Sharpe</div><div class="v" id="k-sh">—</div></div>
+              <div class="s"><div class="l">Max DD</div><div class="v" id="k-dd">—</div></div>
+              <div class="s"><div class="l">Profit factor</div><div class="v" id="k-pf">—</div></div>
+              <div class="s"><div class="l">Open</div><div class="v" id="k-open">—</div></div>
+              <div class="s"><div class="l">Signals</div><div class="v" id="k-sig">—</div></div>
+              <div class="s"><div class="l">F&amp;G</div><div class="v" id="k-fng">—</div></div>
+              <div class="s"><div class="l">Safety</div><div class="v" id="k-safety">0/6</div></div>
+            </div>
+            <div class="kpi-sub" id="k-fng-lbl" style="margin-top:10px"></div>
+          </div>
+
+          <div class="cell span4">
+            <div class="cell-label">Session guard <em id="cb-label">breaker off</em></div>
+            <div class="regime">
+              <div id="risk-alert" class="alert-banner hidden"></div>
+              <div class="risk-mini">
+                <div class="r"><div class="l">Daily</div><div class="v" id="r-daily">—</div></div>
+                <div class="r"><div class="l">Weekly</div><div class="v" id="r-weekly">—</div></div>
+                <div class="r"><div class="l">Monthly</div><div class="v" id="r-monthly">—</div></div>
+              </div>
+              <button class="btn btn-danger btn-sm" id="btn-reset-breaker" style="width:100%;margin-top:4px">Reset circuit breaker</button>
+            </div>
+          </div>
+
+          <div class="cell span7">
+            <div class="cell-label">Bot arsenal <em>scalper · pump/risk-off · ONG paper</em></div>
+            <div id="bot-matrix" class="bot-matrix"></div>
+          </div>
+
+          <div class="cell span5">
+            <div class="cell-label">P&amp;L by bot</div>
+            <div id="exposure-bars" class="bar-list"></div>
+          </div>
+
+              <div class="cell span8">
+            <div class="cell-label">Anthropic expert desk <em>Claude · news + macros → scalps</em></div>
+            <div class="ai-brief" id="ai-box">Add Anthropic API key in Settings. Enable Scalper + Start bots / Scan — Claude selects the best scalp from macros &amp; news.</div>
+          </div>
+
+          <div class="cell span4">
+            <div class="cell-label">Watchlist</div>
+            <div id="watchlist" class="bar-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="page-portfolio" class="page">
+        <div class="page-bar"><div><div class="page-title">Portfolio</div><div class="page-sub">Open positions across all bots</div></div></div>
+        <div class="kpi-grid" style="max-width:420px">
+          <div class="kpi"><div class="kpi-label">Balance</div><div class="kpi-value" id="pf-bal">—</div></div>
+          <div class="kpi"><div class="kpi-label">Open</div><div class="kpi-value" id="pf-count">—</div></div>
+        </div>
+        <div class="panel">
+          <table>
+            <thead><tr><th>Coin</th><th>Bot</th><th>Side</th><th>Entry</th><th>Current</th><th>Size</th><th>Unrealized</th><th>Conf</th><th></th></tr></thead>
+            <tbody id="pf-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div id="page-risk" class="page">
+        <div class="page-bar"><div><div class="page-title">Risk</div><div class="page-sub">Shared limits across all bots</div></div></div>
+        <div class="kpi-grid" id="risk-kpis"></div>
+        <div class="panel"><h3>Active limits</h3><div id="risk-limits" class="ai-brief">Loading…</div></div>
+      </div>
+
+      <div id="page-signals" class="page">
+        <div class="page-bar"><div><div class="page-title">Signals</div><div class="page-sub">Cursor AI + confluence</div></div></div>
+        <div id="sig-list"></div>
+      </div>
+
+      <div id="page-history" class="page">
+        <div class="page-bar"><div><div class="page-title">History</div><div class="page-sub">Full signal log</div></div></div>
+        <div id="hist-list"></div>
+      </div>
+
+      <div id="page-macro" class="page">
+        <div class="page-bar"><div><div class="page-title">Macro</div><div class="page-sub">High-impact events only (next 7 days)</div></div></div>
+        <div class="panel">
+            <table>
+              <thead><tr><th>Event</th><th>Country</th><th>News flag</th><th>Time left</th><th>Forecast</th><th>Current</th><th>Previous</th></tr></thead>
+              <tbody id="macro-body"></tbody>
+            </table>
+        </div>
+      </div>
+
+      <div id="page-pumps" class="page">
+        <div class="page-bar"><div><div class="page-title">Pumps</div><div class="page-sub">USDT-M futures top gainers · one Telegram at +500%</div></div></div>
+        <div class="panel">
+          <table>
+            <thead><tr><th>Coin</th><th>Market</th><th>Type</th><th>24h %</th><th>Volume</th><th>Price</th></tr></thead>
+            <tbody id="pump-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div id="page-whales" class="page">
+        <div class="page-bar"><div><div class="page-title">Whales</div><div class="page-sub">Large flow alerts</div></div></div>
+        <div id="whale-list"></div>
+      </div>
+
+      <div id="page-auto-trades" class="page">
+        <div class="page-bar"><div><div class="page-title">Auto Trades</div><div class="page-sub">Essential bots</div></div></div>
+        <h3 class="ong-sec-title">Essential bots</h3>
+        <p class="hint" style="margin:0 0 10px">Scalper trades · Pump &amp; Risk-Off alerts. ONG paper is its own section below.</p>
+        <div id="bots-grid" class="grid-bots"></div>
+
+        <h3 class="ong-sec-title" style="margin-top:18px">ONG paper · separated section</h3>
+        <div class="panel ong-section" id="ong-section">
+          <div class="ong-head">
+            <div>
+              <div class="ong-kicker">Essential bot · paper · 3-day test</div>
+              <h3>ONG bot</h3>
+              <div class="hint">Capital $500 · short ONG/USDT spot + long ONGUSDT perp · take +$15 or +$20 · flatten · enter again. Total P&amp;L below. No Binance keys.</div>
+            </div>
+            <span class="badge badge-yellow" id="ong-badge">OFF</span>
+          </div>
+          <div class="kpi-grid ong-kpis">
+            <div class="kpi"><div class="kpi-label">Total P&amp;L</div><div class="kpi-value" id="ong-total">$0.00</div></div>
+            <div class="kpi"><div class="kpi-label">Equity</div><div class="kpi-value" id="ong-eq">$500.00</div></div>
+            <div class="kpi"><div class="kpi-label">This clip</div><div class="kpi-value" id="ong-clip">flat</div></div>
+            <div class="kpi"><div class="kpi-label">Time left</div><div class="kpi-value" id="ong-time">3d 00:00</div></div>
+            <div class="kpi"><div class="kpi-label">Wins / losses</div><div class="kpi-value" id="ong-wl">0 / 0</div></div>
+            <div class="kpi"><div class="kpi-label">Spot / perp</div><div class="kpi-value" id="ong-px">—</div></div>
+            <div class="kpi"><div class="kpi-label">Gap</div><div class="kpi-value" id="ong-gap">—</div></div>
+            <div class="kpi"><div class="kpi-label">Result</div><div class="kpi-value" id="ong-result">FLAT</div></div>
+          </div>
+          <div class="ong-controls">
+            <div class="form-group" style="margin:0">
+              <label>Take profit then cut</label>
+              <select id="ong-tp">
+                <option value="15" selected>+$15</option>
+                <option value="20">+$20</option>
+              </select>
+            </div>
+            <button class="btn btn-primary" id="ong-start" type="button">Start 3-day test</button>
+            <button class="btn btn-danger hidden" id="ong-stop" type="button">Stop now</button>
+            <button class="btn btn-ghost" id="ong-reset" type="button">Reset</button>
+          </div>
+          <p class="hint" id="ong-status">Idle. Start to enter when the spot/perp gap is at least 0.4%.</p>
+          <table>
+            <thead><tr><th>Time</th><th>Event</th><th>Spot</th><th>Perp</th><th>Clip $</th><th>Total P&amp;L</th></tr></thead>
+            <tbody id="ong-log"><tr><td colspan="6" class="empty">No clips yet.</td></tr></tbody>
+          </table>
+        </div>
+
+        <div class="panel" style="margin-top:8px">
+          <h3>Recent bot trades</h3>
+          <table>
+            <thead><tr><th>Bot</th><th>Coin</th><th>Signal</th><th>Entry</th><th>Exit</th><th>P&amp;L</th><th>Duration</th><th>Status</th><th>Action</th></tr></thead>
+            <tbody id="at-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div id="page-trades" class="page">
+        <div class="page-bar">
+          <div><div class="page-title">Trades</div><div class="page-sub">Full trade ledger — close open positions anytime</div></div>
+        </div>
+        <div class="panel">
+          <table>
+            <thead><tr><th>Bot</th><th>Coin</th><th>Side</th><th>Entry</th><th>Exit</th><th>P&amp;L</th><th>Reason</th><th>Status</th><th>Action</th></tr></thead>
+            <tbody id="trades-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div id="page-backtest" class="page">
+        <div class="page-bar"><div><div class="page-title">Backtest</div><div class="page-sub">Simulation + Monte Carlo</div></div></div>
+        <div class="panel" style="display:flex;flex-wrap:wrap;gap:12px;align-items:end">
+          <div class="form-group" style="margin:0"><label>Symbol</label><select id="bt-sym"><option>BTC</option><option>ETH</option><option>SOL</option><option>BNB</option></select></div>
+          <div class="form-group" style="margin:0"><label>Strategy</label>
+            <select id="bt-strat">
+              <option value="scalper">Scalper</option>
+              <option value="trend">Trend (legacy sim)</option>
+              <option value="breakout">Breakout (legacy sim)</option>
+            </select>
+          </div>
+          <div class="form-group" style="margin:0"><label>Days</label><input id="bt-days" type="number" value="30" style="width:90px"></div>
+          <div class="form-group" style="margin:0"><label>Capital $</label><input id="bt-cap" type="number" value="10000" style="width:110px"></div>
+          <button class="btn btn-primary" id="btn-bt">Run</button>
+        </div>
+        <div id="bt-out" style="margin-top:14px"></div>
+        <div class="panel" style="margin-top:12px"><h3>Equity curve</h3><div class="chart-wrap" style="min-height:220px"><canvas id="bt-chart"></canvas></div></div>
+      </div>
+
+      <div id="page-settings" class="page">
+        <div class="page-bar"><div><div class="page-title">Settings</div><div class="page-sub">Auto-saves on change</div></div></div>
+        <div class="tabs" id="settings-tabs"></div>
+        <div class="panel" id="settings-body"></div>
+      </div>
+
+      <div id="page-logs" class="page">
+        <div class="page-bar"><div><div class="page-title">Logs</div><div class="page-sub">System activity</div></div></div>
+        <div class="panel"><div id="log-list" style="font-family:var(--mono);font-size:11px;line-height:1.8;color:var(--mute)"></div></div>
+      </div>
+    </main>
+
+    <!-- Persistent Live Ops rail — fills the right side always -->
+    <aside class="ops">
+      <div class="ops-head">
+        <h2>Live Ops</h2>
+        <span id="ops-clock">feed</span>
+      </div>
+      <div class="ops-scroll">
+        <div class="ops-block">
+          <h3>High-impact macros</h3>
+          <div id="ops-macros"></div>
+        </div>
+        <div class="ops-block">
+          <h3>Risk meters</h3>
+          <div class="risk-mini">
+            <div class="r"><div class="l">Day</div><div class="v" id="ops-daily">—</div></div>
+            <div class="r"><div class="l">Week</div><div class="v" id="ops-weekly">—</div></div>
+            <div class="r"><div class="l">Month</div><div class="v" id="ops-monthly">—</div></div>
+          </div>
+        </div>
+        <div class="ops-block">
+          <h3>Activity feed</h3>
+          <div id="ops-feed"></div>
+        </div>
+        <div class="ops-block">
+          <h3>Latest signals</h3>
+          <div id="dash-signals"></div>
+        </div>
+        <div class="ops-block">
+          <h3>Pump &amp; whale</h3>
+          <div id="dash-pulse"></div>
+        </div>
+      </div>
+      <div class="ops-actions">
+        <button class="btn btn-ghost" id="btn-ops-scan">Scan</button>
+        <button class="btn btn-ghost" id="btn-ops-risk">Risk</button>
+        <button class="btn btn-primary" id="btn-ops-toggle">Start bots</button>
+      </div>
+    </aside>
+  </div>
+
+  <nav class="mobile-nav">
+    <a href="#" data-page="dashboard" class="active">Desk</a>
+    <a href="#" data-page="pumps">Pumps</a>
+    <a href="#" data-page="auto-trades">Bots</a>
+    <a href="#" data-page="settings">Set</a>
+  </nav>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+<script src="/js/app.js?v=20260826j"></script>
+</body>
+</html>
