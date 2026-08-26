@@ -1,20 +1,14 @@
 #!/usr/bin/env python3
-"""USDT-M futures pump catcher for CryptoSentinel.
+"""USDT-M futures top-gainer catcher.
 
-Scans Binance perpetual USDT pairs. Alerts Telegram when last price is
-+500% (configurable) above the 24h low. No orders. Spot is ignored.
-
-Run next to the desk (VPS / Hostinger cron) so alerts fire even if the
-browser tab is closed:
+Watches Binance perpetual USDT pairs (not spot). Ranks 24h gainers.
+Sends Telegram once when 24h % (or % from 24h low) hits +500%.
+Does not re-ping while it stays above 500%. Pings again only after it
+drops back under 500% and crosses again. No orders.
 
   export TELEGRAM_BOT_TOKEN='...'
   export TELEGRAM_CHAT_ID='...'
   python3 pump_futures_worker.py
-
-Optional:
-  PUMP_THRESHOLD_PCT=500
-  PUMP_MIN_VOLUME_M=0
-  PUMP_POLL_SEC=60
 """
 from __future__ import annotations
 
@@ -28,10 +22,9 @@ from pathlib import Path
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-THRESHOLD = float(os.environ.get("PUMP_THRESHOLD_PCT", "500"))
+THRESHOLD = 500.0
 MIN_VOL_M = float(os.environ.get("PUMP_MIN_VOLUME_M", "0"))
 POLL = int(os.environ.get("PUMP_POLL_SEC", "60"))
-COOLDOWN = int(os.environ.get("PUMP_COOLDOWN_SEC", str(6 * 3600)))
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 CHAT = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
 STATE = Path(os.environ.get("PUMP_STATE_FILE", str(Path(__file__).with_name("pump_futures_state.json"))))
@@ -83,57 +76,59 @@ def telegram(text: str) -> None:
         r.read()
 
 
-def scan(state: dict) -> dict:
-    now = time.time()
+def scan(fired: dict) -> dict:
     min_vol = MIN_VOL_M * 1_000_000
-    hits = []
+    hot = {}
     for t in tickers():
         sym = t.get("symbol") or ""
         if not sym.endswith("USDT") or "_" in sym:
             continue
         try:
             last = float(t["lastPrice"])
-            low = float(t["lowPrice"])
+            low = float(t.get("lowPrice") or 0)
             vol = float(t.get("quoteVolume") or 0)
             ch = float(t.get("priceChangePercent") or 0)
         except (TypeError, ValueError, KeyError):
             continue
-        if low <= 0 or last <= 0:
+        if last <= 0:
             continue
-        from_low = (last / low - 1) * 100
-        if from_low < THRESHOLD:
-            continue
+        from_low = (last / low - 1) * 100 if low > 0 else ch
         if min_vol and vol < min_vol:
             continue
-        prev = float(state.get(sym) or 0)
-        if now - prev < COOLDOWN:
+        if ch < THRESHOLD and from_low < THRESHOLD:
             continue
-        hits.append((from_low, ch, sym, last, low, vol))
-        state[sym] = now
-    hits.sort(reverse=True)
-    for from_low, ch, sym, last, low, vol in hits:
+        hot[sym] = (ch, from_low, last, vol)
+
+    for sym in list(fired):
+        if sym not in hot:
+            del fired[sym]
+
+    for sym, (ch, from_low, last, vol) in hot.items():
+        if fired.get(sym):
+            continue
+        pct = max(ch, from_low)
         msg = (
-            f"FUTURES PUMP {sym}\n"
-            f"+{from_low:.0f}% from 24h low (min {THRESHOLD:.0f}%)\n"
-            f"Last {last}  Low {low}\n"
-            f"24h {ch:.1f}%  Vol ${vol/1e6:.1f}M\n"
+            f"FUTURES TOP GAINER {sym}\n"
+            f"+{pct:.0f}% (alert at {THRESHOLD:.0f}%)\n"
+            f"24h {ch:.1f}%  from low +{from_low:.0f}%\n"
+            f"Last {last}  Vol ${vol/1e6:.1f}M\n"
             f"https://www.binance.com/en/futures/{sym}"
         )
         print(msg.replace("\n", " | "))
         telegram(msg)
-    if hits:
-        save_state(state)
-    return state
+        fired[sym] = 1
+    save_state(fired)
+    return fired
 
 
 def main() -> None:
     if not TOKEN or not CHAT:
         print("Set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID (same as CryptoSentinel Settings).")
-    print(f"Watching USDT-M futures · min +{THRESHOLD:.0f}% from 24h low · poll {POLL}s")
-    state = load_state()
+    print(f"Watching USDT-M futures top gainers · one Telegram at +{THRESHOLD:.0f}% · poll {POLL}s")
+    fired = load_state()
     while True:
         try:
-            state = scan(state)
+            fired = scan(fired)
         except Exception as e:
             print("scan_error", type(e).__name__, e)
         time.sleep(POLL)

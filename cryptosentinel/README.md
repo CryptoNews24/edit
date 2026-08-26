@@ -5,7 +5,7 @@ Copied from the hosted desk at aqua-goldfish-684764.hostingersite.com, then patc
 ## What this folder is
 The Hostinger **backend** (FastAPI `/api`) is not in GitHub. These are the **static files** the desk already serves, plus:
 
-1. **Pumps** — USDT-M futures only, Telegram at **+500% from 24h low** (spot ignored).
+1. **Pumps** — Binance USDT-M **futures top gainers** only. Slider locked at **500%**. One Telegram when a name hits +500%. Spot ignored.
 2. **ONG paper** — live Binance spot vs perp, no real orders (`/ong.html` and the **ONG paper** nav tab).
 
 ## Copy onto Hostinger

@@ -8,7 +8,7 @@ let lastDash = null;
 
 const BOT_META = {
   scalper: ['SC', 'Anthropic expert: news + macros'],
-  pump: ['PM', 'Telegram · USDT-M futures +500% from 24h low'],
+  pump: ['PM', 'Telegram · futures top gainers once at +500%'],
   riskoff: ['RO', 'Telegram · hawkish / high macros'],
 };
 const BOT_NAMES = Object.keys(BOT_META);
@@ -74,53 +74,65 @@ function pnlC(v) { return v > 0 ? 'profit' : v < 0 ? 'loss' : ''; }
 
 const FUTURES_24H = "https://www.binance.com/fapi/v1/ticker/24hr";
 const PUMP_MIN_PCT = 500;
-const PUMP_COOLDOWN_MS = 6 * 60 * 60 * 1000;
 let pumpCache = { t: 0, rows: [] };
 let pumpLoop = null;
 
-function pumpThreshold() {
-  const raw = Number(settingsCache?.pump_threshold_pct);
-  return Number.isFinite(raw) && raw >= PUMP_MIN_PCT ? raw : PUMP_MIN_PCT;
-}
+function pumpThreshold() { return PUMP_MIN_PCT; }
 
 function loadPumpAlerts() {
-  try { return JSON.parse(localStorage.getItem("cs_pump_alerts") || "{}"); } catch { return {}; }
+  try { return JSON.parse(localStorage.getItem("cs_pump_fired") || "{}"); } catch { return {}; }
 }
-function savePumpAlerts(m) { localStorage.setItem("cs_pump_alerts", JSON.stringify(m)); }
+function savePumpAlerts(m) { localStorage.setItem("cs_pump_fired", JSON.stringify(m)); }
+
+async function lockPumpSettings() {
+  if (!settingsCache) return;
+  const patch = {};
+  if (Number(settingsCache.pump_threshold_pct) !== PUMP_MIN_PCT) patch.pump_threshold_pct = PUMP_MIN_PCT;
+  if (settingsCache.pump_enabled === false) patch.pump_enabled = true;
+  if (!Object.keys(patch).length) return;
+  try {
+    const r = await api('/settings', { method: 'PUT', body: JSON.stringify(patch) });
+    if (r?.settings) settingsCache = r.settings;
+    else Object.assign(settingsCache, patch);
+  } catch (e) { settingsCache.pump_threshold_pct = PUMP_MIN_PCT; }
+}
 
 async function scanFuturesPumps(force) {
   if (!force && Date.now() - pumpCache.t < 45000 && pumpCache.rows) return pumpCache.rows;
-  const th = pumpThreshold();
+  const th = PUMP_MIN_PCT;
   const volOn = !!settingsCache?.pump_min_volume_enabled;
   const volMin = (Number(settingsCache?.pump_min_volume_m) || 0) * 1e6;
   const rows = await fetch(FUTURES_24H).then((r) => r.json());
-  const hits = [];
+  const gainers = [];
   for (const t of rows || []) {
     const sym = t.symbol || "";
     if (!sym.endsWith("USDT") || sym.includes("_")) continue;
     const last = Number(t.lastPrice);
     const lo = Number(t.lowPrice);
-    if (!(lo > 0) || !(last > 0)) continue;
-    const fromLow = (last / lo - 1) * 100;
-    if (fromLow < th) continue;
+    const ch = Number(t.priceChangePercent) || 0;
+    if (!(last > 0)) continue;
+    const fromLow = lo > 0 ? (last / lo - 1) * 100 : ch;
     const vol = Number(t.quoteVolume) || 0;
     if (volOn && vol < volMin) continue;
-    hits.push({
+    if (ch <= 0 && fromLow <= 0) continue;
+    gainers.push({
       coin: sym.replace(/USDT$/, ""),
       symbol: sym,
       type: "pump",
-      changePct: fromLow,
-      change24h: Number(t.priceChangePercent) || 0,
+      changePct: ch,
+      fromLow,
+      change24h: ch,
       volume: vol,
       price: last,
       low: lo,
       market: "FUTURES",
     });
   }
-  hits.sort((a, b) => b.changePct - a.changePct);
-  pumpCache = { t: Date.now(), rows: hits };
-  await notifyFuturesPumps(hits, th);
-  return hits;
+  gainers.sort((a, b) => b.changePct - a.changePct);
+  const top = gainers.slice(0, 30);
+  pumpCache = { t: Date.now(), rows: top };
+  await notifyFuturesPumps(gainers.filter((p) => p.changePct >= th || p.fromLow >= th), th);
+  return top;
 }
 
 async function notifyFuturesPumps(hits, th) {
@@ -129,16 +141,19 @@ async function notifyFuturesPumps(hits, th) {
   const token = settingsCache?.telegram_bot_token;
   const chat = settingsCache?.telegram_chat_id;
   if (!token || token === "••••••••" || !chat) return;
-  const seen = loadPumpAlerts();
-  const now = Date.now();
+  const fired = loadPumpAlerts();
+  const stillHot = new Set(hits.map((p) => p.symbol));
+  for (const k of Object.keys(fired)) {
+    if (!stillHot.has(k)) delete fired[k];
+  }
   for (const p of hits) {
-    const prev = Number(seen[p.symbol] || 0);
-    if (now - prev < PUMP_COOLDOWN_MS) continue;
+    if (fired[p.symbol]) continue;
+    const pct = Math.max(p.changePct, p.fromLow || 0);
     const text = [
-      "FUTURES PUMP " + p.symbol,
-      "+" + p.changePct.toFixed(0) + "% from 24h low (min " + th + "%)",
-      "Last " + p.price + "  Low " + p.low,
-      "24h " + p.change24h.toFixed(1) + "%  Vol $" + (p.volume / 1e6).toFixed(1) + "M",
+      "FUTURES TOP GAINER " + p.symbol,
+      "+" + pct.toFixed(0) + "% (alert at " + th + "%)",
+      "24h " + p.change24h.toFixed(1) + "%  from low +" + (p.fromLow || 0).toFixed(0) + "%",
+      "Last " + p.price + "  Vol $" + (p.volume / 1e6).toFixed(1) + "M",
       "https://www.binance.com/en/futures/" + p.symbol,
     ].join("\n");
     try {
@@ -147,14 +162,15 @@ async function notifyFuturesPumps(hits, th) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ chat_id: chat, text, disable_web_page_preview: true }),
       });
-      if (r.ok) { seen[p.symbol] = now; savePumpAlerts(seen); }
+      if (r.ok) fired[p.symbol] = 1;
     } catch (e) { console.warn("pump telegram", e); }
   }
+  savePumpAlerts(fired);
 }
 
 function startFuturesPumpLoop() {
   if (pumpLoop) clearInterval(pumpLoop);
-  const run = () => scanFuturesPumps().catch((e) => console.warn("futures pump scan", e));
+  const run = () => lockPumpSettings().then(() => scanFuturesPumps()).catch((e) => console.warn("futures pump scan", e));
   run();
   pumpLoop = setInterval(run, 60000);
 }
@@ -710,9 +726,9 @@ async function loadPumps() {
     <tr><td>${p.coin}</td>
     <td><span class="badge badge-blue">${p.market || 'FUTURES'}</span></td>
     <td><span class="badge ${p.type === 'pump' ? 'badge-green' : 'badge-red'}">${p.type}</span></td>
-    <td class="${pnlC(p.changePct)}">${fmt(p.changePct, 1)}% from low</td>
+    <td class="${pnlC(p.changePct)}">${fmt(p.changePct, 1)}% 24h${(p.changePct >= 500 || (p.fromLow || 0) >= 500) ? ' · ALERT' : ''}</td>
     <td>$${fmt((p.volume || 0) / 1e6, 1)}M</td>
-    <td>$${fmt(p.price)}</td></tr>`).join('') || '<tr><td colspan="6" class="empty">No USDT-M futures ≥ ' + pumpThreshold() + '% from 24h low</td></tr>';
+    <td>$${fmt(p.price)}</td></tr>`).join('') || '<tr><td colspan="6" class="empty">No USDT-M futures gainers</td></tr>';
 }
 
 async function loadWhales() {
@@ -802,8 +818,9 @@ function field(key, label, hint, type = 'number') {
 function pctSlider(key, label, opts = {}) {
   const { min = 0.1, max = 50, step = 0.1, hint = '', tone = '', unit = '%' } = opts;
   const raw = Number(settingsCache?.[key]);
-  const v = Number.isFinite(raw) ? raw : min;
-  const pct = Math.max(0, Math.min(100, ((v - min) / (max - min)) * 100));
+  const v = key === 'pump_threshold_pct' ? 500 : (Number.isFinite(raw) ? raw : min);
+  const span = max - min;
+  const pct = span <= 0 ? 100 : Math.max(0, Math.min(100, ((v - min) / span) * 100));
   const mid = (min + max) / 2;
   const fmtM = (n) => {
     const s = Number.isInteger(n) ? String(n) : (Math.round(n * 100) / 100).toString();
@@ -952,9 +969,9 @@ function renderSettingsSection(tab) {
     f('scalper_max_open', 'Max Open'),
   ].join('');
   if (tab === 'pump') return [
-    '<div class="bn-section-title">Pump · USDT-M futures only · Telegram (no trades)</div>',
-    f('pump_enabled', 'Enable Pump alerts', 'USDT-M futures only. Telegram when +500% from the 24h low — does not open positions', 'toggle'),
-    pctSlider('pump_threshold_pct', 'Min pump % from 24h low', { min: 500, max: 2000, step: 50, hint: 'Futures only. Default 500 = 6x from the session low. Spot is ignored.' }),
+    '<div class="bn-section-title">Pump · USDT-M futures top gainers · Telegram once at +500%</div>',
+    f('pump_enabled', 'Enable Pump alerts', 'Watches Binance USDT-M futures top gainers only. One Telegram when a name hits +500%. No trades. Spot is ignored.', 'toggle'),
+    pctSlider('pump_threshold_pct', 'Min pump %', { min: 500, max: 500, step: 50, hint: 'Locked at 500%. Futures 24h top gainers only. One ping per coin until it drops back under 500%.' }),
     f('pump_min_volume_enabled', 'Min volume filter On', 'Off = ignore volume', 'toggle'),
     f('pump_min_volume_m', 'Min Volume M', 'Skip illiquid pumps (quote volume in millions USDT)'),
     '<div class="bn-hint" style="margin-top:8px">Requires Settings → API Keys → Telegram token + chat ID, and Advanced → Telegram ON.</div>',
@@ -1055,6 +1072,7 @@ async function saveSettingsNow() {
 
 async function loadSettings() {
   settingsCache = await api('/settings');
+  await lockPumpSettings();
   const tabs = document.getElementById('settings-tabs');
   tabs.innerHTML = SETTINGS_TABS.map(([id, label], i) =>
     `<button class="tab ${i === 0 ? 'active' : ''}" data-tab="${id}">${label}</button>`).join('');
