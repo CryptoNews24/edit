@@ -306,6 +306,33 @@ async function ongTick() {
   ongSave();
   paintOngDesk();
 }
+function ongBotCardHtml() {
+  const on = !!ongS?.running;
+  const pnl = ongS?.totalPnl || 0;
+  const tr = (ongS?.wins || 0) + (ongS?.losses || 0);
+  const open = ongS?.pos ? 1 : 0;
+  return `<div class="panel" id="ong-bot-card">
+      <div style="display:flex;justify-content:space-between;margin-bottom:10px">
+        <div><strong style="font-family:var(--mono)">ONG · PAPER</strong>
+          <div style="font-size:11px;color:var(--mute)">$500 · TP $15/$20 · 3-day hedge</div></div>
+        <span class="badge ${on ? 'badge-green' : 'badge-yellow'}">${on ? 'ON' : 'OFF'}</span>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:12px">
+        <div>Trades: <b>${tr}</b></div><div>Open: <b>${open}</b></div>
+        <div>W/L: <b>${ongS?.wins || 0}/${ongS?.losses || 0}</b></div>
+        <div>P&L: <b class="${pnlC(pnl)}">${ongFmt(pnl)}</b></div>
+      </div>
+      <button class="btn btn-ghost" style="width:100%;margin-top:10px" type="button" onclick="document.getElementById('ong-section')?.scrollIntoView({behavior:'smooth'})">Open ONG section</button>
+    </div>`;
+}
+function renderOngBotCard() {
+  const grid = document.getElementById('bots-grid');
+  if (!grid) return;
+  const html = ongBotCardHtml();
+  const card = document.getElementById('ong-bot-card');
+  if (card) card.outerHTML = html;
+  else grid.insertAdjacentHTML('beforeend', html);
+}
 function paintOngDesk() {
   if (!ongS) return;
   const set = (id, t) => { const el = document.getElementById(id); if (el) el.textContent = t; };
@@ -361,6 +388,7 @@ function paintOngDesk() {
       </tr>`;
     }).join('') || '<tr><td colspan="6" class="empty">No clips yet.</td></tr>';
   }
+  renderOngBotCard();
 }
 function ongStart() {
   const tpEl = document.getElementById('ong-tp');
@@ -994,6 +1022,7 @@ async function loadAuto() {
         <button class="btn btn-ghost" style="width:100%;margin-top:10px" onclick="toggleBot('${b.bot_name}')">${on ? 'Disable' : 'Enable'}</button>
       </div>`;
     }).join('');
+    renderOngBotCard();
 
     document.getElementById('at-body').innerHTML = (d.recent_trades || []).map((t) => {
       const open = t.status === 'open';
