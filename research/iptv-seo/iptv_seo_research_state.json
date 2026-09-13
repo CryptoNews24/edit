@@ -1,0 +1,178 @@
+{
+  "project": "iptv-seo-domain-research",
+  "timestamp": "2026-09-13T23:40:00Z",
+  "last_research_position": {
+    "phase": "waiting_noxtools_login",
+    "next_country": "Ireland",
+    "next_tool": "SEMrush Keyword Overview via noxtools.com (database IE)",
+    "next_keywords": [
+      "iptv ireland",
+      "best iptv ireland",
+      "iptv subscription ireland",
+      "iptv dublin",
+      "abonnement iptv",
+      "iptv canada",
+      "iptv belgique",
+      "iptv suisse"
+    ]
+  },
+  "blockers": [
+    {
+      "source": "noxtools.com",
+      "url": "https://noxtools.com/secure/login",
+      "error": "Unauthenticated. Manual login required. Password was not entered, stored, or requested in code."
+    },
+    {
+      "source": "Google Search / Google Trends",
+      "error": "CAPTCHA / unusual traffic on cloud IP. Not bypassed."
+    },
+    {
+      "source": "GoDaddy / Namecheap / Dynadot",
+      "error": "CAPTCHA or access denied. Not bypassed."
+    }
+  ],
+  "countries_touched": [
+    "Canada",
+    "Ireland",
+    "France",
+    "Belgium",
+    "Netherlands",
+    "Germany",
+    "Switzerland",
+    "Australia",
+    "New Zealand",
+    "United States",
+    "Denmark",
+    "Finland",
+    "Norway"
+  ],
+  "countries_with_semrush": [],
+  "searched_keywords": [
+    "iptv canada",
+    "best iptv canada",
+    "iptv ireland",
+    "best iptv ireland",
+    "iptv australia",
+    "iptv france",
+    "abonnement iptv",
+    "iptv belgique",
+    "iptv nederland",
+    "iptv deutschland",
+    "iptv switzerland",
+    "iptv suisse",
+    "tivimate",
+    "iptv smarters",
+    "iptv firestick",
+    "iptv smart tv"
+  ],
+  "keyword_queue": [
+    "iptv provider canada",
+    "iptv subscription canada",
+    "iptv service canada",
+    "iptv trial canada",
+    "iptv toronto",
+    "iptv montreal",
+    "iptv vancouver",
+    "forfait iptv",
+    "essai iptv",
+    "iptv quebec",
+    "iptv dublin",
+    "iptv cork",
+    "meilleur iptv",
+    "iptv box france",
+    "iptv firestick france",
+    "iptv belgie",
+    "abonnement iptv belgique",
+    "beste iptv nederland",
+    "iptv aanbieder",
+    "iptv anbieter",
+    "iptv abo",
+    "iptv österreich",
+    "iptv españa",
+    "mejor iptv",
+    "iptv italia",
+    "iptv portugal",
+    "iptv sverige",
+    "iptv norge",
+    "iptv danmark",
+    "iptv suomi",
+    "iptv new zealand",
+    "tivimate playlist",
+    "tivimate premium subscription",
+    "iptv smarters pro",
+    "smarters player",
+    "iptv rok",
+    "iptv apple tv",
+    "iptv samsung",
+    "iptv lg",
+    "gse smart iptv",
+    "smart iptv app",
+    "perfect player iptv",
+    "iptv vod",
+    "iptv 4k"
+  ],
+  "keyword_clusters": {
+    "ireland_iptv_core": {
+      "seed": "iptv ireland",
+      "related_observed": [
+        "iptv subscription ireland",
+        "ireland iptv providers",
+        "iptv free trial ireland",
+        "iptv service ireland",
+        "best iptv ireland",
+        "irish iptv",
+        "iptv suppliers ireland",
+        "best iptv provider ireland",
+        "iptv ireland legal",
+        "iptv channels ireland"
+      ]
+    },
+    "canada_iptv_core": {
+      "seed": "iptv canada",
+      "related_planned": [
+        "best iptv canada",
+        "iptv provider canada",
+        "iptv subscription canada",
+        "iptv trial canada"
+      ]
+    },
+    "france_abonnement": {
+      "seed": "abonnement iptv",
+      "related_planned": ["iptv france", "meilleur iptv", "iptv box"]
+    },
+    "app_tivimate": {"seed": "tivimate", "domain_policy": "seo_only_no_emd"},
+    "app_smarters": {"seed": "iptv smarters", "domain_policy": "seo_only_no_emd"},
+    "device_firestick": {"seed": "iptv firestick"},
+    "device_smarttv": {"seed": "iptv smart tv"}
+  },
+  "rejected_keywords": [],
+  "rejected_opportunities": [
+    {
+      "item": "tivimate.ca / tivimate.ie / smarters.* EMDs",
+      "reason": "Trademark impersonation risk even when a name looks unregistered"
+    },
+    {
+      "item": "iptv*.uk / iptvuk.co.uk",
+      "reason": "Project rule: skip .uk when the domain contains iptv"
+    },
+    {
+      "item": "iptvcanada.blog / .fyi",
+      "reason": "Available on Porkbun but weak TLD for this commercial niche"
+    }
+  ],
+  "top_opportunities_provisional": [
+    "iptv ireland + bestiptv.ie / iptvguide.ie",
+    "abonnement iptv + compareriptv.fr",
+    "iptv canada + compareiptv.ca / iptvguide.ca"
+  ],
+  "jackpots": [],
+  "rdap_reliability": {
+    "trust": ["rdap.ca.fury.ca", "rdap.nic.fr", "rdap.sidn.nl", "rdap.denic.de", "rdap.nic.ch", "rdap.verisign.com"],
+    "do_not_trust_404_alone": ["rdap.org for .co/.ie/.be"],
+    "rule": "If DNS resolves, treat as taken regardless of RDAP 404"
+  },
+  "errors": [
+    "IEDR and DNS Belgium native RDAP hosts unreachable from this environment",
+    "nic.co native RDAP DNS failure; used Identity Digital + DNS fallback"
+  ]
+}
