@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)
-Updated 2026-09-14 18:40 UTC
+Updated 2026-09-14 18:41 UTC
 
 Filters: AVAILABLE only. Semrush volume >= 500/mo (verified). Taken names excluded
 except almost-expired + website down + mapped keyword volume >= 500.
@@ -11,7 +11,7 @@ iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip .uk names tha
 
 Score = monthly volume × (100 − KD) / 100. AVAILABLE only. Max 3 names per keyword.
 
-  1. iptv4k.us
+  1. compareiptv.us
      iptv  90.5K/mo  KD 62 Difficult  score 34390.0
   2. avis-iptv.fr
      abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
@@ -29,7 +29,7 @@ Score = monthly volume × (100 − KD) / 100. AVAILABLE only. Max 3 names per ke
      essai iptv  590/mo  KD 4 Very easy  score 566.4
   9. firestick-guide.us
      iptv firestick  590/mo  KD 38 Possible  score 365.8
-  10. iptvroku.us
+  10. iptv4k.us
      iptv  90.5K/mo  KD 62 Difficult  score 34390.0
 
 ======== VERIFIED SEMRUSH (>= 500/mo) ========
@@ -287,11 +287,11 @@ United States
   compare-live-tv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   compareiptv.us
-    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   compareott.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   compareriptv.us
-    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   comparestream.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   cordcutguide.us

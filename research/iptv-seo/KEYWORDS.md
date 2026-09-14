@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-14 18:40 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
+Updated 2026-09-14 18:41 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
 Keywords with Semrush volume **under 500** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush refresh this run: **Chrome CDP** hit Semrush free Keyword Volume Checker (live JSON). **5 lookups / IP / day** — quota used. Extra country DBs returned remaining=0. Noxtools: curl=Cloudflare; Chrome reached Sign In (Servers 1–6 need a logged-in member session). NordLayer Linux client cannot run on this VM.
@@ -15,7 +15,7 @@ Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE n
 
 | Rank | Domain | Keyword | Volume / mo | KD | Score |
 | ---: | --- | --- | ---: | --- | ---: |
-| 1 | `iptv4k.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
+| 1 | `compareiptv.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
 | 2 | `avis-iptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
 | 3 | `avis-iptv.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
 | 4 | `guideiptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
@@ -24,7 +24,7 @@ Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE n
 | 7 | `pascheriptv.fr` | iptv pas cher | 1.6K | 21 Easy | 1264.0 |
 | 8 | `essaiiptv.fr` | essai iptv | 590 | 4 Very easy | 566.4 |
 | 9 | `firestick-guide.us` | iptv firestick | 590 | 38 Possible | 365.8 |
-| 10 | `iptvroku.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
+| 10 | `iptv4k.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
 
 ## 1. Verified Semrush (sorted by volume)
 
@@ -104,6 +104,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `cheap-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `classementiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `comparateur-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `compareiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `compareriptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `cordcutguide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `cordcutter.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `cutthecord.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
@@ -315,9 +317,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `boxcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `compare-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `compare-live-tv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
-| `compareiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `compareott.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
-| `compareriptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `comparestream.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptv-compare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
