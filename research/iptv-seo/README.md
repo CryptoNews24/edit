@@ -1,69 +1,49 @@
 # IPTV SEO + domain opportunity research
 
-Living research workspace. Volumes are real only when taken from SEMrush (Noxtools or the public free keyword tool).
+Volumes are real only when taken from SEMrush. Nothing is purchased from this folder.
 
-**Text list (preferred):** `AVAILABLE_LIST.txt` — available / taken / drop-watch / verified volumes as plain text.
+**The list:** `LIST.txt` (same file copied to `AVAILABLE_LIST.txt`). Plain text only — no designed HTML board.
 
-Rebuild lists: `python3 rebuild_lists.py && python3 generate_canva_board.py`.
+Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 
 ## Status (2026-09-14)
 
 | Source | Status |
 | --- | --- |
-| Noxtools / SEMrush login | **Still blocked** on login. |
-| SEMrush free keyword tool | Verified 5 keywords, then daily cap. |
-| Google Search / Trends | CAPTCHA / unusual-traffic block on this cloud IP |
-| GoDaddy / Namecheap / Dynadot | CAPTCHA or access denied |
-| DuckDuckGo SERPs | Collected (see `serp_notes.md`) |
-| Registry RDAP | Collected (see `domains.csv`) |
-| Porkbun UI | Partial (exact-match `.ca` taken) |
-
-**Action to unblock keyword metrics:** log into Noxtools manually in the research browser, then continue from `iptv_seo_research_state.json` → `last_research_position`.
+| Noxtools / SEMrush | Member pages 403 / Semrush 429 from this IP |
+| Google Search / Trends | CAPTCHA on this cloud IP |
+| Registrars (GoDaddy / Namecheap / Dynadot) | CAPTCHA |
+| Registry RDAP + DNS | Used for availability |
+| Bing SERP | Partial (later queries went generic and were dropped) |
 
 ## Files
 
 | File | Purpose |
 | --- | --- |
-| `iptv_seo_research_state.json` | Resume state, queues, anti-duplication |
-| `keywords.csv` | Keyword opportunities (volumes/KD = N/A until SEMrush) |
-| `domains.csv` | Domain checks already performed |
-| `almost_expired_offline.csv` | **Separate table:** perfect/taken names whose **website is not online** and expiry is **≤ 90 days** (or already expired) |
-| `taken_offline_watch.csv` | Offline/parked perfect names with later or unknown expiry |
-| `taken_perfect_site_expiry.csv` | Full probe log for every perfect taken name |
-| `check_taken_offline_expiry.py` | Pipeline step: RDAP expiry + HTTP live check |
-| `TOP_OPPORTUNITIES.md` | Ranked actionable list |
-| `serp_notes.md` | Observed SERP notes |
-| `canva/board.html` | **Canva board — open in a new browser tab** (3 inner tabs, rebuilt every batch) |
-| `generate_canva_board.py` | Regenerates `board.html` from CSVs + `canva/traffic.json` |
+| `LIST.txt` | **Read this** — picks, volumes, available, confirm, taken, drop-watch |
+| `AVAILABLE_LIST.txt` | Identical copy of `LIST.txt` |
+| `availability_recheck.csv` | Last RDAP + DNS verdict per domain |
+| `taken_not_available.csv` | Taken names — do not buy |
+| `almost_expired_offline.csv` | Taken + site down + expiry ≤ 90 days |
+| `canva/traffic.json` | Verified Semrush keyword metrics only |
+| `keywords.csv` | Keyword opportunities |
+| `keyword_dictionary.csv` | Generated term dictionary |
+| `generate_text_list.py` | Rebuilds `LIST.txt` |
+| `TOP_OPPORTUNITIES.md` | Narrative ranking |
 
-## Pipeline (every research batch)
+## Pipeline
 
-1. Discover keyword + domain candidates.
-2. Check availability (RDAP / registrar). Record in `domains.csv`.
-3. **If the domain is a strong exact/close match but already taken:**
-   - Probe whether the website is actually online (HTTP + DNS).
-   - Read registry expiry from RDAP.
-   - If the **site does not work** (no DNS, timeout, 5xx, parking/placeholder) **and** expiry is **within 90 days** (or past expiry / redemption): append to **`almost_expired_offline.csv`**.
-   - If the site is down but expiry is later or unpublished: append to `taken_offline_watch.csv`.
-4. Write verified keyword volumes into `canva/traffic.json` (never invent).
-5. Rebuild the Canva board (`generate_canva_board.py`) and open `canva/board.html` in a **new tab**.
-6. Do **not** purchase. Re-check drop/redemption before acting (especially `.ca`).
-
-## Scoring (provisional)
-
-Demand (25) and KD (25) are **unscored** until SEMrush. Provisional score uses only:
-
-- Commercial intent (15)
-- SERP weakness (15)
-- Cluster potential (10)
-- Domain opportunity (10)
-
-Max provisional score = **50**. A 🔥 JACKPOT flag is **not** used without verified volume + KD + SERP + domain together.
+1. Keyword + domain candidates.
+2. RDAP + DNS. Available tab/list only if not taken.
+3. Taken perfect names: live-site + expiry probe → `almost_expired_offline.csv` if dead and ≤ 90 days.
+4. Verified volumes into `canva/traffic.json` (never invent).
+5. Rebuild `LIST.txt`.
+6. Do not purchase.
 
 ## Rules
 
-- Never fabricate SEMrush numbers
-- Never register/purchase domains from this research
-- App-brand keywords (TiviMate, IPTV Smarters) are SEO topics, not domain recommendations
+- Never fabricate Semrush numbers
+- Never present a taken name as available (`iptvcanada.ca` is taken)
+- Ignore `.ie` domains
 - Skip `.uk` names that contain `iptv`
-- **Ignore `.ie` domains** — IEDR requires documents. Ireland keywords may stay in the dictionary as SEO-only.
+- TiviMate / IPTV Smarters = SEO topics, not brand EMDs

@@ -1,49 +1,19 @@
-# Canva board (open in a new tab)
+# Data files for the text list
 
-**Living board:** open `board.html` in its own browser tab.
-
-```text
-research/iptv-seo/canva/board.html
-```
-
-Rebuild after every new finding:
+Designed HTML boards are not used. The list to read is:
 
 ```text
-python3 research/iptv-seo/generate_canva_board.py
+research/iptv-seo/LIST.txt
 ```
 
-`check_taken_offline_expiry.py` also rebuilds the board at the end of a probe run.
+Same content is copied to `research/iptv-seo/AVAILABLE_LIST.txt`.
 
-Tabs inside the page:
+Rebuild:
 
-1. Available / confirm domains
-2. Almost expired + offline
-3. Verified keyword traffic (SEMrush free tool)
+```text
+python3 research/iptv-seo/rebuild_lists.py
+python3 research/iptv-seo/generate_text_list.py
+```
 
-Organic traffic is the **mapped keyword monthly volume** when we have a verified SEMrush number. Unchecked rows stay **N/A**. Dead/unregistered domains have **0 site traffic**.
-
-There is no Canva.com API here. You can still upload the PNGs or import the CSVs into Canva.com if you want a cloud copy.
-
-## Files
-
-| File | Use in Canva |
-| --- | --- |
-| `iptv-domains-table.png` | 1920 x 1080 slide. **Uploads → upload PNG → drag onto a Presentation (16:9)** |
-| `iptv-domains-canva-import.csv` | **Apps → Data / Sheets**, or insert a Table and paste columns |
-| `almost-expired-offline.png` | Second 16:9 slide — taken perfect names that are **offline and almost expired** |
-| `almost-expired-offline-canva.csv` | Same data for a Canva table |
-| `iptv-domains-table.html` | Source slide if you need to edit then re-export |
-
-## Columns
-
-1. Domain
-2. Country
-3. Organic traffic — **N/A** (SEMrush / Noxtools not logged in; not invented)
-4. Competitive rate — SERP observation (Low / Medium / High), not KD%
-5. Availability — registry RDAP + DNS; nothing purchased
-
-## Import steps (Canva)
-
-1. Create a **Presentation** (1920 x 1080).
-2. Upload `iptv-domains-table.png` and set it as the slide, **or**
-3. Insert a table (5 columns) and paste from `iptv-domains-canva-import.csv`.
+`traffic.json` holds verified Semrush keyword volumes only (never invented).
+`iptv-domains-canva-import.csv` is a machine table of the same available/confirm names if you still want to paste into a spreadsheet.

@@ -194,8 +194,8 @@
     "taken_offline_almost_expired"
   ],
   "canva_board": {
-    "open_in_new_tab": "research/iptv-seo/canva/board.html",
-    "rebuild": "python3 research/iptv-seo/generate_canva_board.py",
+    "open_in_new_tab": "research/iptv-seo/LIST.txt",
+    "rebuild": "python3 research/iptv-seo/generate_text_list.py",
     "rebuild_on": [
       "new domain",
       "new keyword volume",

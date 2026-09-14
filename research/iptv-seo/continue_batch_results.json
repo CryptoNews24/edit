@@ -1,0 +1,557 @@
+{
+  "checked": [
+    {
+      "domain": "avisiptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "classementiptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "comparatifiptv.fr",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "rankingiptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvfiable.fr",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "selectiptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "choisiriptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "forfaitiptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "abo-iptv-avis.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvandroid.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptv4k.fr",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "meilleurabo.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvlegal.fr",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "boxandroidiptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "playeriptv.fr",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvrating.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvrank.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "compare-iptv.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvchooser.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "quebeciptv.ca",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "forfaitiptv.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "essaiiptv.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvfrancais.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvottawa.ca",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvcalgary.ca",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvwinnipeg.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvhalifax.ca",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvtoronto.ca",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvmontreal.ca",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvvancouver.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "canadianiptv.ca",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "mapleiptvguide.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvplans.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "watchcompare.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "streamrank.ca",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvgidsvergelijken.nl",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "beste-iptv.nl",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "goedkopeiptv.nl",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvreview.nl",
+      "rdap": "200",
+      "dns": "no",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvvergelijker.nl",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvratgeber.de",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvtest.de",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvguide.de",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvvergleicher.de",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "anbieteriptv.de",
+      "rdap": "200",
+      "dns": "no",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "comparatifiptv.ch",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "avis-iptv.ch",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvguide.ch",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvvergleich.at",
+      "rdap": "",
+      "dns": "no",
+      "verdict": "UNKNOWN"
+    },
+    {
+      "domain": "iptvguide.at",
+      "rdap": "",
+      "dns": "no",
+      "verdict": "UNKNOWN"
+    },
+    {
+      "domain": "iptvgids.be",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "besteiptv.be",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "compareriptv.be",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "abonnementiptv.be",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "iptvbelgie.be",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "compareiptv.com.au",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "iptvguide.com.au",
+      "rdap": "200",
+      "dns": "no",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvreview.com.au",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "bestiptvguide.com.au",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "iptvguide.nz",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "compareiptv.nz",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "Confirm at registrar"
+    },
+    {
+      "domain": "comparariptv.es",
+      "rdap": "",
+      "dns": "no",
+      "verdict": "UNKNOWN"
+    },
+    {
+      "domain": "guiaiptv.es",
+      "rdap": "",
+      "dns": "no",
+      "verdict": "UNKNOWN"
+    },
+    {
+      "domain": "mejor-iptv.es",
+      "rdap": "",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "confrontaiptv.it",
+      "rdap": "",
+      "dns": "no",
+      "verdict": "UNKNOWN"
+    },
+    {
+      "domain": "guidaiptv.it",
+      "rdap": "",
+      "dns": "no",
+      "verdict": "UNKNOWN"
+    },
+    {
+      "domain": "comparariptv.pt",
+      "rdap": "",
+      "dns": "no",
+      "verdict": "UNKNOWN"
+    },
+    {
+      "domain": "jamforiptv.se",
+      "rdap": "",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "sammenligniptv.dk",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "vertaa-iptv.fi",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "compareiptv.net",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvpicks.net",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "streamcompare.net",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvchooser.net",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "iptvrating.net",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "compareiptv.com",
+      "rdap": "200",
+      "dns": "no",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvcompare.com",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    },
+    {
+      "domain": "avisiptv.com",
+      "rdap": "200",
+      "dns": "yes",
+      "verdict": "TAKEN"
+    },
+    {
+      "domain": "iptvvergelijker.com",
+      "rdap": "404",
+      "dns": "no",
+      "verdict": "AVAILABLE"
+    }
+  ],
+  "inspections_total": 70,
+  "available": [
+    "avisiptv.fr",
+    "classementiptv.fr",
+    "rankingiptv.fr",
+    "selectiptv.fr",
+    "choisiriptv.fr",
+    "forfaitiptv.fr",
+    "abo-iptv-avis.fr",
+    "iptvandroid.fr",
+    "meilleurabo.fr",
+    "boxandroidiptv.fr",
+    "playeriptv.fr",
+    "iptvrating.ca",
+    "iptvrank.ca",
+    "compare-iptv.ca",
+    "iptvchooser.ca",
+    "forfaitiptv.ca",
+    "essaiiptv.ca",
+    "iptvfrancais.ca",
+    "iptvwinnipeg.ca",
+    "iptvvancouver.ca",
+    "mapleiptvguide.ca",
+    "iptvplans.ca",
+    "watchcompare.ca",
+    "streamrank.ca",
+    "iptvgidsvergelijken.nl",
+    "iptvvergelijker.nl",
+    "iptvratgeber.de",
+    "iptvvergleicher.de",
+    "comparatifiptv.ch",
+    "avis-iptv.ch",
+    "iptvguide.ch",
+    "sammenligniptv.dk",
+    "vertaa-iptv.fi",
+    "compareiptv.net",
+    "iptvpicks.net",
+    "streamcompare.net",
+    "iptvchooser.net",
+    "iptvrating.net",
+    "iptvcompare.com",
+    "iptvvergelijker.com"
+  ],
+  "taken": [
+    "comparatifiptv.fr",
+    "iptvfiable.fr",
+    "iptv4k.fr",
+    "iptvlegal.fr",
+    "quebeciptv.ca",
+    "iptvottawa.ca",
+    "iptvcalgary.ca",
+    "iptvhalifax.ca",
+    "iptvtoronto.ca",
+    "iptvmontreal.ca",
+    "canadianiptv.ca",
+    "beste-iptv.nl",
+    "goedkopeiptv.nl",
+    "iptvreview.nl",
+    "iptvtest.de",
+    "iptvguide.de",
+    "anbieteriptv.de",
+    "iptvguide.com.au",
+    "mejor-iptv.es",
+    "jamforiptv.se",
+    "compareiptv.com",
+    "avisiptv.com"
+  ],
+  "confirm": [
+    "iptvgids.be",
+    "besteiptv.be",
+    "compareriptv.be",
+    "abonnementiptv.be",
+    "iptvbelgie.be",
+    "compareiptv.com.au",
+    "iptvreview.com.au",
+    "bestiptvguide.com.au",
+    "iptvguide.nz",
+    "compareiptv.nz"
+  ]
+}

@@ -338,7 +338,7 @@ def main() -> None:
         import importlib.util
 
         spec = importlib.util.spec_from_file_location(
-            "generate_canva_board", ROOT / "generate_canva_board.py"
+            "generate_text_list", ROOT / "generate_text_list.py"
         )
         mod = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(mod)
