@@ -2,8 +2,8 @@
 
 Volumes are real only when taken from SEMrush. Nothing is purchased from this folder.
 
-**Keyword table:** `KEYWORDS.md`  
-**Domain list:** `LIST.txt` (copy: `AVAILABLE_LIST.txt`)
+**Keyword table:** `KEYWORDS.md` (AVAILABLE domains, Semrush volume >= 500)  
+**Domain list:** `LIST.txt` (same filters)
 
 Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 

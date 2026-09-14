@@ -8,6 +8,8 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+from filters import MIN_VOLUME, domain_meets_volume, mapped_keyword, meets_volume
+
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "KEYWORDS.md"
 
@@ -77,7 +79,10 @@ def main() -> None:
     lines = [
         "# IPTV keyword table",
         "",
-        f"Updated {now}. Volumes and KD are **only** numbers seen in Semrush (Noxtools Server 6 or earlier verified pulls). Everything else is **N/A** — not guessed.",
+        f"Updated {now}. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= {MIN_VOLUME}/mo**.",
+        f"Keywords with Semrush volume **under {MIN_VOLUME}** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.",
+        "",
+        "Semrush refresh attempted this run: **Noxtools Cloudflare-blocked** from this IP; public Semrush HTML has no live metrics. Figures below are the last verified pulls (not invented). They will be replaced as soon as Noxtools/Semrush is reachable.",
         "",
         "Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. TiviMate / IPTV Smarters = SEO topics, not brand domains.",
         "",
@@ -131,7 +136,7 @@ def main() -> None:
             "taken": "essaiiptv.fr is AVAILABLE (not taken)",
         },
         "iptv subscription canada": {
-            "priority": "LONG-TAIL",
+            "priority": "EXCLUDED (<500)",
             "domain": "iptvplans.ca / forfaitiptv.ca",
             "taken": "iptvsubscription.ca",
         },
@@ -143,6 +148,8 @@ def main() -> None:
     }
 
     for name, k in sorted(kws.items(), key=lambda kv: -int(kv[1].get("volume") or 0)):
+        if not meets_volume({"keywords": kws}, name):
+            continue
         meta = verified_meta.get(name, {})
         db = (k.get("db") or "").lower()
         country = DB_COUNTRY.get(db, db.upper())
@@ -171,11 +178,11 @@ def main() -> None:
     lines += [
         "",
         "France verified cluster ≈ **33.8K**/mo (`abonnement iptv` + `iptv france` + `meilleur iptv` + `iptv pas cher` + `essai iptv`).",
-        "Canada verified cluster ≈ **17.1K**/mo (`iptv canada` + `best iptv canada` + `iptv subscription canada`).",
+        "Canada verified cluster ≈ **16.7K**/mo (`iptv canada` + `best iptv canada`). `iptv subscription canada` (390) is excluded (<500).",
         "",
-        "## 2. Tracked keywords (all rows we scored)",
+        "## 2. Tracked keywords (Semrush volume >= 500 only)",
         "",
-        "Unverified volume/KD stay **N/A**. Domain column is the candidate to register, not a live site.",
+        "Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie` domain).",
         "",
         "| Keyword | Country | Lang | Volume | KD | CPC | Intent | SERP | Priority | Domain | Availability | Notes |",
         "| --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- | --- | --- |",
@@ -189,6 +196,13 @@ def main() -> None:
             return (1, 0)
 
     for r in sorted(tracked, key=vol_sort):
+        raw = r.get("Search Volume") or "N/A"
+        try:
+            vol_n = int(float(raw))
+        except ValueError:
+            continue
+        if vol_n < MIN_VOLUME:
+            continue
         kw = r["Keyword"]
         serp = r.get("SERP Difficulty") or "N/A"
         insp = insp_by_kw.get(kw.lower())
@@ -223,12 +237,15 @@ def main() -> None:
 
     lines += [
         "",
-        "## 3. SERP notes (DuckDuckGo / Bing)",
+        "## 3. SERP notes (keywords with volume >= 500)",
         "",
         "| Keyword | Market | SERP | Top domains | Related searches |",
         "| --- | --- | --- | --- | --- |",
     ]
+    keep_kw = {n.lower() for n in kws if meets_volume({"keywords": kws}, n)}
     for r in inspections:
+        if r["Keyword"].lower() not in keep_kw:
+            continue
         lines.append(
             "| {kw} | {m} | {s} | {top} | {rel} |".format(
                 kw=cell(r.get("Keyword")),
@@ -249,11 +266,8 @@ def main() -> None:
         ("compareiptv.ca", "iptv canada"),
         ("iptvguide.ca", "iptv canada"),
         ("compareriptv.ca", "iptv canada"),
-        ("forfaitiptv.ca", "iptv subscription canada"),
-        ("essaiiptv.ca", "iptv subscription canada"),
-        ("iptvvergelijker.nl", None),
-        ("iptvvergleicher.de", None),
-        ("iptvguide.ch", None),
+        ("guide-abonnement-iptv.fr", "iptv france"),
+        ("avis-abonnement-iptv.fr", "abonnement iptv"),
     ]
     lines += [
         "",
@@ -263,16 +277,72 @@ def main() -> None:
         "| --- | --- | --- | --- |",
     ]
     for domain, kw_name in picks:
-        if kw_name and kw_name in kws:
-            k = kws[kw_name]
-            metrics = f"{k['volume_display']}/mo · KD {k['kd']} {k['kd_label']}"
-            kw_label = kw_name
-        else:
-            metrics = "N/A"
-            kw_label = kw_name or "not verified yet"
+        if not meets_volume(traffic, kw_name):
+            continue
+        k = kws[kw_name]
+        metrics = f"{k['volume_display']}/mo · KD {k['kd']} {k['kd_label']}"
+        if domain_verdict(domain, recheck) != "AVAILABLE":
+            continue
         lines.append(
-            f"| `{cell(domain)}` | {cell(kw_label)} | {cell(metrics)} | {cell(domain_verdict(domain, recheck))} |"
+            f"| `{cell(domain)}` | {cell(kw_name)} | {cell(metrics)} | AVAILABLE |"
         )
+
+    lines += [
+        "",
+        "## 5. AVAILABLE domains (mapped Semrush volume >= 500)",
+        "",
+        "| Domain | Country | Keyword | Volume / mo | KD | Availability |",
+        "| --- | --- | --- | ---: | --- | --- |",
+    ]
+    country_of = {
+        ".fr": "France",
+        ".ca": "Canada",
+        ".ch": "Switzerland",
+        ".nl": "Netherlands",
+        ".de": "Germany",
+        ".net": "Global",
+        ".com": "Global",
+    }
+
+    def ctry(d: str) -> str:
+        for s, n in sorted(country_of.items(), key=lambda x: -len(x[0])):
+            if d.endswith(s):
+                return n
+        return "Other"
+
+    avail_rows = []
+    for d, r in recheck.items():
+        if r["verdict"] != "AVAILABLE" or d.endswith(".ie") or ".uk" in d:
+            continue
+        if not domain_meets_volume(traffic, d):
+            continue
+        kw_name = mapped_keyword(traffic, d)
+        k = kws[kw_name]
+        avail_rows.append((ctry(d), d, kw_name, k))
+    for country, d, kw_name, k in sorted(avail_rows, key=lambda x: (-int(x[3]["volume"]), x[0], x[1])):
+        lines.append(
+            f"| `{cell(d)}` | {cell(country)} | {cell(kw_name)} | {cell(k['volume_display'])} | {k['kd']} {k['kd_label']} | AVAILABLE |"
+        )
+
+    lines += [
+        "",
+        "## 6. Drop-watch only (taken + site down + almost expired + volume >= 500)",
+        "",
+        "Not for sale today. Shown because the mapped keyword is strong and the site is dead.",
+        "",
+        "| Domain | Keyword | Volume / mo | Site | Expiry |",
+        "| --- | --- | ---: | --- | --- |",
+    ]
+    with (ROOT / "almost_expired_offline.csv").open(encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            d = r["Domain"]
+            if not domain_meets_volume(traffic, d):
+                continue
+            kw_name = mapped_keyword(traffic, d)
+            k = kws[kw_name]
+            lines.append(
+                f"| `{cell(d)}` | {cell(kw_name)} | {cell(k['volume_display'])} | {cell(r.get('Website status'))} | {cell(r.get('Expiry date'))} |"
+            )
 
     lines += [
         "",
@@ -280,7 +350,7 @@ def main() -> None:
         "",
         "`python3 research/iptv-seo/generate_keywords_md.py`",
         "",
-        "Also rebuilt from `generate_text_list.py`. Full available/taken dump: `LIST.txt`.",
+        "Also rebuilt from `generate_text_list.py`. Domain dump (same filters): `LIST.txt`.",
         "",
     ]
     OUT.write_text("\n".join(lines), encoding="utf-8")

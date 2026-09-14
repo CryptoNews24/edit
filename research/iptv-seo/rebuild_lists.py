@@ -8,6 +8,8 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+from filters import domain_meets_volume
+
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
 
@@ -60,7 +62,6 @@ def main() -> None:
             recheck[r["domain"]] = r
 
     avail_rows = []
-    confirm_rows = []
     taken_new = []
     for d, r in sorted(recheck.items()):
         if skip(d):
@@ -76,19 +77,8 @@ def main() -> None:
         }
         if v == "AVAILABLE":
             avail_rows.append(row)
-        elif v.startswith("Confirm"):
-            row["Availability"] = "Confirm at registrar"
-            confirm_rows.append(row)
         elif v == "TAKEN":
             taken_new.append(d)
-
-    canva_rows = avail_rows + confirm_rows
-    with (CANVA / "iptv-domains-canva-import.csv").open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(
-            f, fieldnames=["Domain", "Country", "Organic traffic", "Competitive rate", "Availability"]
-        )
-        w.writeheader()
-        w.writerows(canva_rows)
 
     taken_path = ROOT / "taken_not_available.csv"
     existing = {}
@@ -132,9 +122,32 @@ def main() -> None:
                 kwmap[d] = "iptv subscription canada"
             else:
                 kwmap[d] = "iptv canada"
+    for d in (
+        "iptvcanada.ca",
+        "iptv-canada.ca",
+        "iptvreviews.ca",
+        "livetvcanada.ca",
+        "iptvprovider.ca",
+    ):
+        kwmap[d] = "iptv canada"
+    kwmap["irishiptv.net"] = "iptv ireland"
     traffic["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    traffic["semrush_refresh"] = {
+        "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "status": "blocked",
+        "detail": "Noxtools Cloudflare challenge from this IP; public Semrush HTML has no live keyword metrics. Last verified volumes kept.",
+        "min_volume": 500,
+    }
     (CANVA / "traffic.json").write_text(json.dumps(traffic, indent=2) + "\n", encoding="utf-8")
-    print(f"canva={len(canva_rows)} available={len(avail_rows)} confirm={len(confirm_rows)} taken={len(existing)}")
+
+    canva_rows = [row for row in avail_rows if domain_meets_volume(traffic, row["Domain"])]
+    with (CANVA / "iptv-domains-canva-import.csv").open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(
+            f, fieldnames=["Domain", "Country", "Organic traffic", "Competitive rate", "Availability"]
+        )
+        w.writeheader()
+        w.writerows(canva_rows)
+    print(f"canva={len(canva_rows)} available_unfiltered={len(avail_rows)} taken={len(existing)}")
 
 
 if __name__ == "__main__":

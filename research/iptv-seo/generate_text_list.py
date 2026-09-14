@@ -8,6 +8,8 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+from filters import MIN_VOLUME, domain_meets_volume, keyword_volume, mapped_keyword, meets_volume
+
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
 OUT = ROOT / "LIST.txt"
@@ -47,15 +49,8 @@ PICKS = [
     "compareriptv.ca",
     "avis-iptv.ca",
     "guideiptv.ca",
-    "forfaitiptv.ca",
-    "essaiiptv.ca",
-    "essai-iptv.ca",
     "guide-abonnement-iptv.fr",
     "avis-abonnement-iptv.fr",
-    "iptvvergelijker.nl",
-    "iptvvergleicher.de",
-    "iptvguide.ch",
-    "iptvcompare.com",
 ]
 
 
@@ -113,29 +108,19 @@ def block(title: str, domains: list[str], traffic: dict, extra: dict[str, str] |
 def main() -> None:
     traffic = json.loads((CANVA / "traffic.json").read_text(encoding="utf-8"))
     recheck = load_recheck()
-    available = [d for d, r in recheck.items() if r["verdict"] == "AVAILABLE"]
-    confirm = [d for d, r in recheck.items() if r["verdict"].startswith("Confirm")]
-
-    taken_extra: dict[str, str] = {}
-    taken = []
-    with (ROOT / "taken_not_available.csv").open(encoding="utf-8") as f:
-        for r in csv.DictReader(f):
-            d = r["Domain"]
-            taken.append(d)
-            bits = [r.get("Availability") or "TAKEN"]
-            if r.get("Website"):
-                bits.append(r["Website"])
-            if r.get("Expiry"):
-                bits.append(f"expiry {r['Expiry']}")
-            if r.get("Notes"):
-                bits.append(r["Notes"])
-            taken_extra[d] = " — ".join(bits)
+    available = [
+        d
+        for d, r in recheck.items()
+        if r["verdict"] == "AVAILABLE" and domain_meets_volume(traffic, d)
+    ]
 
     drop = []
     drop_extra: dict[str, str] = {}
     with (ROOT / "almost_expired_offline.csv").open(encoding="utf-8") as f:
         for r in csv.DictReader(f):
             d = r["Domain"]
+            if not domain_meets_volume(traffic, d):
+                continue
             drop.append(d)
             days = r.get("Days to expiry", "")
             try:
@@ -143,35 +128,36 @@ def main() -> None:
                 left = f"expired {abs(n)}d" if n < 0 else f"{n} days left"
             except ValueError:
                 left = days
+            vol = keyword_volume(traffic, mapped_keyword(traffic, d))
             drop_extra[d] = (
-                f"TAKEN — {r.get('Website status')} — expiry {r.get('Expiry date')} ({left}). Not for sale."
+                f"TAKEN + offline/parked — expiry {r.get('Expiry date')} ({left}). "
+                f"Site not working. Mapped Semrush keyword {mapped_keyword(traffic, d)} = {vol}/mo. Not for sale today."
             )
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    kws = traffic.get("keywords") or {}
+    kws = {n: k for n, k in (traffic.get("keywords") or {}).items() if meets_volume(traffic, n)}
 
     lines = [
-        "IPTV SEO domain hunt — plain text list",
+        "IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)",
         f"Updated {now}",
         "",
+        f"Filters: AVAILABLE only. Semrush volume >= {MIN_VOLUME}/mo (verified). Taken names excluded",
+        "except almost-expired + website down + mapped keyword volume >= 500.",
+        "Confirm-at-registrar and unverified (N/A) names are excluded until Semrush confirms >= 500.",
         "Do not purchase from this file. Recheck at a registrar cart before buying.",
-        "iptvcanada.ca is TAKEN. Ignore .ie domains. Skip .uk names that contain iptv.",
-        "TiviMate / IPTV Smarters = SEO topics only, not brand domains.",
-        "Keyword volume is not website sessions. Unregistered names have 0 site traffic.",
-        "Volumes below are only Semrush numbers we actually saw. Everything else is N/A.",
+        "iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip iptv*.uk.",
         "",
-        "======== PICKS (AVAILABLE, strongest fit) ========",
+        "======== PICKS (AVAILABLE, volume >= 500) ========",
         "",
     ]
     for d in PICKS:
         status = (recheck.get(d) or {}).get("verdict", "not in last RDAP batch")
-        if status != "AVAILABLE":
-            lines.append(f"  {d}  SKIP — {status}")
+        if status != "AVAILABLE" or not domain_meets_volume(traffic, d):
             continue
         lines.append(f"  {d}")
         lines.append(f"    {country_of(d)} — {kw_line(d, traffic)}")
-    lines += ["", "======== VERIFIED KEYWORD VOLUME ========", ""]
-    for name, k in kws.items():
+    lines += ["", "======== VERIFIED SEMRUSH (>= 500/mo) ========", ""]
+    for name, k in sorted(kws.items(), key=lambda kv: -int(kv[1].get("volume") or 0)):
         cpc = k.get("cpc")
         cpc_s = "N/A" if cpc in (None, "", "N/A") else f"${cpc}"
         lines.append(
@@ -181,22 +167,17 @@ def main() -> None:
     lines += [
         "",
         "Ireland keywords are SEO-only. Do not register .ie.",
+        f"Dropped below {MIN_VOLUME}: iptv subscription canada (390), best iptv ireland (140).",
+        "Semrush refresh from this IP: Noxtools Cloudflare blocked; public Semrush page has no live numbers. Last verified figures kept.",
         "",
     ]
     lines += block(
-        "======== AVAILABLE (RDAP 404 + no DNS) ========",
+        "======== AVAILABLE (RDAP 404 + no DNS, Semrush >= 500) ========",
         available,
         traffic,
     )
     lines += block(
-        "======== CONFIRM AT REGISTRAR (flaky TLD RDAP: .be .com.au .nz .at .es .it .pt .org) ========",
-        confirm,
-        traffic,
-        extra={d: "rdap.org 404 + no DNS — confirm in registrar cart before treating as free" for d in confirm},
-    )
-    lines += block("======== TAKEN — DO NOT BUY ========", taken, traffic, extra=taken_extra)
-    lines += block(
-        "======== TAKEN + OFFLINE / DROP-WATCH (<=90 days) — still NOT available ========",
+        "======== DROP-WATCH (taken + site down + expiry <=90d + Semrush >= 500) — not for sale ========",
         drop,
         traffic,
         extra=drop_extra,
@@ -204,16 +185,15 @@ def main() -> None:
     lines += [
         "======== NOTES ========",
         "",
-        "Noxtools itself is up. This cloud IP (datacenter) hits Cloudflare 'Just a moment...' on noxtools.com,",
-        "so Semrush via Noxtools cannot be opened from this agent even though your home browser still works.",
-        "Until Cloudflare lets this IP through, volumes stay at the last verified Semrush numbers only.",
+        "Noxtools works in a normal browser. This cloud IP hits Cloudflare on noxtools.com, so volumes",
+        "cannot be refreshed from here. They will be updated as soon as Semrush is reachable.",
         "Rebuild: python3 research/iptv-seo/rebuild_lists.py && python3 research/iptv-seo/generate_text_list.py",
         "",
     ]
     text = "\n".join(lines)
     OUT.write_text(text, encoding="utf-8")
     OUT_ALIAS.write_text(text, encoding="utf-8")
-    print(f"WROTE {OUT} and {OUT_ALIAS} available={len(available)} confirm={len(confirm)} taken={len(taken)}")
+    print(f"WROTE {OUT} available={len(available)} dropwatch={len(drop)} keywords={len(kws)}")
     from generate_keywords_md import main as write_keywords_md
 
     write_keywords_md()
