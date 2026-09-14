@@ -93,7 +93,7 @@ def main() -> None:
         "",
         "Semrush refresh this run: **Chrome CDP** hit Semrush free Keyword Volume Checker (live JSON). **5 lookups / IP / day** — quota used. Extra country DBs returned remaining=0. Noxtools: curl=Cloudflare; Chrome reached Sign In (Servers 1–6 need a logged-in member session). NordLayer Linux client cannot run on this VM.",
         "",
-        "Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. TiviMate / IPTV Smarters = SEO topics, not brand domains.",
+        "Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. **Two-word domain names only** (hyphen or smashed, e.g. `avis-iptv.fr` / `compareiptv.us`). No 3+ word labels. TiviMate / IPTV Smarters = SEO topics, not brand domains.",
         "",
         "Noxtools still works in a normal browser. Curl from this IP is Cloudflare-blocked. Chrome reached the Sign In page; Servers 1–6 still need a member login. Semrush free-tool quota on this IP is exhausted (5/day).",
         "",
@@ -176,7 +176,7 @@ def main() -> None:
         },
         "iptv usa": {
             "priority": "HIGH",
-            "domain": "usa-iptv-guide.us",
+            "domain": "cordcutusa.us",
             "taken": "iptvusa.us / usa-iptv.us",
         },
         "iptv uk": {
@@ -325,8 +325,8 @@ def main() -> None:
         ("compareiptv.ca", "iptv canada"),
         ("iptvguide.ca", "iptv canada"),
         ("compareriptv.ca", "iptv canada"),
-        ("guide-abonnement-iptv.fr", "iptv france"),
-        ("avis-abonnement-iptv.fr", "abonnement iptv"),
+        ("compareiptv.us", "iptv"),
+        ("avis-iptv.us", "best iptv"),
     ]
     lines += [
         "",
@@ -336,6 +336,8 @@ def main() -> None:
         "| --- | --- | --- | --- |",
     ]
     for domain, kw_name in picks:
+        if skip_domain(domain):
+            continue
         if not meets_volume(traffic, kw_name):
             continue
         k = kws[kw_name]
@@ -459,7 +461,7 @@ def main() -> None:
         "",
         "## 8. Country TLDs — `.ca`, `.us`, and Europe",
         "",
-        "Full RDAP+DNS hunt across country-code names. Native registries: CIRA (`.ca`), nic.us (`.us`), AFNIC, DENIC, SIDN, SWITCH, Norid, Punktum, Traficom, Nominet. **404 + no DNS = AVAILABLE** on those. "
+        "Two-word names only. Native registries: CIRA (`.ca`), nic.us (`.us`), AFNIC, DENIC, SIDN, SWITCH, Norid, Punktum, Traficom, Nominet. **404 + no DNS = AVAILABLE** on those. "
         "`.be` / `.es` / `.it` / `.pt` / `.at` / `.se` / `.pl` / `.cz` / `.eu` are **not** listed as AVAILABLE — confirm at a registrar. **`.ie` ignored.** `.uk` names that contain `iptv` are skipped.",
         "Semrush is still unverified for US/UK/most EU languages from this IP, so these sit **outside** the Top 10 until volume ≥ 500 is confirmed.",
         "",

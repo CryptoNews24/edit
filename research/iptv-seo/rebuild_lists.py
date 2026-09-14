@@ -116,6 +116,8 @@ def main() -> None:
     for d, r in recheck.items():
         if r["verdict"] != "AVAILABLE":
             continue
+        if skip_domain(d):
+            continue
         if d.endswith(".fr"):
             if "essai" in d or "test" in d:
                 kwmap[d] = "essai iptv"

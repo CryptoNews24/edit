@@ -29,10 +29,273 @@ COUNTRY_TLD_LABELS = [
 ]
 
 
+# Longest-first tokens so compareiptv → compare + iptv, not leftover junk.
+_WORD_TOKENS = tuple(
+    sorted(
+        {
+            "abonnement",
+            "comparateur",
+            "comparatif",
+            "classement",
+            "anbietervergleich",
+            "aanbieders",
+            "vergelijken",
+            "vergelijker",
+            "vergleicher",
+            "vergleich",
+            "streaming",
+            "firestick",
+            "androidtv",
+            "android",
+            "appletv",
+            "smarters",
+            "tivimate",
+            "formuler",
+            "canadian",
+            "canada",
+            "quebec",
+            "ontario",
+            "france",
+            "deutsch",
+            "nederland",
+            "belgique",
+            "belgie",
+            "schweiz",
+            "suisse",
+            "meilleur",
+            "pascher",
+            "compare",
+            "comparer",
+            "stream",
+            "watch",
+            "guide",
+            "avis",
+            "essai",
+            "test",
+            "trial",
+            "forfait",
+            "abo",
+            "liste",
+            "legal",
+            "reddit",
+            "player",
+            "picks",
+            "plans",
+            "rank",
+            "rating",
+            "review",
+            "reviews",
+            "deals",
+            "cheap",
+            "best",
+            "beste",
+            "bedste",
+            "paras",
+            "basta",
+            "sammenlign",
+            "vertaa",
+            "jamfor",
+            "iptv",
+            "live",
+            "box",
+            "ott",
+            "tv",
+            "4k",
+            "usa",
+            "uk",
+            "nl",
+            "de",
+            "fr",
+            "ch",
+            "be",
+            "no",
+            "dk",
+            "fi",
+            "nord",
+            "maple",
+            "roku",
+            "samsung",
+            "cordcut",
+            "cordcutter",
+            "cutthecord",
+            "smarttv",
+            "smarter",
+            "xtream",
+            "m3u",
+            "mag",
+            "stick",
+            "apps",
+            "app",
+            "gids",
+            "opas",
+            "pruvodce",
+            "przewodnik",
+            "guia",
+            "guida",
+            "confronta",
+            "comparar",
+            "mejor",
+            "migliore",
+            "melhor",
+            "najlepszy",
+            "nejlepsi",
+            "porownaj",
+            "srovnani",
+            "ratgeber",
+            "anbieter",
+            "goedkoop",
+            "goedkope",
+            "guenstig",
+            "guenstige",
+            "houston",
+            "dallas",
+            "miami",
+            "atlanta",
+            "seattle",
+            "denver",
+            "boston",
+            "detroit",
+            "philadelphia",
+            "lasvegas",
+            "portland",
+            "nashville",
+            "austin",
+            "charlotte",
+            "toronto",
+            "montreal",
+            "vancouver",
+            "calgary",
+            "ottawa",
+            "edmonton",
+            "winnipeg",
+            "halifax",
+            "hamilton",
+            "kelowna",
+            "regina",
+            "saskatoon",
+            "victoria",
+            "mississauga",
+            "brampton",
+            "laval",
+            "gatineau",
+            "windsor",
+            "london",
+            "alberta",
+            "manitoba",
+            "atlantic",
+            "sask",
+            "bc",
+            "kw",
+            "berlin",
+            "hamburg",
+            "muenchen",
+            "frankfurt",
+            "stuttgart",
+            "koeln",
+            "duesseldorf",
+            "amsterdam",
+            "rotterdam",
+            "utrecht",
+            "eindhoven",
+            "denhaag",
+            "zurich",
+            "geneve",
+            "lausanne",
+            "bern",
+            "basel",
+            "oslo",
+            "bergen",
+            "kobenhavn",
+            "aarhus",
+            "helsinki",
+            "tampere",
+            "paris",
+            "lyon",
+            "marseille",
+            "toulouse",
+            "lille",
+            "nantes",
+            "bordeaux",
+            "nice",
+            "reims",
+            "dijon",
+            "angers",
+            "madrid",
+            "barcelona",
+            "roma",
+            "milano",
+            "lisboa",
+            "wien",
+            "praha",
+            "warszawa",
+            "chooser",
+            "checker",
+            "compareott",
+            "paytv",
+            "playlist",
+            "smart",
+            "tivi",
+            "mate",
+        },
+        key=len,
+        reverse=True,
+    )
+)
+
+
+def domain_label(domain: str) -> str:
+    d = domain.lower().strip()
+    if d.endswith(".co.uk"):
+        return d[: -len(".co.uk")]
+    if d.endswith(".com.au"):
+        return d[: -len(".com.au")]
+    if "." in d:
+        return d.rsplit(".", 1)[0]
+    return d
+
+
+def _tokenize_piece(piece: str) -> list[str]:
+    s = piece.lower()
+    out: list[str] = []
+    i = 0
+    while i < len(s):
+        hit = None
+        for tok in _WORD_TOKENS:
+            if s.startswith(tok, i):
+                hit = tok
+                break
+        if hit:
+            out.append(hit)
+            i += len(hit)
+            continue
+        out.append(s[i:])
+        break
+    return out
+
+
+def domain_word_count(domain: str) -> int:
+    """Hyphen parts plus smashed words inside each part (compareiptv = 2)."""
+    label = domain_label(domain)
+    if not label:
+        return 0
+    total = 0
+    for part in label.replace("_", "-").split("-"):
+        if not part:
+            continue
+        total += len(_tokenize_piece(part))
+    return total
+
+
+def is_two_word_domain(domain: str) -> bool:
+    return domain_word_count(domain) == 2
+
+
 def skip_domain(domain: str) -> bool:
     if domain.endswith(".ie"):
         return True
     if "iptv" in domain and (domain.endswith(".uk") or domain.endswith(".co.uk")):
+        return True
+    if not is_two_word_domain(domain):
         return True
     return False
 
@@ -118,12 +381,9 @@ PREFERRED_DOMAINS = (
     "compareriptv.ca",
     "avis-iptv.ca",
     "guideiptv.ca",
-    "guide-abonnement-iptv.fr",
-    "avis-abonnement-iptv.fr",
     "compareiptv.fr",
     "compareiptv.us",
     "avis-iptv.us",
-    "usa-iptv-guide.us",
     "firestick-guide.us",
 )
 
@@ -135,9 +395,7 @@ def rank_available_domains(traffic: dict, recheck: dict, limit: int = 10, per_ke
     for domain, row in recheck.items():
         if row.get("verdict") != "AVAILABLE":
             continue
-        if domain.endswith(".ie"):
-            continue
-        if "iptv" in domain and (domain.endswith(".uk") or ".co.uk" in domain):
+        if skip_domain(domain):
             continue
         kw = mapped_keyword(traffic, domain)
         if not meets_volume(traffic, kw):

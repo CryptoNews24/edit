@@ -17,6 +17,7 @@ from filters import (
     mapped_keyword,
     meets_volume,
     rank_available_domains,
+    skip_domain,
 )
 
 ROOT = Path(__file__).resolve().parent
@@ -64,8 +65,6 @@ PICKS = [
     "compareriptv.ca",
     "avis-iptv.ca",
     "guideiptv.ca",
-    "guide-abonnement-iptv.fr",
-    "avis-abonnement-iptv.fr",
 ]
 
 
@@ -94,9 +93,7 @@ def load_recheck() -> dict[str, dict]:
     rows = {}
     with (ROOT / "availability_recheck.csv").open(encoding="utf-8") as f:
         for r in csv.DictReader(f):
-            if r["domain"].endswith(".ie"):
-                continue
-            if "iptv" in r["domain"] and (r["domain"].endswith(".uk") or ".co.uk" in r["domain"]):
+            if skip_domain(r["domain"]):
                 continue
             rows[r["domain"]] = r
     return rows
@@ -136,7 +133,7 @@ def main() -> None:
     with (ROOT / "almost_expired_offline.csv").open(encoding="utf-8") as f:
         for r in csv.DictReader(f):
             d = r["Domain"]
-            if not domain_meets_volume(traffic, d):
+            if skip_domain(d) or not domain_meets_volume(traffic, d):
                 continue
             drop.append(d)
             days = r.get("Days to expiry", "")
@@ -158,7 +155,7 @@ def main() -> None:
         "IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)",
         f"Updated {now}",
         "",
-        f"Filters: AVAILABLE only. Semrush volume >= {MIN_VOLUME}/mo (verified). Taken names excluded",
+        f"Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= {MIN_VOLUME}/mo (verified). Taken names excluded",
         "except almost-expired + website down + mapped keyword volume >= 500.",
         "Confirm-at-registrar and unverified (N/A) names are excluded until Semrush confirms >= 500.",
         "Do not purchase from this file. Recheck at a registrar cart before buying.",
@@ -254,7 +251,7 @@ def main() -> None:
     lines += [
         "======== COUNTRY TLDs (.ca .us Europe) — full RDAP hunt ========",
         "",
-        "AVAILABLE = native RDAP 404 + no DNS. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.",
+        "AVAILABLE = native RDAP 404 + no DNS. Two-word names only. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.",
         "US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.",
         "",
     ]

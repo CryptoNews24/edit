@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T23:14:49Z",
+  "updated": "2026-09-14T23:30:29Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Noxtools currently 403/429 from this IP.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -507,7 +507,7 @@
     "samsung-tv-guide.us": "iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-14T23:14:49Z",
+    "attempted": "2026-09-14T23:30:29Z",
     "status": "partial",
     "detail": "Noxtools still Cloudflare for curl; Chrome reached Sign In but no member password in this session. NordLayer Linux daemon cannot run here. Semrush free Keyword Volume Checker live JSON via Chrome CDP, 5 lookups per IP per day. US head terms pulled; EU/UK DBs blocked after quota. analytics/keywordoverview requires Semrush login (My Reports).",
     "min_volume": 500
