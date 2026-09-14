@@ -1,13 +1,13 @@
 # IPTV keyword table
 
-Updated 2026-09-14 17:28 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
+Updated 2026-09-14 18:40 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
 Keywords with Semrush volume **under 500** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
-Semrush refresh attempted this run: **Noxtools Cloudflare-blocked** from this IP; public Semrush HTML has no live metrics. Figures below are the last verified pulls (not invented). They will be replaced as soon as Noxtools/Semrush is reachable.
+Semrush refresh this run: **Chrome CDP** hit Semrush free Keyword Volume Checker (live JSON). **5 lookups / IP / day** — quota used. Extra country DBs returned remaining=0. Noxtools: curl=Cloudflare; Chrome reached Sign In (Servers 1–6 need a logged-in member session). NordLayer Linux client cannot run on this VM.
 
 Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. TiviMate / IPTV Smarters = SEO topics, not brand domains.
 
-Noxtools still works in a normal browser. This cloud IP is blocked by Cloudflare, so new Semrush rows cannot be filled from here until that clears.
+Noxtools still works in a normal browser. Curl from this IP is Cloudflare-blocked. Chrome reached the Sign In page; Servers 1–6 still need a member login. Semrush free-tool quota on this IP is exhausted (5/day).
 
 ## Top 10 AVAILABLE (high traffic, low competition)
 
@@ -15,29 +15,35 @@ Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE n
 
 | Rank | Domain | Keyword | Volume / mo | KD | Score |
 | ---: | --- | --- | ---: | --- | ---: |
-| 1 | `avis-iptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
-| 2 | `avis-iptv.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
-| 3 | `guideiptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
-| 4 | `pascheriptv.fr` | iptv pas cher | 1.6K | 21 Easy | 1264.0 |
-| 5 | `essaiiptv.fr` | essai iptv | 590 | 4 Very easy | 566.4 |
-| 6 | `compareiptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
-| 7 | `compareriptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
-| 8 | `guideiptv.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
-| 9 | `iptvguide.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
-| 10 | `guide-abonnement-iptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
+| 1 | `iptv4k.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
+| 2 | `avis-iptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
+| 3 | `avis-iptv.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
+| 4 | `guideiptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
+| 5 | `avis-iptv.us` | best iptv | 5.4K | 23 Easy | 4158.0 |
+| 6 | `usa-iptv-guide.us` | iptv usa | 2.4K | 19 Easy | 1944.0 |
+| 7 | `pascheriptv.fr` | iptv pas cher | 1.6K | 21 Easy | 1264.0 |
+| 8 | `essaiiptv.fr` | essai iptv | 590 | 4 Very easy | 566.4 |
+| 9 | `firestick-guide.us` | iptv firestick | 590 | 38 Possible | 365.8 |
+| 10 | `iptvroku.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
 
 ## 1. Verified Semrush (sorted by volume)
 
 | Keyword | Country (DB) | Volume / mo | KD | CPC | Intent | Priority | Best AVAILABLE domain | Taken exact-match |
 | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
+| iptv | United States (`US`) | 90.5K | 62 Difficult | $1.16 | Informational | HIGH | `compareiptv.us` (AVAILABLE) | bestiptv.us / iptvusa.us |
 | abonnement iptv | France (`FR`) | 18.1K | 25 Easy | $0.69 | Informational | JACKPOT | `compareriptv.fr` (AVAILABLE) | abonnementiptv.fr |
 | iptv canada | Canada (`CA`) | 14.8K | 52 Difficult | $0.91 | Informational | HIGH | `compareiptv.ca` (AVAILABLE) | iptvcanada.ca (offline, expiry 2026-11-02) |
 | iptv france | France (`FR`) | 8.1K | 33 Possible | $0.57 | Commercial | HIGH | `guideiptv.fr` (AVAILABLE) | iptvfrance.fr |
 | meilleur iptv | France (`FR`) | 5.4K | 43 Possible | N/A | Commercial | HIGH | `compareriptv.fr` (AVAILABLE) | meilleuriptv.fr |
+| best iptv | United States (`US`) | 5.4K | 23 Easy | N/A | Informational / Commercial | HIGH | `compareiptv.us` (AVAILABLE) | bestiptv.us |
+| iptv subscription | United States (`US`) | 5.4K | 37 Possible | N/A | Commercial | MEDIUM | `compareiptv.us` (AVAILABLE) | iptvsubscription.us |
+| iptv usa | United States (`US`) | 2.4K | 19 Easy | N/A | Informational / Commercial | HIGH | `usa-iptv-guide.us` (AVAILABLE) | iptvusa.us / usa-iptv.us |
 | best iptv canada | Canada (`CA`) | 1.9K | 32 Possible | N/A | Commercial | MEDIUM | `iptvguide.ca` (AVAILABLE) | bestiptv.ca |
 | iptv ireland | Ireland (`IE`) | 1.9K | 23 Easy | N/A | Informational / Commercial | SEO only | — (SEO only, no `.ie`) | n/a |
 | iptv pas cher | France (`FR`) | 1.6K | 21 Easy | $0.00 | Commercial | HIGH | `pascheriptv.fr` (AVAILABLE) | iptvpascher.fr / iptv-pas-cher.fr |
+| iptv uk | United States (`US`) | 1.0K | 27 Easy | $0.00 | Informational | SEO only (US db) | `compareiptv.us` (AVAILABLE) | n/a — US searches for the query iptv uk; skip .uk names containing iptv |
 | essai iptv | France (`FR`) | 590 | 4 Very easy | $0.00 | Informational | LONG-TAIL | `essaiiptv.fr` (AVAILABLE) | essaiiptv.fr is AVAILABLE (not taken) |
+| iptv firestick | United States (`US`) | 590 | 38 Possible | N/A | Informational / Commercial | LONG-TAIL | `firestick-guide.us` (AVAILABLE) | firestickiptv.us / iptvfirestick.us |
 
 France verified cluster ≈ **33.8K**/mo (`abonnement iptv` + `iptv france` + `meilleur iptv` + `iptv pas cher` + `essai iptv`).
 Canada verified cluster ≈ **16.7K**/mo (`iptv canada` + `best iptv canada`). `iptv subscription canada` (390) is excluded (<500).
@@ -52,9 +58,13 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | iptv canada | Canada | en | 14800 | 52 Difficult | $0.91 | Informational | moderate | HIGH | `compareiptv.ca` | AVAILABLE | Verified 14.8K / KD 52 Difficult. EMD iptvcanada.ca taken and currently offline. |
 | iptv france | France | fr | 8100 | 33 Possible | $0.57 | Commercial | weak-moderate | HIGH | `guideiptv.fr` | AVAILABLE | Verified 8.1K / KD 33 Possible. iptvfrance.fr taken. |
 | meilleur iptv | France | fr | 5400 | 43 Possible | N/A | Commercial | N/A | HIGH | `compareriptv.fr` | AVAILABLE | Verified 5.4K / KD 43 Possible. |
+| best iptv | United States | en | 5400 | 23 Easy | N/A | Informational / Commercial | N/A | HIGH | `compareiptv.us` | AVAILABLE | Verified 5.4K / KD 23 Easy. bestiptv.us TAKEN. |
+| iptv subscription | United States | en | 5400 | 37 Possible | N/A | Commercial | N/A | MEDIUM | `compareiptv.us` | AVAILABLE | Verified 5.4K / KD 37. iptvsubscription.us TAKEN. |
+| iptv usa | United States | en | 2400 | 19 Easy | N/A | Informational / Commercial | N/A | HIGH | `usa-iptv-guide.us` | AVAILABLE | Verified 2.4K / KD 19 Easy. iptvusa.us TAKEN. |
 | iptv ireland | Ireland | en | 1900 | 23 Easy | N/A | Informational / Commercial | weak-moderate | HIGH | SKIP_IE_DOCUMENTS | ignored | SEO keyword only. No .ie domain recommendation. |
 | best iptv canada | Canada | en | 1900 | 32 Possible | N/A | Commercial | moderate | MEDIUM | `iptvguide.ca` | AVAILABLE | Verified 1.9K / KD 32 Possible. |
 | iptv pas cher | France | fr | 1600 | 21 Easy | $0.00 | Commercial | moderate | HIGH | `pascheriptv.fr` | AVAILABLE | Verified 1.6K / KD 21 Easy. iptvpascher.fr TAKEN. |
+| iptv uk | United States | en | 1000 | 27 Easy | $0.00 | Informational | N/A | MEDIUM | `compareiptv.us` | AVAILABLE | US searches for query iptv uk. Do not register .uk names containing iptv. |
 | essai iptv | France | fr | 590 | 4 Very Easy | N/A | Informational | N/A | LONG-TAIL CLUSTER | `essai-iptv.fr` | AVAILABLE | Verified 590 / KD 4 Very easy. essaiiptv.fr taken. |
 
 ## 3. SERP notes (keywords with volume >= 500)
@@ -62,6 +72,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | Keyword | Market | SERP | Top domains | Related searches |
 | --- | --- | --- | --- | --- |
 | iptv pas cher | France | moderate | iptvmagazine.com, guru99.com, selectra.info, comparateuriptv.com, moncodetv.com | iptv gratuit pc; iptv gratuit sans abonnement; iptv free; iptv github |
+| iptv firestick | US/global | moderate-hard | guru99.com, softwaretestinghelp.com, techcommuters.com, firestickhacks.com, fireviewtv.com | best iptv for firestick; iptv app for firestick; free iptv for firestick |
 
 ## 4. Keyword → domain picks
 
@@ -83,6 +94,51 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 
 | Domain | Country | Keyword | Volume / mo | KD | Availability |
 | --- | --- | --- | ---: | --- | --- |
+| `abonnementiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `android-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `androidtv-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `appletv-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `appletv-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `best-iptv-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `canadianiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `cheap-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `classementiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `comparateur-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `cordcutguide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `cordcutter.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `cutthecord.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `essaiiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `guideiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-arizona.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-california.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-chicago.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-florida.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-newyork.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-ohio.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-reviews.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-smart-tv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-texas.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv4k.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptvandroid.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptvchecker.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptvdeals.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptvlegal.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptvroku.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptvsamsung.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `legal-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `listeiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `live-tv-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `livetvguide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `pascheriptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `playlist-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `roku-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `roku-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `samsung-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `smart-tv-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `smarters-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `smarttviptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `testiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `tivimate-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `abo-avis.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `abo-compare.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `abo-iptv-avis.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -255,6 +311,37 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `guideiptv.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `iptv-lille-guide.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `iptvboxguide.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
+| `avis-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `boxcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `compare-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `compare-live-tv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `compareiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `compareott.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `compareriptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `comparestream.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-compare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvpicks.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvrating.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `live-tv-compare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `livecompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `ottcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `paytvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `streamcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `streamingcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `streamrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `tvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `watchcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `watchrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `cheap-iptv-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `cordcutusa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `iptv-deals-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `iptv-guide-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `iptv-reviews-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `legal-iptv-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `usa-iptv-compare.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `usa-iptv-guide.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
 | `abo-pas-cher.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `pas-cher-iptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `pascheriptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
@@ -264,6 +351,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `iptvessai-gratuit.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `iptvtest24.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `testiptv24.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
+| `firestick-guide.us` | United States | iptv firestick | 590 | 38 Possible | AVAILABLE |
+| `firestick-iptv.us` | United States | iptv firestick | 590 | 38 Possible | AVAILABLE |
 
 ## 6. Drop-watch only (taken + site down + almost expired + volume >= 500)
 

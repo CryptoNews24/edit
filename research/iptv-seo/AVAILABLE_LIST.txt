@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)
-Updated 2026-09-14 17:28 UTC
+Updated 2026-09-14 18:40 UTC
 
 Filters: AVAILABLE only. Semrush volume >= 500/mo (verified). Taken names excluded
 except almost-expired + website down + mapped keyword volume >= 500.
@@ -11,41 +11,47 @@ iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip .uk names tha
 
 Score = monthly volume × (100 − KD) / 100. AVAILABLE only. Max 3 names per keyword.
 
-  1. avis-iptv.fr
+  1. iptv4k.us
+     iptv  90.5K/mo  KD 62 Difficult  score 34390.0
+  2. avis-iptv.fr
      abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
-  2. avis-iptv.ca
+  3. avis-iptv.ca
      iptv canada  14.8K/mo  KD 52 Difficult  score 7104.0
-  3. guideiptv.fr
+  4. guideiptv.fr
      iptv france  8.1K/mo  KD 33 Possible  score 5427.0
-  4. pascheriptv.fr
+  5. avis-iptv.us
+     best iptv  5.4K/mo  KD 23 Easy  score 4158.0
+  6. usa-iptv-guide.us
+     iptv usa  2.4K/mo  KD 19 Easy  score 1944.0
+  7. pascheriptv.fr
      iptv pas cher  1.6K/mo  KD 21 Easy  score 1264.0
-  5. essaiiptv.fr
+  8. essaiiptv.fr
      essai iptv  590/mo  KD 4 Very easy  score 566.4
-  6. compareiptv.fr
-     abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
-  7. compareriptv.fr
-     abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
-  8. guideiptv.ca
-     iptv canada  14.8K/mo  KD 52 Difficult  score 7104.0
-  9. iptvguide.ca
-     iptv canada  14.8K/mo  KD 52 Difficult  score 7104.0
-  10. guide-abonnement-iptv.fr
-     iptv france  8.1K/mo  KD 33 Possible  score 5427.0
+  9. firestick-guide.us
+     iptv firestick  590/mo  KD 38 Possible  score 365.8
+  10. iptvroku.us
+     iptv  90.5K/mo  KD 62 Difficult  score 34390.0
 
 ======== VERIFIED SEMRUSH (>= 500/mo) ========
 
+  iptv  [US]  90.5K/mo  KD 62 Difficult  CPC $1.16  Informational
   abonnement iptv  [FR]  18.1K/mo  KD 25 Easy  CPC $0.69  Informational
   iptv canada  [CA]  14.8K/mo  KD 52 Difficult  CPC $0.91  Informational
   iptv france  [FR]  8.1K/mo  KD 33 Possible  CPC $0.57  Commercial
   meilleur iptv  [FR]  5.4K/mo  KD 43 Possible  CPC N/A  Commercial
+  best iptv  [US]  5.4K/mo  KD 23 Easy  CPC N/A  Informational / Commercial
+  iptv subscription  [US]  5.4K/mo  KD 37 Possible  CPC N/A  Commercial
+  iptv usa  [US]  2.4K/mo  KD 19 Easy  CPC N/A  Informational / Commercial
   best iptv canada  [CA]  1.9K/mo  KD 32 Possible  CPC N/A  Commercial
   iptv ireland  [IE]  1.9K/mo  KD 23 Easy  CPC N/A  Informational / Commercial
   iptv pas cher  [FR]  1.6K/mo  KD 21 Easy  CPC $0.00  Commercial
+  iptv uk  [US]  1.0K/mo  KD 27 Easy  CPC $0.00  Informational
   essai iptv  [FR]  590/mo  KD 4 Very easy  CPC $0.00  Informational
+  iptv firestick  [US]  590/mo  KD 38 Possible  CPC N/A  Informational / Commercial
 
 Ireland keywords are SEO-only. Do not register .ie.
-Dropped below 500: iptv subscription canada (390), best iptv ireland (140).
-Semrush refresh from this IP: Noxtools Cloudflare blocked; public Semrush page has no live numbers. Last verified figures kept.
+Dropped below 500: iptv subscription canada (390), best iptv ireland (140), cheap iptv US (390).
+Semrush: Chrome CDP pulled live US free-tool JSON (5 lookups/IP/day, quota used). Noxtools curl=Cloudflare; Chrome Sign In only. NordLayer Linux cannot run on this VM.
 
 ======== AVAILABLE (RDAP 404 + no DNS, Semrush >= 500) ========
 
@@ -248,6 +254,164 @@ France
     essai iptv — 590/mo KD 4 Very easy CPC $0.00 [FR]
   top-abo-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+
+United States
+  abonnementiptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  android-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  androidtv-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  appletv-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  appletv-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  avis-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  best-iptv-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  boxcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  canadianiptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  cheap-iptv-usa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  cheap-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  classementiptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  comparateur-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  compare-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  compare-live-tv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  compareiptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  compareott.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  compareriptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  comparestream.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  cordcutguide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  cordcutter.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  cordcutusa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  cutthecord.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  essaiiptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  firestick-guide.us
+    iptv firestick — 590/mo KD 38 Possible CPC N/A [US]
+  firestick-iptv.us
+    iptv firestick — 590/mo KD 38 Possible CPC N/A [US]
+  guideiptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-arizona.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-california.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-chicago.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-compare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  iptv-deals-usa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  iptv-florida.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-guide-usa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  iptv-newyork.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-ohio.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-reviews-usa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  iptv-reviews.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-smart-tv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-texas.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv4k.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptvandroid.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptvchecker.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptvcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  iptvdeals.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptvlegal.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptvpicks.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  iptvrank.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  iptvrating.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  iptvroku.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptvsamsung.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  legal-iptv-usa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  legal-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  listeiptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  live-tv-compare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  live-tv-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  livecompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  livetvguide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  ottcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  pascheriptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  paytvcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  playlist-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  roku-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  roku-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  samsung-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  smart-tv-iptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  smarters-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  smarttviptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  streamcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  streamingcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  streamrank.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  testiptv.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  tivimate-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  tvcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  usa-iptv-compare.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  usa-iptv-guide.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  watchcompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  watchrank.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
 
 Canada
   alberta-iptv-guide.ca
@@ -1306,6 +1470,6 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
 
 ======== NOTES ========
 
-Noxtools works in a normal browser. This cloud IP hits Cloudflare on noxtools.com, so volumes
-cannot be refreshed from here. They will be updated as soon as Semrush is reachable.
+Noxtools works in a normal browser. Curl hits Cloudflare. Chrome reached Sign In; Semrush Servers 1-6 need login.
+Semrush free Keyword Volume Checker: 5 live lookups per IP per day. US terms pulled; further DBs quota-blocked.
 Rebuild: python3 research/iptv-seo/rebuild_lists.py && python3 research/iptv-seo/generate_text_list.py

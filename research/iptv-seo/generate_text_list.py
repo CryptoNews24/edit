@@ -187,8 +187,8 @@ def main() -> None:
     lines += [
         "",
         "Ireland keywords are SEO-only. Do not register .ie.",
-        f"Dropped below {MIN_VOLUME}: iptv subscription canada (390), best iptv ireland (140).",
-        "Semrush refresh from this IP: Noxtools Cloudflare blocked; public Semrush page has no live numbers. Last verified figures kept.",
+        f"Dropped below {MIN_VOLUME}: iptv subscription canada (390), best iptv ireland (140), cheap iptv US (390).",
+        "Semrush: Chrome CDP pulled live US free-tool JSON (5 lookups/IP/day, quota used). Noxtools curl=Cloudflare; Chrome Sign In only. NordLayer Linux cannot run on this VM.",
         "",
     ]
     lines += block(
@@ -290,8 +290,8 @@ def main() -> None:
     lines += [
         "======== NOTES ========",
         "",
-        "Noxtools works in a normal browser. This cloud IP hits Cloudflare on noxtools.com, so volumes",
-        "cannot be refreshed from here. They will be updated as soon as Semrush is reachable.",
+        "Noxtools works in a normal browser. Curl hits Cloudflare. Chrome reached Sign In; Semrush Servers 1-6 need login.",
+        "Semrush free Keyword Volume Checker: 5 live lookups per IP per day. US terms pulled; further DBs quota-blocked.",
         "Rebuild: python3 research/iptv-seo/rebuild_lists.py && python3 research/iptv-seo/generate_text_list.py",
         "",
     ]

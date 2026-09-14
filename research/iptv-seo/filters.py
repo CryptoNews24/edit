@@ -121,7 +121,10 @@ PREFERRED_DOMAINS = (
     "guide-abonnement-iptv.fr",
     "avis-abonnement-iptv.fr",
     "compareiptv.fr",
-    "pas-cher-iptv.fr",
+    "compareiptv.us",
+    "avis-iptv.us",
+    "usa-iptv-guide.us",
+    "firestick-guide.us",
 )
 
 

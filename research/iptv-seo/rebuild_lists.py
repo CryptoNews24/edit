@@ -130,6 +130,17 @@ def main() -> None:
                 kwmap[d] = "iptv subscription canada"
             else:
                 kwmap[d] = "iptv canada"
+        elif d.endswith(".us"):
+            if "firestick" in d:
+                kwmap[d] = "iptv firestick"
+            elif "subscription" in d or "plans" in d:
+                kwmap[d] = "iptv subscription"
+            elif "usa" in d or "american" in d:
+                kwmap[d] = "iptv usa"
+            elif any(x in d for x in ("compare", "avis", "rank", "rating", "picks")):
+                kwmap[d] = "best iptv"
+            else:
+                kwmap[d] = "iptv"
     for d in (
         "iptvcanada.ca",
         "iptv-canada.ca",
@@ -139,11 +150,14 @@ def main() -> None:
     ):
         kwmap[d] = "iptv canada"
     kwmap["irishiptv.net"] = "iptv ireland"
+    kwmap["compareiptv.us"] = "iptv"
+    kwmap["compareriptv.us"] = "iptv"
+    kwmap["avis-iptv.us"] = "best iptv"
     traffic["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "status": "blocked",
-        "detail": "Noxtools Cloudflare challenge from this IP; public Semrush HTML has no live keyword metrics. Last verified volumes kept.",
+        "status": "partial",
+        "detail": "Noxtools still Cloudflare for curl; Chrome reached Sign In but no member password in this session. NordLayer Linux daemon cannot run here. Semrush free Keyword Volume Checker live JSON via Chrome CDP, 5 lookups per IP per day. US head terms pulled; EU/UK DBs blocked after quota. analytics/keywordoverview requires Semrush login (My Reports).",
         "min_volume": 500,
     }
     (CANVA / "traffic.json").write_text(json.dumps(traffic, indent=2) + "\n", encoding="utf-8")
