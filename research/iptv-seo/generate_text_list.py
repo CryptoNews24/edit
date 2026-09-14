@@ -49,6 +49,7 @@ PICKS = [
     "guideiptv.ca",
     "forfaitiptv.ca",
     "essaiiptv.ca",
+    "essai-iptv.ca",
     "guide-abonnement-iptv.fr",
     "avis-abonnement-iptv.fr",
     "iptvvergelijker.nl",

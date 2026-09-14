@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T14:34:04Z",
+  "updated": "2026-09-14T14:37:54Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Noxtools currently 403/429 from this IP.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -230,6 +230,30 @@
     "player-iptv.fr": "abonnement iptv",
     "smart-tv-iptv.fr": "abonnement iptv",
     "top-abo-iptv.fr": "abonnement iptv",
-    "tvcompare.ca": "iptv canada"
+    "tvcompare.ca": "iptv canada",
+    "android-iptv.fr": "abonnement iptv",
+    "avis-iptv-france.fr": "abonnement iptv",
+    "calgary-iptv-guide.ca": "iptv canada",
+    "canadian-iptv-guide.ca": "iptv canada",
+    "classement-abo-iptv.fr": "abonnement iptv",
+    "comparateur-abo.fr": "abonnement iptv",
+    "compare-iptv-canada.ca": "iptv canada",
+    "essai-iptv.ca": "iptv subscription canada",
+    "formuler-iptv.fr": "abonnement iptv",
+    "guide-iptv-france.fr": "iptv france",
+    "iptv-bordeaux.fr": "abonnement iptv",
+    "iptv-formuler.fr": "abonnement iptv",
+    "iptv-francais.ca": "iptv canada",
+    "iptv-lille.fr": "abonnement iptv",
+    "iptv-mag.fr": "abonnement iptv",
+    "iptv-montreal-guide.ca": "iptv canada",
+    "iptv-nantes.fr": "abonnement iptv",
+    "iptv-toulouse.fr": "abonnement iptv",
+    "iptv-trial.ca": "iptv canada",
+    "iptv-winnipeg.ca": "iptv canada",
+    "meilleur-iptv-canada.ca": "iptv canada",
+    "test-iptv.ca": "iptv canada",
+    "trialiptv.ca": "iptv canada",
+    "vancouver-iptv.ca": "iptv canada"
   }
 }
