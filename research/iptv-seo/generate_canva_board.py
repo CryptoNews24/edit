@@ -41,6 +41,8 @@ def rows_from_available(traffic: dict) -> list[dict]:
     out = []
     with path.open(encoding="utf-8") as f:
         for r in csv.DictReader(f):
+            if r["Domain"].endswith(".ie"):
+                continue
             label, detail = traffic_cell(r["Domain"], traffic)
             out.append(
                 {
@@ -92,6 +94,28 @@ def tr_available(r: dict) -> str:
     </tr>"""
 
 
+def rows_from_taken() -> list[dict]:
+    path = ROOT / "taken_not_available.csv"
+    if not path.exists():
+        return []
+    out = []
+    with path.open(encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            out.append(r)
+    return out
+
+
+def tr_taken(r: dict) -> str:
+    return f"""<tr>
+      <td class="domain">{esc(r.get('Domain'))}</td>
+      <td>{esc(r.get('Country'))}</td>
+      <td><span class="pill taken">{esc(r.get('Availability'))}</span></td>
+      <td>{esc(r.get('Website'))}</td>
+      <td>{esc(r.get('Expiry'))}</td>
+      <td class="sub">{esc(r.get('Notes'))}</td>
+    </tr>"""
+
+
 def tr_expired(r: dict) -> str:
     return f"""<tr>
       <td class="domain">{esc(r['domain'])}</td>
@@ -106,6 +130,7 @@ def tr_expired(r: dict) -> str:
 def main() -> None:
     traffic = load_json(CANVA / "traffic.json")
     avail = rows_from_available(traffic)
+    taken = rows_from_taken()
     expired = rows_from_expired(traffic)
     kws = traffic.get("keywords") or {}
     kw_rows = []
@@ -208,6 +233,7 @@ def main() -> None:
       font-weight: 700;
     }}
     .pill.warn {{ background: rgba(245,158,11,.16); color: var(--warn); }}
+    .pill.taken {{ background: rgba(248,113,113,.18); color: #fecaca; }}
     footer {{ padding: 0 40px 32px; color: var(--muted); font-size: 13px; }}
   </style>
 </head>
@@ -224,11 +250,13 @@ def main() -> None:
     </div>
   </header>
   <nav>
-    <button class="active" data-tab="available">Available / confirm</button>
-    <button data-tab="expired">Almost expired + offline</button>
+    <button class="active" data-tab="available">AVAILABLE only (rechecked)</button>
+    <button data-tab="taken">TAKEN — not for sale</button>
+    <button data-tab="expired">TAKEN + offline / almost expired</button>
     <button data-tab="keywords">Verified keyword traffic</button>
   </nav>
   <section id="available" class="active">
+    <p class="sub" style="margin:0 0 12px">AVAILABLE tab only. Rechecked today with registry RDAP. <b>iptvcanada.ca is TAKEN</b> and is not listed here.</p>
     <table>
       <thead>
         <tr>
@@ -237,6 +265,18 @@ def main() -> None:
       </thead>
       <tbody>
         {''.join(tr_available(r) for r in avail)}
+      </tbody>
+    </table>
+  </section>
+  <section id="taken">
+    <table>
+      <thead>
+        <tr>
+          <th>Domain</th><th>Country</th><th>Availability</th><th>Website</th><th>Expiry</th><th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        {''.join(tr_taken(r) for r in taken)}
       </tbody>
     </table>
   </section>
@@ -282,7 +322,7 @@ def main() -> None:
 </html>
 """
     OUT.write_text(page, encoding="utf-8")
-    print(f"WROTE {OUT} available={len(avail)} expired={len(expired)} keywords={len(kws)}")
+    print(f"WROTE {OUT} available={len(avail)} taken={len(taken)} expired={len(expired)} keywords={len(kws)}")
 
 
 if __name__ == "__main__":

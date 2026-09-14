@@ -249,6 +249,17 @@ def add(rows, seen, country, lang, kw, category, cluster):
     if not db:
         db = next((m[2] for m in MARKETS if m[0] == country), "")
     hint, tld = domain_hint(country, db, kw)
+    if hint in {
+        "iptvcanada.ca",
+        "iptv-canada.ca",
+        "bestiptv.ca",
+        "bestiptvcanada.ca",
+        "iptvsubscription.ca",
+        "abonnementiptv.fr",
+        "iptvfrance.fr",
+        "meilleuriptv.fr",
+    }:
+        hint = f"TAKEN:{hint}"
     status = "volume_verified" if kw.lower() in SEEDS_ALREADY else "queued"
     rows.append(
         {

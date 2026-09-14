@@ -8,7 +8,7 @@ Ireland keywords stay in the dictionary for SEO only. **Ignore all `.ie` domains
 
 France cluster now **32.2K** combined verified volume (`abonnement iptv` 18.1K Easy + `iptv france` 8.1K + `meilleur iptv` 5.4K + `essai iptv` 590 Very easy). New available names: `guideiptv.fr`, `essai-iptv.fr`, `pascheriptv.fr`.
 
-🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Use `compareiptv.ca` (EMD `iptvcanada.ca` is taken, offline, expires 2026-11-02).
+🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Register **`compareiptv.ca` or `iptvguide.ca`** (both rechecked AVAILABLE). **`iptvcanada.ca` is TAKEN** — drop-watch only, do not treat as available.
 
 Provisional score = commercial intent + SERP weakness + cluster + domain (max 50).
 
