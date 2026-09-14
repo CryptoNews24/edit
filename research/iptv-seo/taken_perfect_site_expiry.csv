@@ -1,0 +1,61 @@
+Date checked,Domain,Country,Perfect / taken,Website status,HTTP,Expiry date,Days to expiry,Almost expired (<=90d),On offline+expiry watchlist,RDAP HTTP,Notes,On secondary offline watch
+2026-09-14,iptvcanada.ca,Canada,yes,offline_no_dns,,2026-11-02,49,yes,yes,200,no A/AAAA,no
+2026-09-14,iptv-canada.ca,Canada,yes,offline_no_dns,,2026-07-26,-50,yes,yes,200,no A/AAAA,no
+2026-09-14,bestiptv.ca,Canada,yes,online,200,2027-03-21,188,no,no,200,responds,no
+2026-09-14,bestiptvcanada.ca,Canada,yes,online,200,2027-01-11,118,approaching,no,200,responds,no
+2026-09-14,iptvsubscription.ca,Canada,yes,offline_no_dns,,2027-01-01,109,approaching,no,200,no A/AAAA,yes
+2026-09-14,iptvservice.ca,Canada,yes,online,200,2027-02-13,152,approaching,no,200,responds,no
+2026-09-14,iptvprovider.ca,Canada,yes,parked_or_placeholder,200,2026-11-19,66,yes,yes,200,parking/placeholder page,no
+2026-09-14,streamcanada.ca,Canada,yes,online,200,2027-02-14,153,approaching,no,200,responds,no
+2026-09-14,mapleiptv.ca,Canada,yes,online,200,2026-10-14,30,yes,no,200,responds,no
+2026-09-14,iptvreviews.ca,Canada,yes,offline_no_dns,,2026-10-04,20,yes,yes,200,no A/AAAA,no
+2026-09-14,iptvtrial.ca,Canada,yes,parked_or_placeholder,200,2027-05-01,229,no,no,200,parking/placeholder page,no
+2026-09-14,streamnorth.ca,Canada,yes,offline_no_dns,,2027-06-19,278,no,no,200,no A/AAAA,no
+2026-09-14,watchiptv.ca,Canada,yes,offline_no_dns,,2027-05-04,232,no,no,200,no A/AAAA,no
+2026-09-14,livetvcanada.ca,Canada,yes,offline_no_dns,,2026-10-22,38,yes,yes,200,no A/AAAA,no
+2026-09-14,iptvcanada.net,Global / .net,yes,broken_site,404,2027-04-02,200,no,no,200,HTTP 404,no
+2026-09-14,iptvireland.net,Global / .net,yes,online,200,2027-06-07,266,no,no,200,responds,no
+2026-09-14,irishiptv.net,Global / .net,yes,offline,TimeoutError,2026-11-28,75,yes,yes,200,connection failed,no
+2026-09-14,bestiptvireland.net,Global / .net,yes,online,200,2027-02-25,164,approaching,no,200,responds,no
+2026-09-14,iptvfrance.fr,France,yes,offline_no_dns,,2027-03-22,188,no,no,200,no A/AAAA,no
+2026-09-14,abonnementiptv.fr,France,yes,offline_http_error,503,2027-03-06,173,approaching,no,200,HTTP 503,yes
+2026-09-14,meilleuriptv.fr,France,yes,online,200,2027-04-05,203,no,no,200,responds,no
+2026-09-14,iptv.fr,France,yes,offline_no_dns,,2027-03-03,170,approaching,no,200,no A/AAAA,yes
+2026-09-14,abo-iptv.fr,France,yes,online,200,2026-10-26,42,yes,no,200,responds,no
+2026-09-14,iptvguide.fr,France,yes,online_restricted,403,2027-09-12,363,no,no,200,host responds but blocked,no
+2026-09-14,meilleur-iptv.fr,France,yes,online_restricted,403,2027-05-26,254,no,no,200,host responds but blocked,no
+2026-09-14,iptvplayer.fr,France,yes,offline_no_dns,,2027-02-27,166,approaching,no,200,no A/AAAA,yes
+2026-09-14,testiptv.fr,France,yes,offline_no_dns,,2027-07-20,309,no,no,200,no A/AAAA,no
+2026-09-14,iptvessai.fr,France,yes,offline_no_dns,,2027-01-13,121,approaching,no,200,no A/AAAA,yes
+2026-09-14,iptvnederland.nl,Netherlands,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptv.nl,Netherlands,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptvabonnement.nl,Netherlands,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,besteiptv.nl,Netherlands,yes,offline_no_dns,,N/A,N/A,expiry_unknown,no,200,no A/AAAA,yes
+2026-09-14,iptvgids.nl,Netherlands,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptvvergelijken.nl,Netherlands,yes,parked_or_placeholder,200,N/A,N/A,expiry_unknown,no,200,parking/placeholder page,yes
+2026-09-14,iptvdeutschland.de,Germany,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptv.de,Germany,yes,offline,TimeoutError,N/A,N/A,expiry_unknown,no,200,connection failed,yes
+2026-09-14,iptvanbieter.de,Germany,yes,offline,URLError,N/A,N/A,expiry_unknown,no,200,connection failed,yes
+2026-09-14,iptvabo.de,Germany,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptvvergleich.de,Germany,yes,offline_http_error,502,N/A,N/A,expiry_unknown,no,200,HTTP 502,yes
+2026-09-14,iptv.ch,Switzerland,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptvsuisse.ch,Switzerland,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptvschweiz.ch,Switzerland,yes,online_restricted,403,N/A,N/A,,no,200,host responds but blocked,no
+2026-09-14,meilleuriptv.ch,Switzerland,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptvaustralia.com.au,Australia,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptv.com.au,Australia,yes,online_restricted,403,N/A,N/A,,no,200,host responds but blocked,no
+2026-09-14,bestiptv.com.au,Australia,yes,online,200,N/A,N/A,,no,200,responds,no
+2026-09-14,iptvaustralia.net,Global / .net,yes,parked_or_placeholder,200,2026-12-01,78,yes,yes,200,parking/placeholder page,no
+2026-09-14,iptvfrance.net,Global / .net,yes,online,200,2027-06-26,285,no,no,200,responds,no
+2026-09-14,abonnementiptv.net,Global / .net,yes,online_restricted,403,2027-05-28,256,no,no,200,host responds but blocked,no
+2026-09-14,iptvbelgique.net,Global / .net,yes,online,200,2027-04-22,220,no,no,200,responds,no
+2026-09-14,iptvsuisse.net,Global / .net,yes,online,200,2027-02-15,154,approaching,no,200,responds,no
+2026-09-14,iptvguide.net,Global / .net,yes,online,200,2027-10-31,412,no,no,200,responds,no
+2026-09-14,iptvdeals.net,Global / .net,yes,offline_no_dns,,2027-07-13,302,no,no,200,no A/AAAA,no
+2026-09-14,bestiptv.net,Global / .net,yes,offline_http_error,502,2027-06-14,273,no,no,200,HTTP 502,no
+2026-09-14,iptvusa.net,Global / .net,yes,online,200,2027-04-16,214,no,no,200,responds,no
+2026-09-14,iptvsubscription.net,Global / .net,yes,offline,TimeoutError,2027-02-09,148,approaching,no,200,connection failed,yes
+2026-09-14,iptvprovider.net,Global / .net,yes,online,200,2028-06-05,630,no,no,200,responds,no
+2026-09-14,iptvservice.net,Global / .net,yes,parked_or_placeholder,200,2027-08-05,325,no,no,200,parking/placeholder page,no
+2026-09-14,iptvireland.ie,Ireland,yes,online,200,N/A,N/A,,no,404,responds,no
+2026-09-14,irishiptv.ie,Ireland,yes,online,200,N/A,N/A,,no,404,responds,no

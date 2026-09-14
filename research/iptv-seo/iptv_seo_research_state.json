@@ -1,6 +1,6 @@
 {
   "project": "iptv-seo-domain-research",
-  "timestamp": "2026-09-13T23:40:00Z",
+  "timestamp": "2026-09-14T01:18:50.275517+00:00",
   "last_research_position": {
     "phase": "waiting_noxtools_login",
     "next_country": "Ireland",
@@ -87,8 +87,8 @@
     "iptv aanbieder",
     "iptv anbieter",
     "iptv abo",
-    "iptv österreich",
-    "iptv españa",
+    "iptv \u00f6sterreich",
+    "iptv espa\u00f1a",
     "mejor iptv",
     "iptv italia",
     "iptv portugal",
@@ -138,12 +138,26 @@
     },
     "france_abonnement": {
       "seed": "abonnement iptv",
-      "related_planned": ["iptv france", "meilleur iptv", "iptv box"]
+      "related_planned": [
+        "iptv france",
+        "meilleur iptv",
+        "iptv box"
+      ]
     },
-    "app_tivimate": {"seed": "tivimate", "domain_policy": "seo_only_no_emd"},
-    "app_smarters": {"seed": "iptv smarters", "domain_policy": "seo_only_no_emd"},
-    "device_firestick": {"seed": "iptv firestick"},
-    "device_smarttv": {"seed": "iptv smart tv"}
+    "app_tivimate": {
+      "seed": "tivimate",
+      "domain_policy": "seo_only_no_emd"
+    },
+    "app_smarters": {
+      "seed": "iptv smarters",
+      "domain_policy": "seo_only_no_emd"
+    },
+    "device_firestick": {
+      "seed": "iptv firestick"
+    },
+    "device_smarttv": {
+      "seed": "iptv smart tv"
+    }
   },
   "rejected_keywords": [],
   "rejected_opportunities": [
@@ -167,12 +181,46 @@
   ],
   "jackpots": [],
   "rdap_reliability": {
-    "trust": ["rdap.ca.fury.ca", "rdap.nic.fr", "rdap.sidn.nl", "rdap.denic.de", "rdap.nic.ch", "rdap.verisign.com"],
-    "do_not_trust_404_alone": ["rdap.org for .co/.ie/.be"],
+    "trust": [
+      "rdap.ca.fury.ca",
+      "rdap.nic.fr",
+      "rdap.sidn.nl",
+      "rdap.denic.de",
+      "rdap.nic.ch",
+      "rdap.verisign.com"
+    ],
+    "do_not_trust_404_alone": [
+      "rdap.org for .co/.ie/.be"
+    ],
     "rule": "If DNS resolves, treat as taken regardless of RDAP 404"
   },
   "errors": [
     "IEDR and DNS Belgium native RDAP hosts unreachable from this environment",
     "nic.co native RDAP DNS failure; used Identity Digital + DNS fallback"
-  ]
+  ],
+  "pipeline_steps": [
+    "keyword_serp",
+    "domain_rdap",
+    "taken_offline_almost_expired"
+  ],
+  "almost_expired_offline": {
+    "table": "almost_expired_offline.csv",
+    "secondary_table": "taken_offline_watch.csv",
+    "full_probe_table": "taken_perfect_site_expiry.csv",
+    "script": "check_taken_offline_expiry.py",
+    "almost_expired_days": 90,
+    "watch_days": 180,
+    "count": 7,
+    "domains": [
+      "iptv-canada.ca",
+      "iptvreviews.ca",
+      "livetvcanada.ca",
+      "iptvcanada.ca",
+      "iptvprovider.ca",
+      "irishiptv.net",
+      "iptvaustralia.net"
+    ],
+    "secondary_count": 11,
+    "rule": "If a perfect/taken domain has no working website AND expiry <= 90 days (or already expired), write it to almost_expired_offline.csv. Do not purchase."
+  }
 }

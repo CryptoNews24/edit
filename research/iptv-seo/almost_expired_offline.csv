@@ -1,0 +1,8 @@
+Date checked,Domain,Country,Perfect / taken,Website status,HTTP,Expiry date,Days to expiry,Almost expired (<=90d),On offline+expiry watchlist,RDAP HTTP,Notes,On secondary offline watch
+2026-09-14,iptv-canada.ca,Canada,yes,offline_no_dns,,2026-07-26,-50,yes,yes,200,no A/AAAA,no
+2026-09-14,iptvreviews.ca,Canada,yes,offline_no_dns,,2026-10-04,20,yes,yes,200,no A/AAAA,no
+2026-09-14,livetvcanada.ca,Canada,yes,offline_no_dns,,2026-10-22,38,yes,yes,200,no A/AAAA,no
+2026-09-14,iptvcanada.ca,Canada,yes,offline_no_dns,,2026-11-02,49,yes,yes,200,no A/AAAA,no
+2026-09-14,iptvprovider.ca,Canada,yes,parked_or_placeholder,200,2026-11-19,66,yes,yes,200,parking/placeholder page,no
+2026-09-14,irishiptv.net,Global / .net,yes,offline,TimeoutError,2026-11-28,75,yes,yes,200,connection failed,no
+2026-09-14,iptvaustralia.net,Global / .net,yes,parked_or_placeholder,200,2026-12-01,78,yes,yes,200,parking/placeholder page,no

@@ -8,6 +8,8 @@ There is no Canva API in this environment. These files are ready to drop into Ca
 | --- | --- |
 | `iptv-domains-table.png` | 1920 x 1080 slide. **Uploads → upload PNG → drag onto a Presentation (16:9)** |
 | `iptv-domains-canva-import.csv` | **Apps → Data / Sheets**, or insert a Table and paste columns |
+| `almost-expired-offline.png` | Second 16:9 slide — taken perfect names that are **offline and almost expired** |
+| `almost-expired-offline-canva.csv` | Same data for a Canva table |
 | `iptv-domains-table.html` | Source slide if you need to edit then re-export |
 
 ## Columns

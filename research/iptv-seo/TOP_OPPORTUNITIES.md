@@ -120,6 +120,22 @@ Priority: 🟡 MEDIUM pending metrics.
 
 Priority: 🟡 MEDIUM / ⚪ LOW until SEMrush AU database.
 
+## Almost expired + website not online (separate table)
+
+Checked 2026-09-14. Source: `almost_expired_offline.csv`. These are **perfect / taken** names whose sites do not work and whose registry expiry is **≤ 90 days** (or already past). **Do not purchase from this note alone** — confirm drop/redemption at the registry.
+
+| Domain | Country | Site | Expiry | Days |
+| --- | --- | --- | --- | --- |
+| iptv-canada.ca | Canada | Offline (no DNS) | 2026-07-26 | expired 50d (possible CIRA redemption) |
+| iptvreviews.ca | Canada | Offline (no DNS) | 2026-10-04 | 20 |
+| livetvcanada.ca | Canada | Offline (no DNS) | 2026-10-22 | 38 |
+| iptvcanada.ca | Canada | Offline (no DNS) | 2026-11-02 | 49 |
+| iptvprovider.ca | Canada | Parked / placeholder | 2026-11-19 | 66 |
+| irishiptv.net | Global | Offline (timeout) | 2026-11-28 | 75 |
+| iptvaustralia.net | Global | Parked / placeholder | 2026-12-01 | 78 |
+
+Offline but **not** almost-expired yet (later or unknown expiry): see `taken_offline_watch.csv` (`iptv.fr`, `abonnementiptv.fr`, `besteiptv.nl`, `iptv.de`, …).
+
 ## Explicitly not JACKPOT yet
 
 No keyword met: verified high volume + Easy/VE/NA KD + weak SERP + available ccTLD together.
