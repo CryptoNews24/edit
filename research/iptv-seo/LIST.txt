@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — plain text list
-Updated 2026-09-14 14:38 UTC
+Updated 2026-09-14 16:58 UTC
 
 Do not purchase from this file. Recheck at a registrar cart before buying.
 iptvcanada.ca is TAKEN. Ignore .ie domains. Skip .uk names that contain iptv.
@@ -74,6 +74,8 @@ Netherlands
     volume N/A (not verified in Semrush yet)
   beste-iptv-gids.nl
     volume N/A (not verified in Semrush yet)
+  beste-iptv-vergelijken.nl
+    volume N/A (not verified in Semrush yet)
   besteiptvgids.nl
     volume N/A (not verified in Semrush yet)
   gids-iptv.nl
@@ -87,6 +89,8 @@ Netherlands
   iptv-testen.nl
     volume N/A (not verified in Semrush yet)
   iptv-vergelijken.nl
+    volume N/A (not verified in Semrush yet)
+  iptv-vergelijker-nl.nl
     volume N/A (not verified in Semrush yet)
   iptvcheck.nl
     volume N/A (not verified in Semrush yet)
@@ -130,6 +134,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   classement-abo-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  classement-iptv-france.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   classement-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   classementiptv.fr
@@ -164,6 +170,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   forum-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  guide-abo-iptv.fr
+    iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-abonnement-iptv.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-iptv-france.fr
@@ -186,11 +194,19 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-marseille.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-montpellier.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-nantes.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-nice.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-paris.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-rennes.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-smart-tv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-strasbourg.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-toulouse.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -240,11 +256,15 @@ France
 Switzerland
   abo-iptv.ch
     volume N/A (not verified in Semrush yet)
+  avis-iptv-ch.ch
+    volume N/A (not verified in Semrush yet)
   avis-iptv-suisse.ch
     volume N/A (not verified in Semrush yet)
   avis-iptv.ch
     volume N/A (not verified in Semrush yet)
   comparatifiptv.ch
+    volume N/A (not verified in Semrush yet)
+  guide-iptv-suisse.ch
     volume N/A (not verified in Semrush yet)
   guide-iptv.ch
     volume N/A (not verified in Semrush yet)
@@ -261,6 +281,36 @@ Switzerland
   vergleich-iptv-schweiz.ch
     volume N/A (not verified in Semrush yet)
   vergleich-iptv.ch
+    volume N/A (not verified in Semrush yet)
+
+Germany
+  anbietervergleich-iptv.de
+    volume N/A (not verified in Semrush yet)
+  guenstig-iptv.de
+    volume N/A (not verified in Semrush yet)
+  iptv-abo-vergleich.de
+    volume N/A (not verified in Semrush yet)
+  iptv-anbieter-test.de
+    volume N/A (not verified in Semrush yet)
+  iptv-anleitung.de
+    volume N/A (not verified in Semrush yet)
+  iptv-ratgeber.de
+    volume N/A (not verified in Semrush yet)
+  iptv-testbericht.de
+    volume N/A (not verified in Semrush yet)
+  iptv-vergleich-portal.de
+    volume N/A (not verified in Semrush yet)
+  iptv-vergleicher.de
+    volume N/A (not verified in Semrush yet)
+  iptvratgeber.de
+    volume N/A (not verified in Semrush yet)
+  iptvvergleicher.de
+    volume N/A (not verified in Semrush yet)
+  ratgeber-iptv.de
+    volume N/A (not verified in Semrush yet)
+  vergleich-iptv.de
+    volume N/A (not verified in Semrush yet)
+  vergleichiptv.de
     volume N/A (not verified in Semrush yet)
 
 Global
@@ -306,6 +356,10 @@ Global
 Canada
   avis-iptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  bc-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  best-canadian-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   best-iptv-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   bestiptvguide.ca
@@ -342,11 +396,15 @@ Canada
     iptv subscription canada — 390/mo KD 32 Possible CPC $0.00 [CA]
   guideiptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-canada-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-compare.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-francais.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-montreal-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-ottawa-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-trial.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -398,6 +456,8 @@ Canada
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   nordiptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  quebec-iptv-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   reddit-iptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   smarttviptv.ca
@@ -417,30 +477,14 @@ Canada
   watchcompare.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
 
-Germany
-  guenstig-iptv.de
+Other
+  compareiptv.blog
     volume N/A (not verified in Semrush yet)
-  iptv-abo-vergleich.de
+  iptvcompare.blog
     volume N/A (not verified in Semrush yet)
-  iptv-anbieter-test.de
+  sammenlign-iptv.no
     volume N/A (not verified in Semrush yet)
-  iptv-anleitung.de
-    volume N/A (not verified in Semrush yet)
-  iptv-ratgeber.de
-    volume N/A (not verified in Semrush yet)
-  iptv-testbericht.de
-    volume N/A (not verified in Semrush yet)
-  iptv-vergleicher.de
-    volume N/A (not verified in Semrush yet)
-  iptvratgeber.de
-    volume N/A (not verified in Semrush yet)
-  iptvvergleicher.de
-    volume N/A (not verified in Semrush yet)
-  ratgeber-iptv.de
-    volume N/A (not verified in Semrush yet)
-  vergleich-iptv.de
-    volume N/A (not verified in Semrush yet)
-  vergleichiptv.de
+  sammenligniptv.no
     volume N/A (not verified in Semrush yet)
 
 Sweden
@@ -451,12 +495,6 @@ Denmark
   sammenlign-iptv.dk
     volume N/A (not verified in Semrush yet)
   sammenligniptv.dk
-    volume N/A (not verified in Semrush yet)
-
-Other
-  sammenlign-iptv.no
-    volume N/A (not verified in Semrush yet)
-  sammenligniptv.no
     volume N/A (not verified in Semrush yet)
 
 Finland
@@ -596,6 +634,34 @@ France
     TAKEN — Online — Not available
   test-iptv.fr
     TAKEN — DNS yes — Not available. Do not list as a buy.
+  top-iptv.fr
+    TAKEN — No DNS / offline-looking — Not available. Do not list as a buy.
+
+Global
+  abonnement-iptv.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  avisiptv.com
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  classementiptv.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  compareiptv.com
+    TAKEN — No DNS / offline-looking — Not available. Do not list as a buy.
+  firestickiptv.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  iptv-pas-cher.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  iptv-vergleich.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  iptvguide.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  iptvpicks.com
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  iptvtrial.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  meilleur-iptv.net
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  streamrank.com
+    TAKEN — DNS yes — Not available. Do not list as a buy.
 
 Canada
   abonnementiptv.ca
@@ -634,6 +700,10 @@ Canada
     TAKEN — Offline — Not available
   iptvtoronto.ca
     TAKEN — DNS yes — Not available. Do not list as a buy.
+  montreal-iptv.ca
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  ontario-iptv.ca
+    TAKEN — DNS yes — Not available. Do not list as a buy.
   quebeciptv.ca
     TAKEN — DNS yes — Not available. Do not list as a buy.
   streamguide.ca
@@ -655,26 +725,6 @@ Germany
   iptvguide.de
     TAKEN — DNS yes — Not available. Do not list as a buy.
   iptvtest.de
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-
-Global
-  avisiptv.com
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-  classementiptv.net
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-  compareiptv.com
-    TAKEN — No DNS / offline-looking — Not available. Do not list as a buy.
-  firestickiptv.net
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-  iptv-vergleich.net
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-  iptvguide.net
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-  iptvpicks.com
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-  iptvtrial.net
-    TAKEN — DNS yes — Not available. Do not list as a buy.
-  streamrank.com
     TAKEN — DNS yes — Not available. Do not list as a buy.
 
 Netherlands
@@ -731,5 +781,7 @@ Global
 
 ======== NOTES ========
 
-Noxtools member/Semrush often 403 or 429 from this IP. Retry Server 6. Do not invent KD/volume.
+Noxtools itself is up. This cloud IP (datacenter) hits Cloudflare 'Just a moment...' on noxtools.com,
+so Semrush via Noxtools cannot be opened from this agent even though your home browser still works.
+Until Cloudflare lets this IP through, volumes stay at the last verified Semrush numbers only.
 Rebuild: python3 research/iptv-seo/rebuild_lists.py && python3 research/iptv-seo/generate_text_list.py

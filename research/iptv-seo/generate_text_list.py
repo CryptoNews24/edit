@@ -204,7 +204,9 @@ def main() -> None:
     lines += [
         "======== NOTES ========",
         "",
-        "Noxtools member/Semrush often 403 or 429 from this IP. Retry Server 6. Do not invent KD/volume.",
+        "Noxtools itself is up. This cloud IP (datacenter) hits Cloudflare 'Just a moment...' on noxtools.com,",
+        "so Semrush via Noxtools cannot be opened from this agent even though your home browser still works.",
+        "Until Cloudflare lets this IP through, volumes stay at the last verified Semrush numbers only.",
         "Rebuild: python3 research/iptv-seo/rebuild_lists.py && python3 research/iptv-seo/generate_text_list.py",
         "",
     ]

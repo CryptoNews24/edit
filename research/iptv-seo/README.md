@@ -10,7 +10,7 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 
 | Source | Status |
 | --- | --- |
-| Noxtools / SEMrush | Member pages 403 / Semrush 429 from this IP |
+| Noxtools / SEMrush | Site works for you. **This agent IP is blocked by Cloudflare** ("Just a moment..." challenge). Not a down account. |
 | Google Search / Trends | CAPTCHA on this cloud IP |
 | Registrars (GoDaddy / Namecheap / Dynadot) | CAPTCHA |
 | Registry RDAP + DNS | Used for availability |

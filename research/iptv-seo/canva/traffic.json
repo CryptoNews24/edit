@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T14:37:54Z",
+  "updated": "2026-09-14T16:58:03Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Noxtools currently 403/429 from this IP.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -254,6 +254,17 @@
     "meilleur-iptv-canada.ca": "iptv canada",
     "test-iptv.ca": "iptv canada",
     "trialiptv.ca": "iptv canada",
-    "vancouver-iptv.ca": "iptv canada"
+    "vancouver-iptv.ca": "iptv canada",
+    "bc-iptv.ca": "iptv canada",
+    "best-canadian-iptv.ca": "iptv canada",
+    "classement-iptv-france.fr": "abonnement iptv",
+    "guide-abo-iptv.fr": "iptv france",
+    "iptv-canada-guide.ca": "iptv canada",
+    "iptv-montpellier.fr": "abonnement iptv",
+    "iptv-nice.fr": "abonnement iptv",
+    "iptv-ottawa-guide.ca": "iptv canada",
+    "iptv-rennes.fr": "abonnement iptv",
+    "iptv-strasbourg.fr": "abonnement iptv",
+    "quebec-iptv-guide.ca": "iptv canada"
   }
 }
