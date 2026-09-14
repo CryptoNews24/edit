@@ -8,7 +8,16 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import MIN_VOLUME, domain_meets_volume, keyword_volume, mapped_keyword, meets_volume, rank_available_domains
+from filters import (
+    COUNTRY_TLD_LABELS,
+    MIN_VOLUME,
+    country_tld_groups,
+    domain_meets_volume,
+    keyword_volume,
+    mapped_keyword,
+    meets_volume,
+    rank_available_domains,
+)
 
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
@@ -36,6 +45,10 @@ COUNTRY = {
     ".se": "Sweden",
     ".us": "United States",
     ".uk": "United Kingdom",
+    ".no": "Norway",
+    ".pl": "Poland",
+    ".cz": "Czechia",
+    ".eu": "EU",
 }
 
 PICKS = [
@@ -237,6 +250,43 @@ def main() -> None:
         traffic,
         extra=extra_uk_t,
     )
+    groups = country_tld_groups(recheck)
+    lines += [
+        "======== COUNTRY TLDs (.ca .us Europe) — full RDAP hunt ========",
+        "",
+        "AVAILABLE = native RDAP 404 + no DNS. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.",
+        "US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.",
+        "",
+    ]
+    for tld, label in COUNTRY_TLD_LABELS:
+        g = groups[tld]
+        if not any(g.values()):
+            continue
+        lines.append(
+            f".{tld}  {label}  AVAILABLE={len(g['AVAILABLE'])}  TAKEN={len(g['TAKEN'])}  "
+            f"confirm={len(g['CONFIRM'])}  unknown={len(g['UNKNOWN'])}"
+        )
+    lines.append("")
+    for tld, label in COUNTRY_TLD_LABELS:
+        g = groups[tld]
+        if not any(g.values()):
+            continue
+        lines.append(f"-------- .{tld} {label} AVAILABLE --------")
+        if g["AVAILABLE"]:
+            for d in g["AVAILABLE"]:
+                brand = ""
+                if "tivimate" in d or "smartersguide" in d or "smarters-" in d:
+                    brand = "  [SEO topic only — do not register brand EMD]"
+                lines.append(f"  {d}{brand}")
+        else:
+            lines.append("  (none marked AVAILABLE)")
+        if g["TAKEN"]:
+            lines.append("  TAKEN: " + ", ".join(g["TAKEN"]))
+        if g["CONFIRM"]:
+            lines.append("  CONFIRM AT REGISTRAR: " + ", ".join(g["CONFIRM"]))
+        if g["UNKNOWN"]:
+            lines.append("  UNKNOWN: " + ", ".join(g["UNKNOWN"]))
+        lines.append("")
     lines += [
         "======== NOTES ========",
         "",

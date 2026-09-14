@@ -14,7 +14,7 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 | Noxtools / SEMrush | Site works for you. **This agent IP is blocked by Cloudflare** ("Just a moment..." challenge). Not a down account. |
 | Google Search / Trends | CAPTCHA on this cloud IP |
 | Registrars (GoDaddy / Namecheap / Dynadot) | CAPTCHA |
-| Registry RDAP + DNS | Used for availability |
+| Registry RDAP + DNS | Used for availability — `KEYWORDS.md` §8 lists `.ca` / `.us` / Europe |
 | Bing SERP | Partial (later queries went generic and were dropped) |
 
 ## Files

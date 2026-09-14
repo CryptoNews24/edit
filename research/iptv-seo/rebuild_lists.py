@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import domain_meets_volume
+from filters import domain_meets_volume, skip_domain
 
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
@@ -34,6 +34,11 @@ COUNTRY = {
     ".us": "United States",
     ".co.uk": "United Kingdom",
     ".uk": "United Kingdom",
+    ".no": "Norway",
+    ".se": "Sweden",
+    ".pl": "Poland",
+    ".cz": "Czechia",
+    ".eu": "EU",
 }
 
 
@@ -45,11 +50,7 @@ def country(d: str) -> str:
 
 
 def skip(d: str) -> bool:
-    if d.endswith(".ie"):
-        return True
-    if "iptv" in d and (d.endswith(".uk") or ".co.uk" in d):
-        return True
-    return False
+    return skip_domain(d)
 
 
 def competition(ctry: str) -> str:

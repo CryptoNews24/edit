@@ -8,7 +8,16 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import MIN_VOLUME, domain_meets_volume, mapped_keyword, meets_volume, rank_available_domains
+from filters import (
+    COUNTRY_TLD_LABELS,
+    MIN_VOLUME,
+    country_tld_groups,
+    domain_meets_volume,
+    mapped_keyword,
+    meets_volume,
+    rank_available_domains,
+    skip_domain,
+)
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "KEYWORDS.md"
@@ -315,8 +324,20 @@ def main() -> None:
         ".ch": "Switzerland",
         ".nl": "Netherlands",
         ".de": "Germany",
+        ".us": "United States",
+        ".co.uk": "United Kingdom",
+        ".no": "Norway",
+        ".dk": "Denmark",
+        ".fi": "Finland",
+        ".se": "Sweden",
+        ".be": "Belgium",
+        ".at": "Austria",
+        ".es": "Spain",
+        ".it": "Italy",
+        ".pt": "Portugal",
         ".net": "Global",
         ".com": "Global",
+        ".eu": "EU",
     }
 
     def ctry(d: str) -> str:
@@ -327,7 +348,7 @@ def main() -> None:
 
     avail_rows = []
     for d, r in recheck.items():
-        if r["verdict"] != "AVAILABLE" or d.endswith(".ie") or ".uk" in d:
+        if r["verdict"] != "AVAILABLE" or skip_domain(d):
             continue
         if not domain_meets_volume(traffic, d):
             continue
@@ -359,7 +380,7 @@ def main() -> None:
                 f"| `{cell(d)}` | {cell(kw_name)} | {cell(k['volume_display'])} | {cell(r.get('Website status'))} | {cell(r.get('Expiry date'))} |"
             )
 
-    brand_skip = ("tivimate", "smarters")
+    brand_skip = ("tivimate", "smartersguide", "smarters-")
     us_uk = []
     for d, r in sorted(recheck.items()):
         if not (d.endswith(".us") or d.endswith(".co.uk") or (d.endswith(".uk") and not d.endswith(".co.uk"))):
@@ -367,7 +388,7 @@ def main() -> None:
         if "iptv" in d and (d.endswith(".uk") or d.endswith(".co.uk")):
             continue
         note = ""
-        if any(b in d for b in brand_skip):
+        if "tivimate" in d or "smartersguide" in d or "smarters-" in d:
             note = "SEO topic only — do not register brand EMD"
         us_uk.append((d, r, note))
     avail_uu = [x for x in us_uk if x[1]["verdict"] == "AVAILABLE"]
@@ -397,6 +418,54 @@ def main() -> None:
     for d, r, note in taken_uu:
         tld = ".us" if d.endswith(".us") else ".co.uk"
         lines.append(f"| `{cell(d)}` | {tld} | {cell(r['dns'])} |")
+
+    groups = country_tld_groups(recheck)
+    lines += [
+        "",
+        "## 8. Country TLDs — `.ca`, `.us`, and Europe",
+        "",
+        "Full RDAP+DNS hunt across country-code names. Native registries: CIRA (`.ca`), nic.us (`.us`), AFNIC, DENIC, SIDN, SWITCH, Norid, Punktum, Traficom, Nominet. **404 + no DNS = AVAILABLE** on those. "
+        "`.be` / `.es` / `.it` / `.pt` / `.at` / `.se` / `.pl` / `.cz` / `.eu` are **not** listed as AVAILABLE — confirm at a registrar. **`.ie` ignored.** `.uk` names that contain `iptv` are skipped.",
+        "Semrush is still unverified for US/UK/most EU languages from this IP, so these sit **outside** the Top 10 until volume ≥ 500 is confirmed.",
+        "",
+        "| TLD | Country | AVAILABLE | TAKEN | Confirm | UNKNOWN |",
+        "| --- | --- | ---: | ---: | ---: | ---: |",
+    ]
+    for tld, label in COUNTRY_TLD_LABELS:
+        g = groups[tld]
+        lines.append(
+            f"| .{tld} | {label} | {len(g['AVAILABLE'])} | {len(g['TAKEN'])} | {len(g['CONFIRM'])} | {len(g['UNKNOWN'])} |"
+        )
+    for tld, label in COUNTRY_TLD_LABELS:
+        g = groups[tld]
+        if not any(g.values()):
+            continue
+        lines += ["", f"### .{tld} — {label}", ""]
+        if g["AVAILABLE"]:
+            lines += [
+                f"**AVAILABLE ({len(g['AVAILABLE'])})** — native RDAP 404 + no DNS.",
+                "",
+                "| Domain |",
+                "| --- |",
+            ]
+            for d in g["AVAILABLE"]:
+                note = ""
+                if "tivimate" in d or "smartersguide" in d or "smarters-" in d:
+                    note = " — SEO topic only, do not register brand EMD"
+                lines.append(f"| `{cell(d)}`{note} |")
+            lines.append("")
+        else:
+            lines.append("No names marked AVAILABLE (native RDAP not trusted, or none free).")
+            lines.append("")
+        if g["TAKEN"]:
+            lines.append("**TAKEN — do not buy:** " + ", ".join(f"`{d}`" for d in g["TAKEN"]))
+            lines.append("")
+        if g["CONFIRM"]:
+            lines.append("**Confirm at registrar (not listed as free):** " + ", ".join(f"`{d}`" for d in g["CONFIRM"]))
+            lines.append("")
+        if g["UNKNOWN"]:
+            lines.append("**UNKNOWN (RDAP failed):** " + ", ".join(f"`{d}`" for d in g["UNKNOWN"]))
+            lines.append("")
 
     lines += [
         "",

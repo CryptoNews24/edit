@@ -5,6 +5,74 @@ from __future__ import annotations
 
 MIN_VOLUME = 500
 
+# Country-code hunt order: CA, US, then Europe. `.ie` is never listed.
+COUNTRY_TLD_LABELS = [
+    ("ca", "Canada"),
+    ("us", "United States"),
+    ("fr", "France"),
+    ("de", "Germany"),
+    ("nl", "Netherlands"),
+    ("ch", "Switzerland"),
+    ("be", "Belgium"),
+    ("at", "Austria"),
+    ("es", "Spain"),
+    ("it", "Italy"),
+    ("pt", "Portugal"),
+    ("se", "Sweden"),
+    ("no", "Norway"),
+    ("dk", "Denmark"),
+    ("fi", "Finland"),
+    ("pl", "Poland"),
+    ("cz", "Czechia"),
+    ("eu", "EU (.eu)"),
+    ("co.uk", "United Kingdom"),
+]
+
+
+def skip_domain(domain: str) -> bool:
+    if domain.endswith(".ie"):
+        return True
+    if "iptv" in domain and (domain.endswith(".uk") or domain.endswith(".co.uk")):
+        return True
+    return False
+
+
+def tld_key(domain: str) -> str:
+    if domain.endswith(".co.uk"):
+        return "co.uk"
+    if domain.endswith(".com.au"):
+        return "com.au"
+    return domain.rsplit(".", 1)[-1]
+
+
+def verdict_bucket(verdict: str) -> str:
+    v = (verdict or "").strip()
+    if v == "AVAILABLE":
+        return "AVAILABLE"
+    if v == "TAKEN":
+        return "TAKEN"
+    if v == "UNKNOWN":
+        return "UNKNOWN"
+    return "CONFIRM"
+
+
+def country_tld_groups(recheck: dict[str, dict]) -> dict[str, dict[str, list[str]]]:
+    """AVAILABLE / TAKEN / CONFIRM / UNKNOWN names per country TLD."""
+    out: dict[str, dict[str, list[str]]] = {}
+    for tld, _label in COUNTRY_TLD_LABELS:
+        out[tld] = {"AVAILABLE": [], "TAKEN": [], "CONFIRM": [], "UNKNOWN": []}
+    for domain, row in recheck.items():
+        if skip_domain(domain):
+            continue
+        tld = tld_key(domain)
+        if tld not in out:
+            continue
+        out[tld][verdict_bucket(row.get("verdict") or "")].append(domain)
+    for tld in out:
+        for k in out[tld]:
+            out[tld][k].sort()
+    return out
+
 
 def opportunity_score(volume: int, kd: int) -> float:
     """Higher is better: more searches, lower keyword difficulty."""
