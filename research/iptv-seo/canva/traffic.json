@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:15:54Z",
+  "updated": "2026-09-14T17:19:04Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Noxtools currently 403/429 from this IP.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -293,7 +293,7 @@
     "iptv-rankings.fr": "abonnement iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-14T17:15:54Z",
+    "attempted": "2026-09-14T17:19:04Z",
     "status": "blocked",
     "detail": "Noxtools Cloudflare challenge from this IP; public Semrush HTML has no live keyword metrics. Last verified volumes kept.",
     "min_volume": 500

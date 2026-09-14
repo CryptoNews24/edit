@@ -183,11 +183,59 @@ def main() -> None:
         available,
         traffic,
     )
+    us_avail = [
+        d for d, r in recheck.items()
+        if d.endswith(".us") and r["verdict"] == "AVAILABLE"
+    ]
+    uk_avail = [
+        d for d, r in recheck.items()
+        if (d.endswith(".co.uk") or d.endswith(".uk"))
+        and "iptv" not in d
+        and r["verdict"] == "AVAILABLE"
+    ]
+    us_taken = [
+        d for d, r in recheck.items()
+        if d.endswith(".us") and r["verdict"] == "TAKEN"
+    ]
+    uk_taken = [
+        d for d, r in recheck.items()
+        if (d.endswith(".co.uk") or d.endswith(".uk"))
+        and "iptv" not in d
+        and r["verdict"] == "TAKEN"
+    ]
+    extra_us = {d: "native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet." for d in us_avail}
+    extra_uk = {d: "Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet." for d in uk_avail}
+    extra_us_t = {d: "TAKEN — do not buy" for d in us_taken}
+    extra_uk_t = {d: "TAKEN — do not buy" for d in uk_taken}
     lines += block(
         "======== DROP-WATCH (taken + site down + expiry <=90d + Semrush >= 500) — not for sale ========",
         drop,
         traffic,
         extra=drop_extra,
+    )
+    lines += block(
+        "======== AVAILABLE .us (nic.us RDAP 404 + no DNS; Semrush US still N/A) ========",
+        us_avail,
+        traffic,
+        extra=extra_us,
+    )
+    lines += block(
+        "======== TAKEN .us — do not buy ========",
+        us_taken,
+        traffic,
+        extra=extra_us_t,
+    )
+    lines += block(
+        "======== AVAILABLE .uk/.co.uk with NO iptv in the name (Nominet) ========",
+        uk_avail,
+        traffic,
+        extra=extra_uk,
+    )
+    lines += block(
+        "======== TAKEN .uk/.co.uk — do not buy ========",
+        uk_taken,
+        traffic,
+        extra=extra_uk_t,
     )
     lines += [
         "======== NOTES ========",

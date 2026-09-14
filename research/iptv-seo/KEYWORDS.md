@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-14 17:16 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
+Updated 2026-09-14 17:19 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
 Keywords with Semrush volume **under 500** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush refresh attempted this run: **Noxtools Cloudflare-blocked** from this IP; public Semrush HTML has no live metrics. Figures below are the last verified pulls (not invented). They will be replaced as soon as Noxtools/Semrush is reachable.
@@ -249,39 +249,157 @@ Not for sale today. Shown because the mapped keyword is strong and the site is d
 | `iptvprovider.ca` | iptv canada | 14.8K | parked_or_placeholder | 2026-11-19 |
 | `irishiptv.net` | iptv ireland | 1.9K | offline | 2026-11-28 |
 
-## 7. `.us` and `.uk` checked this round
+## 7. `.us` and `.uk` (no `iptv` in `.uk` names)
 
-`.uk` names that contain `iptv` are skipped. Nominet / `.us` RDAP is treated as **Confirm at registrar** (not listed as AVAILABLE). US/UK Semrush volume is still N/A from this IP, so they are **not** in the Top 10 until volume ≥ 500 is verified.
+Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500.
+Checked 137 names this hunt: **109 AVAILABLE**, **28 TAKEN**.
 
-| Domain | Verdict | DNS |
+### AVAILABLE `.us` / `.uk`
+
+| Domain | TLD | Notes |
 | --- | --- | --- |
-| `abonnementiptv.us` | Confirm at registrar | no |
-| `avis-iptv.us` | Confirm at registrar | no |
-| `bestiptv.us` | TAKEN | yes |
-| `boxcompare.co.uk` | Confirm at registrar | no |
-| `compareapps.co.uk` | Confirm at registrar | no |
-| `compareboxes.co.uk` | Confirm at registrar | no |
-| `compareiptv.us` | Confirm at registrar | no |
-| `comparelive.co.uk` | Confirm at registrar | no |
-| `compareriptv.us` | Confirm at registrar | no |
-| `comparestream.co.uk` | Confirm at registrar | no |
-| `comparestream.us` | Confirm at registrar | no |
-| `cordcutter.co.uk` | Confirm at registrar | no |
-| `essaiiptv.us` | Confirm at registrar | no |
-| `firestickguide.co.uk` | Confirm at registrar | no |
-| `guideiptv.us` | Confirm at registrar | no |
-| `iptvcompare.us` | Confirm at registrar | no |
-| `iptvguide.us` | TAKEN | yes |
-| `livecompare.co.uk` | Confirm at registrar | no |
-| `pascheriptv.us` | Confirm at registrar | no |
-| `smarterstreaming.co.uk` | Confirm at registrar | no |
-| `streamcompare.co.uk` | Confirm at registrar | no |
-| `streamcompare.us` | Confirm at registrar | no |
-| `streamguide.co.uk` | TAKEN | no |
-| `streamingguide.co.uk` | Confirm at registrar | no |
-| `tvcompare.co.uk` | TAKEN | yes |
-| `watchcompare.co.uk` | Confirm at registrar | no |
-| `watchcompare.us` | Confirm at registrar | no |
+| `abonnementiptv.us` | .us | native RDAP 404 + no DNS |
+| `android-iptv.us` | .us | native RDAP 404 + no DNS |
+| `androidboxguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `androidtvguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `appletv-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `appletv-iptv.us` | .us | native RDAP 404 + no DNS |
+| `avis-iptv.us` | .us | native RDAP 404 + no DNS |
+| `best-android-box.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `best-firestick.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `best-streaming-box.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `boxcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `boxcompare.us` | .us | native RDAP 404 + no DNS |
+| `british-tv-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `canadianiptv.us` | .us | native RDAP 404 + no DNS |
+| `cheap-iptv.us` | .us | native RDAP 404 + no DNS |
+| `classementiptv.us` | .us | native RDAP 404 + no DNS |
+| `comparateur-iptv.us` | .us | native RDAP 404 + no DNS |
+| `compare-live-tv.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `compare-streaming.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `compareapps.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `compareboxes.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `comparefirestick.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `compareiptv.us` | .us | native RDAP 404 + no DNS |
+| `comparelive.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `compareott.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `compareott.us` | .us | native RDAP 404 + no DNS |
+| `compareplayers.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `compareriptv.us` | .us | native RDAP 404 + no DNS |
+| `comparestream.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `comparestream.us` | .us | native RDAP 404 + no DNS |
+| `comparetvguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cordcut.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cordcutter.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cordcutter.us` | .us | native RDAP 404 + no DNS |
+| `cordcutusa.us` | .us | native RDAP 404 + no DNS |
+| `cutthecord.us` | .us | native RDAP 404 + no DNS |
+| `essaiiptv.us` | .us | native RDAP 404 + no DNS |
+| `firestick-iptv.us` | .us | native RDAP 404 + no DNS |
+| `firestickapps.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `firestickcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `firestickguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `firestickhelp.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `formuler-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `freetv-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `guideiptv.us` | .us | native RDAP 404 + no DNS |
+| `iptv-reviews.us` | .us | native RDAP 404 + no DNS |
+| `iptv4k.us` | .us | native RDAP 404 + no DNS |
+| `iptvandroid.us` | .us | native RDAP 404 + no DNS |
+| `iptvchecker.us` | .us | native RDAP 404 + no DNS |
+| `iptvcompare.us` | .us | native RDAP 404 + no DNS |
+| `iptvdeals.us` | .us | native RDAP 404 + no DNS |
+| `iptvlegal.us` | .us | native RDAP 404 + no DNS |
+| `iptvpicks.us` | .us | native RDAP 404 + no DNS |
+| `iptvrank.us` | .us | native RDAP 404 + no DNS |
+| `iptvrating.us` | .us | native RDAP 404 + no DNS |
+| `iptvroku.us` | .us | native RDAP 404 + no DNS |
+| `iptvsamsung.us` | .us | native RDAP 404 + no DNS |
+| `legal-iptv.us` | .us | native RDAP 404 + no DNS |
+| `listeiptv.us` | .us | native RDAP 404 + no DNS |
+| `live-tv-guide.us` | .us | native RDAP 404 + no DNS |
+| `livecompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `livecompare.us` | .us | native RDAP 404 + no DNS |
+| `liveguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `livetv-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `livetvguide.us` | .us | native RDAP 404 + no DNS |
+| `m3uguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `magboxguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `ottcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `ottcompare.us` | .us | native RDAP 404 + no DNS |
+| `ottguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `pascheriptv.us` | .us | native RDAP 404 + no DNS |
+| `paytvcompare.us` | .us | native RDAP 404 + no DNS |
+| `playercompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `playlist-guide.us` | .us | native RDAP 404 + no DNS |
+| `playlistguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `roku-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `roku-iptv.us` | .us | native RDAP 404 + no DNS |
+| `rokuguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `samsung-iptv.us` | .us | native RDAP 404 + no DNS |
+| `smart-tv-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `smart-tv-iptv.us` | .us | native RDAP 404 + no DNS |
+| `smarters-guide.us` | .us | SEO topic only — do not register brand EMD |
+| `smartersguide.co.uk` | .co.uk | SEO topic only — do not register brand EMD |
+| `smarterstreaming.co.uk` | .co.uk | SEO topic only — do not register brand EMD |
+| `smarttvguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `smarttviptv.us` | .us | native RDAP 404 + no DNS |
+| `stickguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `stream-box-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `streamcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `streamcompare.us` | .us | native RDAP 404 + no DNS |
+| `streaming-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `streamingcompare.us` | .us | native RDAP 404 + no DNS |
+| `streamingdeals.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `streamingguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `streamrank.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `streamrank.us` | .us | native RDAP 404 + no DNS |
+| `testiptv.us` | .us | native RDAP 404 + no DNS |
+| `tivimate-guide.us` | .us | SEO topic only — do not register brand EMD |
+| `tivimateguide.co.uk` | .co.uk | SEO topic only — do not register brand EMD |
+| `tvboxguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `tvcompare.us` | .us | native RDAP 404 + no DNS |
+| `tvdealsguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `tvguidecompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `watch-live-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `watchcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `watchcompare.us` | .us | native RDAP 404 + no DNS |
+| `watchrank.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `watchrank.us` | .us | native RDAP 404 + no DNS |
+| `xtreamguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+
+### TAKEN `.us` / `.uk` — do not buy
+
+| Domain | TLD | DNS |
+| --- | --- | --- |
+| `americaniptv.us` | .us | yes |
+| `bestiptv.us` | .us | yes |
+| `boxdeals.co.uk` | .co.uk | no |
+| `cutthecord.co.uk` | .co.uk | yes |
+| `firestickiptv.us` | .us | no |
+| `freetvguide.us` | .us | yes |
+| `iptv-usa.us` | .us | yes |
+| `iptvapp.us` | .us | no |
+| `iptvbox.us` | .us | yes |
+| `iptvcanada.us` | .us | yes |
+| `iptvfirestick.us` | .us | yes |
+| `iptvguide.us` | .us | yes |
+| `iptvplans.us` | .us | yes |
+| `iptvplayer.us` | .us | yes |
+| `iptvprovider.us` | .us | yes |
+| `iptvreviews.us` | .us | yes |
+| `iptvservice.us` | .us | yes |
+| `iptvsubscription.us` | .us | yes |
+| `iptvtest.us` | .us | yes |
+| `iptvtrial.us` | .us | yes |
+| `iptvusa.us` | .us | yes |
+| `m3uiptv.us` | .us | yes |
+| `streamguide.co.uk` | .co.uk | no |
+| `tvcompare.co.uk` | .co.uk | yes |
+| `ukstreamguide.co.uk` | .co.uk | yes |
+| `usa-iptv.us` | .us | yes |
+| `watchguide.co.uk` | .co.uk | yes |
+| `xtreamiptv.us` | .us | yes |
 
 ## Rebuild
 

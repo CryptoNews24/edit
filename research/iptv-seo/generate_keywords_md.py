@@ -359,21 +359,44 @@ def main() -> None:
                 f"| `{cell(d)}` | {cell(kw_name)} | {cell(k['volume_display'])} | {cell(r.get('Website status'))} | {cell(r.get('Expiry date'))} |"
             )
 
-    lines += [
-        "",
-        "## 7. `.us` and `.uk` checked this round",
-        "",
-        "`.uk` names that contain `iptv` are skipped. Nominet / `.us` RDAP is treated as **Confirm at registrar** (not listed as AVAILABLE). US/UK Semrush volume is still N/A from this IP, so they are **not** in the Top 10 until volume ≥ 500 is verified.",
-        "",
-        "| Domain | Verdict | DNS |",
-        "| --- | --- | --- |",
-    ]
+    brand_skip = ("tivimate", "smarters")
+    us_uk = []
     for d, r in sorted(recheck.items()):
-        if not (d.endswith(".us") or d.endswith(".uk") or d.endswith(".co.uk")):
+        if not (d.endswith(".us") or d.endswith(".co.uk") or (d.endswith(".uk") and not d.endswith(".co.uk"))):
             continue
         if "iptv" in d and (d.endswith(".uk") or d.endswith(".co.uk")):
             continue
-        lines.append(f"| `{cell(d)}` | {cell(r['verdict'])} | {cell(r['dns'])} |")
+        note = ""
+        if any(b in d for b in brand_skip):
+            note = "SEO topic only — do not register brand EMD"
+        us_uk.append((d, r, note))
+    avail_uu = [x for x in us_uk if x[1]["verdict"] == "AVAILABLE"]
+    taken_uu = [x for x in us_uk if x[1]["verdict"] == "TAKEN"]
+    lines += [
+        "",
+        "## 7. `.us` and `.uk` (no `iptv` in `.uk` names)",
+        "",
+        "Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500.",
+        f"Checked {len(us_uk)} names this hunt: **{len(avail_uu)} AVAILABLE**, **{len(taken_uu)} TAKEN**.",
+        "",
+        "### AVAILABLE `.us` / `.uk`",
+        "",
+        "| Domain | TLD | Notes |",
+        "| --- | --- | --- |",
+    ]
+    for d, r, note in avail_uu:
+        tld = ".us" if d.endswith(".us") else ".co.uk"
+        lines.append(f"| `{cell(d)}` | {tld} | {cell(note or 'native RDAP 404 + no DNS')} |")
+    lines += [
+        "",
+        "### TAKEN `.us` / `.uk` — do not buy",
+        "",
+        "| Domain | TLD | DNS |",
+        "| --- | --- | --- |",
+    ]
+    for d, r, note in taken_uu:
+        tld = ".us" if d.endswith(".us") else ".co.uk"
+        lines.append(f"| `{cell(d)}` | {tld} | {cell(r['dns'])} |")
 
     lines += [
         "",

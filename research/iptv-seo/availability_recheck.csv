@@ -11,12 +11,18 @@ abonnement-iptv.net,200,yes,TAKEN
 abonnementiptv.be,404,no,Confirm at registrar
 abonnementiptv.ca,200,yes,TAKEN
 abonnementiptv.fr,200,yes,TAKEN
-abonnementiptv.us,404,no,Confirm at registrar
+abonnementiptv.us,404,no,AVAILABLE
+americaniptv.us,200,yes,TAKEN
 amsterdam-iptv.nl,404,no,AVAILABLE
 anbieteriptv.de,200,no,TAKEN
 anbietervergleich-iptv.de,404,no,AVAILABLE
 android-box-iptv.fr,404,no,AVAILABLE
 android-iptv.fr,404,no,AVAILABLE
+android-iptv.us,404,no,AVAILABLE
+androidboxguide.co.uk,404,no,AVAILABLE
+androidtvguide.co.uk,404,no,AVAILABLE
+appletv-guide.co.uk,404,no,AVAILABLE
+appletv-iptv.us,404,no,AVAILABLE
 avis-abo-france.fr,404,no,AVAILABLE
 avis-abo-iptv.fr,404,no,AVAILABLE
 avis-abo.net,404,no,AVAILABLE
@@ -31,43 +37,53 @@ avis-iptv.ch,404,no,AVAILABLE
 avis-iptv.co,404,no,Confirm at registrar
 avis-iptv.fr,404,no,AVAILABLE
 avis-iptv.net,404,no,AVAILABLE
-avis-iptv.us,404,no,Confirm at registrar
+avis-iptv.us,404,no,AVAILABLE
 avisabo.fr,404,no,AVAILABLE
 avisiptv.com,200,yes,TAKEN
 avisiptv.fr,404,no,AVAILABLE
 bc-iptv.ca,404,no,AVAILABLE
 berlin-iptv.de,404,no,AVAILABLE
+best-android-box.co.uk,404,no,AVAILABLE
 best-canadian-iptv.ca,404,no,AVAILABLE
+best-firestick.co.uk,404,no,AVAILABLE
 best-iptv-guide.ca,404,no,AVAILABLE
+best-streaming-box.co.uk,404,no,AVAILABLE
 beste-iptv-gids.nl,404,no,AVAILABLE
 beste-iptv-vergelijken.nl,404,no,AVAILABLE
 beste-iptv.nl,200,yes,TAKEN
 besteiptv.be,404,no,Confirm at registrar
 besteiptvgids.nl,404,no,AVAILABLE
 bestiptv.ca,200,yes,TAKEN
-bestiptv.us,404,yes,TAKEN
+bestiptv.us,200,yes,TAKEN
 bestiptvguide.ca,404,no,AVAILABLE
 bestiptvguide.com.au,404,no,Confirm at registrar
 box-iptv.fr,200,yes,TAKEN
 boxandroidiptv.fr,404,no,AVAILABLE
-boxcompare.co.uk,404,no,Confirm at registrar
+boxcompare.co.uk,404,no,AVAILABLE
+boxcompare.us,404,no,AVAILABLE
+boxdeals.co.uk,200,no,TAKEN
+british-tv-guide.co.uk,404,no,AVAILABLE
 calgary-iptv-guide.ca,404,no,AVAILABLE
 canada-iptv-guide.ca,404,no,AVAILABLE
 canadian-iptv-guide.ca,404,no,AVAILABLE
 canadianiptv.ca,200,yes,TAKEN
+canadianiptv.us,404,no,AVAILABLE
 canadiantvguide.ca,404,no,AVAILABLE
+cheap-iptv.us,404,no,AVAILABLE
 choisiriptv.fr,404,no,AVAILABLE
 classement-abo-iptv.fr,404,no,AVAILABLE
 classement-iptv-france.fr,404,no,AVAILABLE
 classement-iptv.fr,404,no,AVAILABLE
 classementiptv.fr,404,no,AVAILABLE
 classementiptv.net,200,yes,TAKEN
+classementiptv.us,404,no,AVAILABLE
 comparar-iptv.es,404,no,Confirm at registrar
 comparar-iptv.pt,404,no,Confirm at registrar
 comparariptv.es,404,no,Confirm at registrar
 comparariptv.pt,404,no,Confirm at registrar
 comparateur-abo.fr,404,no,AVAILABLE
 comparateur-iptv.fr,404,no,AVAILABLE
+comparateur-iptv.us,404,no,AVAILABLE
 comparateuriptv.fr,404,no,AVAILABLE
 comparatif-abo-iptv.fr,404,no,AVAILABLE
 comparatif-iptv.fr,404,no,AVAILABLE
@@ -79,9 +95,12 @@ compare-iptv-canada.ca,404,no,AVAILABLE
 compare-iptv-france.fr,404,no,AVAILABLE
 compare-iptv.ca,404,no,AVAILABLE
 compare-iptv.com.au,404,no,Confirm at registrar
+compare-live-tv.co.uk,404,no,AVAILABLE
 compare-stream.fr,404,no,AVAILABLE
-compareapps.co.uk,404,no,Confirm at registrar
-compareboxes.co.uk,404,no,Confirm at registrar
+compare-streaming.co.uk,404,no,AVAILABLE
+compareapps.co.uk,404,no,AVAILABLE
+compareboxes.co.uk,404,no,AVAILABLE
+comparefirestick.co.uk,404,no,AVAILABLE
 compareforfait.ca,404,no,AVAILABLE
 compareiptv.blog,404,no,AVAILABLE
 compareiptv.ca,404,no,AVAILABLE
@@ -92,9 +111,12 @@ compareiptv.fr,404,no,AVAILABLE
 compareiptv.net,404,no,AVAILABLE
 compareiptv.nz,404,no,Confirm at registrar
 compareiptv.org,404,no,Confirm at registrar
-compareiptv.us,404,no,Confirm at registrar
+compareiptv.us,404,no,AVAILABLE
 compareiptvguide.ca,404,no,AVAILABLE
-comparelive.co.uk,404,no,Confirm at registrar
+comparelive.co.uk,404,no,AVAILABLE
+compareott.co.uk,404,no,AVAILABLE
+compareott.us,404,no,AVAILABLE
+compareplayers.co.uk,404,no,AVAILABLE
 comparerguides.fr,404,no,AVAILABLE
 compareriptv.be,404,no,Confirm at registrar
 compareriptv.ca,404,no,AVAILABLE
@@ -102,31 +124,45 @@ compareriptv.co,404,no,Confirm at registrar
 compareriptv.com,404,no,AVAILABLE
 compareriptv.fr,404,no,AVAILABLE
 compareriptv.net,404,no,AVAILABLE
-compareriptv.us,404,no,Confirm at registrar
+compareriptv.us,404,no,AVAILABLE
 comparestream.ca,404,no,AVAILABLE
-comparestream.co.uk,404,no,Confirm at registrar
-comparestream.us,404,no,Confirm at registrar
+comparestream.co.uk,404,no,AVAILABLE
+comparestream.us,404,no,AVAILABLE
+comparetvguide.co.uk,404,no,AVAILABLE
 confronta-iptv.it,404,no,Confirm at registrar
 confrontaiptv.it,404,no,Confirm at registrar
+cordcut.co.uk,404,no,AVAILABLE
 cordcutcanada.ca,404,no,AVAILABLE
-cordcutter.co.uk,404,no,Confirm at registrar
+cordcutter.co.uk,404,no,AVAILABLE
+cordcutter.us,404,no,AVAILABLE
+cordcutusa.us,404,no,AVAILABLE
 cutthecord.ca,200,yes,TAKEN
+cutthecord.co.uk,200,yes,TAKEN
+cutthecord.us,404,no,AVAILABLE
 essai-gratuit-iptv.fr,404,no,AVAILABLE
 essai-iptv.ca,404,no,AVAILABLE
 essai-iptv.fr,404,no,AVAILABLE
 essai-iptv.net,404,no,AVAILABLE
 essaiiptv.ca,404,no,AVAILABLE
 essaiiptv.fr,404,no,AVAILABLE
-essaiiptv.us,404,no,Confirm at registrar
+essaiiptv.us,404,no,AVAILABLE
 firestick-iptv.fr,404,no,AVAILABLE
+firestick-iptv.us,404,no,AVAILABLE
+firestickapps.co.uk,404,no,AVAILABLE
 firestickcanada.ca,404,no,AVAILABLE
-firestickguide.co.uk,404,no,Confirm at registrar
+firestickcompare.co.uk,404,no,AVAILABLE
+firestickguide.co.uk,404,no,AVAILABLE
+firestickhelp.co.uk,404,no,AVAILABLE
 firestickiptv.net,200,yes,TAKEN
+firestickiptv.us,200,no,TAKEN
 forfaitiptv.ca,404,no,AVAILABLE
 forfaitiptv.fr,404,no,AVAILABLE
 forfaitiptv.net,404,no,AVAILABLE
+formuler-guide.co.uk,404,no,AVAILABLE
 formuler-iptv.fr,404,no,AVAILABLE
 forum-iptv.fr,404,no,AVAILABLE
+freetv-guide.co.uk,404,no,AVAILABLE
+freetvguide.us,200,yes,TAKEN
 gids-iptv.nl,404,no,AVAILABLE
 goedkoop-iptv.nl,404,no,AVAILABLE
 goedkopeiptv.nl,200,yes,TAKEN
@@ -150,7 +186,7 @@ guideiptv.ca,404,no,AVAILABLE
 guideiptv.ch,404,no,AVAILABLE
 guideiptv.fr,404,no,AVAILABLE
 guideiptv.net,404,no,AVAILABLE
-guideiptv.us,404,no,Confirm at registrar
+guideiptv.us,404,no,AVAILABLE
 iptv-4k-france.fr,200,yes,TAKEN
 iptv-4k.ca,200,yes,TAKEN
 iptv-aanbieders.nl,200,yes,TAKEN
@@ -205,6 +241,7 @@ iptv-rank.fr,404,no,AVAILABLE
 iptv-rankings.fr,404,no,AVAILABLE
 iptv-ratgeber.de,404,no,AVAILABLE
 iptv-rennes.fr,404,no,AVAILABLE
+iptv-reviews.us,404,no,AVAILABLE
 iptv-roma.it,404,no,Confirm at registrar
 iptv-schweiz-guide.ch,404,no,AVAILABLE
 iptv-score.fr,404,no,AVAILABLE
@@ -216,6 +253,7 @@ iptv-testen.nl,404,no,AVAILABLE
 iptv-toulouse.fr,404,no,AVAILABLE
 iptv-tours.fr,404,no,AVAILABLE
 iptv-trial.ca,404,no,AVAILABLE
+iptv-usa.us,200,yes,TAKEN
 iptv-vergelijken.nl,404,no,AVAILABLE
 iptv-vergelijker-nl.nl,404,no,AVAILABLE
 iptv-vergleich-portal.de,404,no,AVAILABLE
@@ -226,16 +264,22 @@ iptv-winnipeg.ca,404,no,AVAILABLE
 iptv-zurich.ch,404,no,AVAILABLE
 iptv4k.ca,200,yes,TAKEN
 iptv4k.fr,200,yes,TAKEN
+iptv4k.us,404,no,AVAILABLE
 iptvabo.fr,200,yes,TAKEN
 iptvandroid.fr,404,no,AVAILABLE
+iptvandroid.us,404,no,AVAILABLE
+iptvapp.us,200,no,TAKEN
 iptvau.com.au,404,no,Confirm at registrar
 iptvavis.fr,200,yes,TAKEN
 iptvbelgie.be,404,no,Confirm at registrar
+iptvbox.us,200,yes,TAKEN
 iptvboxguide.fr,404,no,AVAILABLE
 iptvcalgary.ca,200,yes,TAKEN
 iptvcanada.ca,200,no,TAKEN
+iptvcanada.us,200,yes,TAKEN
 iptvcheck.de,200,yes,TAKEN
 iptvcheck.nl,404,no,AVAILABLE
+iptvchecker.us,404,no,AVAILABLE
 iptvchooser.ca,404,no,AVAILABLE
 iptvchooser.net,404,no,AVAILABLE
 iptvclassement.fr,404,no,AVAILABLE
@@ -243,14 +287,16 @@ iptvcompare.blog,404,no,AVAILABLE
 iptvcompare.ca,404,no,AVAILABLE
 iptvcompare.co,404,no,Confirm at registrar
 iptvcompare.com,404,no,AVAILABLE
-iptvcompare.us,404,no,Confirm at registrar
+iptvcompare.us,404,no,AVAILABLE
 iptvdeals.ca,404,no,AVAILABLE
+iptvdeals.us,404,no,AVAILABLE
 iptvdealscanada.ca,404,no,AVAILABLE
 iptvedmonton.ca,200,yes,TAKEN
 iptvessai-gratuit.fr,404,no,AVAILABLE
 iptvessai.ca,404,no,AVAILABLE
 iptvessais.net,404,no,AVAILABLE
 iptvfiable.fr,200,yes,TAKEN
+iptvfirestick.us,200,yes,TAKEN
 iptvfrancais.ca,404,no,AVAILABLE
 iptvfrance.fr,200,no,TAKEN
 iptvgids.be,404,no,Confirm at registrar
@@ -262,11 +308,12 @@ iptvguide.com.au,200,no,TAKEN
 iptvguide.de,200,yes,TAKEN
 iptvguide.net,200,yes,TAKEN
 iptvguide.nz,404,no,Confirm at registrar
-iptvguide.us,404,yes,TAKEN
+iptvguide.us,200,yes,TAKEN
 iptvhalifax.ca,200,yes,TAKEN
 iptvkelowna.ca,404,no,AVAILABLE
 iptvlegal.ca,404,no,AVAILABLE
 iptvlegal.fr,200,yes,TAKEN
+iptvlegal.us,404,no,AVAILABLE
 iptvlyon.fr,404,no,AVAILABLE
 iptvmontreal.ca,200,yes,TAKEN
 iptvottawa-guide.ca,404,no,AVAILABLE
@@ -275,22 +322,36 @@ iptvparis.fr,200,yes,TAKEN
 iptvpicks.ca,404,no,AVAILABLE
 iptvpicks.com,200,yes,TAKEN
 iptvpicks.net,404,no,AVAILABLE
+iptvpicks.us,404,no,AVAILABLE
 iptvplans.ca,404,no,AVAILABLE
+iptvplans.us,200,yes,TAKEN
+iptvplayer.us,200,yes,TAKEN
+iptvprovider.us,200,yes,TAKEN
 iptvquebec.ca,200,yes,TAKEN
 iptvquebecguide.ca,404,no,AVAILABLE
 iptvrank.ca,404,no,AVAILABLE
+iptvrank.us,404,no,AVAILABLE
 iptvratgeber.de,404,no,AVAILABLE
 iptvrating.ca,404,no,AVAILABLE
 iptvrating.net,404,no,AVAILABLE
+iptvrating.us,404,no,AVAILABLE
 iptvregina.ca,404,no,AVAILABLE
 iptvreview.com.au,404,no,Confirm at registrar
 iptvreview.nl,200,no,TAKEN
+iptvreviews.us,200,yes,TAKEN
+iptvroku.us,404,no,AVAILABLE
+iptvsamsung.us,404,no,AVAILABLE
 iptvservice.ca,200,yes,TAKEN
+iptvservice.us,200,yes,TAKEN
 iptvsubscription.ca,200,no,TAKEN
+iptvsubscription.us,200,yes,TAKEN
 iptvtest.de,200,yes,TAKEN
+iptvtest.us,200,yes,TAKEN
 iptvtest24.fr,404,no,AVAILABLE
 iptvtoronto.ca,200,yes,TAKEN
 iptvtrial.net,200,yes,TAKEN
+iptvtrial.us,200,yes,TAKEN
+iptvusa.us,200,yes,TAKEN
 iptvvancouver.ca,404,no,AVAILABLE
 iptvvergelijker.com,404,no,AVAILABLE
 iptvvergelijker.net,404,no,AVAILABLE
@@ -303,10 +364,20 @@ iptvwinnipeg.ca,404,no,AVAILABLE
 jamfor-iptv.se,404,no,AVAILABLE
 jamforiptv.se,,yes,TAKEN
 legal-iptv.ca,404,no,AVAILABLE
+legal-iptv.us,404,no,AVAILABLE
 lg-iptv.fr,404,no,AVAILABLE
 listeiptv.fr,404,no,AVAILABLE
-livecompare.co.uk,404,no,Confirm at registrar
+listeiptv.us,404,no,AVAILABLE
+live-tv-guide.us,404,no,AVAILABLE
+livecompare.co.uk,404,no,AVAILABLE
+livecompare.us,404,no,AVAILABLE
+liveguide.co.uk,404,no,AVAILABLE
+livetv-compare.co.uk,404,no,AVAILABLE
+livetvguide.us,404,no,AVAILABLE
 m3u-iptv.fr,200,yes,TAKEN
+m3uguide.co.uk,404,no,AVAILABLE
+m3uiptv.us,200,yes,TAKEN
+magboxguide.co.uk,404,no,AVAILABLE
 mapleiptvguide.ca,404,no,AVAILABLE
 meilleur-abo-iptv.fr,404,no,AVAILABLE
 meilleur-iptv-avis.fr,404,no,AVAILABLE
@@ -322,12 +393,19 @@ montreal-iptv-guide.ca,404,no,AVAILABLE
 montreal-iptv.ca,200,yes,TAKEN
 nordiptv.ca,404,no,AVAILABLE
 ontario-iptv.ca,200,yes,TAKEN
+ottcompare.co.uk,404,no,AVAILABLE
+ottcompare.us,404,no,AVAILABLE
+ottguide.co.uk,404,no,AVAILABLE
 pas-cher-iptv.fr,404,no,AVAILABLE
 pascheriptv.fr,404,no,AVAILABLE
 pascheriptv.net,404,no,AVAILABLE
-pascheriptv.us,404,no,Confirm at registrar
+pascheriptv.us,404,no,AVAILABLE
+paytvcompare.us,404,no,AVAILABLE
 player-iptv.fr,404,no,AVAILABLE
+playercompare.co.uk,404,no,AVAILABLE
 playeriptv.fr,404,no,AVAILABLE
+playlist-guide.us,404,no,AVAILABLE
+playlistguide.co.uk,404,no,AVAILABLE
 proef-iptv.nl,404,no,AVAILABLE
 quebec-iptv-guide.ca,404,no,AVAILABLE
 quebeciptv.ca,200,yes,TAKEN
@@ -336,35 +414,61 @@ rankingiptv.fr,404,no,AVAILABLE
 ratgeber-iptv.at,404,no,Confirm at registrar
 ratgeber-iptv.de,404,no,AVAILABLE
 reddit-iptv.ca,404,no,AVAILABLE
+roku-guide.co.uk,404,no,AVAILABLE
+roku-iptv.us,404,no,AVAILABLE
+rokuguide.co.uk,404,no,AVAILABLE
 sammenlign-iptv.dk,404,no,AVAILABLE
 sammenlign-iptv.no,404,no,AVAILABLE
 sammenligniptv.dk,404,no,AVAILABLE
 sammenligniptv.no,404,no,AVAILABLE
+samsung-iptv.us,404,no,AVAILABLE
 samsungiptv.fr,404,no,AVAILABLE
 selectiptv.fr,404,no,AVAILABLE
+smart-tv-guide.co.uk,404,no,AVAILABLE
 smart-tv-iptv.fr,404,no,AVAILABLE
-smarterstreaming.co.uk,404,no,Confirm at registrar
+smart-tv-iptv.us,404,no,AVAILABLE
+smarters-guide.us,404,no,AVAILABLE
+smartersguide.co.uk,404,no,AVAILABLE
+smarterstreaming.co.uk,404,no,AVAILABLE
+smarttvguide.co.uk,404,no,AVAILABLE
 smarttviptv.ca,404,no,AVAILABLE
 smarttviptv.net,404,no,AVAILABLE
+smarttviptv.us,404,no,AVAILABLE
+stickguide.co.uk,404,no,AVAILABLE
+stream-box-guide.co.uk,404,no,AVAILABLE
 stream-compare.fr,404,no,AVAILABLE
 streamcompare.ca,404,no,AVAILABLE
-streamcompare.co.uk,404,no,Confirm at registrar
+streamcompare.co.uk,404,no,AVAILABLE
 streamcompare.net,404,no,AVAILABLE
-streamcompare.us,404,no,Confirm at registrar
+streamcompare.us,404,no,AVAILABLE
 streamguide.ca,200,yes,TAKEN
 streamguide.co.uk,200,no,TAKEN
-streamingguide.co.uk,404,no,Confirm at registrar
+streaming-compare.co.uk,404,no,AVAILABLE
+streamingcompare.us,404,no,AVAILABLE
+streamingdeals.co.uk,404,no,AVAILABLE
+streamingguide.co.uk,404,no,AVAILABLE
 streamrank.ca,404,no,AVAILABLE
+streamrank.co.uk,404,no,AVAILABLE
 streamrank.com,200,yes,TAKEN
+streamrank.us,404,no,AVAILABLE
 sydney-iptv.com.au,404,no,Confirm at registrar
 test-iptv.ca,404,no,AVAILABLE
 test-iptv.fr,200,yes,TAKEN
+testiptv.us,404,no,AVAILABLE
 testiptv24.fr,404,no,AVAILABLE
+tivimate-guide.us,404,no,AVAILABLE
+tivimateguide.co.uk,404,no,AVAILABLE
 top-abo-iptv.fr,404,no,AVAILABLE
 top-iptv.fr,200,no,TAKEN
 trialiptv.ca,404,no,AVAILABLE
+tvboxguide.co.uk,404,no,AVAILABLE
 tvcompare.ca,404,no,AVAILABLE
 tvcompare.co.uk,200,yes,TAKEN
+tvcompare.us,404,no,AVAILABLE
+tvdealsguide.co.uk,404,no,AVAILABLE
+tvguidecompare.co.uk,404,no,AVAILABLE
+ukstreamguide.co.uk,200,yes,TAKEN
+usa-iptv.us,200,yes,TAKEN
 vancouver-iptv.ca,404,no,AVAILABLE
 vergelijk-iptv.nl,404,no,AVAILABLE
 vergelijken-iptv.nl,404,no,AVAILABLE
@@ -375,6 +479,12 @@ vergleich-iptv.de,404,no,AVAILABLE
 vergleichiptv.at,404,no,Confirm at registrar
 vergleichiptv.de,404,no,AVAILABLE
 vertaa-iptv.fi,404,no,AVAILABLE
+watch-live-compare.co.uk,404,no,AVAILABLE
 watchcompare.ca,404,no,AVAILABLE
-watchcompare.co.uk,404,no,Confirm at registrar
-watchcompare.us,404,no,Confirm at registrar
+watchcompare.co.uk,404,no,AVAILABLE
+watchcompare.us,404,no,AVAILABLE
+watchguide.co.uk,200,yes,TAKEN
+watchrank.co.uk,404,no,AVAILABLE
+watchrank.us,404,no,AVAILABLE
+xtreamguide.co.uk,404,no,AVAILABLE
+xtreamiptv.us,200,yes,TAKEN
