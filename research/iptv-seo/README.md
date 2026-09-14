@@ -1,12 +1,15 @@
 # IPTV SEO + domain opportunity research
 
-Living research workspace. **Do not treat search volumes or keyword difficulty as real unless they come from a logged-in SEMrush/Noxtools session.**
+Living research workspace. Volumes are real only when taken from SEMrush (Noxtools or the public free keyword tool).
 
-## Status (2026-09-13)
+**Canva (new tab):** open `canva/board.html` after each batch. Rebuild with `python3 generate_canva_board.py`.
+
+## Status (2026-09-14)
 
 | Source | Status |
 | --- | --- |
-| Noxtools / SEMrush | **Blocked — login required.** Browser hit `https://noxtools.com/secure/login`. No credentials were entered. |
+| Noxtools / SEMrush login | **Still blocked** on login. |
+| SEMrush free keyword tool | Verified 5 keywords, then daily cap. |
 | Google Search / Trends | CAPTCHA / unusual-traffic block on this cloud IP |
 | GoDaddy / Namecheap / Dynadot | CAPTCHA or access denied |
 | DuckDuckGo SERPs | Collected (see `serp_notes.md`) |
@@ -28,6 +31,8 @@ Living research workspace. **Do not treat search volumes or keyword difficulty a
 | `check_taken_offline_expiry.py` | Pipeline step: RDAP expiry + HTTP live check |
 | `TOP_OPPORTUNITIES.md` | Ranked actionable list |
 | `serp_notes.md` | Observed SERP notes |
+| `canva/board.html` | **Canva board — open in a new browser tab** (3 inner tabs, rebuilt every batch) |
+| `generate_canva_board.py` | Regenerates `board.html` from CSVs + `canva/traffic.json` |
 
 ## Pipeline (every research batch)
 
@@ -38,7 +43,9 @@ Living research workspace. **Do not treat search volumes or keyword difficulty a
    - Read registry expiry from RDAP.
    - If the **site does not work** (no DNS, timeout, 5xx, parking/placeholder) **and** expiry is **within 90 days** (or past expiry / redemption): append to **`almost_expired_offline.csv`**.
    - If the site is down but expiry is later or unpublished: append to `taken_offline_watch.csv`.
-4. Do **not** purchase. Re-check before acting — redemption and drop calendars differ by TLD (especially `.ca`).
+4. Write verified keyword volumes into `canva/traffic.json` (never invent).
+5. Rebuild the Canva board (`generate_canva_board.py`) and open `canva/board.html` in a **new tab**.
+6. Do **not** purchase. Re-check drop/redemption before acting (especially `.ca`).
 
 ## Scoring (provisional)
 
