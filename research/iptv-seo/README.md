@@ -2,7 +2,8 @@
 
 Volumes are real only when taken from SEMrush. Nothing is purchased from this folder.
 
-**The list:** `LIST.txt` (same file copied to `AVAILABLE_LIST.txt`). Plain text only — no designed HTML board.
+**Keyword table:** `KEYWORDS.md`  
+**Domain list:** `LIST.txt` (copy: `AVAILABLE_LIST.txt`)
 
 Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 
@@ -20,7 +21,8 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 
 | File | Purpose |
 | --- | --- |
-| `LIST.txt` | **Read this** — picks, volumes, available, confirm, taken, drop-watch |
+| `KEYWORDS.md` | **Keyword tables** — verified Semrush, tracked keywords, SERP, domain picks |
+| `LIST.txt` | Domain dump — picks, available, confirm, taken, drop-watch |
 | `AVAILABLE_LIST.txt` | Identical copy of `LIST.txt` |
 | `availability_recheck.csv` | Last RDAP + DNS verdict per domain |
 | `taken_not_available.csv` | Taken names — do not buy |

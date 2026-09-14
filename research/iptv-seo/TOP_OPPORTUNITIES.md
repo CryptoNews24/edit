@@ -1,6 +1,6 @@
 # Top opportunities (provisional)
 
-Plain-text list: **`LIST.txt`** (copy: `AVAILABLE_LIST.txt`). No designed HTML. Rechecked 2026-09-14 with native RDAP + DNS.
+Keyword tables: **`KEYWORDS.md`**. Domain dump: **`LIST.txt`**. Rechecked 2026-09-14 with native RDAP + DNS.
 
 🔥 **JACKPOT (keyword):** `abonnement iptv` — FR **18.1K**/mo, KD **25 Easy**, CPC $0.69. Exact `abonnementiptv.fr` **TAKEN**. Use `compareriptv.fr` / `avis-iptv.fr` / `comparateur-iptv.fr` (AVAILABLE).
 

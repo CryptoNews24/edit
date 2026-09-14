@@ -214,6 +214,9 @@ def main() -> None:
     OUT.write_text(text, encoding="utf-8")
     OUT_ALIAS.write_text(text, encoding="utf-8")
     print(f"WROTE {OUT} and {OUT_ALIAS} available={len(available)} confirm={len(confirm)} taken={len(taken)}")
+    from generate_keywords_md import main as write_keywords_md
+
+    write_keywords_md()
 
 
 if __name__ == "__main__":
