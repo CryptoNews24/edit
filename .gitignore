@@ -8,5 +8,7 @@ node_modules
 .env
 dist
 .eslintcache
+__pycache__/
+*.pyc
 docs/.vitepress/.temp
 result
