@@ -1,6 +1,12 @@
 # Top opportunities (provisional)
 
-**All search volumes, KD %, and CPC = N/A.** Noxtools/SEMrush was not reachable (login wall). Nothing below is a 🔥 JACKPOT until those metrics are verified.
+SEMrush **free** keyword tool now verified five queries (Noxtools still not logged in; free-tool daily cap then hit).
+
+🔥 **JACKPOT (keyword):** `abonnement iptv` — FR **18.1K**/mo, KD **25 Easy**, CPC $0.69. Domain: `compareriptv.fr` appears available (exact `abonnementiptv.fr` taken).
+
+🟢 **HIGH:** `iptv ireland` — IE **1.9K**/mo, KD **23 Easy**. `bestiptv.ie` / `iptvguide.ie` appear available.
+
+🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Use `compareiptv.ca` (EMD `iptvcanada.ca` is taken, offline, expires 2026-11-02).
 
 Provisional score = commercial intent + SERP weakness + cluster + domain (max 50).
 

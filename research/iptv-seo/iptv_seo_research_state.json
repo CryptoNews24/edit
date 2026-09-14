@@ -203,6 +203,11 @@
     "domain_rdap",
     "taken_offline_almost_expired"
   ],
+  "canva_board": {
+    "open_in_new_tab": "research/iptv-seo/canva/board.html",
+    "rebuild": "python3 research/iptv-seo/generate_canva_board.py",
+    "rebuild_on": ["new domain", "new keyword volume", "expiry probe"]
+  },
   "almost_expired_offline": {
     "table": "almost_expired_offline.csv",
     "secondary_table": "taken_offline_watch.csv",

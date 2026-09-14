@@ -334,6 +334,17 @@ def main() -> None:
     state_path.write_text(json.dumps(state, indent=2) + "\n")
     print(f"WROTE {all_path.name} ({len(rows)})")
     print(f"WROTE {watch_path.name} ({len(watch_rows)})")
+    try:
+        import importlib.util
+
+        spec = importlib.util.spec_from_file_location(
+            "generate_canva_board", ROOT / "generate_canva_board.py"
+        )
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        mod.main()
+    except Exception as exc:
+        print("canva rebuild skipped:", exc)
 
 
 if __name__ == "__main__":

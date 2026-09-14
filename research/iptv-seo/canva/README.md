@@ -1,6 +1,28 @@
-# Canva table — IPTV domains found
+# Canva board (open in a new tab)
 
-There is no Canva API in this environment. These files are ready to drop into Canva.
+**Living board:** open `board.html` in its own browser tab.
+
+```text
+research/iptv-seo/canva/board.html
+```
+
+Rebuild after every new finding:
+
+```text
+python3 research/iptv-seo/generate_canva_board.py
+```
+
+`check_taken_offline_expiry.py` also rebuilds the board at the end of a probe run.
+
+Tabs inside the page:
+
+1. Available / confirm domains
+2. Almost expired + offline
+3. Verified keyword traffic (SEMrush free tool)
+
+Organic traffic is the **mapped keyword monthly volume** when we have a verified SEMrush number. Unchecked rows stay **N/A**. Dead/unregistered domains have **0 site traffic**.
+
+There is no Canva.com API here. You can still upload the PNGs or import the CSVs into Canva.com if you want a cloud copy.
 
 ## Files
 

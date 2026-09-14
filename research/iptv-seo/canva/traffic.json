@@ -1,0 +1,97 @@
+{
+  "updated": "2026-09-14T01:40:00Z",
+  "source": "SEMrush free Keyword Search Volume Checker. Noxtools still not logged in. Daily free-tool cap hit after extra lookups.",
+  "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
+  "keywords": {
+    "iptv canada": {
+      "db": "ca",
+      "volume": 14800,
+      "volume_display": "14.8K",
+      "kd": 52,
+      "kd_label": "Difficult",
+      "cpc": "0.91",
+      "intent": "Informational",
+      "global_volume": 18500,
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=ca&keyword=iptv+canada"
+    },
+    "best iptv canada": {
+      "db": "ca",
+      "volume": 1900,
+      "volume_display": "1.9K",
+      "kd": 32,
+      "kd_label": "Possible",
+      "cpc": "N/A",
+      "intent": "Commercial",
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=ca&keyword=best+iptv+canada"
+    },
+    "iptv ireland": {
+      "db": "ie",
+      "volume": 1900,
+      "volume_display": "1.9K",
+      "kd": 23,
+      "kd_label": "Easy",
+      "cpc": "N/A",
+      "intent": "Informational / Commercial",
+      "global_volume": 3300,
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=ie&keyword=iptv+ireland"
+    },
+    "best iptv ireland": {
+      "db": "ie",
+      "volume": 140,
+      "volume_display": "140",
+      "kd": 5,
+      "kd_label": "Very easy",
+      "cpc": "N/A",
+      "intent": "Commercial",
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=ie&keyword=best+iptv+ireland"
+    },
+    "abonnement iptv": {
+      "db": "fr",
+      "volume": 18100,
+      "volume_display": "18.1K",
+      "kd": 25,
+      "kd_label": "Easy",
+      "cpc": "0.69",
+      "intent": "Informational",
+      "global_volume": 29400,
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=fr&keyword=abonnement+iptv"
+    }
+  },
+  "domain_visits": {
+    "iptvcanada.com": {
+      "source": "Similarweb",
+      "visits_last_3_months": "<20K",
+      "url": "https://www.similarweb.com/website/iptvcanada.com/",
+      "note": "Competitor .com, not iptvcanada.ca"
+    }
+  },
+  "domain_keyword_map": {
+    "bestiptv.ie": "iptv ireland",
+    "iptvguide.ie": "iptv ireland",
+    "compareiptv.ie": "iptv ireland",
+    "iptvireland-guide.net": "iptv ireland",
+    "compareriptv.fr": "abonnement iptv",
+    "avis-iptv.fr": "abonnement iptv",
+    "compareiptv.ca": "iptv canada",
+    "iptvguide.ca": "iptv canada",
+    "iptvcompare.ca": "iptv canada",
+    "iptvdeals.ca": "iptv canada",
+    "smarttviptv.ca": "iptv canada",
+    "firestickcanada.ca": "iptv canada",
+    "compareiptv.net": "iptv canada",
+    "iptvcanada.ca": "iptv canada",
+    "iptv-canada.ca": "iptv canada",
+    "iptvprovider.ca": "iptv canada",
+    "iptvreviews.ca": "iptv canada",
+    "livetvcanada.ca": "iptv canada",
+    "irishiptv.net": "iptv ireland",
+    "iptvguide.ch": null,
+    "iptvvergleich.ch": null,
+    "iptvvergelijker.nl": null,
+    "iptvvergleicher.de": null,
+    "iptvbelgie.be": null,
+    "abonnementiptv.be": null,
+    "iptvau.com.au": null,
+    "iptvaustralia.net": null
+  }
+}
