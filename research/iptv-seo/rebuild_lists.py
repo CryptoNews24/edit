@@ -31,6 +31,9 @@ COUNTRY = {
     ".it": "Italy",
     ".pt": "Portugal",
     ".org": "Global",
+    ".us": "United States",
+    ".co.uk": "United Kingdom",
+    ".uk": "United Kingdom",
 }
 
 
@@ -42,7 +45,11 @@ def country(d: str) -> str:
 
 
 def skip(d: str) -> bool:
-    return d.endswith(".ie") or ".uk" in d
+    if d.endswith(".ie"):
+        return True
+    if "iptv" in d and (d.endswith(".uk") or ".co.uk" in d):
+        return True
+    return False
 
 
 def competition(ctry: str) -> str:

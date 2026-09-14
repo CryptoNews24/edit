@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import MIN_VOLUME, domain_meets_volume, keyword_volume, mapped_keyword, meets_volume
+from filters import MIN_VOLUME, domain_meets_volume, keyword_volume, mapped_keyword, meets_volume, rank_available_domains
 
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
@@ -34,6 +34,8 @@ COUNTRY = {
     ".pt": "Portugal",
     ".org": "Global",
     ".se": "Sweden",
+    ".us": "United States",
+    ".uk": "United Kingdom",
 }
 
 PICKS = [
@@ -79,7 +81,9 @@ def load_recheck() -> dict[str, dict]:
     rows = {}
     with (ROOT / "availability_recheck.csv").open(encoding="utf-8") as f:
         for r in csv.DictReader(f):
-            if r["domain"].endswith(".ie") or ".uk" in r["domain"]:
+            if r["domain"].endswith(".ie"):
+                continue
+            if "iptv" in r["domain"] and (r["domain"].endswith(".uk") or ".co.uk" in r["domain"]):
                 continue
             rows[r["domain"]] = r
     return rows
@@ -145,17 +149,20 @@ def main() -> None:
         "except almost-expired + website down + mapped keyword volume >= 500.",
         "Confirm-at-registrar and unverified (N/A) names are excluded until Semrush confirms >= 500.",
         "Do not purchase from this file. Recheck at a registrar cart before buying.",
-        "iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip iptv*.uk.",
+        "iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip .uk names that contain iptv.",
         "",
-        "======== PICKS (AVAILABLE, volume >= 500) ========",
+        "======== TOP 10 (high Semrush traffic × low KD) ========",
+        "",
+        "Score = monthly volume × (100 − KD) / 100. AVAILABLE only. Max 3 names per keyword.",
         "",
     ]
-    for d in PICKS:
-        status = (recheck.get(d) or {}).get("verdict", "not in last RDAP batch")
-        if status != "AVAILABLE" or not domain_meets_volume(traffic, d):
-            continue
-        lines.append(f"  {d}")
-        lines.append(f"    {country_of(d)} — {kw_line(d, traffic)}")
+    for i, row in enumerate(rank_available_domains(traffic, recheck, 10), start=1):
+        lines.append(
+            f"  {i}. {row['domain']}"
+        )
+        lines.append(
+            f"     {row['keyword']}  {row['volume_display']}/mo  KD {row['kd']} {row['kd_label']}  score {row['score']}"
+        )
     lines += ["", "======== VERIFIED SEMRUSH (>= 500/mo) ========", ""]
     for name, k in sorted(kws.items(), key=lambda kv: -int(kv[1].get("volume") or 0)):
         cpc = k.get("cpc")

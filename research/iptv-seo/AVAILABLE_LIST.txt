@@ -1,42 +1,36 @@
 IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)
-Updated 2026-09-14 17:13 UTC
+Updated 2026-09-14 17:16 UTC
 
 Filters: AVAILABLE only. Semrush volume >= 500/mo (verified). Taken names excluded
 except almost-expired + website down + mapped keyword volume >= 500.
 Confirm-at-registrar and unverified (N/A) names are excluded until Semrush confirms >= 500.
 Do not purchase from this file. Recheck at a registrar cart before buying.
-iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip iptv*.uk.
+iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip .uk names that contain iptv.
 
-======== PICKS (AVAILABLE, volume >= 500) ========
+======== TOP 10 (high Semrush traffic × low KD) ========
 
-  compareriptv.fr
-    France — abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
-  avis-iptv.fr
-    France — abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
-  comparateur-iptv.fr
-    France — abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
-  pascheriptv.fr
-    France — iptv pas cher — 1.6K/mo KD 21 Easy CPC $0.00 [FR]
-  essaiiptv.fr
-    France — essai iptv — 590/mo KD 4 Very easy CPC $0.00 [FR]
-  guideiptv.fr
-    France — iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
-  compareiptv.ca
-    Canada — iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvguide.ca
-    Canada — iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvcompare.ca
-    Canada — iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  compareriptv.ca
-    Canada — iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  avis-iptv.ca
-    Canada — iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  guideiptv.ca
-    Canada — iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  guide-abonnement-iptv.fr
-    France — iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
-  avis-abonnement-iptv.fr
-    France — abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+Score = monthly volume × (100 − KD) / 100. AVAILABLE only. Max 3 names per keyword.
+
+  1. avis-iptv.fr
+     abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
+  2. avis-iptv.ca
+     iptv canada  14.8K/mo  KD 52 Difficult  score 7104.0
+  3. guideiptv.fr
+     iptv france  8.1K/mo  KD 33 Possible  score 5427.0
+  4. pascheriptv.fr
+     iptv pas cher  1.6K/mo  KD 21 Easy  score 1264.0
+  5. essaiiptv.fr
+     essai iptv  590/mo  KD 4 Very easy  score 566.4
+  6. compareiptv.fr
+     abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
+  7. compareriptv.fr
+     abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
+  8. guideiptv.ca
+     iptv canada  14.8K/mo  KD 52 Difficult  score 7104.0
+  9. iptvguide.ca
+     iptv canada  14.8K/mo  KD 52 Difficult  score 7104.0
+  10. guide-abonnement-iptv.fr
+     iptv france  8.1K/mo  KD 33 Possible  score 5427.0
 
 ======== VERIFIED SEMRUSH (>= 500/mo) ========
 
@@ -67,6 +61,8 @@ France
   android-box-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   android-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  avis-abo-france.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   avis-abo-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -104,6 +100,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   comparatif-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  compare-abo.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compare-iptv-france.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compare-stream.fr
@@ -128,6 +126,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   forum-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  guide-abo-france.fr
+    iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-abo-iptv.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-abonnement-iptv.fr
@@ -169,6 +169,8 @@ France
   iptv-paris.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-rank.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-rankings.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-rennes.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]

@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import MIN_VOLUME, domain_meets_volume, mapped_keyword, meets_volume
+from filters import MIN_VOLUME, domain_meets_volume, mapped_keyword, meets_volume, rank_available_domains
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "KEYWORDS.md"
@@ -87,6 +87,21 @@ def main() -> None:
         "Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. TiviMate / IPTV Smarters = SEO topics, not brand domains.",
         "",
         "Noxtools still works in a normal browser. This cloud IP is blocked by Cloudflare, so new Semrush rows cannot be filled from here until that clears.",
+        "",
+        "## Top 10 AVAILABLE (high traffic, low competition)",
+        "",
+        "Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with verified volume ≥ 500. At most 3 domains per keyword so the list is not ten copies of the same French head term.",
+        "",
+        "| Rank | Domain | Keyword | Volume / mo | KD | Score |",
+        "| ---: | --- | --- | ---: | --- | ---: |",
+    ]
+
+    for i, row in enumerate(rank_available_domains(traffic, recheck, 10), start=1):
+        lines.append(
+            f"| {i} | `{cell(row['domain'])}` | {cell(row['keyword'])} | {cell(row['volume_display'])} | {row['kd']} {cell(row['kd_label'])} | {row['score']} |"
+        )
+
+    lines += [
         "",
         "## 1. Verified Semrush (sorted by volume)",
         "",
@@ -343,6 +358,22 @@ def main() -> None:
             lines.append(
                 f"| `{cell(d)}` | {cell(kw_name)} | {cell(k['volume_display'])} | {cell(r.get('Website status'))} | {cell(r.get('Expiry date'))} |"
             )
+
+    lines += [
+        "",
+        "## 7. `.us` and `.uk` checked this round",
+        "",
+        "`.uk` names that contain `iptv` are skipped. Nominet / `.us` RDAP is treated as **Confirm at registrar** (not listed as AVAILABLE). US/UK Semrush volume is still N/A from this IP, so they are **not** in the Top 10 until volume ≥ 500 is verified.",
+        "",
+        "| Domain | Verdict | DNS |",
+        "| --- | --- | --- |",
+    ]
+    for d, r in sorted(recheck.items()):
+        if not (d.endswith(".us") or d.endswith(".uk") or d.endswith(".co.uk")):
+            continue
+        if "iptv" in d and (d.endswith(".uk") or d.endswith(".co.uk")):
+            continue
+        lines.append(f"| `{cell(d)}` | {cell(r['verdict'])} | {cell(r['dns'])} |")
 
     lines += [
         "",

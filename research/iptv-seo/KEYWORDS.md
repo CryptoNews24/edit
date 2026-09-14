@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-14 17:13 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
+Updated 2026-09-14 17:16 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
 Keywords with Semrush volume **under 500** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush refresh attempted this run: **Noxtools Cloudflare-blocked** from this IP; public Semrush HTML has no live metrics. Figures below are the last verified pulls (not invented). They will be replaced as soon as Noxtools/Semrush is reachable.
@@ -8,6 +8,23 @@ Semrush refresh attempted this run: **Noxtools Cloudflare-blocked** from this IP
 Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. TiviMate / IPTV Smarters = SEO topics, not brand domains.
 
 Noxtools still works in a normal browser. This cloud IP is blocked by Cloudflare, so new Semrush rows cannot be filled from here until that clears.
+
+## Top 10 AVAILABLE (high traffic, low competition)
+
+Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with verified volume ≥ 500. At most 3 domains per keyword so the list is not ten copies of the same French head term.
+
+| Rank | Domain | Keyword | Volume / mo | KD | Score |
+| ---: | --- | --- | ---: | --- | ---: |
+| 1 | `avis-iptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
+| 2 | `avis-iptv.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
+| 3 | `guideiptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
+| 4 | `pascheriptv.fr` | iptv pas cher | 1.6K | 21 Easy | 1264.0 |
+| 5 | `essaiiptv.fr` | essai iptv | 590 | 4 Very easy | 566.4 |
+| 6 | `compareiptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
+| 7 | `compareriptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
+| 8 | `guideiptv.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
+| 9 | `iptvguide.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
+| 10 | `guide-abonnement-iptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
 
 ## 1. Verified Semrush (sorted by volume)
 
@@ -71,6 +88,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `aboiptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `android-box-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `android-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `avis-abo-france.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `avis-abo-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `avis-abonnement-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `avis-iptv-belgique.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -89,6 +107,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `comparateuriptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `comparatif-abo-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `comparatif-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `compare-abo.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `compare-iptv-france.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `compare-stream.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `compareiptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -112,6 +131,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `iptv-nimes.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-paris.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-rank.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `iptv-rankings.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-rennes.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-score.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-smart-tv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -198,6 +218,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `watchcompare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `compareiptv.net` | Global | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `comparerguides.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
+| `guide-abo-france.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `guide-abo-iptv.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `guide-abonnement-iptv.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `guide-iptv-belgique.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
@@ -227,6 +248,40 @@ Not for sale today. Shown because the mapped keyword is strong and the site is d
 | `iptvcanada.ca` | iptv canada | 14.8K | offline_no_dns | 2026-11-02 |
 | `iptvprovider.ca` | iptv canada | 14.8K | parked_or_placeholder | 2026-11-19 |
 | `irishiptv.net` | iptv ireland | 1.9K | offline | 2026-11-28 |
+
+## 7. `.us` and `.uk` checked this round
+
+`.uk` names that contain `iptv` are skipped. Nominet / `.us` RDAP is treated as **Confirm at registrar** (not listed as AVAILABLE). US/UK Semrush volume is still N/A from this IP, so they are **not** in the Top 10 until volume ≥ 500 is verified.
+
+| Domain | Verdict | DNS |
+| --- | --- | --- |
+| `abonnementiptv.us` | Confirm at registrar | no |
+| `avis-iptv.us` | Confirm at registrar | no |
+| `bestiptv.us` | TAKEN | yes |
+| `boxcompare.co.uk` | Confirm at registrar | no |
+| `compareapps.co.uk` | Confirm at registrar | no |
+| `compareboxes.co.uk` | Confirm at registrar | no |
+| `compareiptv.us` | Confirm at registrar | no |
+| `comparelive.co.uk` | Confirm at registrar | no |
+| `compareriptv.us` | Confirm at registrar | no |
+| `comparestream.co.uk` | Confirm at registrar | no |
+| `comparestream.us` | Confirm at registrar | no |
+| `cordcutter.co.uk` | Confirm at registrar | no |
+| `essaiiptv.us` | Confirm at registrar | no |
+| `firestickguide.co.uk` | Confirm at registrar | no |
+| `guideiptv.us` | Confirm at registrar | no |
+| `iptvcompare.us` | Confirm at registrar | no |
+| `iptvguide.us` | TAKEN | yes |
+| `livecompare.co.uk` | Confirm at registrar | no |
+| `pascheriptv.us` | Confirm at registrar | no |
+| `smarterstreaming.co.uk` | Confirm at registrar | no |
+| `streamcompare.co.uk` | Confirm at registrar | no |
+| `streamcompare.us` | Confirm at registrar | no |
+| `streamguide.co.uk` | TAKEN | no |
+| `streamingguide.co.uk` | Confirm at registrar | no |
+| `tvcompare.co.uk` | TAKEN | yes |
+| `watchcompare.co.uk` | Confirm at registrar | no |
+| `watchcompare.us` | Confirm at registrar | no |
 
 ## Rebuild
 
