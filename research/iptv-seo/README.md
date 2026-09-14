@@ -64,4 +64,4 @@ Max provisional score = **50**. A 🔥 JACKPOT flag is **not** used without veri
 - Never register/purchase domains from this research
 - App-brand keywords (TiviMate, IPTV Smarters) are SEO topics, not domain recommendations
 - Skip `.uk` names that contain `iptv`
-- `.ie` registrations need an Irish connection (IEDR policy) even if RDAP looks free
+- **Ignore `.ie` domains** — IEDR requires documents. Ireland keywords may stay in the dictionary as SEO-only.

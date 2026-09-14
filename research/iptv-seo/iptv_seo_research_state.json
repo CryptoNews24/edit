@@ -2,18 +2,19 @@
   "project": "iptv-seo-domain-research",
   "timestamp": "2026-09-14T01:18:50.275517+00:00",
   "last_research_position": {
-    "phase": "waiting_noxtools_login",
-    "next_country": "Ireland",
-    "next_tool": "SEMrush Keyword Overview via noxtools.com (database IE)",
+    "phase": "expand_dictionary_semrush_capped",
+    "next_country": "Belgium",
+    "next_tool": "SEMrush free volume checker after daily reset; skip .ie",
     "next_keywords": [
-      "iptv ireland",
-      "best iptv ireland",
-      "iptv subscription ireland",
-      "iptv dublin",
-      "abonnement iptv",
-      "iptv canada",
       "iptv belgique",
-      "iptv suisse"
+      "iptv nederland",
+      "iptv deutschland",
+      "iptv suisse",
+      "iptv australia",
+      "iptv firestick",
+      "tivimate",
+      "mejor iptv",
+      "abbonamento iptv"
     ]
   },
   "blockers": [

@@ -192,3 +192,23 @@ iptvportugal.pt,pt,treat_taken,resolves,dns,2026-09-13,
 iptv.se,se,treat_taken,resolves,dns,2026-09-13,
 iptvcanada.blog,blog,appears_available,,Porkbun UI,2026-09-13,low-value TLD not prioritized
 iptvcanada.fyi,fyi,appears_available,,Porkbun UI,2026-09-13,low-value TLD not prioritized
+essai-iptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,essai iptv 590 VE
+pascheriptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,
+aboiptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,
+listeiptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,
+compareiptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,
+guideiptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,
+abonnesiptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,
+playeriptv.fr,fr,appears_available,no_a,rdap.nic.fr,2026-09-14,
+iptvpascher.fr,fr,taken,no_a,rdap.nic.fr,2026-09-14,
+meilleurabonnementiptv.fr,fr,taken,no_a,rdap.nic.fr,2026-09-14,
+compareriptv.be,be,needs_confirm,no_a,rdap.org 404,2026-09-14,confirm DNS Belgium
+avis-iptv.be,be,needs_confirm,no_a,rdap.org 404,2026-09-14,
+essaiiptv.be,be,needs_confirm,no_a,rdap.org 404,2026-09-14,
+meilleuriptv.be,be,treat_taken,resolves,rdap.org 404 + DNS,2026-09-14,
+streamcompare.ca,ca,appears_available,no_a,rdap.ca.fury.ca,2026-09-14,
+iptvranks.ca,ca,appears_available,no_a,rdap.ca.fury.ca,2026-09-14,
+rankiptv.ca,ca,appears_available,no_a,rdap.ca.fury.ca,2026-09-14,
+iptvpicks.ca,ca,appears_available,no_a,rdap.ca.fury.ca,2026-09-14,
+iptvchoice.ca,ca,appears_available,no_a,rdap.ca.fury.ca,2026-09-14,
+iptvlegal.ca,ca,appears_available,no_a,rdap.ca.fury.ca,2026-09-14,

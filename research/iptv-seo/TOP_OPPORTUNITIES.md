@@ -4,7 +4,9 @@ SEMrush **free** keyword tool now verified five queries (Noxtools still not logg
 
 🔥 **JACKPOT (keyword):** `abonnement iptv` — FR **18.1K**/mo, KD **25 Easy**, CPC $0.69. Domain: `compareriptv.fr` appears available (exact `abonnementiptv.fr` taken).
 
-🟢 **HIGH:** `iptv ireland` — IE **1.9K**/mo, KD **23 Easy**. `bestiptv.ie` / `iptvguide.ie` appear available.
+Ireland keywords stay in the dictionary for SEO only. **Ignore all `.ie` domains** (IEDR documents). Do not register or pursue `bestiptv.ie` / `iptvguide.ie`.
+
+France cluster now **32.2K** combined verified volume (`abonnement iptv` 18.1K Easy + `iptv france` 8.1K + `meilleur iptv` 5.4K + `essai iptv` 590 Very easy). New available names: `guideiptv.fr`, `essai-iptv.fr`, `pascheriptv.fr`.
 
 🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Use `compareiptv.ca` (EMD `iptvcanada.ca` is taken, offline, expires 2026-11-02).
 

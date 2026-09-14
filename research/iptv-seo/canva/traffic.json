@@ -55,6 +55,36 @@
       "intent": "Informational",
       "global_volume": 29400,
       "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=fr&keyword=abonnement+iptv"
+    },
+    "iptv france": {
+      "db": "fr",
+      "volume": 8100,
+      "volume_display": "8.1K",
+      "kd": 33,
+      "kd_label": "Possible",
+      "cpc": "0.57",
+      "intent": "Commercial",
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=fr&keyword=iptv+france"
+    },
+    "meilleur iptv": {
+      "db": "fr",
+      "volume": 5400,
+      "volume_display": "5.4K",
+      "kd": 43,
+      "kd_label": "Possible",
+      "cpc": "N/A",
+      "intent": "Commercial",
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=fr&keyword=meilleur+iptv"
+    },
+    "essai iptv": {
+      "db": "fr",
+      "volume": 590,
+      "volume_display": "590",
+      "kd": 4,
+      "kd_label": "Very easy",
+      "cpc": "N/A",
+      "intent": "Informational",
+      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=fr&keyword=essai+iptv"
     }
   },
   "domain_visits": {
@@ -66,12 +96,18 @@
     }
   },
   "domain_keyword_map": {
-    "bestiptv.ie": "iptv ireland",
-    "iptvguide.ie": "iptv ireland",
-    "compareiptv.ie": "iptv ireland",
-    "iptvireland-guide.net": "iptv ireland",
     "compareriptv.fr": "abonnement iptv",
     "avis-iptv.fr": "abonnement iptv",
+    "guideiptv.fr": "iptv france",
+    "compareiptv.fr": "iptv france",
+    "essai-iptv.fr": "essai iptv",
+    "pascheriptv.fr": "meilleur iptv",
+    "listeiptv.fr": "abonnement iptv",
+    "aboiptv.fr": "abonnement iptv",
+    "playeriptv.fr": "abonnement iptv",
+    "compareriptv.be": "abonnement iptv",
+    "avis-iptv.be": "abonnement iptv",
+    "essaiiptv.be": "essai iptv",
     "compareiptv.ca": "iptv canada",
     "iptvguide.ca": "iptv canada",
     "iptvcompare.ca": "iptv canada",

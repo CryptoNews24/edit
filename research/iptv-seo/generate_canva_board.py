@@ -220,7 +220,7 @@ def main() -> None:
     <div class="meta">
       Last rebuilt {esc(now)}<br />
       Regenerated automatically after each research batch<br />
-      Keyword volumes: SEMrush free tool (verified)
+      Keyword dictionary: 2857 terms · .ie domains ignored
     </div>
   </header>
   <nav>
