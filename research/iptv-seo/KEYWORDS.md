@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-14 18:41 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
+Updated 2026-09-14 23:14 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
 Keywords with Semrush volume **under 500** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush refresh this run: **Chrome CDP** hit Semrush free Keyword Volume Checker (live JSON). **5 lookups / IP / day** — quota used. Extra country DBs returned remaining=0. Noxtools: curl=Cloudflare; Chrome reached Sign In (Servers 1–6 need a logged-in member session). NordLayer Linux client cannot run on this VM.
@@ -112,12 +112,27 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `essaiiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `guideiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-arizona.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-atlanta.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-austin.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-boston.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-california.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-charlotte.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-chicago.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-dallas.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-denver.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-detroit.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-florida.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-houston.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-lasvegas.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-miami.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-nashville.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-newyork.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-ohio.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-philadelphia.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-portland.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-reviews.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-roku-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `iptv-seattle.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-smart-tv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv-texas.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `iptv4k.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
@@ -136,6 +151,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `roku-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `roku-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `samsung-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
+| `samsung-tv-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `smart-tv-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `smarters-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `smarttviptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
@@ -162,6 +178,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `classement-abo.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `classement-iptv-france.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `classement-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `classement-meilleur-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `classementiptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `comparateur-abo.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `comparateur-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -169,6 +186,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `comparatif-abo-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `comparatif-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `compare-abo.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `compare-abonnement-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `compare-iptv-france.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `compare-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `compare-stream.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -178,9 +196,11 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `forfaitiptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `formuler-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `forum-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `iptv-angers.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-bordeaux.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-bretagne.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `iptv-dijon.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-firestick.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-formuler.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-grenoble.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -196,6 +216,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `iptv-provence.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-rank.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-rankings.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `iptv-reims.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-rennes.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-score.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `iptv-smart-tv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -227,6 +248,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `bc-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `best-canadian-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `best-iptv-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `best-iptv-quebec.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `bestiptvguide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `calgary-iptv-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `canada-iptv-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
@@ -234,6 +256,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `canadiantvguide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `compare-canadian-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `compare-iptv-canada.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `compare-iptv-ontario.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `compare-iptv-quebec.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `compare-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `compareiptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
@@ -244,6 +267,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `edmonton-iptv-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `firestickcanada.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `guide-iptv-canada.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `guide-iptv-ontario.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `guide-iptv-quebec.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `guideiptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `halifax-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
@@ -255,13 +279,20 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `iptv-compare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-edmonton-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-francais.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `iptv-gatineau.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `iptv-kelowna-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `iptv-laval.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-manitoba.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `iptv-mississauga.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-montreal-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-ontario-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-ottawa-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `iptv-quebec-city.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `iptv-regina-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-sask.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-toronto-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-trial.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `iptv-windsor.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptv-winnipeg.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptvchooser.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `iptvcompare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
@@ -282,6 +313,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `kw-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `legal-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `london-iptv-ca.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
+| `london-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `mapleiptvguide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `meilleur-iptv-canada.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `montreal-iptv-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
@@ -334,7 +366,9 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `watchcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `watchrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `best-iptv-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
 | `cheap-iptv-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `compare-iptv-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
 | `cordcutusa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
 | `iptv-deals-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
 | `iptv-guide-usa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
@@ -343,11 +377,13 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `usa-iptv-compare.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
 | `usa-iptv-guide.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
 | `abo-pas-cher.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
+| `avis-iptv-pas-cher.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `pas-cher-iptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `pascheriptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `essai-gratuit-iptv.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `essai-iptv.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `essaiiptv.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
+| `guide-essai-iptv.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `iptvessai-gratuit.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `iptvtest24.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `testiptv24.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
@@ -370,13 +406,14 @@ Not for sale today. Shown because the mapped keyword is strong and the site is d
 ## 7. `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500.
-Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
+Checked 190 names this hunt: **161 AVAILABLE**, **29 TAKEN**.
 
 ### AVAILABLE `.us` / `.uk`
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
 | `abonnementiptv.us` | .us | native RDAP 404 + no DNS |
+| `android-box-review.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `android-iptv.us` | .us | native RDAP 404 + no DNS |
 | `androidboxguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `androidtv-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -388,6 +425,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `best-android-box.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `best-firestick.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `best-iptv-guide.us` | .us | native RDAP 404 + no DNS |
+| `best-iptv-usa.us` | .us | native RDAP 404 + no DNS |
 | `best-streaming-box.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `boxcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `boxcompare.us` | .us | native RDAP 404 + no DNS |
@@ -397,6 +435,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `cheap-iptv.us` | .us | native RDAP 404 + no DNS |
 | `classementiptv.us` | .us | native RDAP 404 + no DNS |
 | `comparateur-iptv.us` | .us | native RDAP 404 + no DNS |
+| `compare-iptv-usa.us` | .us | native RDAP 404 + no DNS |
 | `compare-iptv.us` | .us | native RDAP 404 + no DNS |
 | `compare-live-tv.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `compare-live-tv.us` | .us | native RDAP 404 + no DNS |
@@ -413,6 +452,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `comparestream.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `comparestream.us` | .us | native RDAP 404 + no DNS |
 | `comparetvguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cord-cutter-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `cordcut.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `cordcutguide.us` | .us | native RDAP 404 + no DNS |
 | `cordcutter.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -420,6 +460,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `cordcutusa.us` | .us | native RDAP 404 + no DNS |
 | `cutthecord.us` | .us | native RDAP 404 + no DNS |
 | `essaiiptv.us` | .us | native RDAP 404 + no DNS |
+| `firestick-apps.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `firestick-guide.us` | .us | native RDAP 404 + no DNS |
 | `firestick-iptv.us` | .us | native RDAP 404 + no DNS |
 | `firestickapps.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -430,16 +471,31 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `freetv-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `guideiptv.us` | .us | native RDAP 404 + no DNS |
 | `iptv-arizona.us` | .us | native RDAP 404 + no DNS |
+| `iptv-atlanta.us` | .us | native RDAP 404 + no DNS |
+| `iptv-austin.us` | .us | native RDAP 404 + no DNS |
+| `iptv-boston.us` | .us | native RDAP 404 + no DNS |
 | `iptv-california.us` | .us | native RDAP 404 + no DNS |
+| `iptv-charlotte.us` | .us | native RDAP 404 + no DNS |
 | `iptv-chicago.us` | .us | native RDAP 404 + no DNS |
 | `iptv-compare.us` | .us | native RDAP 404 + no DNS |
+| `iptv-dallas.us` | .us | native RDAP 404 + no DNS |
 | `iptv-deals-usa.us` | .us | native RDAP 404 + no DNS |
+| `iptv-denver.us` | .us | native RDAP 404 + no DNS |
+| `iptv-detroit.us` | .us | native RDAP 404 + no DNS |
 | `iptv-florida.us` | .us | native RDAP 404 + no DNS |
 | `iptv-guide-usa.us` | .us | native RDAP 404 + no DNS |
+| `iptv-houston.us` | .us | native RDAP 404 + no DNS |
+| `iptv-lasvegas.us` | .us | native RDAP 404 + no DNS |
+| `iptv-miami.us` | .us | native RDAP 404 + no DNS |
+| `iptv-nashville.us` | .us | native RDAP 404 + no DNS |
 | `iptv-newyork.us` | .us | native RDAP 404 + no DNS |
 | `iptv-ohio.us` | .us | native RDAP 404 + no DNS |
+| `iptv-philadelphia.us` | .us | native RDAP 404 + no DNS |
+| `iptv-portland.us` | .us | native RDAP 404 + no DNS |
 | `iptv-reviews-usa.us` | .us | native RDAP 404 + no DNS |
 | `iptv-reviews.us` | .us | native RDAP 404 + no DNS |
+| `iptv-roku-guide.us` | .us | native RDAP 404 + no DNS |
+| `iptv-seattle.us` | .us | native RDAP 404 + no DNS |
 | `iptv-smart-tv.us` | .us | native RDAP 404 + no DNS |
 | `iptv-texas.us` | .us | native RDAP 404 + no DNS |
 | `iptv4k.us` | .us | native RDAP 404 + no DNS |
@@ -457,6 +513,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `legal-iptv.us` | .us | native RDAP 404 + no DNS |
 | `listeiptv.us` | .us | native RDAP 404 + no DNS |
 | `live-tv-compare.us` | .us | native RDAP 404 + no DNS |
+| `live-tv-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `live-tv-guide.us` | .us | native RDAP 404 + no DNS |
 | `livecompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `livecompare.us` | .us | native RDAP 404 + no DNS |
@@ -465,11 +522,13 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `livetvguide.us` | .us | native RDAP 404 + no DNS |
 | `m3uguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `magboxguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `ott-review.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `ottcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `ottcompare.us` | .us | native RDAP 404 + no DNS |
 | `ottguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `pascheriptv.us` | .us | native RDAP 404 + no DNS |
 | `paytvcompare.us` | .us | native RDAP 404 + no DNS |
+| `player-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `playercompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `playlist-guide.us` | .us | native RDAP 404 + no DNS |
 | `playlistguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -478,6 +537,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `roku-iptv.us` | .us | native RDAP 404 + no DNS |
 | `rokuguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `samsung-iptv.us` | .us | native RDAP 404 + no DNS |
+| `samsung-tv-guide.us` | .us | native RDAP 404 + no DNS |
 | `smart-tv-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `smart-tv-iptv.us` | .us | native RDAP 404 + no DNS |
 | `smarters-guide.us` | .us | SEO topic only — do not register brand EMD |
@@ -489,12 +549,14 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `stream-box-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `streamcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `streamcompare.us` | .us | native RDAP 404 + no DNS |
+| `streaming-box-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `streaming-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `streamingcompare.us` | .us | native RDAP 404 + no DNS |
 | `streamingdeals.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `streamingguide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `streamrank.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `streamrank.us` | .us | native RDAP 404 + no DNS |
+| `streamreview.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `testiptv.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-guide.us` | .us | SEO topic only — do not register brand EMD |
 | `tivimateguide.co.uk` | .co.uk | SEO topic only — do not register brand EMD |
@@ -504,6 +566,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `tvguidecompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `usa-iptv-compare.us` | .us | native RDAP 404 + no DNS |
 | `usa-iptv-guide.us` | .us | native RDAP 404 + no DNS |
+| `watch-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `watch-live-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `watchcompare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `watchcompare.us` | .us | native RDAP 404 + no DNS |
@@ -518,6 +581,7 @@ Checked 162 names this hunt: **134 AVAILABLE**, **28 TAKEN**.
 | `americaniptv.us` | .us | yes |
 | `bestiptv.us` | .us | yes |
 | `boxdeals.co.uk` | .co.uk | no |
+| `boxguide.co.uk` | .co.uk | yes |
 | `cutthecord.co.uk` | .co.uk | yes |
 | `firestickiptv.us` | .us | no |
 | `freetvguide.us` | .us | yes |
@@ -551,39 +615,41 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 
 | TLD | Country | AVAILABLE | TAKEN | Confirm | UNKNOWN |
 | --- | --- | ---: | ---: | ---: | ---: |
-| .ca | Canada | 87 | 23 | 0 | 0 |
-| .us | United States | 78 | 22 | 0 | 0 |
-| .fr | France | 99 | 19 | 0 | 0 |
-| .de | Germany | 30 | 10 | 0 | 0 |
-| .nl | Netherlands | 31 | 5 | 0 | 0 |
-| .ch | Switzerland | 26 | 2 | 0 | 0 |
-| .be | Belgium | 0 | 0 | 20 | 0 |
+| .ca | Canada | 99 | 24 | 0 | 0 |
+| .us | United States | 96 | 22 | 0 | 0 |
+| .fr | France | 106 | 19 | 0 | 0 |
+| .de | Germany | 32 | 10 | 0 | 0 |
+| .nl | Netherlands | 33 | 5 | 0 | 0 |
+| .ch | Switzerland | 30 | 2 | 0 | 0 |
+| .be | Belgium | 0 | 0 | 22 | 0 |
 | .at | Austria | 0 | 0 | 14 | 0 |
-| .es | Spain | 0 | 1 | 16 | 0 |
-| .it | Italy | 0 | 0 | 17 | 0 |
-| .pt | Portugal | 0 | 0 | 12 | 0 |
+| .es | Spain | 0 | 1 | 18 | 0 |
+| .it | Italy | 0 | 0 | 18 | 0 |
+| .pt | Portugal | 0 | 0 | 13 | 0 |
 | .se | Sweden | 1 | 1 | 9 | 0 |
-| .no | Norway | 11 | 0 | 0 | 0 |
-| .dk | Denmark | 11 | 0 | 0 | 0 |
-| .fi | Finland | 9 | 1 | 0 | 0 |
+| .no | Norway | 13 | 0 | 0 | 0 |
+| .dk | Denmark | 13 | 0 | 0 | 0 |
+| .fi | Finland | 11 | 1 | 0 | 0 |
 | .pl | Poland | 0 | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 56 | 6 | 0 | 0 |
+| .co.uk | United Kingdom | 65 | 7 | 0 | 0 |
 
 ### .ca — Canada
 
-**AVAILABLE (87)** — native RDAP 404 + no DNS.
+**AVAILABLE (99)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
 | `alberta-iptv-guide.ca` |
+| `avis-forfait-iptv.ca` |
 | `avis-iptv-quebec.ca` |
 | `avis-iptv.ca` |
 | `bc-iptv-guide.ca` |
 | `bc-iptv.ca` |
 | `best-canadian-iptv.ca` |
 | `best-iptv-guide.ca` |
+| `best-iptv-quebec.ca` |
 | `bestiptvguide.ca` |
 | `calgary-iptv-guide.ca` |
 | `canada-iptv-guide.ca` |
@@ -591,6 +657,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `canadiantvguide.ca` |
 | `compare-canadian-iptv.ca` |
 | `compare-iptv-canada.ca` |
+| `compare-iptv-ontario.ca` |
 | `compare-iptv-quebec.ca` |
 | `compare-iptv.ca` |
 | `compareforfait.ca` |
@@ -605,6 +672,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `firestickcanada.ca` |
 | `forfaitiptv.ca` |
 | `guide-iptv-canada.ca` |
+| `guide-iptv-ontario.ca` |
 | `guide-iptv-quebec.ca` |
 | `guideiptv.ca` |
 | `halifax-iptv.ca` |
@@ -616,13 +684,20 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `iptv-compare.ca` |
 | `iptv-edmonton-guide.ca` |
 | `iptv-francais.ca` |
+| `iptv-gatineau.ca` |
+| `iptv-kelowna-guide.ca` |
+| `iptv-laval.ca` |
 | `iptv-manitoba.ca` |
+| `iptv-mississauga.ca` |
 | `iptv-montreal-guide.ca` |
 | `iptv-ontario-guide.ca` |
 | `iptv-ottawa-guide.ca` |
+| `iptv-quebec-city.ca` |
+| `iptv-regina-guide.ca` |
 | `iptv-sask.ca` |
 | `iptv-toronto-guide.ca` |
 | `iptv-trial.ca` |
+| `iptv-windsor.ca` |
 | `iptv-winnipeg.ca` |
 | `iptvchooser.ca` |
 | `iptvcompare.ca` |
@@ -645,6 +720,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `kw-iptv.ca` |
 | `legal-iptv.ca` |
 | `london-iptv-ca.ca` |
+| `london-iptv.ca` |
 | `mapleiptvguide.ca` |
 | `meilleur-iptv-canada.ca` |
 | `montreal-iptv-guide.ca` |
@@ -665,12 +741,12 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `victoria-iptv.ca` |
 | `watchcompare.ca` |
 
-**TAKEN — do not buy:** `abonnementiptv.ca`, `bestiptv.ca`, `canadianiptv.ca`, `cutthecord.ca`, `iptv-4k.ca`, `iptv-canada.ca`, `iptv-ontario.ca`, `iptv-quebec.ca`, `iptv4k.ca`, `iptvcalgary.ca`, `iptvcanada.ca`, `iptvedmonton.ca`, `iptvhalifax.ca`, `iptvmontreal.ca`, `iptvottawa.ca`, `iptvquebec.ca`, `iptvservice.ca`, `iptvsubscription.ca`, `iptvtoronto.ca`, `montreal-iptv.ca`, `ontario-iptv.ca`, `quebeciptv.ca`, `streamguide.ca`
+**TAKEN — do not buy:** `abonnementiptv.ca`, `bestiptv.ca`, `canadianiptv.ca`, `cutthecord.ca`, `iptv-4k.ca`, `iptv-brampton.ca`, `iptv-canada.ca`, `iptv-ontario.ca`, `iptv-quebec.ca`, `iptv4k.ca`, `iptvcalgary.ca`, `iptvcanada.ca`, `iptvedmonton.ca`, `iptvhalifax.ca`, `iptvmontreal.ca`, `iptvottawa.ca`, `iptvquebec.ca`, `iptvservice.ca`, `iptvsubscription.ca`, `iptvtoronto.ca`, `montreal-iptv.ca`, `ontario-iptv.ca`, `quebeciptv.ca`, `streamguide.ca`
 
 
 ### .us — United States
 
-**AVAILABLE (78)** — native RDAP 404 + no DNS.
+**AVAILABLE (96)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -681,12 +757,14 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `appletv-iptv.us` |
 | `avis-iptv.us` |
 | `best-iptv-guide.us` |
+| `best-iptv-usa.us` |
 | `boxcompare.us` |
 | `canadianiptv.us` |
 | `cheap-iptv-usa.us` |
 | `cheap-iptv.us` |
 | `classementiptv.us` |
 | `comparateur-iptv.us` |
+| `compare-iptv-usa.us` |
 | `compare-iptv.us` |
 | `compare-live-tv.us` |
 | `compareiptv.us` |
@@ -702,16 +780,31 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `firestick-iptv.us` |
 | `guideiptv.us` |
 | `iptv-arizona.us` |
+| `iptv-atlanta.us` |
+| `iptv-austin.us` |
+| `iptv-boston.us` |
 | `iptv-california.us` |
+| `iptv-charlotte.us` |
 | `iptv-chicago.us` |
 | `iptv-compare.us` |
+| `iptv-dallas.us` |
 | `iptv-deals-usa.us` |
+| `iptv-denver.us` |
+| `iptv-detroit.us` |
 | `iptv-florida.us` |
 | `iptv-guide-usa.us` |
+| `iptv-houston.us` |
+| `iptv-lasvegas.us` |
+| `iptv-miami.us` |
+| `iptv-nashville.us` |
 | `iptv-newyork.us` |
 | `iptv-ohio.us` |
+| `iptv-philadelphia.us` |
+| `iptv-portland.us` |
 | `iptv-reviews-usa.us` |
 | `iptv-reviews.us` |
+| `iptv-roku-guide.us` |
+| `iptv-seattle.us` |
 | `iptv-smart-tv.us` |
 | `iptv-texas.us` |
 | `iptv4k.us` |
@@ -739,6 +832,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `roku-guide.us` |
 | `roku-iptv.us` |
 | `samsung-iptv.us` |
+| `samsung-tv-guide.us` |
 | `smart-tv-iptv.us` |
 | `smarters-guide.us` — SEO topic only, do not register brand EMD |
 | `smarttviptv.us` |
@@ -758,7 +852,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 
 ### .fr — France
 
-**AVAILABLE (99)** — native RDAP 404 + no DNS.
+**AVAILABLE (106)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -775,6 +869,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `avis-iptv-belgique.fr` |
 | `avis-iptv-fr.fr` |
 | `avis-iptv-france.fr` |
+| `avis-iptv-pas-cher.fr` |
 | `avis-iptv.fr` |
 | `avisabo.fr` |
 | `avisiptv.fr` |
@@ -784,6 +879,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `classement-abo.fr` |
 | `classement-iptv-france.fr` |
 | `classement-iptv.fr` |
+| `classement-meilleur-iptv.fr` |
 | `classementiptv.fr` |
 | `comparateur-abo.fr` |
 | `comparateur-iptv.fr` |
@@ -791,6 +887,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `comparatif-abo-iptv.fr` |
 | `comparatif-iptv.fr` |
 | `compare-abo.fr` |
+| `compare-abonnement-iptv.fr` |
 | `compare-iptv-france.fr` |
 | `compare-iptv.fr` |
 | `compare-stream.fr` |
@@ -807,14 +904,17 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `guide-abo-france.fr` |
 | `guide-abo-iptv.fr` |
 | `guide-abonnement-iptv.fr` |
+| `guide-essai-iptv.fr` |
 | `guide-iptv-belgique.fr` |
 | `guide-iptv-fr.fr` |
 | `guide-iptv-france.fr` |
 | `guideabo.fr` |
 | `guideiptv.fr` |
+| `iptv-angers.fr` |
 | `iptv-bordeaux.fr` |
 | `iptv-box.fr` |
 | `iptv-bretagne.fr` |
+| `iptv-dijon.fr` |
 | `iptv-firestick.fr` |
 | `iptv-formuler.fr` |
 | `iptv-grenoble.fr` |
@@ -831,6 +931,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `iptv-provence.fr` |
 | `iptv-rank.fr` |
 | `iptv-rankings.fr` |
+| `iptv-reims.fr` |
 | `iptv-rennes.fr` |
 | `iptv-score.fr` |
 | `iptv-smart-tv.fr` |
@@ -867,13 +968,14 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 
 ### .de — Germany
 
-**AVAILABLE (30)** — native RDAP 404 + no DNS.
+**AVAILABLE (32)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
 | `anbietervergleich-iptv.de` |
 | `avis-iptv.de` |
 | `berlin-iptv.de` |
+| `beste-iptv-test.de` |
 | `compareiptv.de` |
 | `guenstig-abo.de` |
 | `guenstig-iptv.de` |
@@ -882,6 +984,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `iptv-abo-vergleich.de` |
 | `iptv-anbieter-test.de` |
 | `iptv-anleitung.de` |
+| `iptv-duesseldorf.de` |
 | `iptv-frankfurt.de` |
 | `iptv-hamburg.de` |
 | `iptv-koeln.de` |
@@ -907,7 +1010,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 
 ### .nl — Netherlands
 
-**AVAILABLE (31)** — native RDAP 404 + no DNS.
+**AVAILABLE (33)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -915,6 +1018,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `amsterdam-iptv.nl` |
 | `avis-iptv.nl` |
 | `beste-iptv-gids.nl` |
+| `beste-iptv-test.nl` |
 | `beste-iptv-vergelijken.nl` |
 | `besteiptvgids.nl` |
 | `compareiptv.nl` |
@@ -925,6 +1029,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `goedkoopste-iptv.nl` |
 | `guideiptv.nl` |
 | `iptv-denhaag.nl` |
+| `iptv-eindhoven.nl` |
 | `iptv-gids.nl` |
 | `iptv-proberen.nl` |
 | `iptv-rotterdam.nl` |
@@ -948,7 +1053,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 
 ### .ch — Switzerland
 
-**AVAILABLE (26)** — native RDAP 404 + no DNS.
+**AVAILABLE (30)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -957,12 +1062,15 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `avis-iptv-ch.ch` |
 | `avis-iptv-suisse.ch` |
 | `avis-iptv.ch` |
+| `beste-iptv.ch` |
 | `comparatifiptv.ch` |
 | `compareiptv.ch` |
 | `guide-iptv-ch.ch` |
 | `guide-iptv-suisse.ch` |
 | `guide-iptv.ch` |
 | `guideiptv.ch` |
+| `iptv-basel.ch` |
+| `iptv-bern.ch` |
 | `iptv-geneve-guide.ch` |
 | `iptv-geneve.ch` |
 | `iptv-guide.ch` |
@@ -976,6 +1084,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 | `iptvguide.ch` |
 | `iptvvergleich.ch` |
 | `streamcompare.ch` |
+| `vergleich-iptv-ch.ch` |
 | `vergleich-iptv-schweiz.ch` |
 | `vergleich-iptv.ch` |
 
@@ -986,7 +1095,7 @@ Semrush is still unverified for US/UK/most EU languages from this IP, so these s
 
 No names marked AVAILABLE (native RDAP not trusted, or none free).
 
-**Confirm at registrar (not listed as free):** `abonnementiptv.be`, `avis-iptv-be.be`, `avis-iptv.be`, `besteiptv.be`, `compareiptv.be`, `comparer-iptv.be`, `compareriptv.be`, `gids-iptv-be.be`, `guide-iptv.be`, `guideiptv.be`, `iptv-antwerpen.be`, `iptv-brussels.be`, `iptv-bruxelles-guide.be`, `iptv-bruxelles.be`, `iptv-gent.be`, `iptv-liege-guide.be`, `iptvbelgie.be`, `iptvcompare.be`, `iptvgids.be`, `streamcompare.be`
+**Confirm at registrar (not listed as free):** `abonnementiptv.be`, `avis-iptv-be.be`, `avis-iptv.be`, `beste-iptv-be.be`, `besteiptv.be`, `compareiptv.be`, `comparer-iptv.be`, `compareriptv.be`, `gids-iptv-be.be`, `guide-iptv.be`, `guideiptv.be`, `iptv-antwerpen.be`, `iptv-brussels.be`, `iptv-bruxelles-guide.be`, `iptv-bruxelles.be`, `iptv-charleroi.be`, `iptv-gent.be`, `iptv-liege-guide.be`, `iptvbelgie.be`, `iptvcompare.be`, `iptvgids.be`, `streamcompare.be`
 
 
 ### .at — Austria
@@ -1002,21 +1111,21 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 **TAKEN — do not buy:** `mejor-iptv.es`
 
-**Confirm at registrar (not listed as free):** `avis-iptv.es`, `comparar-iptv-es.es`, `comparar-iptv.es`, `comparariptv.es`, `compareiptv.es`, `guia-iptv-es.es`, `guia-iptv.es`, `guiaiptv.es`, `guideiptv.es`, `iptv-barcelona-es.es`, `iptv-barcelona.es`, `iptv-madrid-es.es`, `iptv-madrid.es`, `iptvcompare.es`, `mejor-iptv-es.es`, `streamcompare.es`
+**Confirm at registrar (not listed as free):** `avis-iptv.es`, `comparar-iptv-es.es`, `comparar-iptv-madrid.es`, `comparar-iptv.es`, `comparariptv.es`, `compareiptv.es`, `guia-iptv-barcelona.es`, `guia-iptv-es.es`, `guia-iptv.es`, `guiaiptv.es`, `guideiptv.es`, `iptv-barcelona-es.es`, `iptv-barcelona.es`, `iptv-madrid-es.es`, `iptv-madrid.es`, `iptvcompare.es`, `mejor-iptv-es.es`, `streamcompare.es`
 
 
 ### .it — Italy
 
 No names marked AVAILABLE (native RDAP not trusted, or none free).
 
-**Confirm at registrar (not listed as free):** `avis-iptv.it`, `compareiptv.it`, `confronta-iptv-it.it`, `confronta-iptv.it`, `confrontaiptv.it`, `guida-iptv-it.it`, `guida-iptv.it`, `guidaiptv.it`, `guideiptv.it`, `iptv-milano-it.it`, `iptv-milano.it`, `iptv-roma-it.it`, `iptv-roma.it`, `iptvcompare.it`, `migliore-iptv-it.it`, `migliore-iptv.it`, `streamcompare.it`
+**Confirm at registrar (not listed as free):** `avis-iptv.it`, `compareiptv.it`, `confronta-iptv-it.it`, `confronta-iptv.it`, `confrontaiptv.it`, `guida-iptv-it.it`, `guida-iptv.it`, `guidaiptv.it`, `guideiptv.it`, `iptv-milano-it.it`, `iptv-milano.it`, `iptv-roma-it.it`, `iptv-roma.it`, `iptvcompare.it`, `migliore-iptv-it.it`, `migliore-iptv-roma.it`, `migliore-iptv.it`, `streamcompare.it`
 
 
 ### .pt — Portugal
 
 No names marked AVAILABLE (native RDAP not trusted, or none free).
 
-**Confirm at registrar (not listed as free):** `avis-iptv.pt`, `comparar-iptv-pt.pt`, `comparar-iptv.pt`, `comparariptv.pt`, `compareiptv.pt`, `guia-iptv-pt.pt`, `guideiptv.pt`, `iptv-lisboa.pt`, `iptvcompare.pt`, `melhor-iptv-pt.pt`, `melhor-iptv.pt`, `streamcompare.pt`
+**Confirm at registrar (not listed as free):** `avis-iptv.pt`, `comparar-iptv-pt.pt`, `comparar-iptv.pt`, `comparariptv.pt`, `compareiptv.pt`, `guia-iptv-lisboa.pt`, `guia-iptv-pt.pt`, `guideiptv.pt`, `iptv-lisboa.pt`, `iptvcompare.pt`, `melhor-iptv-pt.pt`, `melhor-iptv.pt`, `streamcompare.pt`
 
 
 ### .se — Sweden
@@ -1034,14 +1143,16 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .no — Norway
 
-**AVAILABLE (11)** — native RDAP 404 + no DNS.
+**AVAILABLE (13)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
 | `avis-iptv.no` |
 | `beste-iptv-no.no` |
+| `beste-iptv.no` |
 | `compareiptv.no` |
 | `guideiptv.no` |
+| `iptv-bergen.no` |
 | `iptv-guide-no.no` |
 | `iptv-oslo.no` |
 | `iptvcompare.no` |
@@ -1053,14 +1164,16 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .dk — Denmark
 
-**AVAILABLE (11)** — native RDAP 404 + no DNS.
+**AVAILABLE (13)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
 | `avis-iptv.dk` |
+| `bedste-iptv-dk.dk` |
 | `bedste-iptv.dk` |
 | `compareiptv.dk` |
 | `guideiptv.dk` |
+| `iptv-aarhus.dk` |
 | `iptv-guide-dk.dk` |
 | `iptv-kobenhavn.dk` |
 | `iptvcompare.dk` |
@@ -1072,7 +1185,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .fi — Finland
 
-**AVAILABLE (9)** — native RDAP 404 + no DNS.
+**AVAILABLE (11)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -1081,7 +1194,9 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `guideiptv.fi` |
 | `iptv-helsinki.fi` |
 | `iptv-opas.fi` |
+| `iptv-tampere.fi` |
 | `iptvcompare.fi` |
+| `paras-iptv-opas.fi` |
 | `streamcompare.fi` |
 | `vertaa-iptv-fi.fi` |
 | `vertaa-iptv.fi` |
@@ -1112,10 +1227,11 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (56)** — native RDAP 404 + no DNS.
+**AVAILABLE (65)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
+| `android-box-review.co.uk` |
 | `androidboxguide.co.uk` |
 | `androidtvguide.co.uk` |
 | `appletv-guide.co.uk` |
@@ -1134,21 +1250,26 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `compareplayers.co.uk` |
 | `comparestream.co.uk` |
 | `comparetvguide.co.uk` |
+| `cord-cutter-guide.co.uk` |
 | `cordcut.co.uk` |
 | `cordcutter.co.uk` |
+| `firestick-apps.co.uk` |
 | `firestickapps.co.uk` |
 | `firestickcompare.co.uk` |
 | `firestickguide.co.uk` |
 | `firestickhelp.co.uk` |
 | `formuler-guide.co.uk` |
 | `freetv-guide.co.uk` |
+| `live-tv-guide.co.uk` |
 | `livecompare.co.uk` |
 | `liveguide.co.uk` |
 | `livetv-compare.co.uk` |
 | `m3uguide.co.uk` |
 | `magboxguide.co.uk` |
+| `ott-review.co.uk` |
 | `ottcompare.co.uk` |
 | `ottguide.co.uk` |
+| `player-guide.co.uk` |
 | `playercompare.co.uk` |
 | `playlistguide.co.uk` |
 | `roku-guide.co.uk` |
@@ -1160,20 +1281,23 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `stickguide.co.uk` |
 | `stream-box-guide.co.uk` |
 | `streamcompare.co.uk` |
+| `streaming-box-compare.co.uk` |
 | `streaming-compare.co.uk` |
 | `streamingdeals.co.uk` |
 | `streamingguide.co.uk` |
 | `streamrank.co.uk` |
+| `streamreview.co.uk` |
 | `tivimateguide.co.uk` — SEO topic only, do not register brand EMD |
 | `tvboxguide.co.uk` |
 | `tvdealsguide.co.uk` |
 | `tvguidecompare.co.uk` |
+| `watch-compare.co.uk` |
 | `watch-live-compare.co.uk` |
 | `watchcompare.co.uk` |
 | `watchrank.co.uk` |
 | `xtreamguide.co.uk` |
 
-**TAKEN — do not buy:** `boxdeals.co.uk`, `cutthecord.co.uk`, `streamguide.co.uk`, `tvcompare.co.uk`, `ukstreamguide.co.uk`, `watchguide.co.uk`
+**TAKEN — do not buy:** `boxdeals.co.uk`, `boxguide.co.uk`, `cutthecord.co.uk`, `streamguide.co.uk`, `tvcompare.co.uk`, `ukstreamguide.co.uk`, `watchguide.co.uk`
 
 
 ## Rebuild

@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)
-Updated 2026-09-14 18:41 UTC
+Updated 2026-09-14 23:14 UTC
 
 Filters: AVAILABLE only. Semrush volume >= 500/mo (verified). Taken names excluded
 except almost-expired + website down + mapped keyword volume >= 500.
@@ -82,6 +82,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   avis-iptv-france.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  avis-iptv-pas-cher.fr
+    iptv pas cher — 1.6K/mo KD 21 Easy CPC $0.00 [FR]
   avis-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   avisabo.fr
@@ -100,6 +102,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   classement-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  classement-meilleur-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   classementiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   comparateur-abo.fr
@@ -113,6 +117,8 @@ France
   comparatif-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compare-abo.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  compare-abonnement-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compare-iptv-france.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -146,6 +152,8 @@ France
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-abonnement-iptv.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
+  guide-essai-iptv.fr
+    essai iptv — 590/mo KD 4 Very easy CPC $0.00 [FR]
   guide-iptv-belgique.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-iptv-fr.fr
@@ -156,11 +164,15 @@ France
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guideiptv.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
+  iptv-angers.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-bordeaux.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-box.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-bretagne.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-dijon.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-firestick.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -193,6 +205,8 @@ France
   iptv-rank.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-rankings.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-reims.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-rennes.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -270,6 +284,8 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   best-iptv-guide.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  best-iptv-usa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
   boxcompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   canadianiptv.us
@@ -282,6 +298,8 @@ United States
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   comparateur-iptv.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  compare-iptv-usa.us
+    iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
   compare-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   compare-live-tv.us
@@ -312,25 +330,55 @@ United States
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-arizona.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-atlanta.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-austin.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-boston.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-california.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-charlotte.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-chicago.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-compare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  iptv-dallas.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-deals-usa.us
     iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  iptv-denver.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-detroit.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-florida.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-guide-usa.us
     iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
+  iptv-houston.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-lasvegas.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-miami.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-nashville.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-newyork.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-ohio.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-philadelphia.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-portland.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-reviews-usa.us
     iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
   iptv-reviews.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-roku-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  iptv-seattle.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   iptv-smart-tv.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
@@ -386,6 +434,8 @@ United States
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   samsung-iptv.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+  samsung-tv-guide.us
+    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   smart-tv-iptv.us
     iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
   smarters-guide.us
@@ -428,6 +478,8 @@ Canada
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   best-iptv-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  best-iptv-quebec.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   bestiptvguide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   calgary-iptv-guide.ca
@@ -441,6 +493,8 @@ Canada
   compare-canadian-iptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   compare-iptv-canada.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  compare-iptv-ontario.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   compare-iptv-quebec.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -461,6 +515,8 @@ Canada
   firestickcanada.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   guide-iptv-canada.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  guide-iptv-ontario.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   guide-iptv-quebec.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -484,7 +540,15 @@ Canada
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-francais.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-gatineau.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-kelowna-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-laval.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-manitoba.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-mississauga.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-montreal-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -492,11 +556,17 @@ Canada
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-ottawa-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-quebec-city.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-regina-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-sask.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-toronto-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-trial.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-windsor.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-winnipeg.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -537,6 +607,8 @@ Canada
   legal-iptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   london-iptv-ca.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  london-iptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   mapleiptvguide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -616,6 +688,8 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   best-iptv-guide.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  best-iptv-usa.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   boxcompare.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   canadianiptv.us
@@ -627,6 +701,8 @@ United States
   classementiptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   comparateur-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  compare-iptv-usa.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   compare-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -658,25 +734,55 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-arizona.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-atlanta.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-austin.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-boston.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-california.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-charlotte.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-chicago.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-compare.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-dallas.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-deals-usa.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-denver.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-detroit.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-florida.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-guide-usa.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-houston.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-lasvegas.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-miami.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-nashville.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-newyork.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-ohio.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-philadelphia.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-portland.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-reviews-usa.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-reviews.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-roku-guide.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  iptv-seattle.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-smart-tv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -731,6 +837,8 @@ United States
   roku-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   samsung-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  samsung-tv-guide.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   smart-tv-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -810,6 +918,8 @@ United States
 ======== AVAILABLE .uk/.co.uk with NO iptv in the name (Nominet) ========
 
 United Kingdom
+  android-box-review.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   androidboxguide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   androidtvguide.co.uk
@@ -846,9 +956,13 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   comparetvguide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  cord-cutter-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   cordcut.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   cordcutter.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  firestick-apps.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   firestickapps.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -862,6 +976,8 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   freetv-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  live-tv-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   livecompare.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   liveguide.co.uk
@@ -872,9 +988,13 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   magboxguide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  ott-review.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   ottcompare.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   ottguide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  player-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   playercompare.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -898,6 +1018,8 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   streamcompare.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  streaming-box-compare.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   streaming-compare.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   streamingdeals.co.uk
@@ -906,6 +1028,8 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   streamrank.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  streamreview.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   tivimateguide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   tvboxguide.co.uk
@@ -913,6 +1037,8 @@ United Kingdom
   tvdealsguide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   tvguidecompare.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  watch-compare.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   watch-live-compare.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -927,6 +1053,8 @@ United Kingdom
 
 United Kingdom
   boxdeals.co.uk
+    TAKEN — do not buy
+  boxguide.co.uk
     TAKEN — do not buy
   cutthecord.co.uk
     TAKEN — do not buy
@@ -944,34 +1072,36 @@ United Kingdom
 AVAILABLE = native RDAP 404 + no DNS. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.
 US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.
 
-.ca  Canada  AVAILABLE=87  TAKEN=23  confirm=0  unknown=0
-.us  United States  AVAILABLE=78  TAKEN=22  confirm=0  unknown=0
-.fr  France  AVAILABLE=99  TAKEN=19  confirm=0  unknown=0
-.de  Germany  AVAILABLE=30  TAKEN=10  confirm=0  unknown=0
-.nl  Netherlands  AVAILABLE=31  TAKEN=5  confirm=0  unknown=0
-.ch  Switzerland  AVAILABLE=26  TAKEN=2  confirm=0  unknown=0
-.be  Belgium  AVAILABLE=0  TAKEN=0  confirm=20  unknown=0
+.ca  Canada  AVAILABLE=99  TAKEN=24  confirm=0  unknown=0
+.us  United States  AVAILABLE=96  TAKEN=22  confirm=0  unknown=0
+.fr  France  AVAILABLE=106  TAKEN=19  confirm=0  unknown=0
+.de  Germany  AVAILABLE=32  TAKEN=10  confirm=0  unknown=0
+.nl  Netherlands  AVAILABLE=33  TAKEN=5  confirm=0  unknown=0
+.ch  Switzerland  AVAILABLE=30  TAKEN=2  confirm=0  unknown=0
+.be  Belgium  AVAILABLE=0  TAKEN=0  confirm=22  unknown=0
 .at  Austria  AVAILABLE=0  TAKEN=0  confirm=14  unknown=0
-.es  Spain  AVAILABLE=0  TAKEN=1  confirm=16  unknown=0
-.it  Italy  AVAILABLE=0  TAKEN=0  confirm=17  unknown=0
-.pt  Portugal  AVAILABLE=0  TAKEN=0  confirm=12  unknown=0
+.es  Spain  AVAILABLE=0  TAKEN=1  confirm=18  unknown=0
+.it  Italy  AVAILABLE=0  TAKEN=0  confirm=18  unknown=0
+.pt  Portugal  AVAILABLE=0  TAKEN=0  confirm=13  unknown=0
 .se  Sweden  AVAILABLE=1  TAKEN=1  confirm=9  unknown=0
-.no  Norway  AVAILABLE=11  TAKEN=0  confirm=0  unknown=0
-.dk  Denmark  AVAILABLE=11  TAKEN=0  confirm=0  unknown=0
-.fi  Finland  AVAILABLE=9  TAKEN=1  confirm=0  unknown=0
+.no  Norway  AVAILABLE=13  TAKEN=0  confirm=0  unknown=0
+.dk  Denmark  AVAILABLE=13  TAKEN=0  confirm=0  unknown=0
+.fi  Finland  AVAILABLE=11  TAKEN=1  confirm=0  unknown=0
 .pl  Poland  AVAILABLE=0  TAKEN=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  TAKEN=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  TAKEN=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=56  TAKEN=6  confirm=0  unknown=0
+.co.uk  United Kingdom  AVAILABLE=65  TAKEN=7  confirm=0  unknown=0
 
 -------- .ca Canada AVAILABLE --------
   alberta-iptv-guide.ca
+  avis-forfait-iptv.ca
   avis-iptv-quebec.ca
   avis-iptv.ca
   bc-iptv-guide.ca
   bc-iptv.ca
   best-canadian-iptv.ca
   best-iptv-guide.ca
+  best-iptv-quebec.ca
   bestiptvguide.ca
   calgary-iptv-guide.ca
   canada-iptv-guide.ca
@@ -979,6 +1109,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   canadiantvguide.ca
   compare-canadian-iptv.ca
   compare-iptv-canada.ca
+  compare-iptv-ontario.ca
   compare-iptv-quebec.ca
   compare-iptv.ca
   compareforfait.ca
@@ -993,6 +1124,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   firestickcanada.ca
   forfaitiptv.ca
   guide-iptv-canada.ca
+  guide-iptv-ontario.ca
   guide-iptv-quebec.ca
   guideiptv.ca
   halifax-iptv.ca
@@ -1004,13 +1136,20 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-compare.ca
   iptv-edmonton-guide.ca
   iptv-francais.ca
+  iptv-gatineau.ca
+  iptv-kelowna-guide.ca
+  iptv-laval.ca
   iptv-manitoba.ca
+  iptv-mississauga.ca
   iptv-montreal-guide.ca
   iptv-ontario-guide.ca
   iptv-ottawa-guide.ca
+  iptv-quebec-city.ca
+  iptv-regina-guide.ca
   iptv-sask.ca
   iptv-toronto-guide.ca
   iptv-trial.ca
+  iptv-windsor.ca
   iptv-winnipeg.ca
   iptvchooser.ca
   iptvcompare.ca
@@ -1033,6 +1172,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   kw-iptv.ca
   legal-iptv.ca
   london-iptv-ca.ca
+  london-iptv.ca
   mapleiptvguide.ca
   meilleur-iptv-canada.ca
   montreal-iptv-guide.ca
@@ -1052,7 +1192,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   vancouver-iptv.ca
   victoria-iptv.ca
   watchcompare.ca
-  TAKEN: abonnementiptv.ca, bestiptv.ca, canadianiptv.ca, cutthecord.ca, iptv-4k.ca, iptv-canada.ca, iptv-ontario.ca, iptv-quebec.ca, iptv4k.ca, iptvcalgary.ca, iptvcanada.ca, iptvedmonton.ca, iptvhalifax.ca, iptvmontreal.ca, iptvottawa.ca, iptvquebec.ca, iptvservice.ca, iptvsubscription.ca, iptvtoronto.ca, montreal-iptv.ca, ontario-iptv.ca, quebeciptv.ca, streamguide.ca
+  TAKEN: abonnementiptv.ca, bestiptv.ca, canadianiptv.ca, cutthecord.ca, iptv-4k.ca, iptv-brampton.ca, iptv-canada.ca, iptv-ontario.ca, iptv-quebec.ca, iptv4k.ca, iptvcalgary.ca, iptvcanada.ca, iptvedmonton.ca, iptvhalifax.ca, iptvmontreal.ca, iptvottawa.ca, iptvquebec.ca, iptvservice.ca, iptvsubscription.ca, iptvtoronto.ca, montreal-iptv.ca, ontario-iptv.ca, quebeciptv.ca, streamguide.ca
 
 -------- .us United States AVAILABLE --------
   abonnementiptv.us
@@ -1062,12 +1202,14 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   appletv-iptv.us
   avis-iptv.us
   best-iptv-guide.us
+  best-iptv-usa.us
   boxcompare.us
   canadianiptv.us
   cheap-iptv-usa.us
   cheap-iptv.us
   classementiptv.us
   comparateur-iptv.us
+  compare-iptv-usa.us
   compare-iptv.us
   compare-live-tv.us
   compareiptv.us
@@ -1083,16 +1225,31 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   firestick-iptv.us
   guideiptv.us
   iptv-arizona.us
+  iptv-atlanta.us
+  iptv-austin.us
+  iptv-boston.us
   iptv-california.us
+  iptv-charlotte.us
   iptv-chicago.us
   iptv-compare.us
+  iptv-dallas.us
   iptv-deals-usa.us
+  iptv-denver.us
+  iptv-detroit.us
   iptv-florida.us
   iptv-guide-usa.us
+  iptv-houston.us
+  iptv-lasvegas.us
+  iptv-miami.us
+  iptv-nashville.us
   iptv-newyork.us
   iptv-ohio.us
+  iptv-philadelphia.us
+  iptv-portland.us
   iptv-reviews-usa.us
   iptv-reviews.us
+  iptv-roku-guide.us
+  iptv-seattle.us
   iptv-smart-tv.us
   iptv-texas.us
   iptv4k.us
@@ -1120,6 +1277,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   roku-guide.us
   roku-iptv.us
   samsung-iptv.us
+  samsung-tv-guide.us
   smart-tv-iptv.us
   smarters-guide.us  [SEO topic only — do not register brand EMD]
   smarttviptv.us
@@ -1149,6 +1307,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   avis-iptv-belgique.fr
   avis-iptv-fr.fr
   avis-iptv-france.fr
+  avis-iptv-pas-cher.fr
   avis-iptv.fr
   avisabo.fr
   avisiptv.fr
@@ -1158,6 +1317,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   classement-abo.fr
   classement-iptv-france.fr
   classement-iptv.fr
+  classement-meilleur-iptv.fr
   classementiptv.fr
   comparateur-abo.fr
   comparateur-iptv.fr
@@ -1165,6 +1325,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   comparatif-abo-iptv.fr
   comparatif-iptv.fr
   compare-abo.fr
+  compare-abonnement-iptv.fr
   compare-iptv-france.fr
   compare-iptv.fr
   compare-stream.fr
@@ -1181,14 +1342,17 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   guide-abo-france.fr
   guide-abo-iptv.fr
   guide-abonnement-iptv.fr
+  guide-essai-iptv.fr
   guide-iptv-belgique.fr
   guide-iptv-fr.fr
   guide-iptv-france.fr
   guideabo.fr
   guideiptv.fr
+  iptv-angers.fr
   iptv-bordeaux.fr
   iptv-box.fr
   iptv-bretagne.fr
+  iptv-dijon.fr
   iptv-firestick.fr
   iptv-formuler.fr
   iptv-grenoble.fr
@@ -1205,6 +1369,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-provence.fr
   iptv-rank.fr
   iptv-rankings.fr
+  iptv-reims.fr
   iptv-rennes.fr
   iptv-score.fr
   iptv-smart-tv.fr
@@ -1241,6 +1406,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   anbietervergleich-iptv.de
   avis-iptv.de
   berlin-iptv.de
+  beste-iptv-test.de
   compareiptv.de
   guenstig-abo.de
   guenstig-iptv.de
@@ -1249,6 +1415,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-abo-vergleich.de
   iptv-anbieter-test.de
   iptv-anleitung.de
+  iptv-duesseldorf.de
   iptv-frankfurt.de
   iptv-hamburg.de
   iptv-koeln.de
@@ -1275,6 +1442,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   amsterdam-iptv.nl
   avis-iptv.nl
   beste-iptv-gids.nl
+  beste-iptv-test.nl
   beste-iptv-vergelijken.nl
   besteiptvgids.nl
   compareiptv.nl
@@ -1285,6 +1453,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   goedkoopste-iptv.nl
   guideiptv.nl
   iptv-denhaag.nl
+  iptv-eindhoven.nl
   iptv-gids.nl
   iptv-proberen.nl
   iptv-rotterdam.nl
@@ -1310,12 +1479,15 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   avis-iptv-ch.ch
   avis-iptv-suisse.ch
   avis-iptv.ch
+  beste-iptv.ch
   comparatifiptv.ch
   compareiptv.ch
   guide-iptv-ch.ch
   guide-iptv-suisse.ch
   guide-iptv.ch
   guideiptv.ch
+  iptv-basel.ch
+  iptv-bern.ch
   iptv-geneve-guide.ch
   iptv-geneve.ch
   iptv-guide.ch
@@ -1329,13 +1501,14 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptvguide.ch
   iptvvergleich.ch
   streamcompare.ch
+  vergleich-iptv-ch.ch
   vergleich-iptv-schweiz.ch
   vergleich-iptv.ch
   TAKEN: iptv-abo.ch, iptv-suisse.ch
 
 -------- .be Belgium AVAILABLE --------
   (none marked AVAILABLE)
-  CONFIRM AT REGISTRAR: abonnementiptv.be, avis-iptv-be.be, avis-iptv.be, besteiptv.be, compareiptv.be, comparer-iptv.be, compareriptv.be, gids-iptv-be.be, guide-iptv.be, guideiptv.be, iptv-antwerpen.be, iptv-brussels.be, iptv-bruxelles-guide.be, iptv-bruxelles.be, iptv-gent.be, iptv-liege-guide.be, iptvbelgie.be, iptvcompare.be, iptvgids.be, streamcompare.be
+  CONFIRM AT REGISTRAR: abonnementiptv.be, avis-iptv-be.be, avis-iptv.be, beste-iptv-be.be, besteiptv.be, compareiptv.be, comparer-iptv.be, compareriptv.be, gids-iptv-be.be, guide-iptv.be, guideiptv.be, iptv-antwerpen.be, iptv-brussels.be, iptv-bruxelles-guide.be, iptv-bruxelles.be, iptv-charleroi.be, iptv-gent.be, iptv-liege-guide.be, iptvbelgie.be, iptvcompare.be, iptvgids.be, streamcompare.be
 
 -------- .at Austria AVAILABLE --------
   (none marked AVAILABLE)
@@ -1344,15 +1517,15 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
 -------- .es Spain AVAILABLE --------
   (none marked AVAILABLE)
   TAKEN: mejor-iptv.es
-  CONFIRM AT REGISTRAR: avis-iptv.es, comparar-iptv-es.es, comparar-iptv.es, comparariptv.es, compareiptv.es, guia-iptv-es.es, guia-iptv.es, guiaiptv.es, guideiptv.es, iptv-barcelona-es.es, iptv-barcelona.es, iptv-madrid-es.es, iptv-madrid.es, iptvcompare.es, mejor-iptv-es.es, streamcompare.es
+  CONFIRM AT REGISTRAR: avis-iptv.es, comparar-iptv-es.es, comparar-iptv-madrid.es, comparar-iptv.es, comparariptv.es, compareiptv.es, guia-iptv-barcelona.es, guia-iptv-es.es, guia-iptv.es, guiaiptv.es, guideiptv.es, iptv-barcelona-es.es, iptv-barcelona.es, iptv-madrid-es.es, iptv-madrid.es, iptvcompare.es, mejor-iptv-es.es, streamcompare.es
 
 -------- .it Italy AVAILABLE --------
   (none marked AVAILABLE)
-  CONFIRM AT REGISTRAR: avis-iptv.it, compareiptv.it, confronta-iptv-it.it, confronta-iptv.it, confrontaiptv.it, guida-iptv-it.it, guida-iptv.it, guidaiptv.it, guideiptv.it, iptv-milano-it.it, iptv-milano.it, iptv-roma-it.it, iptv-roma.it, iptvcompare.it, migliore-iptv-it.it, migliore-iptv.it, streamcompare.it
+  CONFIRM AT REGISTRAR: avis-iptv.it, compareiptv.it, confronta-iptv-it.it, confronta-iptv.it, confrontaiptv.it, guida-iptv-it.it, guida-iptv.it, guidaiptv.it, guideiptv.it, iptv-milano-it.it, iptv-milano.it, iptv-roma-it.it, iptv-roma.it, iptvcompare.it, migliore-iptv-it.it, migliore-iptv-roma.it, migliore-iptv.it, streamcompare.it
 
 -------- .pt Portugal AVAILABLE --------
   (none marked AVAILABLE)
-  CONFIRM AT REGISTRAR: avis-iptv.pt, comparar-iptv-pt.pt, comparar-iptv.pt, comparariptv.pt, compareiptv.pt, guia-iptv-pt.pt, guideiptv.pt, iptv-lisboa.pt, iptvcompare.pt, melhor-iptv-pt.pt, melhor-iptv.pt, streamcompare.pt
+  CONFIRM AT REGISTRAR: avis-iptv.pt, comparar-iptv-pt.pt, comparar-iptv.pt, comparariptv.pt, compareiptv.pt, guia-iptv-lisboa.pt, guia-iptv-pt.pt, guideiptv.pt, iptv-lisboa.pt, iptvcompare.pt, melhor-iptv-pt.pt, melhor-iptv.pt, streamcompare.pt
 
 -------- .se Sweden AVAILABLE --------
   jamfor-iptv.se
@@ -1362,8 +1535,10 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
 -------- .no Norway AVAILABLE --------
   avis-iptv.no
   beste-iptv-no.no
+  beste-iptv.no
   compareiptv.no
   guideiptv.no
+  iptv-bergen.no
   iptv-guide-no.no
   iptv-oslo.no
   iptvcompare.no
@@ -1374,9 +1549,11 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
 
 -------- .dk Denmark AVAILABLE --------
   avis-iptv.dk
+  bedste-iptv-dk.dk
   bedste-iptv.dk
   compareiptv.dk
   guideiptv.dk
+  iptv-aarhus.dk
   iptv-guide-dk.dk
   iptv-kobenhavn.dk
   iptvcompare.dk
@@ -1391,7 +1568,9 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   guideiptv.fi
   iptv-helsinki.fi
   iptv-opas.fi
+  iptv-tampere.fi
   iptvcompare.fi
+  paras-iptv-opas.fi
   streamcompare.fi
   vertaa-iptv-fi.fi
   vertaa-iptv.fi
@@ -1410,6 +1589,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   UNKNOWN: avis-iptv.eu, beste-iptv.eu, compareiptv.eu, compareriptv.eu, guideiptv.eu, iptvcompare.eu, streamcompare.eu, vergleichiptv.eu
 
 -------- .co.uk United Kingdom AVAILABLE --------
+  android-box-review.co.uk
   androidboxguide.co.uk
   androidtvguide.co.uk
   appletv-guide.co.uk
@@ -1428,21 +1608,26 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   compareplayers.co.uk
   comparestream.co.uk
   comparetvguide.co.uk
+  cord-cutter-guide.co.uk
   cordcut.co.uk
   cordcutter.co.uk
+  firestick-apps.co.uk
   firestickapps.co.uk
   firestickcompare.co.uk
   firestickguide.co.uk
   firestickhelp.co.uk
   formuler-guide.co.uk
   freetv-guide.co.uk
+  live-tv-guide.co.uk
   livecompare.co.uk
   liveguide.co.uk
   livetv-compare.co.uk
   m3uguide.co.uk
   magboxguide.co.uk
+  ott-review.co.uk
   ottcompare.co.uk
   ottguide.co.uk
+  player-guide.co.uk
   playercompare.co.uk
   playlistguide.co.uk
   roku-guide.co.uk
@@ -1454,19 +1639,22 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   stickguide.co.uk
   stream-box-guide.co.uk
   streamcompare.co.uk
+  streaming-box-compare.co.uk
   streaming-compare.co.uk
   streamingdeals.co.uk
   streamingguide.co.uk
   streamrank.co.uk
+  streamreview.co.uk
   tivimateguide.co.uk  [SEO topic only — do not register brand EMD]
   tvboxguide.co.uk
   tvdealsguide.co.uk
   tvguidecompare.co.uk
+  watch-compare.co.uk
   watch-live-compare.co.uk
   watchcompare.co.uk
   watchrank.co.uk
   xtreamguide.co.uk
-  TAKEN: boxdeals.co.uk, cutthecord.co.uk, streamguide.co.uk, tvcompare.co.uk, ukstreamguide.co.uk, watchguide.co.uk
+  TAKEN: boxdeals.co.uk, boxguide.co.uk, cutthecord.co.uk, streamguide.co.uk, tvcompare.co.uk, ukstreamguide.co.uk, watchguide.co.uk
 
 ======== NOTES ========
 
