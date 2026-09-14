@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
 OUT = CANVA / "board.html"
+TEXT = ROOT / "AVAILABLE_LIST.txt"
 
 
 def load_json(path: Path) -> dict:
@@ -323,6 +324,46 @@ def main() -> None:
 """
     OUT.write_text(page, encoding="utf-8")
     print(f"WROTE {OUT} available={len(avail)} taken={len(taken)} expired={len(expired)} keywords={len(kws)}")
+    write_text_list(traffic, avail, taken, expired, kws, now)
+
+
+def write_text_list(traffic: dict, avail: list[dict], taken: list[dict], expired: list[dict], kws: dict, now: str) -> None:
+    lines = [
+        f"IPTV SEO domain hunt — text list — {now}",
+        "Do not purchase from this file. Recheck at a registrar before buying.",
+        ".ie domains ignored. .uk names containing iptv skipped. TiviMate/Smarters = SEO only.",
+        "iptvcanada.ca is TAKEN (not available). Organic numbers are keyword volume, not site sessions.",
+        "",
+        "=== VERIFIED KEYWORD VOLUME (Noxtools Semrush S6 / earlier verified) ===",
+    ]
+    for name, k in kws.items():
+        lines.append(
+            f"- {name} [{k.get('db','').upper()}] {k.get('volume_display')}/mo · KD {k.get('kd')} {k.get('kd_label')} · CPC ${k.get('cpc')} · {k.get('intent')}"
+        )
+    lines += ["", "=== AVAILABLE (registry RDAP 404 + no DNS) — register these, not the taken EMDs ==="]
+    by_c: dict[str, list[dict]] = {}
+    for r in avail:
+        by_c.setdefault(r["country"], []).append(r)
+    for country in sorted(by_c):
+        lines.append(f"\n{country}")
+        for r in by_c[country]:
+            lines.append(
+                f"  {r['domain']}  |  {r['organic']}  |  competition {r['competition']}  |  {r['availability']}"
+            )
+    lines += ["", "=== TAKEN — DO NOT BUY ==="]
+    for r in taken:
+        lines.append(
+            f"  {r.get('Domain')}  |  {r.get('Country')}  |  {r.get('Website')}  |  expiry {r.get('Expiry') or 'n/a'}  |  {r.get('Notes')}"
+        )
+    lines += ["", "=== TAKEN + OFFLINE / DROP-WATCH (<=90d) — still NOT available ==="]
+    for r in expired:
+        lines.append(
+            f"  {r['domain']}  |  {r['country']}  |  {r['website']}  |  {r['expiry']}  |  {r['left']}"
+        )
+    note = traffic.get("note") or ""
+    lines += ["", "=== NOTES ===", note, "Noxtools Servers 1-6 often HTTP 429 from this IP; retry Server 6. Never invent volumes."]
+    TEXT.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"WROTE {TEXT}")
 
 
 if __name__ == "__main__":

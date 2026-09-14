@@ -2,7 +2,9 @@
 
 Living research workspace. Volumes are real only when taken from SEMrush (Noxtools or the public free keyword tool).
 
-**Canva (new tab):** open `canva/board.html` after each batch. Rebuild with `python3 generate_canva_board.py`.
+**Text list (preferred):** `AVAILABLE_LIST.txt` — available / taken / drop-watch / verified volumes as plain text.
+
+Rebuild lists: `python3 rebuild_lists.py && python3 generate_canva_board.py`.
 
 ## Status (2026-09-14)
 

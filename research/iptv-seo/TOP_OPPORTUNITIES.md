@@ -1,14 +1,16 @@
 # Top opportunities (provisional)
 
-SEMrush **free** keyword tool now verified five queries (Noxtools still not logged in; free-tool daily cap then hit).
+Plain-text list (no designed HTML required): **`AVAILABLE_LIST.txt`**. Rechecked 2026-09-14 with native RDAP + DNS.
 
-🔥 **JACKPOT (keyword):** `abonnement iptv` — FR **18.1K**/mo, KD **25 Easy**, CPC $0.69. Domain: `compareriptv.fr` appears available (exact `abonnementiptv.fr` taken).
+🔥 **JACKPOT (keyword):** `abonnement iptv` — FR **18.1K**/mo, KD **25 Easy**, CPC $0.69. Exact `abonnementiptv.fr` **TAKEN**. Use `compareriptv.fr` / `avis-iptv.fr` / `comparateur-iptv.fr` (AVAILABLE).
 
-Ireland keywords stay in the dictionary for SEO only. **Ignore all `.ie` domains** (IEDR documents). Do not register or pursue `bestiptv.ie` / `iptvguide.ie`.
+Ireland keywords stay in the dictionary for SEO only. **Ignore all `.ie` domains**.
 
-France cluster now **32.2K** combined verified volume (`abonnement iptv` 18.1K Easy + `iptv france` 8.1K + `meilleur iptv` 5.4K + `essai iptv` 590 Very easy). New available names: `guideiptv.fr`, `essai-iptv.fr`, `pascheriptv.fr`.
+France cluster **~33.8K** verified (`abonnement iptv` 18.1K Easy + `iptv france` 8.1K + `meilleur iptv` 5.4K + `iptv pas cher` 1.6K Easy + `essai iptv` 590 Very easy). `essaiiptv.fr` and `essai-iptv.fr` both rechecked **AVAILABLE**. `iptvpascher.fr` / `iptv-pas-cher.fr` TAKEN; `pascheriptv.fr` / `pas-cher-iptv.fr` AVAILABLE.
 
-🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Register **`compareiptv.ca` or `iptvguide.ca`** (both rechecked AVAILABLE). **`iptvcanada.ca` is TAKEN** — drop-watch only, do not treat as available.
+🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Register **`compareiptv.ca` or `iptvguide.ca`**. **`iptvcanada.ca` is TAKEN** — drop-watch only.
+
+Noxtools member pages currently **HTTP 403** from this IP (Cloudflare). Semrush Servers 1–6 previously **429**. Volumes below are only what was already verified — not invented. New geos (BE/NL/DE/CH/AU/ES/IT) stay **N/A** until Server 6 works again.
 
 Provisional score = commercial intent + SERP weakness + cluster + domain (max 50).
 
@@ -118,7 +120,7 @@ Provisional score = commercial intent + SERP weakness + cluster + domain (max 50
 
 ## 8. Netherlands / Germany
 
-Exact `iptv.nl`, `iptvnederland.nl`, `iptv.de`, `iptvdeutschland.de` taken. SERPs already have local guide/provider sites. Leftover names (`iptvvergelijker.nl`, `iptvvergleicher.de`) exist but opportunity is weaker until SEMrush shows easy KD + high volume.
+Exact `iptv.nl`, `iptvnederland.nl`, `iptv.de`, `iptvdeutschland.de` taken. Leftover AVAILABLE names: `iptvvergelijker.nl`, `vergelijk-iptv.nl`, `iptv-gids.nl`, `iptvvergleicher.de`, `iptvratgeber.de`, `iptv-abo-vergleich.de`. Volume/KD still N/A.
 
 Priority: 🟡 MEDIUM pending metrics.
 

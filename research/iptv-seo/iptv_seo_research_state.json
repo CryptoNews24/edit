@@ -2,9 +2,9 @@
   "project": "iptv-seo-domain-research",
   "timestamp": "2026-09-14T01:18:50.275517+00:00",
   "last_research_position": {
-    "phase": "noxtools_semrush_s6_partial",
+    "phase": "continued_rdap_and_text_list",
     "next_country": "Belgium",
-    "next_tool": "Noxtools Semrush Server 6 after 429 cooldown"
+    "next_tool": "Noxtools Semrush Server 6 when Cloudflare 403/429 clears"
   },
   "blockers": [
     {
@@ -223,9 +223,10 @@
     "rule": "If a perfect/taken domain has no working website AND expiry <= 90 days (or already expired), write it to almost_expired_offline.csv. Do not purchase."
   },
   "noxtools": {
-    "logged_in": true,
+    "logged_in": false,
     "semrush_working_server": 6,
     "servers_1_to_5": "HTTP 429",
+    "member_pages": "HTTP 403 Cloudflare from this IP",
     "note": "Do not store credentials in this file."
   }
 }
