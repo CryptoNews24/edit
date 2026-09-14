@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T14:03:44Z",
+  "updated": "2026-09-14T14:34:04Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Noxtools currently 403/429 from this IP.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -207,6 +207,29 @@
     "meilleur-abo-iptv.fr": "abonnement iptv",
     "montreal-iptv-guide.ca": "iptv canada",
     "pas-cher-iptv.fr": "iptv pas cher",
-    "reddit-iptv.ca": "iptv canada"
+    "reddit-iptv.ca": "iptv canada",
+    "abo-pas-cher.fr": "iptv pas cher",
+    "avis-abonnement-iptv.fr": "abonnement iptv",
+    "avis-iptv.ca": "iptv canada",
+    "best-iptv-guide.ca": "iptv canada",
+    "comparatif-abo-iptv.fr": "abonnement iptv",
+    "compareiptvguide.ca": "iptv canada",
+    "compareriptv.ca": "iptv canada",
+    "cordcutcanada.ca": "iptv canada",
+    "firestick-iptv.fr": "abonnement iptv",
+    "guide-abonnement-iptv.fr": "iptv france",
+    "guideiptv.ca": "iptv canada",
+    "iptv-compare.ca": "iptv canada",
+    "iptv-firestick.fr": "abonnement iptv",
+    "iptv-marseille.fr": "abonnement iptv",
+    "iptv-paris.fr": "abonnement iptv",
+    "iptv-smart-tv.fr": "abonnement iptv",
+    "iptvdealscanada.ca": "iptv canada",
+    "iptvlyon.fr": "abonnement iptv",
+    "meilleur-iptv-avis.fr": "abonnement iptv",
+    "player-iptv.fr": "abonnement iptv",
+    "smart-tv-iptv.fr": "abonnement iptv",
+    "top-abo-iptv.fr": "abonnement iptv",
+    "tvcompare.ca": "iptv canada"
   }
 }

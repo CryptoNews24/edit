@@ -2,9 +2,9 @@
   "project": "iptv-seo-domain-research",
   "timestamp": "2026-09-14T01:18:50.275517+00:00",
   "last_research_position": {
-    "phase": "continued_rdap_and_text_list",
+    "phase": "still_hunting_rdap_text_list",
     "next_country": "Belgium",
-    "next_tool": "Noxtools Semrush Server 6 when Cloudflare 403/429 clears"
+    "next_tool": "Noxtools Semrush Server 6 when Cloudflare 403/429 clears; 236 domains rechecked"
   },
   "blockers": [
     {

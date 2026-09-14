@@ -694,6 +694,9 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-14,France,fr,liste iptv,local_language,fr_local,fr,queued,ok,listeiptv.fr,.fr
 2026-09-14,France,fr,chaine iptv,local_language,fr_local,fr,queued,ok,chaineiptv.fr,.fr
 2026-09-14,France,fr,player iptv,local_language,fr_local,fr,queued,ok,playeriptv.fr,.fr
+2026-09-14,France,fr,avis iptv,local_language,fr_local,fr,queued,ok,avisiptv.fr,.fr
+2026-09-14,France,fr,comparateur iptv,local_language,fr_local,fr,queued,ok,comparateuriptv.fr,.fr
+2026-09-14,France,fr,abonnement iptv avis,local_language,fr_local,fr,queued,ok,abonnementiptvavis.fr,.fr
 2026-09-14,Belgium,fr,iptv,service,be_core,be,queued,ok,cluster-on-country-site,be
 2026-09-14,Belgium,fr,iptv belgique,service+geo,be_geo,be,queued,ok,iptvbelgique.be,.be
 2026-09-14,Belgium,fr,iptv belge,service+geo,be_geo,be,queued,ok,iptvbelge.be,.be

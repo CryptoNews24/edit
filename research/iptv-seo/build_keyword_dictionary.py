@@ -137,6 +137,11 @@ LOCAL = {
         "liste iptv",
         "chaine iptv",
         "player iptv",
+        "avis iptv",
+        "comparateur iptv",
+        "abonnement iptv avis",
+        "iptv firestick france",
+        "iptv smart tv france",
     ],
     "Belgium": [
         "abonnement iptv belgique",

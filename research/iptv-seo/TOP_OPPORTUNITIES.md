@@ -8,7 +8,7 @@ Ireland keywords stay in the dictionary for SEO only. **Ignore all `.ie` domains
 
 France cluster **~33.8K** verified (`abonnement iptv` 18.1K Easy + `iptv france` 8.1K + `meilleur iptv` 5.4K + `iptv pas cher` 1.6K Easy + `essai iptv` 590 Very easy). `essaiiptv.fr` and `essai-iptv.fr` both rechecked **AVAILABLE**. `iptvpascher.fr` / `iptv-pas-cher.fr` TAKEN; `pascheriptv.fr` / `pas-cher-iptv.fr` AVAILABLE.
 
-🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Register **`compareiptv.ca` or `iptvguide.ca`**. **`iptvcanada.ca` is TAKEN** — drop-watch only.
+🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Register **`compareiptv.ca` / `iptvguide.ca` / `compareriptv.ca`**. **`iptvcanada.ca` is TAKEN**. Also TAKEN this round: `abonnementiptv.ca`, `iptvquebec.ca`, `iptv-quebec.ca`, `iptv4k.ca`.
 
 Noxtools member pages currently **HTTP 403** from this IP (Cloudflare). Semrush Servers 1–6 previously **429**. Volumes below are only what was already verified — not invented. New geos (BE/NL/DE/CH/AU/ES/IT) stay **N/A** until Server 6 works again.
 
