@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T16:58:03Z",
+  "updated": "2026-09-14T17:07:50Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Noxtools currently 403/429 from this IP.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -265,6 +265,25 @@
     "iptv-ottawa-guide.ca": "iptv canada",
     "iptv-rennes.fr": "abonnement iptv",
     "iptv-strasbourg.fr": "abonnement iptv",
-    "quebec-iptv-guide.ca": "iptv canada"
+    "quebec-iptv-guide.ca": "iptv canada",
+    "abo-compare.fr": "abonnement iptv",
+    "avis-iptv-belgique.fr": "abonnement iptv",
+    "canada-iptv-guide.ca": "iptv canada",
+    "compare-canadian-iptv.ca": "iptv canada",
+    "compare-iptv-france.fr": "abonnement iptv",
+    "compare-stream.fr": "abonnement iptv",
+    "guide-iptv-belgique.fr": "iptv france",
+    "guide-iptv-canada.ca": "iptv canada",
+    "iptv-alberta.ca": "iptv canada",
+    "iptv-bc.ca": "iptv canada",
+    "iptv-grenoble.fr": "abonnement iptv",
+    "iptv-lyon.fr": "abonnement iptv",
+    "iptv-nimes.fr": "abonnement iptv",
+    "iptv-ontario-guide.ca": "iptv canada",
+    "iptv-rank.fr": "abonnement iptv",
+    "iptv-score.fr": "abonnement iptv",
+    "iptv-tours.fr": "abonnement iptv",
+    "rank-iptv.fr": "abonnement iptv",
+    "stream-compare.fr": "abonnement iptv"
   }
 }

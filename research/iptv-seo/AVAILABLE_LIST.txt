@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — plain text list
-Updated 2026-09-14 16:58 UTC
+Updated 2026-09-14 17:07 UTC
 
 Do not purchase from this file. Recheck at a registrar cart before buying.
 iptvcanada.ca is TAKEN. Ignore .ie domains. Skip .uk names that contain iptv.
@@ -72,6 +72,8 @@ Ireland keywords are SEO-only. Do not register .ie.
 Netherlands
   aanbieders-iptv.nl
     volume N/A (not verified in Semrush yet)
+  amsterdam-iptv.nl
+    volume N/A (not verified in Semrush yet)
   beste-iptv-gids.nl
     volume N/A (not verified in Semrush yet)
   beste-iptv-vergelijken.nl
@@ -106,6 +108,8 @@ Netherlands
     volume N/A (not verified in Semrush yet)
 
 France
+  abo-compare.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   abo-iptv-avis.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   abo-pas-cher.fr
@@ -119,6 +123,8 @@ France
   avis-abo-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   avis-abonnement-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  avis-iptv-belgique.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   avis-iptv-france.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -150,6 +156,10 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   comparatif-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  compare-iptv-france.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  compare-stream.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compareiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   comparerguides.fr
@@ -174,6 +184,8 @@ France
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-abonnement-iptv.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
+  guide-iptv-belgique.fr
+    iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-iptv-france.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guideabo.fr
@@ -188,7 +200,11 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-formuler.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-grenoble.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-lille.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-lyon.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-mag.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -200,15 +216,23 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-nice.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-nimes.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-paris.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-rank.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-rennes.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-score.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-smart-tv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-strasbourg.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-toulouse.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-tours.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptvandroid.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -240,6 +264,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   playeriptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  rank-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   rankingiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   samsungiptv.fr
@@ -247,6 +273,8 @@ France
   selectiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   smart-tv-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  stream-compare.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   testiptv24.fr
     essai iptv — 590/mo KD 4 Very easy CPC $0.00 [FR]
@@ -270,9 +298,15 @@ Switzerland
     volume N/A (not verified in Semrush yet)
   guideiptv.ch
     volume N/A (not verified in Semrush yet)
+  iptv-geneve.ch
+    volume N/A (not verified in Semrush yet)
   iptv-guide.ch
     volume N/A (not verified in Semrush yet)
+  iptv-lausanne.ch
+    volume N/A (not verified in Semrush yet)
   iptv-schweiz-guide.ch
+    volume N/A (not verified in Semrush yet)
+  iptv-zurich.ch
     volume N/A (not verified in Semrush yet)
   iptvguide.ch
     volume N/A (not verified in Semrush yet)
@@ -286,6 +320,8 @@ Switzerland
 Germany
   anbietervergleich-iptv.de
     volume N/A (not verified in Semrush yet)
+  berlin-iptv.de
+    volume N/A (not verified in Semrush yet)
   guenstig-iptv.de
     volume N/A (not verified in Semrush yet)
   iptv-abo-vergleich.de
@@ -293,6 +329,8 @@ Germany
   iptv-anbieter-test.de
     volume N/A (not verified in Semrush yet)
   iptv-anleitung.de
+    volume N/A (not verified in Semrush yet)
+  iptv-muenchen.de
     volume N/A (not verified in Semrush yet)
   iptv-ratgeber.de
     volume N/A (not verified in Semrush yet)
@@ -366,9 +404,13 @@ Canada
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   calgary-iptv-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  canada-iptv-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   canadian-iptv-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   canadiantvguide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  compare-canadian-iptv.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   compare-iptv-canada.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -394,7 +436,13 @@ Canada
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   forfaitiptv.ca
     iptv subscription canada — 390/mo KD 32 Possible CPC $0.00 [CA]
+  guide-iptv-canada.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   guideiptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-alberta.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-bc.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-canada-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -403,6 +451,8 @@ Canada
   iptv-francais.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-montreal-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-ontario-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
   iptv-ottawa-guide.ca
     iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
@@ -512,6 +562,12 @@ Belgium
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
   compareriptv.be
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  guide-iptv.be
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  iptv-brussels.be
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  iptv-bruxelles.be
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
   iptvbelgie.be
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
   iptvgids.be
@@ -540,6 +596,10 @@ Australia
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
   iptvreview.com.au
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  melbourne-iptv.com.au
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  sydney-iptv.com.au
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
 
 Spain
   comparar-iptv.es
@@ -549,6 +609,10 @@ Spain
   guia-iptv.es
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
   guiaiptv.es
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  iptv-barcelona.es
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  iptv-madrid.es
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
 
 Portugal
@@ -579,6 +643,10 @@ Italy
   guida-iptv.it
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
   guidaiptv.it
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  iptv-milano.it
+    rdap.org 404 + no DNS — confirm in registrar cart before treating as free
+  iptv-roma.it
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
   migliore-iptv.it
     rdap.org 404 + no DNS — confirm in registrar cart before treating as free
@@ -714,6 +782,8 @@ Germany
     TAKEN — No DNS / offline-looking — Not available. Do not list as a buy.
   iptv-anbieter-vergleich.de
     TAKEN — DNS yes — Not available. Do not list as a buy.
+  iptv-berlin.de
+    TAKEN — DNS yes — Not available. Do not list as a buy.
   iptv-guide.de
     TAKEN — DNS yes — Not available. Do not list as a buy.
   iptv-kaufen.de
@@ -733,6 +803,8 @@ Netherlands
   goedkopeiptv.nl
     TAKEN — DNS yes — Not available. Do not list as a buy.
   iptv-aanbieders.nl
+    TAKEN — DNS yes — Not available. Do not list as a buy.
+  iptv-amsterdam.nl
     TAKEN — DNS yes — Not available. Do not list as a buy.
   iptvreview.nl
     TAKEN — No DNS / offline-looking — Not available. Do not list as a buy.

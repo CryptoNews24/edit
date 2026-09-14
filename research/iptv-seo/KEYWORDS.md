@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-14 16:59 UTC. Volumes and KD are **only** numbers seen in Semrush (Noxtools Server 6 or earlier verified pulls). Everything else is **N/A** — not guessed.
+Updated 2026-09-14 17:07 UTC. Volumes and KD are **only** numbers seen in Semrush (Noxtools Server 6 or earlier verified pulls). Everything else is **N/A** — not guessed.
 
 Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. TiviMate / IPTV Smarters = SEO topics, not brand domains.
 
