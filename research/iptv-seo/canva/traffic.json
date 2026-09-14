@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-14T01:40:00Z",
-  "source": "SEMrush free Keyword Search Volume Checker. Noxtools still not logged in. Daily free-tool cap hit after extra lookups.",
+  "updated": "2026-09-14T03:10:00Z",
+  "source": "Noxtools SEMrush Keyword Overview, Server 6 (Servers 1-5 returned HTTP 429).",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
     "iptv canada": {
@@ -82,9 +82,29 @@
       "volume_display": "590",
       "kd": 4,
       "kd_label": "Very easy",
-      "cpc": "N/A",
+      "cpc": "0.00",
       "intent": "Informational",
-      "url": "https://www.semrush.com/free-tools/keyword-search-volume-checker/?db=fr&keyword=essai+iptv"
+      "url": "Noxtools Semrush Server 6 Keyword Overview FR"
+    },
+    "iptv pas cher": {
+      "db": "fr",
+      "volume": 1600,
+      "volume_display": "1.6K",
+      "kd": 21,
+      "kd_label": "Easy",
+      "cpc": "0.00",
+      "intent": "Commercial",
+      "url": "Noxtools Semrush Server 6 Keyword Overview FR"
+    },
+    "iptv subscription canada": {
+      "db": "ca",
+      "volume": 390,
+      "volume_display": "390",
+      "kd": 32,
+      "kd_label": "Possible",
+      "cpc": "0.00",
+      "intent": "Informational / Commercial",
+      "url": "Noxtools Semrush Server 6 Keyword Overview CA"
     }
   },
   "domain_visits": {
@@ -101,7 +121,8 @@
     "guideiptv.fr": "iptv france",
     "compareiptv.fr": "iptv france",
     "essai-iptv.fr": "essai iptv",
-    "pascheriptv.fr": "meilleur iptv",
+    "pascheriptv.fr": "iptv pas cher",
+    "iptvplans.ca": "iptv subscription canada",
     "listeiptv.fr": "abonnement iptv",
     "aboiptv.fr": "abonnement iptv",
     "playeriptv.fr": "abonnement iptv",

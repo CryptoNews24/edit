@@ -2,20 +2,9 @@
   "project": "iptv-seo-domain-research",
   "timestamp": "2026-09-14T01:18:50.275517+00:00",
   "last_research_position": {
-    "phase": "expand_dictionary_semrush_capped",
+    "phase": "noxtools_semrush_s6_partial",
     "next_country": "Belgium",
-    "next_tool": "SEMrush free volume checker after daily reset; skip .ie",
-    "next_keywords": [
-      "iptv belgique",
-      "iptv nederland",
-      "iptv deutschland",
-      "iptv suisse",
-      "iptv australia",
-      "iptv firestick",
-      "tivimate",
-      "mejor iptv",
-      "abbonamento iptv"
-    ]
+    "next_tool": "Noxtools Semrush Server 6 after 429 cooldown"
   },
   "blockers": [
     {
@@ -207,7 +196,11 @@
   "canva_board": {
     "open_in_new_tab": "research/iptv-seo/canva/board.html",
     "rebuild": "python3 research/iptv-seo/generate_canva_board.py",
-    "rebuild_on": ["new domain", "new keyword volume", "expiry probe"]
+    "rebuild_on": [
+      "new domain",
+      "new keyword volume",
+      "expiry probe"
+    ]
   },
   "almost_expired_offline": {
     "table": "almost_expired_offline.csv",
@@ -228,5 +221,11 @@
     ],
     "secondary_count": 11,
     "rule": "If a perfect/taken domain has no working website AND expiry <= 90 days (or already expired), write it to almost_expired_offline.csv. Do not purchase."
+  },
+  "noxtools": {
+    "logged_in": true,
+    "semrush_working_server": 6,
+    "servers_1_to_5": "HTTP 429",
+    "note": "Do not store credentials in this file."
   }
 }
