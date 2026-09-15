@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)
-Updated 2026-09-15 01:13 UTC
+Updated 2026-09-15 01:14 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). Taken names excluded
 except almost-expired + website down + mapped keyword volume >= 500.
@@ -62,6 +62,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   aboiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  anbieter-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   android-box.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   android-iptv.fr
@@ -71,6 +73,8 @@ France
   appletv-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   avis-abo.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  avis-box.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   avis-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -84,6 +88,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   box-guide.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
+  cheap-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   choisiriptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   chromecast-iptv.fr
@@ -108,11 +114,17 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compare-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  compare-player.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compare-stream.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compareiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   compareriptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  cordcut-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  deals-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   essai-box.fr
     essai iptv — 590/mo KD 4 Very easy CPC $0.00 [FR]
@@ -134,6 +146,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   forum-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  gids-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   guide-abo.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guide-box.fr
@@ -144,6 +158,8 @@ France
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
   guideiptv.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
+  iptv-anbieter.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-angers.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-app.fr
@@ -154,15 +170,25 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-bretagne.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-cheap.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-deals.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-dijon.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-firestick.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-formuler.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-gids.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-grenoble.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-legal.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-lille.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-live.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-lyon.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -180,6 +206,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-paris.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-plans.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-player.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-playlist.fr
@@ -196,6 +224,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-reseller.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-review.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-score.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-server.fr
@@ -206,6 +236,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-strasbourg.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-stream.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-toulouse.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-tours.fr
@@ -213,6 +245,8 @@ France
   iptv-trial.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-vod.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  iptv-watch.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptvandroid.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -232,9 +266,13 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptvtrial.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  legal-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   lg-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   listeiptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  live-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   mag-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -244,7 +282,13 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   pascheriptv.fr
     iptv pas cher — 1.6K/mo KD 21 Easy CPC $0.00 [FR]
+  paytv-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  plans-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   player-avis.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  player-compare.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   player-guide.fr
     iptv france — 8.1K/mo KD 33 Possible CPC $0.57 [FR]
@@ -257,6 +301,8 @@ France
   rankingiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   reseller-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  review-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   roku-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -276,12 +322,294 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   stream-compare.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  stream-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   test-box.fr
     essai iptv — 590/mo KD 4 Very easy CPC $0.00 [FR]
   trial-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   vod-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  watch-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+
+Canada
+  abo-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  anbieter-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  android-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  android-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  app-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  appletv-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  avis-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  avis-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  bc-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  box-avis.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  box-compare.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  box-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  box-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  cheap-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  chromecast-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  compare-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  compare-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  compare-player.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  compareiptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  compareriptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  comparestream.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  cordcut-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  cordcutcanada.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  deals-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  firestick-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  firestick-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  firestickcanada.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  firetv-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  formuler-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  formuler-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  gids-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  guide-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  guide-player.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  guideiptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  halifax-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  hamilton-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-abo.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-alberta.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-anbieter.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-app.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-atlantic.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-bc.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-cheap.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-codes.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-compare.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-deals.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-gatineau.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-gids.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-kingston.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-laval.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-legal.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-levis.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-m3u.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-mag.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-manitoba.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-mississauga.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-moncton.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-nanaimo.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-ott.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-panel.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-player.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-playlist.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-portal.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-reseller.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-review.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-saguenay.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-sask.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-server.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-setup.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-sherbrooke.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-stick.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-sudbury.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-test.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-thunderbay.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-trial.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-vod.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-watch.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-windsor.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-winnipeg.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptv-xtream.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvchooser.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvcodes.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvcompare.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvdeals.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvguide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvkelowna.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvlegal.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvpanel.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvpicks.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvrank.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvrating.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvregina.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvserver.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvsetup.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvvancouver.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  iptvwinnipeg.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  kw-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  legal-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  london-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  m3u-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  mag-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  nordiptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  nvidia-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  ott-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  ottawa-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  panel-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  pascheriptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  paytv-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  player-avis.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  player-compare.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  player-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  player-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  playlist-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  reddit-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  review-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  roku-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  saskatoon-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  server-guide.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  server-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  setup-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  shield-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  smart-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  smarttviptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  stick-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  stream-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  streamcompare.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  streamrank.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  test-box.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  test-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  trial-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  trialiptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  tvcompare.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  vancouver-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  victoria-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  vod-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  watch-iptv.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+  watchcompare.ca
+    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
 
 United States
   abonnementiptv.us
@@ -448,236 +776,6 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   watchrank.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
-
-Canada
-  android-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  android-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  app-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  appletv-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  avis-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  bc-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  box-avis.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  box-compare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  box-guide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  box-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  chromecast-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  compare-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  compare-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  compareiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  compareriptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  comparestream.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  cordcutcanada.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  firestick-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  firestick-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  firestickcanada.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  firetv-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  formuler-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  formuler-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  guide-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  guide-player.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  guideiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  halifax-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  hamilton-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-alberta.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-app.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-atlantic.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-bc.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-codes.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-compare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-gatineau.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-kingston.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-laval.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-levis.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-m3u.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-mag.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-manitoba.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-mississauga.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-moncton.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-nanaimo.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-panel.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-player.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-playlist.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-portal.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-reseller.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-saguenay.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-sask.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-server.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-setup.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-sherbrooke.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-stick.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-sudbury.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-thunderbay.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-trial.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-vod.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-windsor.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-winnipeg.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptv-xtream.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvchooser.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvcodes.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvdeals.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvguide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvkelowna.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvlegal.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvpanel.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvpicks.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvrank.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvrating.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvregina.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvserver.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvsetup.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvvancouver.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  iptvwinnipeg.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  kw-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  legal-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  london-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  m3u-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  mag-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  nordiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  nvidia-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  ottawa-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  panel-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  pascheriptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  player-avis.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  player-guide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  player-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  playlist-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  reddit-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  roku-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  saskatoon-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  server-guide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  server-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  setup-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  shield-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  smart-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  smarttviptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  stick-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  streamcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  streamrank.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  test-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  test-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  trial-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  trialiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  tvcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  vancouver-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  victoria-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  vod-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
-  watchcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
 
 Global
   compareiptv.net
@@ -866,11 +964,17 @@ United States
 ======== TAKEN .us — do not buy ========
 
 United States
+  4k-iptv.us
+    TAKEN — do not buy
   bestiptv.us
     TAKEN — do not buy
   firestickiptv.us
     TAKEN — do not buy
   freetvguide.us
+    TAKEN — do not buy
+  iptv-4k.us
+    TAKEN — do not buy
+  iptv-stream.us
     TAKEN — do not buy
   iptv-usa.us
     TAKEN — do not buy
@@ -907,6 +1011,8 @@ United States
   iptvtrial.us
     TAKEN — do not buy
   iptvusa.us
+    TAKEN — do not buy
+  live-iptv.us
     TAKEN — do not buy
   m3uiptv.us
     TAKEN — do not buy
@@ -1034,45 +1140,52 @@ United Kingdom
 AVAILABLE = native RDAP 404 + no DNS. Two-word names only. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.
 US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.
 
-.ca  Canada  AVAILABLE=121  TAKEN=35  confirm=0  unknown=0
-.us  United States  AVAILABLE=82  TAKEN=28  confirm=0  unknown=53
-.fr  France  AVAILABLE=113  TAKEN=31  confirm=0  unknown=0
-.de  Germany  AVAILABLE=65  TAKEN=39  confirm=0  unknown=0
-.nl  Netherlands  AVAILABLE=74  TAKEN=21  confirm=0  unknown=4
-.ch  Switzerland  AVAILABLE=84  TAKEN=5  confirm=0  unknown=1
+.ca  Canada  AVAILABLE=147  TAKEN=39  confirm=0  unknown=0
+.us  United States  AVAILABLE=82  TAKEN=32  confirm=0  unknown=80
+.fr  France  AVAILABLE=138  TAKEN=37  confirm=0  unknown=0
+.de  Germany  AVAILABLE=88  TAKEN=49  confirm=0  unknown=0
+.nl  Netherlands  AVAILABLE=98  TAKEN=27  confirm=0  unknown=5
+.ch  Switzerland  AVAILABLE=112  TAKEN=8  confirm=0  unknown=1
 .be  Belgium  AVAILABLE=0  TAKEN=0  confirm=16  unknown=0
 .at  Austria  AVAILABLE=0  TAKEN=0  confirm=11  unknown=0
 .es  Spain  AVAILABLE=0  TAKEN=1  confirm=11  unknown=0
 .it  Italy  AVAILABLE=0  TAKEN=0  confirm=12  unknown=0
 .pt  Portugal  AVAILABLE=0  TAKEN=0  confirm=9  unknown=0
-.se  Sweden  AVAILABLE=1  TAKEN=9  confirm=7  unknown=60
-.no  Norway  AVAILABLE=79  TAKEN=1  confirm=0  unknown=0
-.dk  Denmark  AVAILABLE=78  TAKEN=2  confirm=0  unknown=0
-.fi  Finland  AVAILABLE=79  TAKEN=1  confirm=0  unknown=0
+.se  Sweden  AVAILABLE=1  TAKEN=9  confirm=7  unknown=93
+.no  Norway  AVAILABLE=112  TAKEN=1  confirm=0  unknown=0
+.dk  Denmark  AVAILABLE=111  TAKEN=2  confirm=0  unknown=0
+.fi  Finland  AVAILABLE=112  TAKEN=1  confirm=0  unknown=0
 .pl  Poland  AVAILABLE=0  TAKEN=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  TAKEN=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  TAKEN=0  confirm=0  unknown=8
 .co.uk  United Kingdom  AVAILABLE=44  TAKEN=5  confirm=0  unknown=0
 
 -------- .ca Canada AVAILABLE --------
+  abo-iptv.ca
+  anbieter-iptv.ca
   android-box.ca
   android-iptv.ca
   app-iptv.ca
   appletv-iptv.ca
+  avis-box.ca
   avis-iptv.ca
   bc-iptv.ca
   box-avis.ca
   box-compare.ca
   box-guide.ca
   box-iptv.ca
+  cheap-iptv.ca
   chromecast-iptv.ca
   compare-box.ca
   compare-iptv.ca
+  compare-player.ca
   compareforfait.ca
   compareiptv.ca
   compareriptv.ca
   comparestream.ca
+  cordcut-iptv.ca
   cordcutcanada.ca
+  deals-iptv.ca
   essai-box.ca
   essai-iptv.ca
   essaiiptv.ca
@@ -1083,21 +1196,28 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   forfaitiptv.ca
   formuler-box.ca
   formuler-iptv.ca
+  gids-iptv.ca
   guide-box.ca
   guide-player.ca
   guideiptv.ca
   halifax-iptv.ca
   hamilton-iptv.ca
+  iptv-abo.ca
   iptv-alberta.ca
+  iptv-anbieter.ca
   iptv-app.ca
   iptv-atlantic.ca
   iptv-bc.ca
   iptv-box.ca
+  iptv-cheap.ca
   iptv-codes.ca
   iptv-compare.ca
+  iptv-deals.ca
   iptv-gatineau.ca
+  iptv-gids.ca
   iptv-kingston.ca
   iptv-laval.ca
+  iptv-legal.ca
   iptv-levis.ca
   iptv-m3u.ca
   iptv-mag.ca
@@ -1105,11 +1225,14 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-mississauga.ca
   iptv-moncton.ca
   iptv-nanaimo.ca
+  iptv-ott.ca
   iptv-panel.ca
+  iptv-plans.ca
   iptv-player.ca
   iptv-playlist.ca
   iptv-portal.ca
   iptv-reseller.ca
+  iptv-review.ca
   iptv-saguenay.ca
   iptv-sask.ca
   iptv-server.ca
@@ -1117,9 +1240,11 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-sherbrooke.ca
   iptv-stick.ca
   iptv-sudbury.ca
+  iptv-test.ca
   iptv-thunderbay.ca
   iptv-trial.ca
   iptv-vod.ca
+  iptv-watch.ca
   iptv-windsor.ca
   iptv-winnipeg.ca
   iptv-xtream.ca
@@ -1148,14 +1273,19 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   mag-iptv.ca
   nordiptv.ca
   nvidia-iptv.ca
+  ott-iptv.ca
   ottawa-iptv.ca
   panel-iptv.ca
   pascheriptv.ca
+  paytv-iptv.ca
+  plans-iptv.ca
   player-avis.ca
+  player-compare.ca
   player-guide.ca
   player-iptv.ca
   playlist-iptv.ca
   reddit-iptv.ca
+  review-iptv.ca
   roku-iptv.ca
   saskatoon-iptv.ca
   server-guide.ca
@@ -1165,6 +1295,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   smart-box.ca
   smarttviptv.ca
   stick-iptv.ca
+  stream-iptv.ca
   streamcompare.ca
   streamrank.ca
   test-box.ca
@@ -1175,8 +1306,9 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   vancouver-iptv.ca
   victoria-iptv.ca
   vod-iptv.ca
+  watch-iptv.ca
   watchcompare.ca
-  TAKEN: abonnementiptv.ca, bestiptv.ca, canadianiptv.ca, iptv-4k.ca, iptv-brampton.ca, iptv-canada.ca, iptv-ontario.ca, iptv-premium.ca, iptv-quebec.ca, iptv4k.ca, iptvapp.ca, iptvbox.ca, iptvcalgary.ca, iptvcanada.ca, iptvedmonton.ca, iptvhalifax.ca, iptvmontreal.ca, iptvottawa.ca, iptvplayer.ca, iptvplaylist.ca, iptvportal.ca, iptvquebec.ca, iptvreseller.ca, iptvservice.ca, iptvsubscription.ca, iptvtoronto.ca, iptvtrial.ca, magbox.ca, montreal-iptv.ca, ontario-iptv.ca, premium-iptv.ca, quebeciptv.ca, reseller-iptv.ca, streamguide.ca, xtream-iptv.ca
+  TAKEN: 4k-iptv.ca, abonnementiptv.ca, bestiptv.ca, canadianiptv.ca, iptv-4k.ca, iptv-brampton.ca, iptv-canada.ca, iptv-live.ca, iptv-ontario.ca, iptv-premium.ca, iptv-quebec.ca, iptv-stream.ca, iptv4k.ca, iptvapp.ca, iptvbox.ca, iptvcalgary.ca, iptvcanada.ca, iptvedmonton.ca, iptvhalifax.ca, iptvmontreal.ca, iptvottawa.ca, iptvplayer.ca, iptvplaylist.ca, iptvportal.ca, iptvquebec.ca, iptvreseller.ca, iptvservice.ca, iptvsubscription.ca, iptvtoronto.ca, iptvtrial.ca, live-iptv.ca, magbox.ca, montreal-iptv.ca, ontario-iptv.ca, premium-iptv.ca, quebeciptv.ca, reseller-iptv.ca, streamguide.ca, xtream-iptv.ca
 
 -------- .us United States AVAILABLE --------
   abonnementiptv.us
@@ -1261,24 +1393,27 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   tvcompare.us
   watchcompare.us
   watchrank.us
-  TAKEN: bestiptv.us, firestickiptv.us, freetvguide.us, iptv-usa.us, iptvapp.us, iptvbox.us, iptvcanada.us, iptvfirestick.us, iptvguide.us, iptvplans.us, iptvplayer.us, iptvplaylist.us, iptvprovider.us, iptvreseller.us, iptvreviews.us, iptvserver.us, iptvservice.us, iptvsubscription.us, iptvtest.us, iptvtrial.us, iptvusa.us, m3uiptv.us, magbox.us, premium-iptv.us, reseller-iptv.us, usa-iptv.us, xtream-iptv.us, xtreamiptv.us
-  UNKNOWN: android-box.us, app-iptv.us, box-avis.us, box-compare.us, box-guide.us, box-iptv.us, chromecast-iptv.us, compare-box.us, essai-box.us, firestick-box.us, firetv-iptv.us, formuler-box.us, formuler-iptv.us, guide-box.us, guide-player.us, iptv-app.us, iptv-box.us, iptv-codes.us, iptv-m3u.us, iptv-mag.us, iptv-panel.us, iptv-player.us, iptv-playlist.us, iptv-portal.us, iptv-premium.us, iptv-reseller.us, iptv-server.us, iptv-setup.us, iptv-stick.us, iptv-trial.us, iptv-vod.us, iptv-xtream.us, iptvcodes.us, iptvpanel.us, iptvportal.us, iptvsetup.us, m3u-iptv.us, mag-iptv.us, nvidia-iptv.us, panel-iptv.us, player-avis.us, player-guide.us, player-iptv.us, playlist-iptv.us, server-guide.us, server-iptv.us, setup-iptv.us, shield-iptv.us, smart-box.us, stick-iptv.us, test-box.us, trial-iptv.us, vod-iptv.us
+  TAKEN: 4k-iptv.us, bestiptv.us, firestickiptv.us, freetvguide.us, iptv-4k.us, iptv-stream.us, iptv-usa.us, iptvapp.us, iptvbox.us, iptvcanada.us, iptvfirestick.us, iptvguide.us, iptvplans.us, iptvplayer.us, iptvplaylist.us, iptvprovider.us, iptvreseller.us, iptvreviews.us, iptvserver.us, iptvservice.us, iptvsubscription.us, iptvtest.us, iptvtrial.us, iptvusa.us, live-iptv.us, m3uiptv.us, magbox.us, premium-iptv.us, reseller-iptv.us, usa-iptv.us, xtream-iptv.us, xtreamiptv.us
+  UNKNOWN: abo-iptv.us, anbieter-iptv.us, android-box.us, app-iptv.us, avis-box.us, box-avis.us, box-compare.us, box-guide.us, box-iptv.us, chromecast-iptv.us, compare-box.us, compare-player.us, cordcut-iptv.us, deals-iptv.us, essai-box.us, firestick-box.us, firetv-iptv.us, formuler-box.us, formuler-iptv.us, gids-iptv.us, guide-box.us, guide-player.us, iptv-abo.us, iptv-anbieter.us, iptv-app.us, iptv-box.us, iptv-cheap.us, iptv-codes.us, iptv-deals.us, iptv-gids.us, iptv-legal.us, iptv-live.us, iptv-m3u.us, iptv-mag.us, iptv-ott.us, iptv-panel.us, iptv-plans.us, iptv-player.us, iptv-playlist.us, iptv-portal.us, iptv-premium.us, iptv-reseller.us, iptv-review.us, iptv-server.us, iptv-setup.us, iptv-stick.us, iptv-test.us, iptv-trial.us, iptv-vod.us, iptv-watch.us, iptv-xtream.us, iptvcodes.us, iptvpanel.us, iptvportal.us, iptvsetup.us, m3u-iptv.us, mag-iptv.us, nvidia-iptv.us, ott-iptv.us, panel-iptv.us, paytv-iptv.us, plans-iptv.us, player-avis.us, player-compare.us, player-guide.us, player-iptv.us, playlist-iptv.us, review-iptv.us, server-guide.us, server-iptv.us, setup-iptv.us, shield-iptv.us, smart-box.us, stick-iptv.us, stream-iptv.us, test-box.us, test-iptv.us, trial-iptv.us, vod-iptv.us, watch-iptv.us
 
 -------- .fr France AVAILABLE --------
   abo-avis.fr
   abo-compare.fr
   aboiptv.fr
+  anbieter-iptv.fr
   android-box.fr
   android-iptv.fr
   app-iptv.fr
   appletv-iptv.fr
   avis-abo.fr
+  avis-box.fr
   avis-iptv.fr
   avisabo.fr
   avisiptv.fr
   box-avis.fr
   box-compare.fr
   box-guide.fr
+  cheap-iptv.fr
   choisiriptv.fr
   chromecast-iptv.fr
   classement-abo.fr
@@ -1291,9 +1426,12 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   compare-abo.fr
   compare-box.fr
   compare-iptv.fr
+  compare-player.fr
   compare-stream.fr
   compareiptv.fr
   compareriptv.fr
+  cordcut-iptv.fr
+  deals-iptv.fr
   essai-box.fr
   essai-iptv.fr
   essaiiptv.fr
@@ -1304,21 +1442,28 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   formuler-box.fr
   formuler-iptv.fr
   forum-iptv.fr
+  gids-iptv.fr
   guide-abo.fr
   guide-box.fr
   guide-player.fr
   guideabo.fr
   guideiptv.fr
+  iptv-anbieter.fr
   iptv-angers.fr
   iptv-app.fr
   iptv-bordeaux.fr
   iptv-box.fr
   iptv-bretagne.fr
+  iptv-cheap.fr
+  iptv-deals.fr
   iptv-dijon.fr
   iptv-firestick.fr
   iptv-formuler.fr
+  iptv-gids.fr
   iptv-grenoble.fr
+  iptv-legal.fr
   iptv-lille.fr
+  iptv-live.fr
   iptv-lyon.fr
   iptv-mag.fr
   iptv-marseille.fr
@@ -1327,6 +1472,7 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-nice.fr
   iptv-nimes.fr
   iptv-paris.fr
+  iptv-plans.fr
   iptv-player.fr
   iptv-playlist.fr
   iptv-portal.fr
@@ -1335,15 +1481,18 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-reims.fr
   iptv-rennes.fr
   iptv-reseller.fr
+  iptv-review.fr
   iptv-score.fr
   iptv-server.fr
   iptv-setup.fr
   iptv-stick.fr
   iptv-strasbourg.fr
+  iptv-stream.fr
   iptv-toulouse.fr
   iptv-tours.fr
   iptv-trial.fr
   iptv-vod.fr
+  iptv-watch.fr
   iptvandroid.fr
   iptvclassement.fr
   iptvlyon.fr
@@ -1353,19 +1502,25 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptvreseller.fr
   iptvsetup.fr
   iptvtrial.fr
+  legal-iptv.fr
   lg-iptv.fr
   listeiptv.fr
+  live-iptv.fr
   mag-iptv.fr
   meilleurabo.fr
   nvidia-iptv.fr
   pascheriptv.fr
+  paytv-iptv.fr
+  plans-iptv.fr
   player-avis.fr
+  player-compare.fr
   player-guide.fr
   player-iptv.fr
   playeriptv.fr
   rank-iptv.fr
   rankingiptv.fr
   reseller-iptv.fr
+  review-iptv.fr
   roku-iptv.fr
   samsungiptv.fr
   server-guide.fr
@@ -1375,66 +1530,89 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   smart-box.fr
   stick-iptv.fr
   stream-compare.fr
+  stream-iptv.fr
   test-box.fr
   trial-iptv.fr
   vod-iptv.fr
-  TAKEN: abo-france.fr, abo-iptv.fr, abonnementiptv.fr, box-iptv.fr, comparatifiptv.fr, guide-iptv.fr, iptv-codes.fr, iptv-m3u.fr, iptv-panel.fr, iptv-premium.fr, iptv-xtream.fr, iptv4k.fr, iptvabo.fr, iptvapp.fr, iptvavis.fr, iptvbox.fr, iptvcodes.fr, iptvfrance.fr, iptvlegal.fr, iptvparis.fr, iptvplayer.fr, iptvserver.fr, m3u-iptv.fr, magbox.fr, meilleuriptv.fr, panel-iptv.fr, playlist-iptv.fr, premium-iptv.fr, test-iptv.fr, top-iptv.fr, xtream-iptv.fr
+  watch-iptv.fr
+  TAKEN: 4k-iptv.fr, abo-france.fr, abo-iptv.fr, abonnementiptv.fr, box-iptv.fr, comparatifiptv.fr, guide-iptv.fr, iptv-4k.fr, iptv-abo.fr, iptv-codes.fr, iptv-m3u.fr, iptv-ott.fr, iptv-panel.fr, iptv-premium.fr, iptv-test.fr, iptv-xtream.fr, iptv4k.fr, iptvabo.fr, iptvapp.fr, iptvavis.fr, iptvbox.fr, iptvcodes.fr, iptvfrance.fr, iptvlegal.fr, iptvparis.fr, iptvplayer.fr, iptvserver.fr, m3u-iptv.fr, magbox.fr, meilleuriptv.fr, ott-iptv.fr, panel-iptv.fr, playlist-iptv.fr, premium-iptv.fr, test-iptv.fr, top-iptv.fr, xtream-iptv.fr
 
 -------- .de Germany AVAILABLE --------
   anbietervergleich-iptv.de
   android-box.de
   android-iptv.de
   appletv-iptv.de
+  avis-box.de
   avis-iptv.de
   berlin-iptv.de
   box-avis.de
   box-compare.de
   box-guide.de
+  cheap-iptv.de
   chromecast-iptv.de
   compare-box.de
+  compare-player.de
   compareiptv.de
+  cordcut-iptv.de
+  deals-iptv.de
   essai-box.de
   firestick-box.de
   firestick-iptv.de
   firetv-iptv.de
   formuler-box.de
   formuler-iptv.de
+  gids-iptv.de
   guenstig-abo.de
   guenstig-iptv.de
   guenstige-iptv.de
   guide-player.de
   guideiptv.de
   iptv-anleitung.de
+  iptv-cheap.de
   iptv-codes.de
+  iptv-deals.de
   iptv-dresden.de
   iptv-duesseldorf.de
   iptv-frankfurt.de
+  iptv-gids.de
   iptv-hamburg.de
   iptv-hannover.de
   iptv-koeln.de
+  iptv-legal.de
   iptv-leipzig.de
   iptv-m3u.de
   iptv-mag.de
   iptv-muenchen.de
   iptv-nuremberg.de
+  iptv-ott.de
+  iptv-plans.de
   iptv-portal.de
   iptv-ratgeber.de
+  iptv-review.de
   iptv-setup.de
   iptv-stick.de
   iptv-stuttgart.de
   iptv-trial.de
   iptv-vergleicher.de
   iptv-vod.de
+  iptv-watch.de
   iptvcompare.de
   iptvratgeber.de
   iptvsetup.de
   iptvvergleicher.de
+  legal-iptv.de
+  live-iptv.de
   nvidia-iptv.de
+  ott-iptv.de
   panel-iptv.de
+  paytv-iptv.de
+  plans-iptv.de
   player-avis.de
+  player-compare.de
   player-guide.de
   player-iptv.de
   ratgeber-iptv.de
+  review-iptv.de
   roku-iptv.de
   server-guide.de
   server-iptv.de
@@ -1442,26 +1620,34 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   shield-iptv.de
   stick-iptv.de
   streamcompare.de
+  test-iptv.de
   trial-iptv.de
   vergleich-iptv.de
   vergleichiptv.de
   vod-iptv.de
-  TAKEN: anbieteriptv.de, app-iptv.de, box-iptv.de, guide-box.de, iptv-app.de, iptv-berlin.de, iptv-box.de, iptv-guide.de, iptv-kaufen.de, iptv-panel.de, iptv-player.de, iptv-playlist.de, iptv-premium.de, iptv-reseller.de, iptv-server.de, iptv-vergleich.de, iptv-xtream.de, iptvapp.de, iptvbox.de, iptvcodes.de, iptvguide.de, iptvpanel.de, iptvplayer.de, iptvplaylist.de, iptvportal.de, iptvreseller.de, iptvserver.de, iptvtest.de, iptvtrial.de, m3u-iptv.de, mag-iptv.de, magbox.de, playlist-iptv.de, premium-iptv.de, reseller-iptv.de, smart-box.de, test-box.de, vergleich-anbieter.de, xtream-iptv.de
+  watch-iptv.de
+  TAKEN: 4k-iptv.de, abo-iptv.de, anbieter-iptv.de, anbieteriptv.de, app-iptv.de, box-iptv.de, guide-box.de, iptv-4k.de, iptv-abo.de, iptv-anbieter.de, iptv-app.de, iptv-berlin.de, iptv-box.de, iptv-guide.de, iptv-kaufen.de, iptv-live.de, iptv-panel.de, iptv-player.de, iptv-playlist.de, iptv-premium.de, iptv-reseller.de, iptv-server.de, iptv-stream.de, iptv-test.de, iptv-vergleich.de, iptv-xtream.de, iptvapp.de, iptvbox.de, iptvcodes.de, iptvguide.de, iptvpanel.de, iptvplayer.de, iptvplaylist.de, iptvportal.de, iptvreseller.de, iptvserver.de, iptvtest.de, iptvtrial.de, m3u-iptv.de, mag-iptv.de, magbox.de, playlist-iptv.de, premium-iptv.de, reseller-iptv.de, smart-box.de, stream-iptv.de, test-box.de, vergleich-anbieter.de, xtream-iptv.de
 
 -------- .nl Netherlands AVAILABLE --------
   aanbieders-iptv.nl
+  abo-iptv.nl
   amsterdam-iptv.nl
+  anbieter-iptv.nl
   android-box.nl
   android-iptv.nl
   appletv-iptv.nl
+  avis-box.nl
   avis-iptv.nl
   box-avis.nl
   box-compare.nl
   box-guide.nl
   box-iptv.nl
+  cheap-iptv.nl
   chromecast-iptv.nl
   compare-box.nl
+  compare-player.nl
   compareiptv.nl
+  cordcut-iptv.nl
   essai-box.nl
   firestick-box.nl
   firestick-iptv.nl
@@ -1474,15 +1660,22 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   goedkoop-iptv.nl
   guide-box.nl
   guideiptv.nl
+  iptv-anbieter.nl
   iptv-app.nl
   iptv-breda.nl
+  iptv-cheap.nl
   iptv-codes.nl
+  iptv-deals.nl
   iptv-denhaag.nl
   iptv-eindhoven.nl
   iptv-gids.nl
   iptv-groningen.nl
+  iptv-legal.nl
+  iptv-live.nl
   iptv-mag.nl
+  iptv-ott.nl
   iptv-panel.nl
+  iptv-plans.nl
   iptv-playlist.nl
   iptv-portal.nl
   iptv-premium.nl
@@ -1490,11 +1683,13 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptv-rotterdam.nl
   iptv-setup.nl
   iptv-stick.nl
+  iptv-test.nl
   iptv-tilburg.nl
   iptv-trial.nl
   iptv-utrecht.nl
   iptv-vergelijken.nl
   iptv-vod.nl
+  iptv-watch.nl
   iptv-xtream.nl
   iptvcodes.nl
   iptvcompare.nl
@@ -1502,16 +1697,22 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptvsetup.nl
   iptvtrial.nl
   iptvvergelijker.nl
+  legal-iptv.nl
   magbox.nl
   nvidia-iptv.nl
+  ott-iptv.nl
   panel-iptv.nl
+  paytv-iptv.nl
+  plans-iptv.nl
   player-avis.nl
+  player-compare.nl
   player-guide.nl
   player-iptv.nl
   playlist-iptv.nl
   proef-iptv.nl
   proefperiode-iptv.nl
   reseller-iptv.nl
+  review-iptv.nl
   roku-iptv.nl
   server-guide.nl
   server-iptv.nl
@@ -1519,61 +1720,83 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   shield-iptv.nl
   smart-box.nl
   stick-iptv.nl
+  stream-iptv.nl
   streamcompare.nl
+  test-iptv.nl
   trial-iptv.nl
   vergelijk-iptv.nl
   vergelijken-iptv.nl
-  TAKEN: beste-iptv.nl, goedkopeiptv.nl, iptv-aanbieders.nl, iptv-amsterdam.nl, iptv-box.nl, iptv-m3u.nl, iptv-player.nl, iptv-reseller.nl, iptvapp.nl, iptvbox.nl, iptvplayer.nl, iptvplaylist.nl, iptvportal.nl, iptvreseller.nl, iptvreview.nl, iptvserver.nl, m3u-iptv.nl, mag-iptv.nl, premium-iptv.nl, test-box.nl, xtream-iptv.nl
-  UNKNOWN: app-iptv.nl, guide-player.nl, iptv-server.nl, vod-iptv.nl
+  watch-iptv.nl
+  TAKEN: 4k-iptv.nl, beste-iptv.nl, goedkopeiptv.nl, iptv-4k.nl, iptv-aanbieders.nl, iptv-abo.nl, iptv-amsterdam.nl, iptv-box.nl, iptv-m3u.nl, iptv-player.nl, iptv-reseller.nl, iptv-review.nl, iptv-stream.nl, iptvapp.nl, iptvbox.nl, iptvplayer.nl, iptvplaylist.nl, iptvportal.nl, iptvreseller.nl, iptvreview.nl, iptvserver.nl, live-iptv.nl, m3u-iptv.nl, mag-iptv.nl, premium-iptv.nl, test-box.nl, xtream-iptv.nl
+  UNKNOWN: app-iptv.nl, deals-iptv.nl, guide-player.nl, iptv-server.nl, vod-iptv.nl
 
 -------- .ch Switzerland AVAILABLE --------
+  4k-iptv.ch
   abo-iptv.ch
   android-box.ch
   android-iptv.ch
   app-iptv.ch
   appletv-iptv.ch
+  avis-box.ch
   avis-iptv.ch
   beste-iptv.ch
   box-avis.ch
   box-compare.ch
   box-guide.ch
   box-iptv.ch
+  cheap-iptv.ch
   chromecast-iptv.ch
   comparatifiptv.ch
   compare-box.ch
+  compare-player.ch
   compareiptv.ch
+  cordcut-iptv.ch
+  deals-iptv.ch
   essai-box.ch
   firestick-box.ch
   firestick-iptv.ch
   firetv-iptv.ch
   formuler-box.ch
   formuler-iptv.ch
+  gids-iptv.ch
   guide-box.ch
   guide-iptv.ch
   guide-player.ch
   guideiptv.ch
+  iptv-4k.ch
   iptv-app.ch
   iptv-basel.ch
   iptv-bern.ch
+  iptv-cheap.ch
   iptv-codes.ch
+  iptv-deals.ch
   iptv-geneve.ch
+  iptv-gids.ch
   iptv-guide.ch
   iptv-lausanne.ch
+  iptv-legal.ch
+  iptv-live.ch
   iptv-lugano.ch
   iptv-luzern.ch
   iptv-m3u.ch
   iptv-mag.ch
+  iptv-ott.ch
   iptv-panel.ch
+  iptv-plans.ch
   iptv-player.ch
   iptv-playlist.ch
   iptv-portal.ch
   iptv-premium.ch
   iptv-reseller.ch
+  iptv-review.ch
   iptv-server.ch
   iptv-setup.ch
   iptv-stick.ch
+  iptv-stream.ch
+  iptv-test.ch
   iptv-trial.ch
   iptv-vod.ch
+  iptv-watch.ch
   iptv-zurich.ch
   iptvapp.ch
   iptvbox.ch
@@ -1588,30 +1811,39 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptvsetup.ch
   iptvtrial.ch
   iptvvergleich.ch
+  legal-iptv.ch
+  live-iptv.ch
   m3u-iptv.ch
   mag-iptv.ch
   magbox.ch
   nvidia-iptv.ch
+  ott-iptv.ch
   panel-iptv.ch
+  paytv-iptv.ch
+  plans-iptv.ch
   player-avis.ch
+  player-compare.ch
   player-guide.ch
   player-iptv.ch
   playlist-iptv.ch
   premium-iptv.ch
   reseller-iptv.ch
+  review-iptv.ch
   roku-iptv.ch
   server-guide.ch
   server-iptv.ch
   setup-iptv.ch
   shield-iptv.ch
   stick-iptv.ch
+  stream-iptv.ch
   streamcompare.ch
   test-box.ch
   trial-iptv.ch
   vergleich-iptv.ch
   vod-iptv.ch
+  watch-iptv.ch
   xtream-iptv.ch
-  TAKEN: iptv-abo.ch, iptv-box.ch, iptv-suisse.ch, iptvserver.ch, smart-box.ch
+  TAKEN: anbieter-iptv.ch, iptv-abo.ch, iptv-anbieter.ch, iptv-box.ch, iptv-suisse.ch, iptvserver.ch, smart-box.ch, test-iptv.ch
   UNKNOWN: iptv-xtream.ch
 
 -------- .be Belgium AVAILABLE --------
@@ -1639,51 +1871,74 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   jamfor-iptv.se
   TAKEN: appletv-iptv.se, chromecast-iptv.se, formuler-box.se, iptv-app.se, iptv-box.se, iptv-player.se, iptvapp.se, iptvplayer.se, jamforiptv.se
   CONFIRM AT REGISTRAR: avis-iptv.se, basta-iptv.se, compareiptv.se, guideiptv.se, iptv-stockholm.se, iptvcompare.se, streamcompare.se
-  UNKNOWN: android-box.se, android-iptv.se, app-iptv.se, box-avis.se, box-compare.se, box-guide.se, box-iptv.se, compare-box.se, essai-box.se, firestick-box.se, firestick-iptv.se, firetv-iptv.se, formuler-iptv.se, guide-box.se, guide-player.se, iptv-codes.se, iptv-m3u.se, iptv-mag.se, iptv-panel.se, iptv-playlist.se, iptv-portal.se, iptv-premium.se, iptv-reseller.se, iptv-server.se, iptv-setup.se, iptv-stick.se, iptv-trial.se, iptv-vod.se, iptv-xtream.se, iptvbox.se, iptvcodes.se, iptvpanel.se, iptvplaylist.se, iptvportal.se, iptvreseller.se, iptvserver.se, iptvsetup.se, iptvtrial.se, m3u-iptv.se, mag-iptv.se, magbox.se, nvidia-iptv.se, panel-iptv.se, player-avis.se, player-guide.se, player-iptv.se, playlist-iptv.se, premium-iptv.se, reseller-iptv.se, roku-iptv.se, server-guide.se, server-iptv.se, setup-iptv.se, shield-iptv.se, smart-box.se, stick-iptv.se, test-box.se, trial-iptv.se, vod-iptv.se, xtream-iptv.se
+  UNKNOWN: 4k-iptv.se, abo-iptv.se, anbieter-iptv.se, android-box.se, android-iptv.se, app-iptv.se, avis-box.se, box-avis.se, box-compare.se, box-guide.se, box-iptv.se, cheap-iptv.se, compare-box.se, compare-player.se, cordcut-iptv.se, deals-iptv.se, essai-box.se, firestick-box.se, firestick-iptv.se, firetv-iptv.se, formuler-iptv.se, gids-iptv.se, guide-box.se, guide-player.se, iptv-4k.se, iptv-abo.se, iptv-anbieter.se, iptv-cheap.se, iptv-codes.se, iptv-deals.se, iptv-gids.se, iptv-legal.se, iptv-live.se, iptv-m3u.se, iptv-mag.se, iptv-ott.se, iptv-panel.se, iptv-plans.se, iptv-playlist.se, iptv-portal.se, iptv-premium.se, iptv-reseller.se, iptv-review.se, iptv-server.se, iptv-setup.se, iptv-stick.se, iptv-stream.se, iptv-test.se, iptv-trial.se, iptv-vod.se, iptv-watch.se, iptv-xtream.se, iptvbox.se, iptvcodes.se, iptvpanel.se, iptvplaylist.se, iptvportal.se, iptvreseller.se, iptvserver.se, iptvsetup.se, iptvtrial.se, legal-iptv.se, live-iptv.se, m3u-iptv.se, mag-iptv.se, magbox.se, nvidia-iptv.se, ott-iptv.se, panel-iptv.se, paytv-iptv.se, plans-iptv.se, player-avis.se, player-compare.se, player-guide.se, player-iptv.se, playlist-iptv.se, premium-iptv.se, reseller-iptv.se, review-iptv.se, roku-iptv.se, server-guide.se, server-iptv.se, setup-iptv.se, shield-iptv.se, smart-box.se, stick-iptv.se, stream-iptv.se, test-box.se, test-iptv.se, trial-iptv.se, vod-iptv.se, watch-iptv.se, xtream-iptv.se
 
 -------- .no Norway AVAILABLE --------
+  4k-iptv.no
+  abo-iptv.no
+  anbieter-iptv.no
   android-box.no
   android-iptv.no
   app-iptv.no
   appletv-iptv.no
+  avis-box.no
   avis-iptv.no
   beste-iptv.no
   box-avis.no
   box-compare.no
   box-guide.no
   box-iptv.no
+  cheap-iptv.no
   chromecast-iptv.no
   compare-box.no
+  compare-player.no
   compareiptv.no
+  cordcut-iptv.no
+  deals-iptv.no
   essai-box.no
   firestick-box.no
   firestick-iptv.no
   firetv-iptv.no
   formuler-box.no
   formuler-iptv.no
+  gids-iptv.no
   guide-box.no
   guide-player.no
   guideiptv.no
+  iptv-4k.no
+  iptv-abo.no
+  iptv-anbieter.no
   iptv-app.no
   iptv-bergen.no
   iptv-box.no
+  iptv-cheap.no
   iptv-codes.no
+  iptv-deals.no
+  iptv-gids.no
+  iptv-legal.no
+  iptv-live.no
   iptv-m3u.no
   iptv-mag.no
   iptv-oslo.no
+  iptv-ott.no
   iptv-panel.no
+  iptv-plans.no
   iptv-player.no
   iptv-playlist.no
   iptv-portal.no
   iptv-premium.no
   iptv-reseller.no
+  iptv-review.no
   iptv-server.no
   iptv-setup.no
   iptv-stavanger.no
   iptv-stick.no
+  iptv-stream.no
+  iptv-test.no
   iptv-trial.no
   iptv-trondheim.no
   iptv-vod.no
+  iptv-watch.no
   iptv-xtream.no
   iptvapp.no
   iptvbox.no
@@ -1697,17 +1952,24 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptvserver.no
   iptvsetup.no
   iptvtrial.no
+  legal-iptv.no
+  live-iptv.no
   m3u-iptv.no
   mag-iptv.no
   magbox.no
   nvidia-iptv.no
+  ott-iptv.no
   panel-iptv.no
+  paytv-iptv.no
+  plans-iptv.no
   player-avis.no
+  player-compare.no
   player-guide.no
   player-iptv.no
   playlist-iptv.no
   premium-iptv.no
   reseller-iptv.no
+  review-iptv.no
   roku-iptv.no
   sammenlign-iptv.no
   sammenligniptv.no
@@ -1716,56 +1978,82 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   setup-iptv.no
   shield-iptv.no
   stick-iptv.no
+  stream-iptv.no
   streamcompare.no
   test-box.no
+  test-iptv.no
   trial-iptv.no
   vod-iptv.no
+  watch-iptv.no
   xtream-iptv.no
   TAKEN: smart-box.no
 
 -------- .dk Denmark AVAILABLE --------
+  4k-iptv.dk
+  abo-iptv.dk
+  anbieter-iptv.dk
   android-box.dk
   android-iptv.dk
   app-iptv.dk
   appletv-iptv.dk
+  avis-box.dk
   avis-iptv.dk
   bedste-iptv.dk
   box-avis.dk
   box-compare.dk
   box-guide.dk
   box-iptv.dk
+  cheap-iptv.dk
   chromecast-iptv.dk
   compare-box.dk
+  compare-player.dk
   compareiptv.dk
+  cordcut-iptv.dk
+  deals-iptv.dk
   essai-box.dk
   firestick-box.dk
   firestick-iptv.dk
   firetv-iptv.dk
   formuler-box.dk
   formuler-iptv.dk
+  gids-iptv.dk
   guide-box.dk
   guide-player.dk
   guideiptv.dk
+  iptv-4k.dk
   iptv-aalborg.dk
   iptv-aarhus.dk
+  iptv-abo.dk
+  iptv-anbieter.dk
   iptv-app.dk
   iptv-box.dk
+  iptv-cheap.dk
   iptv-codes.dk
+  iptv-deals.dk
+  iptv-gids.dk
   iptv-kobenhavn.dk
+  iptv-legal.dk
+  iptv-live.dk
   iptv-m3u.dk
   iptv-mag.dk
   iptv-odense.dk
+  iptv-ott.dk
   iptv-panel.dk
+  iptv-plans.dk
   iptv-player.dk
   iptv-playlist.dk
   iptv-portal.dk
   iptv-premium.dk
   iptv-reseller.dk
+  iptv-review.dk
   iptv-server.dk
   iptv-setup.dk
   iptv-stick.dk
+  iptv-stream.dk
+  iptv-test.dk
   iptv-trial.dk
   iptv-vod.dk
+  iptv-watch.dk
   iptv-xtream.dk
   iptvapp.dk
   iptvcodes.dk
@@ -1777,17 +2065,24 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptvserver.dk
   iptvsetup.dk
   iptvtrial.dk
+  legal-iptv.dk
+  live-iptv.dk
   m3u-iptv.dk
   mag-iptv.dk
   magbox.dk
   nvidia-iptv.dk
+  ott-iptv.dk
   panel-iptv.dk
+  paytv-iptv.dk
+  plans-iptv.dk
   player-avis.dk
+  player-compare.dk
   player-guide.dk
   player-iptv.dk
   playlist-iptv.dk
   premium-iptv.dk
   reseller-iptv.dk
+  review-iptv.dk
   roku-iptv.dk
   sammenlign-iptv.dk
   sammenligniptv.dk
@@ -1797,56 +2092,82 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   shield-iptv.dk
   smart-box.dk
   stick-iptv.dk
+  stream-iptv.dk
   streamcompare.dk
   test-box.dk
+  test-iptv.dk
   trial-iptv.dk
   vod-iptv.dk
+  watch-iptv.dk
   xtream-iptv.dk
   TAKEN: iptvbox.dk, iptvplayer.dk
 
 -------- .fi Finland AVAILABLE --------
+  4k-iptv.fi
+  abo-iptv.fi
+  anbieter-iptv.fi
   android-box.fi
   android-iptv.fi
   app-iptv.fi
   appletv-iptv.fi
+  avis-box.fi
   avis-iptv.fi
   box-avis.fi
   box-compare.fi
   box-guide.fi
   box-iptv.fi
+  cheap-iptv.fi
   chromecast-iptv.fi
   compare-box.fi
+  compare-player.fi
   compareiptv.fi
+  cordcut-iptv.fi
+  deals-iptv.fi
   essai-box.fi
   firestick-box.fi
   firestick-iptv.fi
   firetv-iptv.fi
   formuler-box.fi
   formuler-iptv.fi
+  gids-iptv.fi
   guide-box.fi
   guide-player.fi
   guideiptv.fi
+  iptv-4k.fi
+  iptv-abo.fi
+  iptv-anbieter.fi
   iptv-app.fi
   iptv-box.fi
+  iptv-cheap.fi
   iptv-codes.fi
+  iptv-deals.fi
+  iptv-gids.fi
   iptv-helsinki.fi
+  iptv-legal.fi
+  iptv-live.fi
   iptv-m3u.fi
   iptv-mag.fi
   iptv-opas.fi
+  iptv-ott.fi
   iptv-oulu.fi
   iptv-panel.fi
+  iptv-plans.fi
   iptv-player.fi
   iptv-playlist.fi
   iptv-portal.fi
   iptv-premium.fi
   iptv-reseller.fi
+  iptv-review.fi
   iptv-server.fi
   iptv-setup.fi
   iptv-stick.fi
+  iptv-stream.fi
   iptv-tampere.fi
+  iptv-test.fi
   iptv-trial.fi
   iptv-turku.fi
   iptv-vod.fi
+  iptv-watch.fi
   iptv-xtream.fi
   iptvapp.fi
   iptvbox.fi
@@ -1860,17 +2181,24 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   iptvserver.fi
   iptvsetup.fi
   iptvtrial.fi
+  legal-iptv.fi
+  live-iptv.fi
   m3u-iptv.fi
   mag-iptv.fi
   magbox.fi
   nvidia-iptv.fi
+  ott-iptv.fi
   panel-iptv.fi
+  paytv-iptv.fi
+  plans-iptv.fi
   player-avis.fi
+  player-compare.fi
   player-guide.fi
   player-iptv.fi
   playlist-iptv.fi
   premium-iptv.fi
   reseller-iptv.fi
+  review-iptv.fi
   roku-iptv.fi
   server-guide.fi
   server-iptv.fi
@@ -1878,11 +2206,14 @@ US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 
   shield-iptv.fi
   smart-box.fi
   stick-iptv.fi
+  stream-iptv.fi
   streamcompare.fi
   test-box.fi
+  test-iptv.fi
   trial-iptv.fi
   vertaa-iptv.fi
   vod-iptv.fi
+  watch-iptv.fi
   xtream-iptv.fi
   TAKEN: paras-iptv.fi
 
