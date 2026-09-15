@@ -46,5 +46,7 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Enigma boxes | `gtmedia iptv` / `octagon iptv` | Satellite/Android hybrid | AVAILABLE leftovers: `gtmedia-iptv.fr`, `octagon-iptv.de`, `morbihan-iptv.fr`, `finistere-iptv.fr`, `pfalz-iptv.de`, `rhein-iptv.de` |
 | More langs | `somali iptv` / `yoruba iptv` / `dari iptv` / `georgian iptv` | Diaspora commercial | AVAILABLE leftovers: `somali-iptv.fr`, `yoruba-iptv.fr`, `dari-iptv.fr`, `georgian-iptv.fr`. `dreambox-iptv.nl` TAKEN |
 | More boxes | `dreambox iptv` / `mutant iptv` | Enigma/Linux boxes | AVAILABLE leftovers: `dreambox-iptv.fr`, `mutant-iptv.de`, `vaucluse-iptv.fr`, `holstein-iptv.de`. `holstein-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Africa langs | `amharic iptv` / `hausa iptv` / `igbo iptv` | Diaspora commercial | AVAILABLE leftovers: `amharic-iptv.fr`, `hausa-iptv.fr`, `igbo-iptv.fr`. `amharic-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Enigma 2 | `edision iptv` / `gigablue iptv` | Linux box setup | AVAILABLE leftovers: `edision-iptv.fr`, `gigablue-iptv.de`, `var-iptv.fr`, `gard-iptv.fr`, `niederrhein-iptv.de`. `var-box.de` TAKEN |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).

@@ -744,6 +744,20 @@ STEMS = (
     "holstein-iptv",
     "westfalen-iptv",
     "holstein-box",
+    "amharic-iptv",
+    "hausa-iptv",
+    "igbo-iptv",
+    "amharic-box",
+    "edision-iptv",
+    "gigablue-iptv",
+    "edision-box",
+    "gigablue-box",
+    "var-iptv",
+    "gard-iptv",
+    "var-box",
+    "niederrhein-iptv",
+    "nordsee-iptv",
+    "niederrhein-box",
 )
 
 # Local cities × iptv on the matching country TLD (still two words).
@@ -845,6 +859,9 @@ CITY_BY_TLD = {
         "sete",
         "agde",
         "foix",
+        "sete",
+        "agde",
+        "foix",
     ),
     ".ca": (
         "toronto",
@@ -922,6 +939,8 @@ CITY_BY_TLD = {
         "welland",
         "orillia",
         "sarnia",
+        "orillia",
+        "welland",
     ),
     ".us": (
         "houston",
@@ -1005,6 +1024,8 @@ CITY_BY_TLD = {
         "fargo",
         "duluth",
         "greenbay",
+        "duluth",
+        "greenbay",
     ),
     ".de": (
         "berlin",
@@ -1074,6 +1095,8 @@ CITY_BY_TLD = {
         "siegen",
         "hof",
         "plauen",
+        "hof",
+        "plauen",
     ),
     ".nl": (
         "amsterdam",
@@ -1136,6 +1159,8 @@ CITY_BY_TLD = {
         "heerlen",
         "tiel",
         "culemborg",
+        "tiel",
+        "culemborg",
     ),
     ".ch": (
         "zurich",
@@ -1178,6 +1203,8 @@ CITY_BY_TLD = {
         "sion",
         "aigle",
         "sion",
+        "aigle",
+        "sion",
     ),
     ".no": (
         "oslo",
@@ -1206,6 +1233,8 @@ CITY_BY_TLD = {
         "tromso",
         "alta",
         "kirkenes",
+        "alta",
+        "tromso",
     ),
     ".dk": (
         "kobenhavn",
@@ -1234,6 +1263,8 @@ CITY_BY_TLD = {
         "viborg",
         "hobro",
         "viborg",
+        "hobro",
+        "koge",
     ),
     ".fi": (
         "helsinki",
@@ -1263,6 +1294,8 @@ CITY_BY_TLD = {
         "pori",
         "rauma",
         "pori",
+        "rauma",
+        "kotka",
     ),
     ".se": (
         "stockholm",
@@ -1293,6 +1326,8 @@ CITY_BY_TLD = {
         "umea",
         "pitea",
         "lulea",
+        "pitea",
+        "kiruna",
     ),
 }
 
@@ -1412,6 +1447,10 @@ def candidates() -> list[str]:
         "shetland-guide",
         "anglesey-guide",
         "skye-guide",
+        "hebrides-guide",
+        "wight-guide",
+        "scilly-guide",
+        "manx-guide",
         "hebrides-guide",
         "wight-guide",
         "scilly-guide",
