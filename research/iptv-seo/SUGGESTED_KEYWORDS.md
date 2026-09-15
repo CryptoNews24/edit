@@ -59,5 +59,9 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Geo leftover | `iptv pyrenees` / `iptv vosges` / `iptv ardennes` | FR mountain/border commercial | AVAILABLE: `pyrenees-iptv.fr`, `vosges-iptv.fr`, `ardennes-iptv.fr`. `pyrenees-box.fr` TAKEN |
 | Indic langs | `telugu iptv` / `malayalam iptv` / `sinhala iptv` / `kannada iptv` / `gujarati iptv` | Diaspora commercial | AVAILABLE leftovers: `telugu-iptv.fr`, `malayalam-iptv.fr`, `sinhala-iptv.fr`, `kannada-iptv.fr`, `gujarati-iptv.fr`, `telugu-iptv.ca` |
 | Linux boxes | `maxytec iptv` / `xsarius iptv` | Enigma/Linux boxes | AVAILABLE leftovers: `maxytec-iptv.fr`, `xsarius-iptv.fr`, `lot-iptv.fr`, `ariege-box.fr`, `aveyron-box.fr` |
+| Indic 2 | `marathi iptv` / `assamese iptv` / `odia iptv` / `konkani iptv` | Diaspora commercial | AVAILABLE leftovers: `marathi-iptv.fr`, `assamese-iptv.fr`, `odia-iptv.fr`, `konkani-iptv.fr`. `assamese-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Africa langs | `tigrinya iptv` / `shona iptv` / `xhosa iptv` | Diaspora commercial | AVAILABLE leftovers: `tigrinya-iptv.fr`, `shona-iptv.fr`, `xhosa-iptv.fr` |
+| Linux 2 | `osmio iptv` / `vu solo iptv` | Enigma boxes | AVAILABLE leftovers: `osmio-iptv.fr`, `vusolo-iptv.fr`. `marathi-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Geo FR | `iptv dordogne` / `iptv allier` / `iptv nievre` | Departement commercial | AVAILABLE: `dordogne-iptv.fr`, `allier-iptv.fr`, `nievre-iptv.fr`, `dordogne-box.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
