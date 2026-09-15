@@ -330,5 +330,8 @@ Noxtools recheck (2026-09-15 23:00 UTC, egress `44.250.14.191`): **not HTTP 429*
 | FR Seine-et-Marne 3 | `dammariois iptv` / `ozoirien iptv` / `lagnyen iptv` / `noisielois iptv` | Gentilé commercial | AVAILABLE leftovers: `dammariois-iptv.fr`, `ozoirien-iptv.fr`, `lagnyen-iptv.fr`, `noisielois-iptv.fr`. `ozoirien-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t972u iptv` / `h618u iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972u-iptv.fr`, `h618u-iptv.fr` |
 | UK geo 74 | `coupar angus guide` / `burrelton guide` / `wolfhill guide` | Nominet no-iptv | AVAILABLE: `couparangus-guide.co.uk`, `burrelton-guide.co.uk`, `wolfhill-guide.co.uk` (also `.uk`) |
+| FR Seine-et-Marne 4 | `vairesien iptv` / `chessyen iptv` / `mitryen iptv` / `tremblaysien iptv` | Gentilé commercial | AVAILABLE leftovers: `vairesien-iptv.fr`, `chessyen-iptv.fr`, `mitryen-iptv.fr`, `tremblaysien-iptv.fr` |
+| Boxes | `t950v iptv` / `rk3568u iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950v-iptv.fr`, `rk3568u-iptv.fr` |
+| UK geo 75 | `luncarty guide` / `bankfoot guide` / `murthly guide` | Nominet no-iptv | AVAILABLE: `luncarty-guide.co.uk`, `bankfoot-guide.co.uk`, `murthly-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
