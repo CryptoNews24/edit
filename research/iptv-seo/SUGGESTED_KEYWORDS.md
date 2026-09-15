@@ -28,6 +28,9 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this IP after one attempt (`iptv box` FR). Incognito also 429. **No new volumes invented.** Retry when the timer fires; do not use free Semrush.
 
-| FR overseas / Maghreb langs | `iptv amazigh` / `iptv kabyle` / `iptv reunion` / `iptv antilles` | Diaspora + DOM-TOM | `amazigh-iptv.fr`, `kabyle-iptv.fr`, `reunion-iptv.fr`, `antilles-iptv.fr`, `guyane-iptv.fr`, `tahiti-iptv.fr`, `caledonie-iptv.fr` |
+| FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
+| Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
+| Devices | `xiaomi iptv` / `onn box iptv` / `google tv iptv` / `fire cube iptv` | Cheap Android/Google TV boxes | AVAILABLE leftovers: `xiaomi-iptv.fr`, `onn-box.us`, `googletv-iptv.us`, `firecube-iptv.us` |
+| Minority langs | `iptv occitan` / `iptv breton` / `iptv romansh` / `iptv alsacien` | Regional FR/CH languages | AVAILABLE leftovers: `occitan-iptv.fr`, `breton-iptv.fr`, `romansh-iptv.ch`, `alsacien-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
