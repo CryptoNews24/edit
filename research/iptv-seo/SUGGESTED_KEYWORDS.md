@@ -147,5 +147,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Auvergne | `vellave iptv` / `issoirien iptv` / `riomois iptv` / `thiernois iptv` | Gentilé commercial | AVAILABLE leftovers: `vellave-iptv.fr`, `issoirien-iptv.fr`, `riomois-iptv.fr`, `thiernois-iptv.fr` |
 | Boxes | `a133 iptv` / `t113 iptv` | Cheap Android SoC | AVAILABLE leftovers: `a133-iptv.fr`, `t113-iptv.fr` |
 | UK geo 13 | `gourock guide` / `port glasgow guide` / `helensburgh guide` | Nominet no-iptv | AVAILABLE: `gourock-guide.co.uk`, `portglasgow-guide.co.uk`, `helensburgh-guide.co.uk` (also `.uk`) |
+| FR Allier | `vichyssois iptv` / `moulinois iptv` / `montluconnais iptv` / `gannatois iptv` | Gentilé commercial | AVAILABLE leftovers: `vichyssois-iptv.fr`, `moulinois-iptv.fr`, `montluconnais-iptv.fr`, `gannatois-iptv.fr` |
+| Boxes | `s905x2 iptv` / `rk3229 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905x2-iptv.fr`, `rk3229-iptv.fr`. `s905x2-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 14 | `clydebank guide` / `milngavie guide` / `bearsden guide` | Nominet no-iptv | AVAILABLE: `clydebank-guide.co.uk`, `milngavie-guide.co.uk`, `bearsden-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
