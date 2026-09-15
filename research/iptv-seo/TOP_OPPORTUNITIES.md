@@ -177,8 +177,12 @@ High-intent **AVAILABLE** leftovers (do not buy from this list):
 | `iptv-box.ca` | best iptv canada 1.9K | Box stem (two-word leftover) |
 | `iptv-player.ca` / `iptv-app.ca` | best iptv canada 1.9K | Player/app pair |
 | `firestick-iptv.ca` / `android-iptv.ca` | best iptv canada 1.9K | Device + iptv |
-| `iptv-server.fr` / `box-avis.fr` | abonnement iptv 18.1K | FR commercial leftovers |
+| `iptv-server.fr` / `box-avis.fr` / `abo-box.fr` / `xtream-box.fr` / `mag-box.fr` | abonnement iptv 18.1K | FR box/server leftovers |
 | `firestick-iptv.us` | iptv firestick 590 | Device pair |
-| `android-iptv.us` | best iptv 5.4K | Device pair on .us (head `iptv` excluded — Difficult) |
+| `android-iptv.us` / `reseller-panel.us` / `server-panel.us` | best iptv 5.4K | Device + B2B leftovers on .us |
+| `goedkope-iptv.nl` / `proberen-iptv.nl` | (volume N/A until Semrush NL) | Cheap/trial Dutch pair |
+| `decoder-iptv.fr` / `kodi-iptv.fr` / `strasbourg-iptv.fr` | abonnement iptv 18.1K | Decoder/player + city leftover |
 
 Brand app names (TiviMate, Smarters, IBO, GSE, OTT Navigator) stay **SEO keywords only** — not EMD domains.
+
+Next Semrush queue: `SUGGESTED_KEYWORDS.md`.

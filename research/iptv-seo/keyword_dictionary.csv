@@ -252,6 +252,8 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,Canada,en,meilleur iptv canada,local_language,ca_local,ca,queued,ok,meilleuriptvcanada.ca,.ca
 2026-09-15,Canada,en,abonnement iptv canada,local_language,ca_local,ca,queued,ok,abonnementiptvcanada.ca,.ca
 2026-09-15,Canada,en,iptv quebec,local_language,ca_local,ca,queued,ok,iptvquebec.ca,.ca
+2026-09-15,Canada,en,best iptv firestick,local_language,ca_local,ca,queued,ok,bestiptvfirestick.ca,.ca
+2026-09-15,Canada,en,iptv android canada,local_language,ca_local,ca,queued,ok,iptvandroidcanada.ca,.ca
 2026-09-15,Canada,fr,iptv canadien,service+geo,ca_geo,ca,queued,ok,iptvcanadien.ca,.ca
 2026-09-15,Canada,fr,best iptv quebec,service+geo,ca_geo,ca,queued,ok,bestiptvquebec.ca,.ca
 2026-09-15,Canada,fr,best iptv canadien,service+geo,ca_geo,ca,queued,ok,bestiptvcanadien.ca,.ca
@@ -629,6 +631,10 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,United States,en,iptv miami,service+city,us_city,us,queued,ok,iptvmiami.co,.co
 2026-09-15,United States,en,best iptv miami,best+city,us_city,us,queued,ok,bestiptvmiami.co,.co
 2026-09-15,United States,en,iptv subscription miami,subscription+city,us_city,us,queued,ok,iptvsubscriptionmiami.co,.co
+2026-09-15,United States,en,best iptv service,local_language,us_local,us,queued,ok,bestiptvservice.co,.co
+2026-09-15,United States,en,best iptv subscription,local_language,us_local,us,queued,ok,bestiptvsubscription.co,.co
+2026-09-15,United States,en,iptv m3u playlist,local_language,us_local,us,queued,ok,iptvm3uplaylist.co,.co
+2026-09-15,United States,en,xtream codes,local_language,us_local,us,queued,ok,xtreamcodes.co,.co
 2026-09-15,United Kingdom,en,iptv,service,uk_core,uk,queued,ok,cluster-on-country-site,uk
 2026-09-15,United Kingdom,en,iptv uk,service+geo,uk_geo,uk,queued,ok,brandable-no-iptv-in-uk-tld,.co
 2026-09-15,United Kingdom,en,iptv britain,service+geo,uk_geo,uk,queued,ok,brandable-no-iptv-in-uk-tld,.co
@@ -1138,6 +1144,12 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,France,fr,avis iptv,local_language,fr_local,fr,queued,ok,avisiptv.fr,.fr
 2026-09-15,France,fr,comparateur iptv,local_language,fr_local,fr,queued,ok,comparateuriptv.fr,.fr
 2026-09-15,France,fr,abonnement iptv avis,local_language,fr_local,fr,queued,ok,abonnementiptvavis.fr,.fr
+2026-09-15,France,fr,iptv android france,local_language,fr_local,fr,queued,ok,iptvandroidfrance.fr,.fr
+2026-09-15,France,fr,iptv box android,local_language,fr_local,fr,queued,ok,iptvboxandroid.fr,.fr
+2026-09-15,France,fr,code xtream,local_language,fr_local,fr,queued,ok,codextream.fr,.fr
+2026-09-15,France,fr,iptv 4k france,local_language,fr_local,fr,queued,ok,iptv4kfrance.fr,.fr
+2026-09-15,France,fr,iptv mag france,local_language,fr_local,fr,queued,ok,iptvmagfrance.fr,.fr
+2026-09-15,France,fr,meilleur iptv box,local_language,fr_local,fr,queued,ok,meilleuriptvbox.fr,.fr
 2026-09-15,Belgium,fr,iptv,service,be_core,be,queued,ok,cluster-on-country-site,be
 2026-09-15,Belgium,fr,iptv belgique,service+geo,be_geo,be,queued,ok,iptvbelgique.be,.be
 2026-09-15,Belgium,fr,iptv belge,service+geo,be_geo,be,queued,ok,iptvbelge.be,.be
@@ -2080,6 +2092,9 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,Germany,de,iptv vergleich,local_language,de_local,de,queued,ok,iptvvergleich.de,.de
 2026-09-15,Germany,de,gunstiger iptv,local_language,de_local,de,queued,ok,gunstigeriptv.de,.de
 2026-09-15,Germany,de,iptv legal deutschland,local_language,de_local,de,queued,ok,iptvlegaldeutschland.de,.de
+2026-09-15,Germany,de,iptv mag,local_language,de_local,de,queued,ok,iptvmag.de,.de
+2026-09-15,Germany,de,iptv box kaufen,local_language,de_local,de,queued,ok,iptvboxkaufen.de,.de
+2026-09-15,Germany,de,bester iptv anbieter,local_language,de_local,de,queued,ok,besteriptvanbieter.de,.de
 2026-09-15,Netherlands,nl,iptv,service,nl_core,nl,queued,ok,cluster-on-country-site,nl
 2026-09-15,Netherlands,nl,iptv nederland,service+geo,nl_geo,nl,queued,ok,iptvnederland.nl,.nl
 2026-09-15,Netherlands,nl,iptv dutch,service+geo,nl_geo,nl,queued,ok,iptvdutch.nl,.nl
@@ -3967,6 +3982,9 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,Sweden,sv,iptv portal sverige,app+geo,se_app,se,queued,ok,iptvportalsverige.se,.se
 2026-09-15,Sweden,sv,iptv playlist,app_seo_only,se_app,se,queued,ok,iptvplaylist.se,.se
 2026-09-15,Sweden,sv,iptv playlist sverige,app+geo,se_app,se,queued,ok,iptvplaylistsverige.se,.se
+2026-09-15,Sweden,sv,basta iptv,local_language,se_local,se,queued,ok,bastaiptv.se,.se
+2026-09-15,Sweden,sv,billig iptv sverige,local_language,se_local,se,queued,ok,billigiptvsverige.se,.se
+2026-09-15,Sweden,sv,iptv abonnemang,local_language,se_local,se,queued,ok,iptvabonnemang.se,.se
 2026-09-15,Norway,no,iptv,service,no_core,no,queued,ok,cluster-on-country-site,no
 2026-09-15,Norway,no,iptv norge,service+geo,no_geo,no,queued,ok,iptvnorge.no,.no
 2026-09-15,Norway,no,iptv norway,service+geo,no_geo,no,queued,ok,iptvnorway.no,.no
@@ -4191,6 +4209,9 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,Norway,no,iptv portal norge,app+geo,no_app,no,queued,ok,iptvportalnorge.no,.no
 2026-09-15,Norway,no,iptv playlist,app_seo_only,no_app,no,queued,ok,iptvplaylist.no,.no
 2026-09-15,Norway,no,iptv playlist norge,app+geo,no_app,no,queued,ok,iptvplaylistnorge.no,.no
+2026-09-15,Norway,no,beste iptv norge,local_language,no_local,no,queued,ok,besteiptvnorge.no,.no
+2026-09-15,Norway,no,billig iptv,local_language,no_local,no,queued,ok,billigiptv.no,.no
+2026-09-15,Norway,no,iptv abonnement norge,local_language,no_local,no,queued,ok,iptvabonnementnorge.no,.no
 2026-09-15,Denmark,da,iptv,service,dk_core,dk,queued,ok,cluster-on-country-site,dk
 2026-09-15,Denmark,da,iptv danmark,service+geo,dk_geo,dk,queued,ok,iptvdanmark.dk,.dk
 2026-09-15,Denmark,da,iptv denmark,service+geo,dk_geo,dk,queued,ok,iptvdenmark.dk,.dk
@@ -4415,6 +4436,9 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,Denmark,da,iptv portal danmark,app+geo,dk_app,dk,queued,ok,iptvportaldanmark.dk,.dk
 2026-09-15,Denmark,da,iptv playlist,app_seo_only,dk_app,dk,queued,ok,iptvplaylist.dk,.dk
 2026-09-15,Denmark,da,iptv playlist danmark,app+geo,dk_app,dk,queued,ok,iptvplaylistdanmark.dk,.dk
+2026-09-15,Denmark,da,bedste iptv,local_language,dk_local,dk,queued,ok,bedsteiptv.dk,.dk
+2026-09-15,Denmark,da,billig iptv danmark,local_language,dk_local,dk,queued,ok,billigiptvdanmark.dk,.dk
+2026-09-15,Denmark,da,iptv abonnement,local_language,dk_local,dk,queued,ok,iptvabonnement.dk,.dk
 2026-09-15,Finland,fi,iptv,service,fi_core,fi,queued,ok,cluster-on-country-site,fi
 2026-09-15,Finland,fi,iptv suomi,service+geo,fi_geo,fi,queued,ok,iptvsuomi.fi,.fi
 2026-09-15,Finland,fi,iptv finland,service+geo,fi_geo,fi,queued,ok,iptvfinland.fi,.fi
@@ -4639,6 +4663,8 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,Finland,fi,iptv portal suomi,app+geo,fi_app,fi,queued,ok,iptvportalsuomi.fi,.fi
 2026-09-15,Finland,fi,iptv playlist,app_seo_only,fi_app,fi,queued,ok,iptvplaylist.fi,.fi
 2026-09-15,Finland,fi,iptv playlist suomi,app+geo,fi_app,fi,queued,ok,iptvplaylistsuomi.fi,.fi
+2026-09-15,Finland,fi,paras iptv,local_language,fi_local,fi,queued,ok,parasiptv.fi,.fi
+2026-09-15,Finland,fi,halpa iptv,local_language,fi_local,fi,queued,ok,halpaiptv.fi,.fi
 2026-09-15,Ireland,en,iptv,service,ie_core,ie,queued,ignore_.ie_documents,SKIP_IE_DOCUMENTS,n/a
 2026-09-15,Ireland,en,iptv ireland,service+geo,ie_geo,ie,volume_verified,ignore_.ie_documents,SKIP_IE_DOCUMENTS,n/a
 2026-09-15,Ireland,en,iptv irish,service+geo,ie_geo,ie,queued,ignore_.ie_documents,SKIP_IE_DOCUMENTS,n/a
@@ -4866,5 +4892,7 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,France,fr,iptv samsung france,device+geo,fr_device,fr,queued,ok,iptvsamsungfrance.fr,.fr
 2026-09-15,Canada,en,iptv canada firestick,device+geo,ca_device,ca,queued,ok,iptvcanadafirestick.ca,.ca
 2026-09-15,Canada,en,iptv canada legal,legal,ca_core,ca,queued,ok,iptvcanadalegal.ca,.ca
-2026-09-15,United States,en,best iptv service,service+best,us_core,us,queued,ok,bestiptvservice.co,.co
 2026-09-15,Australia,en,iptv australia firestick,device+geo,au_device,au,queued,ok,iptvaustraliafirestick.com.au,.com.au
+2026-09-15,United States,en,iptv m3u,playlist,us_playlist,us,queued,ok,iptvm3u.co,.co
+2026-09-15,Germany,de,iptv anbieter vergleich,local_language,de_local,de,queued,ok,iptvanbietervergleich.de,.de
+2026-09-15,Canada,fr,forfait iptv quebec,local_language,ca_fr,ca,queued,ok,forfaitiptvquebec.ca,.ca

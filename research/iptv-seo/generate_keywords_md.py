@@ -105,7 +105,7 @@ def main() -> None:
         "",
         "Rules: do not buy from this file. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. **Two-word domain names only** (hyphen or smashed, e.g. `avis-iptv.fr` / `compareiptv.us`). No 3+ word labels. TiviMate / IPTV Smarters / IBO / GSE / OTT Navigator = SEO topics, not brand domains.",
         "",
-        "Keyword universe expanded: IPTV apps, boxes, subscription, server, reseller, panel, portal, playlist, MAG/Formuler, Fire Stick, Roku, Android box. New two-word names are RDAP-checked; they stay off the scored Top 10 until a Noxtools Semrush server confirms volume ≥ 500.",
+        "Keyword universe expanded: IPTV apps, boxes, subscription, server, reseller, panel, portal, playlist, MAG/Formuler, Fire Stick, Roku, Android box. Next Semrush queue: `SUGGESTED_KEYWORDS.md`. New two-word names are RDAP-checked; they stay off the scored Top 10 until a Noxtools Semrush server confirms volume ≥ 500.",
         "",
         "## Top 10 AVAILABLE (high traffic, low competition)",
         "",

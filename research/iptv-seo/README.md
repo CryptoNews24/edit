@@ -2,7 +2,7 @@
 
 Volumes are real only when taken from SEMrush. Nothing is purchased from this folder.
 
-**Keyword table:** `KEYWORDS.md` (AVAILABLE **two-word** domains, Semrush volume >= 500). Taken names only in the almost-expired table.  
+**Suggested keywords (queued, no invented volume):** `SUGGESTED_KEYWORDS.md`  
 **Domain list:** `LIST.txt` (same filters; no 3+ word labels; no taken dumps)
 
 Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
