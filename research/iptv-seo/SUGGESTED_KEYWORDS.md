@@ -303,5 +303,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Val-d'Oise | `argenteuillais iptv` / `sarcellois iptv` / `ermontois iptv` / `cergypontois iptv` | Gentilé commercial | AVAILABLE leftovers: `argenteuillais-iptv.fr`, `sarcellois-iptv.fr`, `ermontois-iptv.fr`, `cergypontois-iptv.fr`. `argenteuillais-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t950t iptv` / `rk3568r iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950t-iptv.fr`, `rk3568r-iptv.fr` |
 | UK geo 65 | `thornton guide` / `springfield guide` / `balgonie guide` | Nominet no-iptv | AVAILABLE: `thornton-guide.co.uk`, `springfield-guide.co.uk`, `balgonie-guide.co.uk` (also `.uk`) |
+| FR Val-d'Oise 2 | `franconvillois iptv` / `gargoisien iptv` / `tavernyen iptv` / `montmorenceen iptv` | Gentilé commercial | AVAILABLE leftovers: `franconvillois-iptv.fr`, `gargoisien-iptv.fr`, `tavernyen-iptv.fr`, `montmorenceen-iptv.fr` |
+| Boxes | `t968t iptv` / `h313t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968t-iptv.fr`, `h313t-iptv.fr` |
+| UK geo 66 | `tillicoultry guide` / `tullibody guide` / `menstrie guide` | Nominet no-iptv | AVAILABLE: `tillicoultry-guide.co.uk`, `tullibody-guide.co.uk`, `menstrie-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
