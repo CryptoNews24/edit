@@ -32,7 +32,7 @@ Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
 | Devices | `xiaomi iptv` / `onn box iptv` / `google tv iptv` / `fire cube iptv` | Cheap Android/Google TV boxes | AVAILABLE leftovers: `xiaomi-iptv.fr`, `onn-box.us`, `googletv-iptv.us`, `firecube-iptv.us` |
 | Minority langs | `iptv occitan` / `iptv breton` / `iptv romansh` / `iptv alsacien` | Regional FR/CH languages | AVAILABLE leftovers: `occitan-iptv.fr`, `breton-iptv.fr`, `romansh-iptv.ch`, `alsacien-iptv.fr` |
-| TV brands | `hisense iptv` / `samsung iptv` / `philips iptv` / `sony iptv` | Smart-TV + IPTV setup | AVAILABLE leftovers: `hisense-iptv.fr`, `philips-iptv.nl`, `sony-iptv.de` — `wales-guide.co.uk` TAKEN |
+| TV brands | `hisense iptv` / `samsung iptv` / `philips iptv` / `sony iptv` | Smart-TV + IPTV setup | AVAILABLE leftovers: `hisense-iptv.fr`, `samsung-iptv.fr`, `philips-iptv.nl`, `sony-iptv.de`. `wales-guide.co.uk` TAKEN; `wales-guide.uk` AVAILABLE |
 | Regions | `iptv auvergne` / `iptv lorraine` / `iptv zeeland` / `iptv saarland` | Local geo commercial | AVAILABLE: `auvergne-iptv.fr`, `lorraine-iptv.fr`, `saarland-iptv.de`, `zug-iptv.ch`. `zeeland-iptv.nl` UNKNOWN (SIDN 429) — not listed as a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
