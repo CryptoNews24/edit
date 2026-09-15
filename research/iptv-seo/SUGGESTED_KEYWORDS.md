@@ -306,5 +306,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Val-d'Oise 2 | `franconvillois iptv` / `gargoisien iptv` / `tavernyen iptv` / `montmorenceen iptv` | Gentilé commercial | AVAILABLE leftovers: `franconvillois-iptv.fr`, `gargoisien-iptv.fr`, `tavernyen-iptv.fr`, `montmorenceen-iptv.fr` |
 | Boxes | `t968t iptv` / `h313t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968t-iptv.fr`, `h313t-iptv.fr` |
 | UK geo 66 | `tillicoultry guide` / `tullibody guide` / `menstrie guide` | Nominet no-iptv | AVAILABLE: `tillicoultry-guide.co.uk`, `tullibody-guide.co.uk`, `menstrie-guide.co.uk` (also `.uk`) |
+| FR Val-d'Oise 3 | `herblaysien iptv` / `eragnyen iptv` / `osnysien iptv` / `pontoisien iptv` | Gentilé commercial | AVAILABLE leftovers: `herblaysien-iptv.fr`, `eragnyen-iptv.fr`, `osnysien-iptv.fr`, `pontoisien-iptv.fr` |
+| Boxes | `t962t iptv` / `a133t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962t-iptv.fr`, `a133t-iptv.fr` |
+| UK geo 67 | `alloa guide` / `clackmannan guide` / `sauchie guide` | Nominet no-iptv | AVAILABLE: `alloa-guide.co.uk`, `clackmannan-guide.co.uk`, `sauchie-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
