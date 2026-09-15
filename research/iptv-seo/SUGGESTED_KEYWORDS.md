@@ -144,5 +144,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Massif | `millavois iptv` / `ruthenois iptv` / `aurillacois iptv` / `cantalien iptv` / `aveyronnais iptv` | Gentilé commercial | AVAILABLE leftovers: `millavois-iptv.fr`, `ruthenois-iptv.fr`, `aurillacois-iptv.fr`, `cantalien-iptv.fr`, `aveyronnais-iptv.fr`. `aurillacois-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `rk3568 iptv` / `t527 iptv` | Cheap Android SoC | AVAILABLE leftovers: `rk3568-iptv.fr`, `t527-iptv.fr` |
 | UK geo 12 | `saltcoats guide` / `ardrossan guide` / `largs guide` | Nominet no-iptv | AVAILABLE: `saltcoats-guide.co.uk`, `ardrossan-guide.co.uk`, `largs-guide.co.uk` (also `.uk`) |
+| FR Auvergne | `vellave iptv` / `issoirien iptv` / `riomois iptv` / `thiernois iptv` | Gentilé commercial | AVAILABLE leftovers: `vellave-iptv.fr`, `issoirien-iptv.fr`, `riomois-iptv.fr`, `thiernois-iptv.fr` |
+| Boxes | `a133 iptv` / `t113 iptv` | Cheap Android SoC | AVAILABLE leftovers: `a133-iptv.fr`, `t113-iptv.fr` |
+| UK geo 13 | `gourock guide` / `port glasgow guide` / `helensburgh guide` | Nominet no-iptv | AVAILABLE: `gourock-guide.co.uk`, `portglasgow-guide.co.uk`, `helensburgh-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
