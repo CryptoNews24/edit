@@ -410,6 +410,16 @@ STEMS = (
     "soccer-box",
     "nba-box",
     "nhl-box",
+    "cricket-iptv",
+    "tennis-iptv",
+    "boxing-iptv",
+    "mma-iptv",
+    "nascar-iptv",
+    "ligue-iptv",
+    "premier-iptv",
+    "tennis-box",
+    "cricket-box",
+    "mma-box",
 )
 
 # Local cities × iptv on the matching country TLD (still two words).
@@ -455,6 +465,7 @@ CITY_BY_TLD = {
         "quimper",
         "vannes",
         "lorient",
+        "saintetienne",
     ),
     ".ca": (
         "toronto",
@@ -489,6 +500,7 @@ CITY_BY_TLD = {
         "kingston",
         "niagara",
         "reddeer",
+        "abbotsford",
     ),
     ".us": (
         "houston",
@@ -525,6 +537,8 @@ CITY_BY_TLD = {
         "louisville",
         "omaha",
         "tulsa",
+        "tucson",
+        "fresno",
     ),
     ".de": (
         "berlin",
@@ -550,6 +564,8 @@ CITY_BY_TLD = {
         "kiel",
         "magdeburg",
         "erfurt",
+        "aachen",
+        "mainz",
     ),
     ".nl": (
         "amsterdam",
@@ -570,6 +586,7 @@ CITY_BY_TLD = {
         "delft",
         "amersfoort",
         "apeldoorn",
+        "enschede",
     ),
     ".ch": (
         "zurich",
@@ -637,6 +654,9 @@ def candidates() -> list[str]:
         "football-guide",
         "soccer-guide",
         "sport-radio",
+        "tennis-guide",
+        "cricket-guide",
+        "racing-guide",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

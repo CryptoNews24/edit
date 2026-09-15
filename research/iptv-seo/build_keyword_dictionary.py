@@ -466,6 +466,10 @@ def main() -> None:
         ("United States", "en", "nhl iptv", "sport", "us_sport"),
         ("United States", "en", "ufc iptv", "sport", "us_sport"),
         ("United Kingdom", "en", "football iptv", "sport", "uk_seo_only"),
+        ("France", "fr", "iptv ligue 1", "sport", "fr_sport"),
+        ("United States", "en", "cricket iptv", "sport", "us_sport"),
+        ("United States", "en", "tennis iptv", "sport", "us_sport"),
+        ("United Kingdom", "en", "premier league iptv", "sport", "uk_seo_only"),
     ]
     for item in extra:
         add(rows, seen, *item)
