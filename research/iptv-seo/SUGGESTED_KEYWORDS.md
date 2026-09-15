@@ -50,5 +50,7 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Enigma 2 | `edision iptv` / `gigablue iptv` | Linux box setup | AVAILABLE leftovers: `edision-iptv.fr`, `gigablue-iptv.de`, `var-iptv.fr`, `gard-iptv.fr`, `niederrhein-iptv.de`. `var-box.de` TAKEN |
 | Africa 2 | `oromo iptv` / `akan iptv` / `zulu iptv` | Diaspora commercial | AVAILABLE leftovers: `oromo-iptv.fr`, `akan-iptv.fr`, `zulu-iptv.fr` |
 | Enigma 3 | `qviart iptv` / `axas iptv` | Linux box setup | AVAILABLE leftovers: `qviart-iptv.fr`, `axas-iptv.de`, `herault-iptv.fr`, `aude-iptv.fr`, `ostsee-iptv.de`, `elbe-iptv.de` |
+| SEA langs | `khmer iptv` / `lao iptv` / `myanmar iptv` | Diaspora commercial | AVAILABLE leftovers: `khmer-iptv.fr`, `lao-iptv.fr`, `myanmar-iptv.fr`. `amiko-iptv.nl` TAKEN |
+| Enigma 4 | `amiko iptv` / `opticum iptv` | Linux box setup | AVAILABLE leftovers: `amiko-iptv.fr`, `opticum-iptv.de`, `tarn-iptv.fr`, `weser-iptv.de`, `oder-iptv.de`. `weser-box.de` TAKEN |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
