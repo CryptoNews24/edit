@@ -132,5 +132,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR/CH langs | `iserois iptv` / `dromois iptv` / `genevois iptv` / `valaisan iptv` / `vaudois iptv` / `neuchatelois iptv` / `fribourgeois iptv` / `vauclusien iptv` / `gardois iptv` | Gentilé FR/CH | AVAILABLE leftovers: `iserois-iptv.fr`, `dromois-iptv.fr`, `genevois-iptv.ch`, `valaisan-iptv.ch`, `vaudois-iptv.ch`, `neuchatelois-iptv.ch`, `fribourgeois-iptv.ch`, `vauclusien-iptv.fr`, `gardois-iptv.fr` |
 | Boxes | `amlogic iptv` / `rockchip iptv` / `s905x3 iptv` | Cheap Android SoC | AVAILABLE leftovers: `amlogic-iptv.fr`, `rockchip-iptv.fr`, `s905x3-iptv.fr`. `rockchip-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 8 | `kelso guide` / `melrose guide` / `jedburgh guide` | Nominet no-iptv | AVAILABLE: `kelso-guide.co.uk`, `melrose-guide.co.uk`, `jedburgh-guide.co.uk` (also `.uk`) |
+| FR south langs | `heraultais iptv` / `audois iptv` / `pyreneen iptv` / `roussillonnais iptv` / `bigourdan iptv` / `palois iptv` | Gentilé commercial | AVAILABLE leftovers: `heraultais-iptv.fr`, `audois-iptv.fr`, `pyreneen-iptv.fr`, `roussillonnais-iptv.fr`, `bigourdan-iptv.fr`, `palois-iptv.fr` |
+| Boxes | `h313 iptv` / `t962e iptv` | Cheap Android SoC/boxes | AVAILABLE leftovers: `h313-iptv.fr`, `t962e-iptv.fr` |
+| UK geo 9 | `selkirk guide` / `langholm guide` / `moffat guide` / `lockerbie guide` | Nominet no-iptv | AVAILABLE: `selkirk-guide.co.uk`, `langholm-guide.co.uk`, `moffat-guide.co.uk`, `lockerbie-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
