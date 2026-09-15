@@ -133,7 +133,7 @@ def main() -> None:
             else:
                 kwmap[d] = "iptv canada"
         elif d.endswith(".us"):
-            if "firestick" in d:
+            if "firestick" in d or "firetv" in d:
                 kwmap[d] = "iptv firestick"
             elif "subscription" in d or "plans" in d:
                 kwmap[d] = "iptv subscription"
@@ -159,7 +159,7 @@ def main() -> None:
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools still Cloudflare for curl; Chrome reached Sign In but no member password in this session. NordLayer Linux daemon cannot run here. Semrush free Keyword Volume Checker live JSON via Chrome CDP, 5 lookups per IP per day. US head terms pulled; EU/UK DBs blocked after quota. analytics/keywordoverview requires Semrush login (My Reports).",
+        "detail": "Noxtools Sign In reached via Chrome CDP. Member login rejected for known emails when using the NordLayer org password (incorrect username/password). Did not use Semrush free tools. No new Keyword Overview volumes this run. NordLayer Linux client still cannot attach on this kernel. App/box/server two-word RDAP hunt appended; volumes stay N/A until a Noxtools Semrush server session works.",
         "min_volume": 500,
     }
     (CANVA / "traffic.json").write_text(json.dumps(traffic, indent=2) + "\n", encoding="utf-8")

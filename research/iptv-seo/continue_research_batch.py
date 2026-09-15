@@ -34,6 +34,7 @@ RDAP = {
     "dk": "https://rdap.punktum.dk/rdap/domain/{d}",
     "fi": "https://rdap.fi/rdap/domain/{d}",
     "nz": "https://rdap.nzrs.net.nz/rdap/domain/{d}",
+    "us": "https://rdap.nic.us/rdap/domain/{d}",
 }
 
 UA = "Mozilla/5.0 (compatible; IPTV-SEO-research/1.0; +https://example.invalid)"

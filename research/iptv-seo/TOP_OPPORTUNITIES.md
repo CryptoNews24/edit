@@ -152,10 +152,30 @@ No keyword met: verified high volume + Easy/VE/NA KD + weak SERP + available ccT
 
 ---
 
-## Next research moves (when Noxtools is logged in)
+## Next research moves (when Noxtools Semrush Servers 1–6 accept a member session)
 
-1. Keyword Overview + Magic Tool, database **IE**: `iptv ireland`, `best iptv ireland`, `iptv dublin`, trial/subscription modifiers.
-2. Database **FR**: `abonnement iptv`, `meilleur iptv`, `iptv box`.
-3. Database **CA**: `iptv canada` and the related list; compare KD vs volume against Ireland.
-4. Repeat for BE, CH, AU, NL, DE, US.
-5. Only then attach real Opportunity Scores (0–100) and consider JACKPOT flags.
+1. Keyword Overview + related: every IPTV **app** next to iptv/box/subscription/server (`tivimate iptv`, `smarters pro`, `ott navigator`, `ibo player`, `xciptv`, `televizo`, `ss iptv`, `gse smart iptv`).
+2. Same for **box/device**: MAG, Formuler, Fire Stick, Roku, Android box, Shield.
+3. Commercial stems: `iptv subscription`, `iptv server`, `iptv reseller`, `iptv panel`, `iptv playlist`, `xtream codes`.
+4. Rotate Server 6 → 5 → 4 → 3 → 2 → 1 on 429. Do **not** use Semrush free tools.
+5. Only then attach new Opportunity Scores. Do not invent volume.
+
+---
+
+## App / box / server two-word RDAP (this run)
+
+Native RDAP + DNS only. **Volume not refreshed** (Noxtools login failed). Mapped to already-verified keywords when TLD matches.
+
+High-intent **AVAILABLE** leftovers (do not buy from this list):
+
+| Domain | Maps to verified keyword | Why it is interesting |
+| --- | --- | --- |
+| `iptv-server.ca` / `iptvserver.ca` | iptv canada 14.8K | Commercial “server” pair on .ca |
+| `iptv-box.ca` / `iptvbox.ca` | iptv canada 14.8K | Box stem; `iptvbox.us` is TAKEN |
+| `iptv-player.ca` / `iptv-app.ca` | iptv canada 14.8K | Player/app pair |
+| `firestick-iptv.ca` / `android-iptv.ca` | iptv canada 14.8K | Device + iptv |
+| `iptv-server.fr` / `box-avis.fr` | abonnement iptv 18.1K | FR commercial leftovers |
+| `firestick-iptv.us` | iptv firestick 590 | Device pair; exact firestickiptv.us TAKEN historically |
+| `android-iptv.us` | iptv 90.5K | Device pair on .us |
+
+Brand app names (TiviMate, Smarters, IBO, GSE, OTT Navigator) stay **SEO keywords only** — not EMD domains.
