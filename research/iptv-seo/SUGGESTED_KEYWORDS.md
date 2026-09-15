@@ -189,5 +189,8 @@ Noxtools recheck (2026-09-15 20:43 UTC, egress `44.239.53.183`, Chrome 153): **n
 | FR Haute-Savoie | `annecien iptv` / `chamberien iptv` / `annemassien iptv` / `clusien iptv` | Gentilé commercial | AVAILABLE leftovers: `annecien-iptv.fr`, `chamberien-iptv.fr`, `annemassien-iptv.fr`, `clusien-iptv.fr` |
 | Boxes | `t965 iptv` / `s905m2 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965-iptv.fr`, `s905m2-iptv.fr` |
 | UK geo 27 | `bettyhill guide` / `altnaharra guide` / `kinlochbervie guide` | Nominet no-iptv | AVAILABLE: `bettyhill-guide.co.uk`, `altnaharra-guide.co.uk`, `kinlochbervie-guide.co.uk` (also `.uk`) |
+| FR Savoie | `albertvillois iptv` / `rumillien iptv` / `moutierain iptv` / `beaufortain iptv` | Gentilé commercial | AVAILABLE leftovers: `albertvillois-iptv.fr`, `rumillien-iptv.fr`, `moutierain-iptv.fr`, `beaufortain-iptv.fr` |
+| Boxes | `t962d iptv` / `h618s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962d-iptv.fr`, `h618s-iptv.fr` |
+| UK geo 28 | `lerwick guide` / `scalloway guide` / `baltasound guide` | Nominet no-iptv | AVAILABLE: `lerwick-guide.co.uk`, `scalloway-guide.co.uk`, `baltasound-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
