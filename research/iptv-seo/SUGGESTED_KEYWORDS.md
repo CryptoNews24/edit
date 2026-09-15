@@ -252,5 +252,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Finistère | `quimperois iptv` / `concarnois iptv` / `morlaisien iptv` / `douarneniste iptv` | Gentilé commercial | AVAILABLE leftovers: `quimperois-iptv.fr`, `concarnois-iptv.fr`, `morlaisien-iptv.fr`, `douarneniste-iptv.fr`. `douarneniste-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t950n iptv` / `h313k iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950n-iptv.fr`, `h313k-iptv.fr`. `t950n-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 48 | `killin guide` / `lochearnhead guide` / `comrie guide` | Nominet no-iptv | AVAILABLE: `killin-guide.co.uk`, `lochearnhead-guide.co.uk`, `comrie-guide.co.uk` (also `.uk`) |
+| FR Côtes-d'Armor | `lannionais iptv` / `tregorrois iptv` / `dinannais iptv` / `paimpolais iptv` | Gentilé commercial | AVAILABLE leftovers: `lannionais-iptv.fr`, `tregorrois-iptv.fr`, `dinannais-iptv.fr`, `paimpolais-iptv.fr` |
+| Boxes | `t968m iptv` / `rk3562s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968m-iptv.fr`, `rk3562s-iptv.fr` |
+| UK geo 49 | `crieff guide` / `auchterarder guide` / `blackford guide` | Nominet no-iptv | AVAILABLE: `crieff-guide.co.uk`, `auchterarder-guide.co.uk`, `blackford-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
