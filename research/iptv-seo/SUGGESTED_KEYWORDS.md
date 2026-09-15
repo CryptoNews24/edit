@@ -96,5 +96,8 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Indigenous CA 3 | `gitxsan iptv` / `nisgaa iptv` / `tlingit iptv` | Canada/US commercial | AVAILABLE leftovers: `gitxsan-iptv.ca`, `nisgaa-iptv.ca`, `tlingit-iptv.us`. `nisgaa-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `mxq iptv` / `tx3 iptv` | Cheap Android boxes | AVAILABLE leftovers: `mxq-iptv.fr`, `tx3-iptv.fr`. `mxq-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Geo FR 9 | `iptv eure et loir` / `iptv loir et cher` / `iptv indre et loire` / `iptv indre` | Departement commercial | AVAILABLE: `eureetloir-iptv.fr`, `loiretcher-iptv.fr`, `indreetloire-iptv.fr`, `indre-iptv.fr`. `eureetloir-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Romance 2 | `piedmontese iptv` / `ligurian iptv` / `neapolitan iptv` / `venetian iptv` / `maltese iptv` | Regional/diaspora | AVAILABLE leftovers: `piedmontese-iptv.fr`, `ligurian-iptv.fr`, `neapolitan-iptv.fr`, `venetian-iptv.fr`, `maltese-iptv.fr`. `neapolitan-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `h616 iptv` / `x99 iptv` | Cheap Android boxes | AVAILABLE leftovers: `h616-iptv.fr`, `x99-iptv.fr`. `h616-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Ile-de-France | `iptv yvelines` / `iptv essonne` / `iptv val d oise` / `iptv val de marne` / `iptv hauts de seine` / `iptv seine et marne` | Departement commercial | AVAILABLE: `yvelines-iptv.fr`, `essonne-iptv.fr`, `valdoise-iptv.fr`, `valdemarne-iptv.fr`, `hautsdeseine-iptv.fr`, `seineetmarne-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
