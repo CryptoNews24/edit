@@ -207,5 +207,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Cantal/Lozère | `sanflorain iptv` / `mauriacois iptv` / `mendois iptv` / `marvejolais iptv` | Gentilé commercial | AVAILABLE leftovers: `sanflorain-iptv.fr`, `mauriacois-iptv.fr`, `mendois-iptv.fr`, `marvejolais-iptv.fr` |
 | Boxes | `t966s iptv` / `rk3399s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t966s-iptv.fr`, `rk3399s-iptv.fr` |
 | UK geo 33 | `callanish guide` / `breasclete guide` / `leurbost guide` | Nominet no-iptv | AVAILABLE: `callanish-guide.co.uk`, `breasclete-guide.co.uk`, `leurbost-guide.co.uk` (also `.uk`) |
+| FR Aveyron | `villefranchois iptv` / `decazevillois iptv` / `saintaffricain iptv` / `najacois iptv` | Gentilé commercial | AVAILABLE leftovers: `villefranchois-iptv.fr`, `decazevillois-iptv.fr`, `saintaffricain-iptv.fr`, `najacois-iptv.fr`. `decazevillois-iptv.nl` / `villefranchois-box.nl` UNKNOWN (SIDN 429) — not buys |
+| Boxes | `t982s iptv` / `a133s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t982s-iptv.fr`, `a133s-iptv.fr` |
+| UK geo 34 | `leverburgh guide` / `scalpay guide` / `grimshader guide` | Nominet no-iptv | AVAILABLE: `leverburgh-guide.co.uk`, `scalpay-guide.co.uk`, `grimshader-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
