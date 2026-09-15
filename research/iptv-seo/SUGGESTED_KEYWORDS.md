@@ -219,5 +219,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Landes | `marsanais iptv` / `peyrehoradais iptv` / `orthezien iptv` / `morcenais iptv` | Gentilé commercial | AVAILABLE leftovers: `marsanais-iptv.fr`, `peyrehoradais-iptv.fr`, `orthezien-iptv.fr`, `morcenais-iptv.fr` |
 | Boxes | `t950k iptv` / `rk3326s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950k-iptv.fr`, `rk3326s-iptv.fr` |
 | UK geo 37 | `scarinish guide` / `arinagour guide` / `bunessan guide` | Nominet no-iptv | AVAILABLE: `scarinish-guide.co.uk`, `arinagour-guide.co.uk`, `bunessan-guide.co.uk` (also `.uk`) |
+| FR Béarn | `oloronais iptv` / `pontacquais iptv` / `salisien iptv` / `mauleonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `oloronais-iptv.fr`, `pontacquais-iptv.fr`, `salisien-iptv.fr`, `mauleonnais-iptv.fr`. `mauleonnais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t962s iptv` / `h313e iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962s-iptv.fr`, `h313e-iptv.fr` |
+| UK geo 38 | `tobermory guide` / `craignure guide` / `fionnphort guide` | Nominet no-iptv | AVAILABLE: `tobermory-guide.co.uk`, `craignure-guide.co.uk`, `fionnphort-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
