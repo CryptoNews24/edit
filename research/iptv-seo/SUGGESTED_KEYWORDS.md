@@ -174,5 +174,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Alsace | `colmarien iptv` / `selestatois iptv` / `haguenovien iptv` | Gentilé commercial | AVAILABLE leftovers: `colmarien-iptv.fr`, `selestatois-iptv.fr`, `haguenovien-iptv.fr` |
 | Boxes | `t963e iptv` / `h728 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963e-iptv.fr`, `h728-iptv.fr`. `t963e-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 22 | `stornoway guide` / `ullapool guide` / `mallaig guide` | Nominet no-iptv | AVAILABLE: `stornoway-guide.co.uk`, `ullapool-guide.co.uk`, `mallaig-guide.co.uk` (also `.uk`) |
+| FR Jura | `belfortain iptv` / `montbeliardais iptv` / `bisontin iptv` / `ledonien iptv` | Gentilé commercial | AVAILABLE leftovers: `belfortain-iptv.fr`, `montbeliardais-iptv.fr`, `bisontin-iptv.fr`, `ledonien-iptv.fr`. `ledonien-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t968 iptv` / `rk3576 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968-iptv.fr`, `rk3576-iptv.fr` |
+| UK geo 23 | `portree guide` / `broadford guide` / `fort william guide` | Nominet no-iptv | AVAILABLE: `portree-guide.co.uk`, `broadford-guide.co.uk`, `fortwilliam-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
