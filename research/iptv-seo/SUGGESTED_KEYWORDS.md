@@ -294,5 +294,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Seine-Saint-Denis | `pantinois iptv` / `bondynois iptv` / `bagnoletais iptv` / `aulnaysien iptv` | Gentilé commercial | AVAILABLE leftovers: `pantinois-iptv.fr`, `bondynois-iptv.fr`, `bagnoletais-iptv.fr`, `aulnaysien-iptv.fr`. `bagnoletais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t962r iptv` / `rk3326r iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962r-iptv.fr`, `rk3326r-iptv.fr`. `rk3326r-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 62 | `inverkeithing guide` / `dalgety bay guide` / `aberdour guide` | Nominet no-iptv | AVAILABLE: `inverkeithing-guide.co.uk`, `dalgetybay-guide.co.uk`, `aberdour-guide.co.uk` (also `.uk`) |
+| FR Seine-Saint-Denis 2 | `bobignyen iptv` / `drancyen iptv` / `livryen iptv` / `sevranois iptv` | Gentilé commercial | AVAILABLE leftovers: `bobignyen-iptv.fr`, `drancyen-iptv.fr`, `livryen-iptv.fr`, `sevranois-iptv.fr` |
+| Boxes | `t965r iptv` / `h618r iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965r-iptv.fr`, `h618r-iptv.fr` |
+| UK geo 63 | `burntisland guide` / `kinghorn guide` / `dysart guide` | Nominet no-iptv | AVAILABLE: `burntisland-guide.co.uk`, `kinghorn-guide.co.uk`, `dysart-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
