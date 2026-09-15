@@ -201,5 +201,8 @@ Noxtools recheck (2026-09-15 20:43 UTC, egress `44.239.53.183`, Chrome 153): **n
 | FR Ardèche | `privadois iptv` / `aubenassien iptv` / `annoneen iptv` / `tournonais iptv` | Gentilé commercial | AVAILABLE leftovers: `privadois-iptv.fr`, `aubenassien-iptv.fr`, `annoneen-iptv.fr`, `tournonais-iptv.fr` |
 | Boxes | `t950x iptv` / `h728s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950x-iptv.fr`, `h728s-iptv.fr` |
 | UK geo 31 | `westray guide` / `stronsay guide` / `egilsay guide` | Nominet no-iptv | AVAILABLE: `westray-guide.co.uk`, `stronsay-guide.co.uk`, `egilsay-guide.co.uk` (also `.uk`) |
+| FR Haute-Loire | `lepuysien iptv` / `yssingelais iptv` / `brivadois iptv` / `monistrolien iptv` | Gentilé commercial | AVAILABLE leftovers: `lepuysien-iptv.fr`, `yssingelais-iptv.fr`, `brivadois-iptv.fr`, `monistrolien-iptv.fr` |
+| Boxes | `t963x iptv` / `s905x5s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963x-iptv.fr`, `s905x5s-iptv.fr`. `t963x-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 32 | `shapinsay guide` / `flotta guide` / `south ronaldsay guide` | Nominet no-iptv | AVAILABLE: `shapinsay-guide.co.uk`, `flotta-guide.co.uk`, `southronaldsay-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
