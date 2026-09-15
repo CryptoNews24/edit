@@ -223,10 +223,11 @@
     "rule": "If a perfect/taken domain has no working website AND expiry <= 90 days (or already expired), write it to almost_expired_offline.csv. Do not purchase."
   },
   "noxtools": {
-    "logged_in": false,
-    "semrush_working_server": 6,
-    "servers_1_to_5": "need member session",
-    "member_pages": "Sign In reachable in Chrome CDP; login rejected (incorrect username or password)",
-    "note": "Do not store credentials in this file. NordLayer org password is not the Noxtools password."
+    "logged_in": true,
+    "semrush_preferred_servers": [1, 2, 3, 4],
+    "semrush_fallback_servers": [5, 6],
+    "last_working_entry": "Server 2 Domain Overview via picker click",
+    "keyword_overview": "HTTP 429 on Keyword Overview even from sidebar; rotate 1 then 3 then 4; incognito does not bypass IP 429",
+    "note": "Do not store credentials in this file. Never use Semrush free tools."
   }
 }
