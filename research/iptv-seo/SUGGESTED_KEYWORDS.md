@@ -75,5 +75,9 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Africa 5 | `sotho iptv` / `chewa iptv` / `krio iptv` | Diaspora commercial | AVAILABLE leftovers: `sotho-iptv.fr`, `chewa-iptv.fr`, `krio-iptv.fr` |
 | Vu+ | `vu storm iptv` | Enigma box | AVAILABLE leftovers: `vustorm-iptv.fr` |
 | Geo FR 4 | `iptv somme` / `iptv oise` / `iptv aisne` / `iptv aube` / `iptv armor` | Departement commercial | AVAILABLE: `somme-iptv.fr`, `oise-iptv.fr`, `aisne-iptv.fr`, `aube-iptv.fr`, `armor-iptv.fr`. `somme-iptv.ch` UNKNOWN — not a buy. `shropshire-guide.co.uk` TAKEN; `shropshire-guide.uk` AVAILABLE |
+| Africa 6 | `ndebele iptv` / `dagbani iptv` / `ewe iptv` / `twi iptv` | Diaspora commercial | AVAILABLE leftovers: `ndebele-iptv.fr`, `dagbani-iptv.fr`, `ewe-iptv.fr`, `twi-iptv.fr` |
+| Boxes | `miraclebox iptv` / `jynxbox iptv` | Android/sat boxes | AVAILABLE leftovers: `miraclebox-iptv.fr`, `jynxbox-iptv.fr` |
+| Geo FR 5 | `iptv doubs` / `iptv meuse` / `iptv moselle` / `iptv bas rhin` / `iptv haut rhin` | Departement commercial | AVAILABLE: `doubs-iptv.fr`, `meuse-iptv.fr`, `moselle-iptv.fr`, `basrhin-iptv.fr`, `hautrhin-iptv.fr` |
+| Regional langs | `walloon iptv` / `corsican iptv` | BE/FR regional | AVAILABLE leftovers: `walloon-iptv.fr`, `corsican-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
