@@ -282,5 +282,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Hauts-de-Seine | `nanterrien iptv` / `suresnois iptv` / `puteolien iptv` / `courbevoisien iptv` | Gentilé commercial | AVAILABLE leftovers: `nanterrien-iptv.fr`, `suresnois-iptv.fr`, `puteolien-iptv.fr`, `courbevoisien-iptv.fr` |
 | Boxes | `t965p iptv` / `rk3562p iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965p-iptv.fr`, `rk3562p-iptv.fr` |
 | UK geo 58 | `falkland guide` / `markinch guide` / `kennoway guide` | Nominet no-iptv | AVAILABLE: `falkland-guide.co.uk`, `markinch-guide.co.uk`, `kennoway-guide.co.uk` (also `.uk`) |
+| FR Hauts-de-Seine 2 | `clichois iptv` / `malakoffois iptv` / `montrougien iptv` / `meudonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `clichois-iptv.fr`, `malakoffois-iptv.fr`, `montrougien-iptv.fr`, `meudonnais-iptv.fr`. `montrougien-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t972p iptv` / `h618p iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972p-iptv.fr`, `h618p-iptv.fr`. `clichois-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 59 | `methil guide` / `buckhaven guide` / `windygates guide` | Nominet no-iptv | AVAILABLE: `methil-guide.co.uk`, `buckhaven-guide.co.uk`, `windygates-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
