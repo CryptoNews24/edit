@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **not HTTP 429**. `noxtools.com` / `/secure/login` = Cloudflare 403 “Just a moment…” (curl and 22s headless Chrome). Servers `1–2.semrush.com.in` Keyword Overview = HTTP 200 `Session expired, access again from Dashboard`. User browser works. **No new volumes invented.** Do not use free Semrush. Paste Overview numbers for `box avis` FR (or CA) to remap `box-avis.fr`.
+Noxtools recheck (2026-09-15 22:00 UTC, egress `34.215.42.124`): **not HTTP 429**. `noxtools.com/secure/login` Cloudflare 403. Servers 1–2 Keyword Overview HTTP 200 session expired. User browser works. **No new volumes invented.** Paste `box avis` FR Overview to remap `box-avis.fr`.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -264,5 +264,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Anjou | `saumurois iptv` / `cholletain iptv` / `segreen iptv` / `baugeois iptv` | Gentilé commercial | AVAILABLE leftovers: `saumurois-iptv.fr`, `cholletain-iptv.fr`, `segreen-iptv.fr`, `baugeois-iptv.fr` |
 | Boxes | `t972m iptv` / `h618k iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972m-iptv.fr`, `h618k-iptv.fr` |
 | UK geo 52 | `forfar guide` / `brechin guide` / `montrose guide` | Nominet no-iptv | AVAILABLE: `forfar-guide.co.uk`, `brechin-guide.co.uk`, `montrose-guide.co.uk` (also `.uk`) |
+| FR Touraine | `chinonais iptv` / `lochois iptv` / `amboisien iptv` / `langeaisien iptv` | Gentilé commercial | AVAILABLE leftovers: `chinonais-iptv.fr`, `lochois-iptv.fr`, `amboisien-iptv.fr`, `langeaisien-iptv.fr` |
+| Boxes | `t963n iptv` / `rk3588k iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963n-iptv.fr`, `rk3588k-iptv.fr` |
+| UK geo 53 | `arbroath guide` / `carnoustie guide` / `monifieth guide` | Nominet no-iptv | AVAILABLE: `arbroath-guide.co.uk`, `carnoustie-guide.co.uk`, `monifieth-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
