@@ -171,5 +171,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Moselle | `thionvillois iptv` / `forbachois iptv` / `sarregueminois iptv` / `bitchois iptv` | Gentilé commercial | AVAILABLE leftovers: `thionvillois-iptv.fr`, `forbachois-iptv.fr`, `sarregueminois-iptv.fr`, `bitchois-iptv.fr` |
 | Boxes | `t950s iptv` / `rk3562 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950s-iptv.fr`, `rk3562-iptv.fr` |
 | UK geo 21 | `tarbert guide` / `bowmore guide` / `port ellen guide` | Nominet no-iptv | AVAILABLE: `tarbert-guide.co.uk`, `bowmore-guide.co.uk`, `portellen-guide.co.uk` (also `.uk`) |
+| FR Alsace | `colmarien iptv` / `selestatois iptv` / `haguenovien iptv` | Gentilé commercial | AVAILABLE leftovers: `colmarien-iptv.fr`, `selestatois-iptv.fr`, `haguenovien-iptv.fr` |
+| Boxes | `t963e iptv` / `h728 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963e-iptv.fr`, `h728-iptv.fr`. `t963e-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 22 | `stornoway guide` / `ullapool guide` / `mallaig guide` | Nominet no-iptv | AVAILABLE: `stornoway-guide.co.uk`, `ullapool-guide.co.uk`, `mallaig-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
