@@ -1,0 +1,12 @@
+Date checked,Domain,Country,Perfect / taken,Website status,HTTP,Expiry date,Days to expiry,Almost expired (<=90d),On offline+expiry watchlist,RDAP HTTP,Notes,On secondary offline watch
+2026-09-14,iptvsubscription.ca,Canada,yes,offline_no_dns,,2027-01-01,109,approaching,no,200,no A/AAAA,yes
+2026-09-14,iptvessai.fr,France,yes,offline_no_dns,,2027-01-13,121,approaching,no,200,no A/AAAA,yes
+2026-09-14,iptvsubscription.net,Global / .net,yes,offline,TimeoutError,2027-02-09,148,approaching,no,200,connection failed,yes
+2026-09-14,iptvplayer.fr,France,yes,offline_no_dns,,2027-02-27,166,approaching,no,200,no A/AAAA,yes
+2026-09-14,iptv.fr,France,yes,offline_no_dns,,2027-03-03,170,approaching,no,200,no A/AAAA,yes
+2026-09-14,abonnementiptv.fr,France,yes,offline_http_error,503,2027-03-06,173,approaching,no,200,HTTP 503,yes
+2026-09-14,besteiptv.nl,Netherlands,yes,offline_no_dns,,N/A,N/A,expiry_unknown,no,200,no A/AAAA,yes
+2026-09-14,iptvvergelijken.nl,Netherlands,yes,parked_or_placeholder,200,N/A,N/A,expiry_unknown,no,200,parking/placeholder page,yes
+2026-09-14,iptv.de,Germany,yes,offline,TimeoutError,N/A,N/A,expiry_unknown,no,200,connection failed,yes
+2026-09-14,iptvanbieter.de,Germany,yes,offline,URLError,N/A,N/A,expiry_unknown,no,200,connection failed,yes
+2026-09-14,iptvvergleich.de,Germany,yes,offline_http_error,502,N/A,N/A,expiry_unknown,no,200,HTTP 502,yes
