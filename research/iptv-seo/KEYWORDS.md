@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-15 17:30 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-15 17:33 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -106,6 +106,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `albi-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `algerie-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `alsace-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `amazigh-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `amiens-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `anbieter-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `android-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -114,6 +115,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `angers-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `anime-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `anime-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `antilles-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `antilles-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `app-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `app-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `app-player.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -161,6 +164,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `caen-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `cafe-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `calais-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `caledonie-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `carcassonne-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `catala-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `catalan-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -203,6 +207,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `confronta-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `cordcut-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `corse-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `creole-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `creole-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `cricket-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `cricket-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `dansk-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -256,6 +262,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `guenstig-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `guia-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `guida-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `guyane-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `halpa-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `hdmi-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `hdmi-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -402,6 +409,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `iptvtrial.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `jamfor-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `jura-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `kabyle-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `kanal-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `karaoke-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `kaufen-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -531,6 +539,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `reseller-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `reseller-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `reseller-panel.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `reunion-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `reunion-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `review-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `review-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `roku-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -576,6 +586,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `stream-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `stream-player.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `suscripcion-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `tahiti-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `tarbes-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `tennis-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `tessin-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -655,6 +666,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `algerie-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `alsace-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `alsace-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `amazigh-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `anbieter-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `anchorage-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `android-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -663,6 +675,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `androidtv-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `anime-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `anime-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `antilles-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `antilles-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `app-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `app-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `app-player.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -711,6 +725,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `cable-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `cable-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `cafe-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `caledonie-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `canadianiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `catala-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `catalan-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -751,6 +766,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `cordcut-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `cordcutguide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `corse-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `creole-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `creole-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `cricket-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `cricket-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `dallas-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -809,6 +826,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `guide-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `guide-player.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `guideiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `guyane-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `halpa-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `hdmi-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `hdmi-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -818,6 +836,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `hessen-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `hevc-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `hevc-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `hilo-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `hindi-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `home-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `honolulu-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -877,6 +896,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `iptv-fresno.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptv-gids.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptv-hdmi.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-hilo.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptv-honolulu.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptv-houston.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptv-indianapolis.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -973,6 +993,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `jamfor-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `juneau-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `jura-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `kabyle-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `kanal-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `karaoke-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `kaufen-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -1108,6 +1129,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `replay-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `reseller-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `reseller-panel.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `reunion-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `reunion-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `review-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `review-guide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `review-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -1163,6 +1186,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `streamingcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `streamrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `suscripcion-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `tahiti-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tampa-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tennis-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tennis-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -1237,12 +1261,15 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `algerie-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `alsace-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `alsace-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `amazigh-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `anbieter-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `android-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `android-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `android-player.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `anime-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `anime-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `antilles-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `antilles-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `app-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `app-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `app-player.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -1284,6 +1311,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `cable-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `cable-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `cafe-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `caledonie-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `calgary-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `catala-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `catalan-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -1318,6 +1346,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `cordcut-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `cordcutcanada.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `corse-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `creole-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `creole-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `cricket-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `cricket-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `dansk-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -1373,6 +1403,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `guide-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `guide-player.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `guideiptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `guyane-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `halifax-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `halpa-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `hamilton-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -1521,6 +1552,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `iqaluit-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `jamfor-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `jura-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `kabyle-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `kamloops-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `kanal-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `karaoke-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -1648,6 +1680,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `replay-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `reseller-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `reseller-panel.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `reunion-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `reunion-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `review-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `review-guide.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `review-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -1698,6 +1732,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `streamrank.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `surrey-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `suscripcion-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tahiti-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tennis-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tennis-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tessin-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -1791,7 +1826,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **752**.
+AVAILABLE in this dump: **767**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -1809,6 +1844,7 @@ AVAILABLE in this dump: **752**.
 | `algerie-iptv.us` | .us | native RDAP 404 + no DNS |
 | `alsace-box.us` | .us | native RDAP 404 + no DNS |
 | `alsace-iptv.us` | .us | native RDAP 404 + no DNS |
+| `amazigh-iptv.us` | .us | native RDAP 404 + no DNS |
 | `anbieter-iptv.us` | .us | native RDAP 404 + no DNS |
 | `anchorage-iptv.us` | .us | native RDAP 404 + no DNS |
 | `android-box-review.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -1822,6 +1858,8 @@ AVAILABLE in this dump: **752**.
 | `anime-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `anime-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `anime-iptv.us` | .us | native RDAP 404 + no DNS |
+| `antilles-box.us` | .us | native RDAP 404 + no DNS |
+| `antilles-iptv.us` | .us | native RDAP 404 + no DNS |
 | `app-box.us` | .us | native RDAP 404 + no DNS |
 | `app-iptv.us` | .us | native RDAP 404 + no DNS |
 | `app-player.us` | .us | native RDAP 404 + no DNS |
@@ -1844,6 +1882,8 @@ AVAILABLE in this dump: **752**.
 | `basque-box.us` | .us | native RDAP 404 + no DNS |
 | `basque-iptv.us` | .us | native RDAP 404 + no DNS |
 | `basta-iptv.us` | .us | native RDAP 404 + no DNS |
+| `bay-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `bay-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `bayern-box.us` | .us | native RDAP 404 + no DNS |
 | `bayern-iptv.us` | .us | native RDAP 404 + no DNS |
 | `bedste-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -1885,6 +1925,7 @@ AVAILABLE in this dump: **752**.
 | `cable-box.us` | .us | native RDAP 404 + no DNS |
 | `cable-iptv.us` | .us | native RDAP 404 + no DNS |
 | `cafe-iptv.us` | .us | native RDAP 404 + no DNS |
+| `caledonie-iptv.us` | .us | native RDAP 404 + no DNS |
 | `canadianiptv.us` | .us | native RDAP 404 + no DNS |
 | `catala-iptv.us` | .us | native RDAP 404 + no DNS |
 | `catalan-box.us` | .us | native RDAP 404 + no DNS |
@@ -1952,6 +1993,8 @@ AVAILABLE in this dump: **752**.
 | `cordcutter.us` | .us | native RDAP 404 + no DNS |
 | `cordcutusa.us` | .us | native RDAP 404 + no DNS |
 | `corse-iptv.us` | .us | native RDAP 404 + no DNS |
+| `creole-box.us` | .us | native RDAP 404 + no DNS |
+| `creole-iptv.us` | .us | native RDAP 404 + no DNS |
 | `cricket-box.us` | .us | native RDAP 404 + no DNS |
 | `cricket-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `cricket-guide.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -2038,6 +2081,7 @@ AVAILABLE in this dump: **752**.
 | `guide-box.us` | .us | native RDAP 404 + no DNS |
 | `guide-player.us` | .us | native RDAP 404 + no DNS |
 | `guideiptv.us` | .us | native RDAP 404 + no DNS |
+| `guyane-iptv.us` | .us | native RDAP 404 + no DNS |
 | `halpa-iptv.us` | .us | native RDAP 404 + no DNS |
 | `hdmi-box.us` | .us | native RDAP 404 + no DNS |
 | `hdmi-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -2049,6 +2093,7 @@ AVAILABLE in this dump: **752**.
 | `hevc-iptv.us` | .us | native RDAP 404 + no DNS |
 | `highland-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `highland-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `hilo-iptv.us` | .us | native RDAP 404 + no DNS |
 | `hindi-iptv.us` | .us | native RDAP 404 + no DNS |
 | `home-box.uk` | .co.uk | native RDAP 404 + no DNS |
 | `home-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -2115,6 +2160,7 @@ AVAILABLE in this dump: **752**.
 | `iptv-gids.us` | .us | native RDAP 404 + no DNS |
 | `iptv-guide-usa.us` | .us | native RDAP 404 + no DNS |
 | `iptv-hdmi.us` | .us | native RDAP 404 + no DNS |
+| `iptv-hilo.us` | .us | native RDAP 404 + no DNS |
 | `iptv-honolulu.us` | .us | native RDAP 404 + no DNS |
 | `iptv-houston.us` | .us | native RDAP 404 + no DNS |
 | `iptv-indianapolis.us` | .us | native RDAP 404 + no DNS |
@@ -2216,6 +2262,7 @@ AVAILABLE in this dump: **752**.
 | `jamfor-iptv.us` | .us | native RDAP 404 + no DNS |
 | `juneau-iptv.us` | .us | native RDAP 404 + no DNS |
 | `jura-iptv.us` | .us | native RDAP 404 + no DNS |
+| `kabyle-iptv.us` | .us | native RDAP 404 + no DNS |
 | `kanal-iptv.us` | .us | native RDAP 404 + no DNS |
 | `karaoke-iptv.us` | .us | native RDAP 404 + no DNS |
 | `kaufen-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -2383,6 +2430,8 @@ AVAILABLE in this dump: **752**.
 | `replay-iptv.us` | .us | native RDAP 404 + no DNS |
 | `reseller-box.us` | .us | native RDAP 404 + no DNS |
 | `reseller-panel.us` | .us | native RDAP 404 + no DNS |
+| `reunion-box.us` | .us | native RDAP 404 + no DNS |
+| `reunion-iptv.us` | .us | native RDAP 404 + no DNS |
 | `review-box.us` | .us | native RDAP 404 + no DNS |
 | `review-guide.us` | .us | native RDAP 404 + no DNS |
 | `review-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -2467,6 +2516,7 @@ AVAILABLE in this dump: **752**.
 | `streamrank.us` | .us | native RDAP 404 + no DNS |
 | `streamreview.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `suscripcion-iptv.us` | .us | native RDAP 404 + no DNS |
+| `tahiti-iptv.us` | .us | native RDAP 404 + no DNS |
 | `tampa-iptv.us` | .us | native RDAP 404 + no DNS |
 | `tennis-box.us` | .us | native RDAP 404 + no DNS |
 | `tennis-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -2555,29 +2605,29 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 | TLD | Country | AVAILABLE | Confirm (not free) | UNKNOWN |
 | --- | --- | ---: | ---: | ---: |
-| .ca | Canada | 548 | 0 | 0 |
-| .us | United States | 588 | 0 | 0 |
-| .fr | France | 558 | 0 | 0 |
-| .de | Germany | 447 | 0 | 0 |
-| .nl | Netherlands | 461 | 0 | 27 |
-| .ch | Switzerland | 471 | 0 | 1 |
+| .ca | Canada | 559 | 0 | 0 |
+| .us | United States | 601 | 0 | 0 |
+| .fr | France | 569 | 0 | 0 |
+| .de | Germany | 458 | 0 | 0 |
+| .nl | Netherlands | 471 | 0 | 28 |
+| .ch | Switzerland | 482 | 0 | 1 |
 | .be | Belgium | 0 | 16 | 0 |
 | .at | Austria | 0 | 11 | 0 |
 | .es | Spain | 0 | 11 | 0 |
 | .it | Italy | 0 | 12 | 0 |
 | .pt | Portugal | 0 | 9 | 0 |
-| .se | Sweden | 1 | 7 | 454 |
-| .no | Norway | 474 | 0 | 0 |
-| .dk | Denmark | 470 | 0 | 0 |
-| .fi | Finland | 476 | 0 | 0 |
+| .se | Sweden | 1 | 7 | 465 |
+| .no | Norway | 485 | 0 | 0 |
+| .dk | Denmark | 481 | 0 | 0 |
+| .fi | Finland | 487 | 0 | 0 |
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 80 | 0 | 0 |
+| .co.uk | United Kingdom | 81 | 0 | 0 |
 
 ### .ca — Canada
 
-**AVAILABLE (548)** — native RDAP 404 + no DNS.
+**AVAILABLE (559)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -2595,12 +2645,15 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `algerie-iptv.ca` |
 | `alsace-box.ca` |
 | `alsace-iptv.ca` |
+| `amazigh-iptv.ca` |
 | `anbieter-iptv.ca` |
 | `android-box.ca` |
 | `android-iptv.ca` |
 | `android-player.ca` |
 | `anime-box.ca` |
 | `anime-iptv.ca` |
+| `antilles-box.ca` |
+| `antilles-iptv.ca` |
 | `app-box.ca` |
 | `app-iptv.ca` |
 | `app-player.ca` |
@@ -2642,6 +2695,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cable-box.ca` |
 | `cable-iptv.ca` |
 | `cafe-iptv.ca` |
+| `caledonie-iptv.ca` |
 | `calgary-iptv.ca` |
 | `catala-iptv.ca` |
 | `catalan-box.ca` |
@@ -2677,6 +2731,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cordcut-iptv.ca` |
 | `cordcutcanada.ca` |
 | `corse-iptv.ca` |
+| `creole-box.ca` |
+| `creole-iptv.ca` |
 | `cricket-box.ca` |
 | `cricket-iptv.ca` |
 | `dansk-box.ca` |
@@ -2738,6 +2794,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `guide-box.ca` |
 | `guide-player.ca` |
 | `guideiptv.ca` |
+| `guyane-iptv.ca` |
 | `halifax-iptv.ca` |
 | `halpa-iptv.ca` |
 | `hamilton-iptv.ca` |
@@ -2889,6 +2946,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `iqaluit-iptv.ca` |
 | `jamfor-iptv.ca` |
 | `jura-iptv.ca` |
+| `kabyle-iptv.ca` |
 | `kamloops-iptv.ca` |
 | `kanal-iptv.ca` |
 | `karaoke-iptv.ca` |
@@ -3018,6 +3076,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `replay-iptv.ca` |
 | `reseller-box.ca` |
 | `reseller-panel.ca` |
+| `reunion-box.ca` |
+| `reunion-iptv.ca` |
 | `review-box.ca` |
 | `review-guide.ca` |
 | `review-iptv.ca` |
@@ -3068,6 +3128,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `streamrank.ca` |
 | `surrey-iptv.ca` |
 | `suscripcion-iptv.ca` |
+| `tahiti-iptv.ca` |
 | `tennis-box.ca` |
 | `tennis-iptv.ca` |
 | `tessin-iptv.ca` |
@@ -3133,7 +3194,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .us — United States
 
-**AVAILABLE (588)** — native RDAP 404 + no DNS.
+**AVAILABLE (601)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -3151,6 +3212,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `algerie-iptv.us` |
 | `alsace-box.us` |
 | `alsace-iptv.us` |
+| `amazigh-iptv.us` |
 | `anbieter-iptv.us` |
 | `anchorage-iptv.us` |
 | `android-box.us` |
@@ -3159,6 +3221,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `androidtv-iptv.us` |
 | `anime-box.us` |
 | `anime-iptv.us` |
+| `antilles-box.us` |
+| `antilles-iptv.us` |
 | `app-box.us` |
 | `app-iptv.us` |
 | `app-player.us` |
@@ -3207,6 +3271,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cable-box.us` |
 | `cable-iptv.us` |
 | `cafe-iptv.us` |
+| `caledonie-iptv.us` |
 | `canadianiptv.us` |
 | `catala-iptv.us` |
 | `catalan-box.us` |
@@ -3248,6 +3313,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cordcutguide.us` |
 | `cordcutusa.us` |
 | `corse-iptv.us` |
+| `creole-box.us` |
+| `creole-iptv.us` |
 | `cricket-box.us` |
 | `cricket-iptv.us` |
 | `dallas-iptv.us` |
@@ -3312,6 +3379,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `guide-box.us` |
 | `guide-player.us` |
 | `guideiptv.us` |
+| `guyane-iptv.us` |
 | `halpa-iptv.us` |
 | `hdmi-box.us` |
 | `hdmi-iptv.us` |
@@ -3321,6 +3389,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `hessen-iptv.us` |
 | `hevc-box.us` |
 | `hevc-iptv.us` |
+| `hilo-iptv.us` |
 | `hindi-iptv.us` |
 | `home-iptv.us` |
 | `honolulu-iptv.us` |
@@ -3380,6 +3449,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `iptv-fresno.us` |
 | `iptv-gids.us` |
 | `iptv-hdmi.us` |
+| `iptv-hilo.us` |
 | `iptv-honolulu.us` |
 | `iptv-houston.us` |
 | `iptv-indianapolis.us` |
@@ -3476,6 +3546,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `jamfor-iptv.us` |
 | `juneau-iptv.us` |
 | `jura-iptv.us` |
+| `kabyle-iptv.us` |
 | `kanal-iptv.us` |
 | `karaoke-iptv.us` |
 | `kaufen-iptv.us` |
@@ -3611,6 +3682,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `replay-iptv.us` |
 | `reseller-box.us` |
 | `reseller-panel.us` |
+| `reunion-box.us` |
+| `reunion-iptv.us` |
 | `review-box.us` |
 | `review-guide.us` |
 | `review-iptv.us` |
@@ -3666,6 +3739,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `streamingcompare.us` |
 | `streamrank.us` |
 | `suscripcion-iptv.us` |
+| `tahiti-iptv.us` |
 | `tampa-iptv.us` |
 | `tennis-box.us` |
 | `tennis-iptv.us` |
@@ -3729,7 +3803,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .fr — France
 
-**AVAILABLE (558)** — native RDAP 404 + no DNS.
+**AVAILABLE (569)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -3748,6 +3822,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `albi-iptv.fr` |
 | `algerie-iptv.fr` |
 | `alsace-iptv.fr` |
+| `amazigh-iptv.fr` |
 | `amiens-iptv.fr` |
 | `anbieter-iptv.fr` |
 | `android-box.fr` |
@@ -3756,6 +3831,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `angers-iptv.fr` |
 | `anime-box.fr` |
 | `anime-iptv.fr` |
+| `antilles-box.fr` |
+| `antilles-iptv.fr` |
 | `app-box.fr` |
 | `app-iptv.fr` |
 | `app-player.fr` |
@@ -3804,6 +3881,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `caen-iptv.fr` |
 | `cafe-iptv.fr` |
 | `calais-iptv.fr` |
+| `caledonie-iptv.fr` |
 | `carcassonne-iptv.fr` |
 | `catala-iptv.fr` |
 | `catalan-box.fr` |
@@ -3848,6 +3926,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `confronta-iptv.fr` |
 | `cordcut-iptv.fr` |
 | `corse-iptv.fr` |
+| `creole-box.fr` |
+| `creole-iptv.fr` |
 | `cricket-box.fr` |
 | `cricket-iptv.fr` |
 | `dansk-box.fr` |
@@ -3911,6 +3991,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `guide-player.fr` |
 | `guideabo.fr` |
 | `guideiptv.fr` |
+| `guyane-iptv.fr` |
 | `halpa-iptv.fr` |
 | `hdmi-box.fr` |
 | `hdmi-iptv.fr` |
@@ -4058,6 +4139,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `iptvtrial.fr` |
 | `jamfor-iptv.fr` |
 | `jura-iptv.fr` |
+| `kabyle-iptv.fr` |
 | `kanal-iptv.fr` |
 | `karaoke-iptv.fr` |
 | `kaufen-iptv.fr` |
@@ -4192,6 +4274,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `reseller-box.fr` |
 | `reseller-iptv.fr` |
 | `reseller-panel.fr` |
+| `reunion-box.fr` |
+| `reunion-iptv.fr` |
 | `review-box.fr` |
 | `review-guide.fr` |
 | `review-iptv.fr` |
@@ -4239,6 +4323,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `stream-iptv.fr` |
 | `stream-player.fr` |
 | `suscripcion-iptv.fr` |
+| `tahiti-iptv.fr` |
 | `tarbes-iptv.fr` |
 | `tennis-iptv.fr` |
 | `tessin-iptv.fr` |
@@ -4295,7 +4380,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .de — Germany
 
-**AVAILABLE (447)** — native RDAP 404 + no DNS.
+**AVAILABLE (458)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -4309,12 +4394,15 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `algerie-iptv.de` |
 | `alsace-box.de` |
 | `alsace-iptv.de` |
+| `amazigh-iptv.de` |
 | `anbietervergleich-iptv.de` |
 | `android-box.de` |
 | `android-iptv.de` |
 | `android-player.de` |
 | `anime-box.de` |
 | `anime-iptv.de` |
+| `antilles-box.de` |
+| `antilles-iptv.de` |
 | `appletv-box.de` |
 | `appletv-iptv.de` |
 | `appletv-player.de` |
@@ -4351,6 +4439,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cable-box.de` |
 | `cable-iptv.de` |
 | `cafe-iptv.de` |
+| `caledonie-iptv.de` |
 | `catala-iptv.de` |
 | `catalan-box.de` |
 | `catalan-iptv.de` |
@@ -4382,6 +4471,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cordcut-iptv.de` |
 | `corse-iptv.de` |
 | `cottbus-iptv.de` |
+| `creole-box.de` |
+| `creole-iptv.de` |
 | `cricket-box.de` |
 | `cricket-iptv.de` |
 | `dansk-box.de` |
@@ -4442,6 +4533,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `guida-iptv.de` |
 | `guide-player.de` |
 | `guideiptv.de` |
+| `guyane-iptv.de` |
 | `halpa-iptv.de` |
 | `hamburg-iptv.de` |
 | `hannover-iptv.de` |
@@ -4557,6 +4649,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `iptvvergleicher.de` |
 | `jamfor-iptv.de` |
 | `jura-iptv.de` |
+| `kabyle-iptv.de` |
 | `kanal-iptv.de` |
 | `karaoke-iptv.de` |
 | `kassel-iptv.de` |
@@ -4662,6 +4755,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `rating-iptv.de` |
 | `replay-box.de` |
 | `replay-iptv.de` |
+| `reunion-box.de` |
+| `reunion-iptv.de` |
 | `review-guide.de` |
 | `review-iptv.de` |
 | `roku-box.de` |
@@ -4698,6 +4793,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `streamcompare.de` |
 | `stuttgart-iptv.de` |
 | `suscripcion-iptv.de` |
+| `tahiti-iptv.de` |
 | `tennis-box.de` |
 | `tennis-iptv.de` |
 | `tessin-iptv.de` |
@@ -4750,7 +4846,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .nl — Netherlands
 
-**AVAILABLE (461)** — native RDAP 404 + no DNS.
+**AVAILABLE (471)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -4769,6 +4865,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `almere-iptv.nl` |
 | `alsace-box.nl` |
 | `alsace-iptv.nl` |
+| `amazigh-iptv.nl` |
 | `amersfoort-iptv.nl` |
 | `amsterdam-iptv.nl` |
 | `anbieter-iptv.nl` |
@@ -4777,6 +4874,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `android-player.nl` |
 | `anime-box.nl` |
 | `anime-iptv.nl` |
+| `antilles-box.nl` |
+| `antilles-iptv.nl` |
 | `apeldoorn-iptv.nl` |
 | `app-box.nl` |
 | `app-player.nl` |
@@ -4813,6 +4912,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cable-box.nl` |
 | `cable-iptv.nl` |
 | `cafe-iptv.nl` |
+| `caledonie-iptv.nl` |
 | `catala-iptv.nl` |
 | `catalan-box.nl` |
 | `catalan-iptv.nl` |
@@ -4840,6 +4940,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `confronta-iptv.nl` |
 | `cordcut-iptv.nl` |
 | `corse-iptv.nl` |
+| `creole-box.nl` |
+| `creole-iptv.nl` |
 | `cricket-box.nl` |
 | `cricket-iptv.nl` |
 | `dansk-iptv.nl` |
@@ -4901,6 +5003,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `guida-iptv.nl` |
 | `guide-box.nl` |
 | `guideiptv.nl` |
+| `guyane-iptv.nl` |
 | `haarlem-iptv.nl` |
 | `halpa-iptv.nl` |
 | `hdmi-box.nl` |
@@ -5013,6 +5116,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `iptvvergelijker.nl` |
 | `jamfor-iptv.nl` |
 | `jura-iptv.nl` |
+| `kabyle-iptv.nl` |
 | `kanal-iptv.nl` |
 | `karaoke-iptv.nl` |
 | `kaufen-iptv.nl` |
@@ -5125,6 +5229,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `reseller-box.nl` |
 | `reseller-iptv.nl` |
 | `reseller-panel.nl` |
+| `reunion-box.nl` |
+| `reunion-iptv.nl` |
 | `review-box.nl` |
 | `review-guide.nl` |
 | `review-iptv.nl` |
@@ -5216,12 +5322,12 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `zgemma-iptv.nl` |
 | `zwolle-iptv.nl` |
 
-**UNKNOWN (RDAP failed):** `app-iptv.nl`, `barato-iptv.nl`, `bayern-box.nl`, `bretagne-iptv.nl`, `cheap-player.nl`, `chromecast-box.nl`, `dansk-box.nl`, `deals-iptv.nl`, `guide-player.nl`, `heerlen-iptv.nl`, `helmond-iptv.nl`, `iptv-adsl.nl`, `iptv-dns.nl`, `iptv-film.nl`, `iptv-heerlen.nl`, `iptv-server.nl`, `iptv-usb.nl`, `limburg-iptv.nl`, `mma-iptv.nl`, `nijmegen-iptv.nl`, `sammenlign-iptv.nl`, `ticino-iptv.nl`, `usb-box.nl`, `vlc-iptv.nl`, `vod-iptv.nl`, `wallonie-iptv.nl`, `xtream-player.nl`
+**UNKNOWN (RDAP failed):** `app-iptv.nl`, `barato-iptv.nl`, `bayern-box.nl`, `bretagne-iptv.nl`, `cheap-player.nl`, `chromecast-box.nl`, `dansk-box.nl`, `deals-iptv.nl`, `guide-player.nl`, `heerlen-iptv.nl`, `helmond-iptv.nl`, `iptv-adsl.nl`, `iptv-dns.nl`, `iptv-film.nl`, `iptv-heerlen.nl`, `iptv-server.nl`, `iptv-usb.nl`, `limburg-iptv.nl`, `mma-iptv.nl`, `nijmegen-iptv.nl`, `sammenlign-iptv.nl`, `tahiti-iptv.nl`, `ticino-iptv.nl`, `usb-box.nl`, `vlc-iptv.nl`, `vod-iptv.nl`, `wallonie-iptv.nl`, `xtream-player.nl`
 
 
 ### .ch — Switzerland
 
-**AVAILABLE (471)** — native RDAP 404 + no DNS.
+**AVAILABLE (482)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -5237,11 +5343,14 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `algerie-iptv.ch` |
 | `alsace-box.ch` |
 | `alsace-iptv.ch` |
+| `amazigh-iptv.ch` |
 | `android-box.ch` |
 | `android-iptv.ch` |
 | `android-player.ch` |
 | `anime-box.ch` |
 | `anime-iptv.ch` |
+| `antilles-box.ch` |
+| `antilles-iptv.ch` |
 | `app-iptv.ch` |
 | `app-player.ch` |
 | `appletv-box.ch` |
@@ -5282,6 +5391,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `cable-box.ch` |
 | `cable-iptv.ch` |
 | `cafe-iptv.ch` |
+| `caledonie-iptv.ch` |
 | `catala-iptv.ch` |
 | `catalan-box.ch` |
 | `catalan-iptv.ch` |
@@ -5312,6 +5422,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `confronta-iptv.ch` |
 | `cordcut-iptv.ch` |
 | `corse-iptv.ch` |
+| `creole-box.ch` |
+| `creole-iptv.ch` |
 | `cricket-box.ch` |
 | `cricket-iptv.ch` |
 | `dansk-box.ch` |
@@ -5371,6 +5483,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `guide-iptv.ch` |
 | `guide-player.ch` |
 | `guideiptv.ch` |
+| `guyane-iptv.ch` |
 | `halpa-iptv.ch` |
 | `hdmi-box.ch` |
 | `hdmi-iptv.ch` |
@@ -5480,6 +5593,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `iptvvergleich.ch` |
 | `jamfor-iptv.ch` |
 | `jura-iptv.ch` |
+| `kabyle-iptv.ch` |
 | `kanal-iptv.ch` |
 | `karaoke-iptv.ch` |
 | `kaufen-iptv.ch` |
@@ -5599,6 +5713,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `reseller-box.ch` |
 | `reseller-iptv.ch` |
 | `reseller-panel.ch` |
+| `reunion-box.ch` |
+| `reunion-iptv.ch` |
 | `review-box.ch` |
 | `review-guide.ch` |
 | `review-iptv.ch` |
@@ -5644,6 +5760,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `stream-player.ch` |
 | `streamcompare.ch` |
 | `suscripcion-iptv.ch` |
+| `tahiti-iptv.ch` |
 | `tennis-box.ch` |
 | `tennis-iptv.ch` |
 | `tessin-iptv.ch` |
@@ -5745,12 +5862,12 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 **Confirm at registrar (not listed as free):** `avis-iptv.se`, `basta-iptv.se`, `compareiptv.se`, `guideiptv.se`, `iptv-stockholm.se`, `iptvcompare.se`, `streamcompare.se`
 
-**UNKNOWN (RDAP failed):** `4k-box.se`, `4k-iptv.se`, `4k-player.se`, `aanbieder-iptv.se`, `abbonamento-iptv.se`, `abo-box.se`, `abo-iptv.se`, `abo-vod.se`, `abonnement-iptv.se`, `adsl-box.se`, `adsl-iptv.se`, `algerie-iptv.se`, `alsace-box.se`, `alsace-iptv.se`, `anbieter-iptv.se`, `android-box.se`, `android-iptv.se`, `android-player.se`, `anime-box.se`, `anime-iptv.se`, `app-box.se`, `app-iptv.se`, `app-player.se`, `appletv-box.se`, `appletv-player.se`, `aquitaine-iptv.se`, `arabe-box.se`, `arabe-iptv.se`, `avis-box.se`, `backup-box.se`, `backup-iptv.se`, `barato-iptv.se`, `basque-box.se`, `basque-iptv.se`, `bayern-box.se`, `bayern-iptv.se`, `bedste-iptv.se`, `beste-iptv.se`, `billig-iptv.se`, `bouquet-box.se`, `bouquet-iptv.se`, `box-abo.se`, `box-app.se`, `box-avis.se`, `box-compare.se`, `box-guide.se`, `box-iptv.se`, `boxing-iptv.se`, `brabant-box.se`, `brabant-iptv.se`, `brasil-iptv.se`, `bretagne-box.se`, `bretagne-iptv.se`, `cable-box.se`, `cable-iptv.se`, `cafe-iptv.se`, `catala-iptv.se`, `catalan-box.se`, `catalan-iptv.se`, `catchup-box.se`, `catchup-guide.se`, `catchup-iptv.se`, `chaines-iptv.se`, `champions-iptv.se`, `cheap-box.se`, `cheap-iptv.se`, `cheap-player.se`, `chromecast-box.se`, `chromecast-player.se`, `cinema-box.se`, `cinema-iptv.se`, `codes-box.se`, `codes-player.se`, `comparar-iptv.se`, `comparateur-iptv.se`, `compare-box.se`, `compare-player.se`, `comparer-iptv.se`, `config-box.se`, `config-iptv.se`, `confronta-iptv.se`, `cordcut-iptv.se`, `corse-iptv.se`, `cricket-box.se`, `cricket-iptv.se`, `dansk-box.se`, `dansk-iptv.se`, `deals-iptv.se`, `decoder-iptv.se`, `desi-box.se`, `desi-iptv.se`, `dns-box.se`, `dns-iptv.se`, `docu-iptv.se`, `downloader-iptv.se`, `enigma-iptv.se`, `epg-box.se`, `epg-iptv.se`, `essai-box.se`, `essai-iptv.se`, `euro-iptv.se`, `family-box.se`, `family-iptv.se`, `fibre-box.se`, `fibre-iptv.se`, `film-box.se`, `film-guide.se`, `film-iptv.se`, `films-iptv.se`, `firestick-box.se`, `firestick-iptv.se`, `firetv-box.se`, `firetv-iptv.se`, `firetv-player.se`, `fitness-iptv.se`, `foot-box.se`, `foot-iptv.se`, `football-iptv.se`, `forfait-box.se`, `forfait-iptv.se`, `formula-box.se`, `formula-iptv.se`, `formuler-iptv.se`, `formuler-player.se`, `friesland-iptv.se`, `gelderland-iptv.se`, `gids-iptv.se`, `goedkope-iptv.se`, `golf-iptv.se`, `goteborg-iptv.se`, `gotland-iptv.se`, `grec-iptv.se`, `guenstig-iptv.se`, `guia-iptv.se`, `guida-iptv.se`, `guide-box.se`, `guide-player.se`, `halpa-iptv.se`, `hdmi-box.se`, `hdmi-iptv.se`, `hdr-box.se`, `hdr-iptv.se`, `hessen-box.se`, `hessen-iptv.se`, `hevc-box.se`, `hevc-iptv.se`, `hindi-iptv.se`, `home-iptv.se`, `hotel-iptv.se`, `install-box.se`, `install-iptv.se`, `install-player.se`, `iptv-4k.se`, `iptv-aanbieder.se`, `iptv-abo.se`, `iptv-abonnement.se`, `iptv-adsl.se`, `iptv-anbieter.se`, `iptv-anime.se`, `iptv-arabe.se`, `iptv-backup.se`, `iptv-bouquet.se`, `iptv-catchup.se`, `iptv-cheap.se`, `iptv-cinema.se`, `iptv-codes.se`, `iptv-config.se`, `iptv-deals.se`, `iptv-decoder.se`, `iptv-deutschland.se`, `iptv-dns.se`, `iptv-epg.se`, `iptv-fibre.se`, `iptv-film.se`, `iptv-foot.se`, `iptv-gids.se`, `iptv-goteborg.se`, `iptv-hdmi.se`, `iptv-install.se`, `iptv-kids.se`, `iptv-latino.se`, `iptv-legal.se`, `iptv-legale.se`, `iptv-line.se`, `iptv-linkoping.se`, `iptv-live.se`, `iptv-m3u.se`, `iptv-mac.se`, `iptv-mag.se`, `iptv-malmo.se`, `iptv-maroc.se`, `iptv-nederland.se`, `iptv-news.se`, `iptv-orebro.se`, `iptv-ott.se`, `iptv-pack.se`, `iptv-panel.se`, `iptv-plans.se`, `iptv-playlist.se`, `iptv-portal.se`, `iptv-premium.se`, `iptv-pvr.se`, `iptv-quebec.se`, `iptv-radio.se`, `iptv-replay.se`, `iptv-reseller.se`, `iptv-review.se`, `iptv-series.se`, `iptv-server.se`, `iptv-setup.se`, `iptv-sport.se`, `iptv-stb.se`, `iptv-stick.se`, `iptv-stream.se`, `iptv-suomi.se`, `iptv-test.se`, `iptv-trial.se`, `iptv-umea.se`, `iptv-uppsala.se`, `iptv-usb.se`, `iptv-vod.se`, `iptv-watch.se`, `iptv-wifi.se`, `iptv-xtream.se`, `iptvbox.se`, `iptvcodes.se`, `iptvpanel.se`, `iptvplaylist.se`, `iptvportal.se`, `iptvreseller.se`, `iptvserver.se`, `iptvsetup.se`, `iptvtrial.se`, `jura-iptv.se`, `kanal-iptv.se`, `karaoke-iptv.se`, `kaufen-iptv.se`, `kids-box.se`, `kids-iptv.se`, `kodi-iptv.se`, `languedoc-iptv.se`, `lapland-iptv.se`, `latino-box.se`, `latino-iptv.se`, `legal-box.se`, `legal-guide.se`, `legal-iptv.se`, `legale-iptv.se`, `ligue-iptv.se`, `limburg-iptv.se`, `line-box.se`, `line-iptv.se`, `linkoping-iptv.se`, `lite-iptv.se`, `live-box.se`, `live-epg.se`, `live-guide.se`, `live-iptv.se`, `live-player.se`, `m3u-box.se`, `m3u-iptv.se`, `m3u-player.se`, `mac-box.se`, `mac-iptv.se`, `mag-box.se`, `mag-iptv.se`, `mag-player.se`, `mag-server.se`, `magbox.se`, `maghreb-iptv.se`, `malmo-iptv.se`, `maroc-box.se`, `maroc-iptv.se`, `max-iptv.se`, `meilleur-iptv.se`, `mejor-iptv.se`, `melhor-iptv.se`, `miglior-iptv.se`, `migliore-iptv.se`, `mini-box.se`, `mma-box.se`, `mma-iptv.se`, `motogp-box.se`, `motogp-iptv.se`, `movie-box.se`, `movie-iptv.se`, `multi-iptv.se`, `nascar-iptv.se`, `nba-box.se`, `nba-iptv.se`, `news-box.se`, `news-iptv.se`, `nhl-box.se`, `nhl-iptv.se`, `normandie-box.se`, `normandie-iptv.se`, `norsk-box.se`, `norsk-iptv.se`, `nrw-box.se`, `nrw-iptv.se`, `nvidia-box.se`, `nvidia-iptv.se`, `nvidia-player.se`, `orebro-iptv.se`, `ott-box.se`, `ott-iptv.se`, `ott-player.se`, `pack-box.se`, `pack-iptv.se`, `panel-box.se`, `panel-iptv.se`, `panel-server.se`, `parabole-iptv.se`, `paras-iptv.se`, `pascher-iptv.se`, `paytv-iptv.se`, `pga-iptv.se`, `picks-iptv.se`, `pinoy-box.se`, `pinoy-iptv.se`, `plans-iptv.se`, `player-app.se`, `player-avis.se`, `player-box.se`, `player-compare.se`, `player-guide.se`, `player-iptv.se`, `playlist-iptv.se`, `playlist-player.se`, `plus-iptv.se`, `podcast-iptv.se`, `polonais-iptv.se`, `portal-box.se`, `premier-iptv.se`, `premium-iptv.se`, `pro-box.se`, `pro-player.se`, `proberen-iptv.se`, `prova-iptv.se`, `provence-iptv.se`, `prueba-iptv.se`, `pvr-box.se`, `pvr-iptv.se`, `quebec-iptv.se`, `quebecois-iptv.se`, `racing-iptv.se`, `radio-box.se`, `radio-iptv.se`, `rank-iptv.se`, `rating-box.se`, `rating-iptv.se`, `replay-box.se`, `replay-iptv.se`, `reseller-box.se`, `reseller-iptv.se`, `reseller-panel.se`, `review-box.se`, `review-guide.se`, `review-iptv.se`, `roku-box.se`, `roku-iptv.se`, `roku-player.se`, `romand-iptv.se`, `rugby-iptv.se`, `sachsen-iptv.se`, `sami-box.se`, `sami-iptv.se`, `sammenlign-iptv.se`, `satellite-box.se`, `satellite-iptv.se`, `savoie-iptv.se`, `sender-iptv.se`, `series-box.se`, `series-iptv.se`, `server-box.se`, `server-guide.se`, `server-iptv.se`, `server-panel.se`, `setup-app.se`, `setup-box.se`, `setup-iptv.se`, `setup-player.se`, `shield-box.se`, `shield-iptv.se`, `shield-player.se`, `smart-box.se`, `smart-player.se`, `soccer-box.se`, `soccer-iptv.se`, `sport-box.se`, `sport-guide.se`, `sport-iptv.se`, `stb-box.se`, `stb-iptv.se`, `stb-player.se`, `stick-iptv.se`, `stockholm-iptv.se`, `stream-box.se`, `stream-iptv.se`, `stream-player.se`, `suscripcion-iptv.se`, `tennis-box.se`, `tennis-iptv.se`, `tessin-iptv.se`, `test-box.se`, `test-iptv.se`, `ticino-box.se`, `ticino-iptv.se`, `timeshift-iptv.se`, `tnt-box.se`, `tnt-iptv.se`, `trial-app.se`, `trial-box.se`, `trial-iptv.se`, `trial-player.se`, `tunisie-iptv.se`, `turc-iptv.se`, `ufc-iptv.se`, `ultra-iptv.se`, `umea-iptv.se`, `uppsala-iptv.se`, `usb-box.se`, `usb-iptv.se`, `valais-box.se`, `valais-iptv.se`, `vaud-iptv.se`, `vergelijk-iptv.se`, `vergleich-iptv.se`, `vertaa-iptv.se`, `vestland-iptv.se`, `vlaams-box.se`, `vlaams-iptv.se`, `vlc-iptv.se`, `vod-abo.se`, `vod-box.se`, `vod-guide.se`, `vod-iptv.se`, `vod-player.se`, `vpn-box.se`, `vpn-iptv.se`, `wallon-iptv.se`, `wallonie-iptv.se`, `watch-box.se`, `watch-guide.se`, `watch-iptv.se`, `wifi-box.se`, `wifi-iptv.se`, `worldcup-iptv.se`, `wwe-box.se`, `wwe-iptv.se`, `xtream-box.se`, `xtream-iptv.se`, `xtream-player.se`, `zgemma-iptv.se`
+**UNKNOWN (RDAP failed):** `4k-box.se`, `4k-iptv.se`, `4k-player.se`, `aanbieder-iptv.se`, `abbonamento-iptv.se`, `abo-box.se`, `abo-iptv.se`, `abo-vod.se`, `abonnement-iptv.se`, `adsl-box.se`, `adsl-iptv.se`, `algerie-iptv.se`, `alsace-box.se`, `alsace-iptv.se`, `amazigh-iptv.se`, `anbieter-iptv.se`, `android-box.se`, `android-iptv.se`, `android-player.se`, `anime-box.se`, `anime-iptv.se`, `antilles-box.se`, `antilles-iptv.se`, `app-box.se`, `app-iptv.se`, `app-player.se`, `appletv-box.se`, `appletv-player.se`, `aquitaine-iptv.se`, `arabe-box.se`, `arabe-iptv.se`, `avis-box.se`, `backup-box.se`, `backup-iptv.se`, `barato-iptv.se`, `basque-box.se`, `basque-iptv.se`, `bayern-box.se`, `bayern-iptv.se`, `bedste-iptv.se`, `beste-iptv.se`, `billig-iptv.se`, `bouquet-box.se`, `bouquet-iptv.se`, `box-abo.se`, `box-app.se`, `box-avis.se`, `box-compare.se`, `box-guide.se`, `box-iptv.se`, `boxing-iptv.se`, `brabant-box.se`, `brabant-iptv.se`, `brasil-iptv.se`, `bretagne-box.se`, `bretagne-iptv.se`, `cable-box.se`, `cable-iptv.se`, `cafe-iptv.se`, `caledonie-iptv.se`, `catala-iptv.se`, `catalan-box.se`, `catalan-iptv.se`, `catchup-box.se`, `catchup-guide.se`, `catchup-iptv.se`, `chaines-iptv.se`, `champions-iptv.se`, `cheap-box.se`, `cheap-iptv.se`, `cheap-player.se`, `chromecast-box.se`, `chromecast-player.se`, `cinema-box.se`, `cinema-iptv.se`, `codes-box.se`, `codes-player.se`, `comparar-iptv.se`, `comparateur-iptv.se`, `compare-box.se`, `compare-player.se`, `comparer-iptv.se`, `config-box.se`, `config-iptv.se`, `confronta-iptv.se`, `cordcut-iptv.se`, `corse-iptv.se`, `creole-box.se`, `creole-iptv.se`, `cricket-box.se`, `cricket-iptv.se`, `dansk-box.se`, `dansk-iptv.se`, `deals-iptv.se`, `decoder-iptv.se`, `desi-box.se`, `desi-iptv.se`, `dns-box.se`, `dns-iptv.se`, `docu-iptv.se`, `downloader-iptv.se`, `enigma-iptv.se`, `epg-box.se`, `epg-iptv.se`, `essai-box.se`, `essai-iptv.se`, `euro-iptv.se`, `family-box.se`, `family-iptv.se`, `fibre-box.se`, `fibre-iptv.se`, `film-box.se`, `film-guide.se`, `film-iptv.se`, `films-iptv.se`, `firestick-box.se`, `firestick-iptv.se`, `firetv-box.se`, `firetv-iptv.se`, `firetv-player.se`, `fitness-iptv.se`, `foot-box.se`, `foot-iptv.se`, `football-iptv.se`, `forfait-box.se`, `forfait-iptv.se`, `formula-box.se`, `formula-iptv.se`, `formuler-iptv.se`, `formuler-player.se`, `friesland-iptv.se`, `gelderland-iptv.se`, `gids-iptv.se`, `goedkope-iptv.se`, `golf-iptv.se`, `goteborg-iptv.se`, `gotland-iptv.se`, `grec-iptv.se`, `guenstig-iptv.se`, `guia-iptv.se`, `guida-iptv.se`, `guide-box.se`, `guide-player.se`, `guyane-iptv.se`, `halpa-iptv.se`, `hdmi-box.se`, `hdmi-iptv.se`, `hdr-box.se`, `hdr-iptv.se`, `hessen-box.se`, `hessen-iptv.se`, `hevc-box.se`, `hevc-iptv.se`, `hindi-iptv.se`, `home-iptv.se`, `hotel-iptv.se`, `install-box.se`, `install-iptv.se`, `install-player.se`, `iptv-4k.se`, `iptv-aanbieder.se`, `iptv-abo.se`, `iptv-abonnement.se`, `iptv-adsl.se`, `iptv-anbieter.se`, `iptv-anime.se`, `iptv-arabe.se`, `iptv-backup.se`, `iptv-bouquet.se`, `iptv-catchup.se`, `iptv-cheap.se`, `iptv-cinema.se`, `iptv-codes.se`, `iptv-config.se`, `iptv-deals.se`, `iptv-decoder.se`, `iptv-deutschland.se`, `iptv-dns.se`, `iptv-epg.se`, `iptv-fibre.se`, `iptv-film.se`, `iptv-foot.se`, `iptv-gids.se`, `iptv-goteborg.se`, `iptv-hdmi.se`, `iptv-install.se`, `iptv-kids.se`, `iptv-latino.se`, `iptv-legal.se`, `iptv-legale.se`, `iptv-line.se`, `iptv-linkoping.se`, `iptv-live.se`, `iptv-m3u.se`, `iptv-mac.se`, `iptv-mag.se`, `iptv-malmo.se`, `iptv-maroc.se`, `iptv-nederland.se`, `iptv-news.se`, `iptv-orebro.se`, `iptv-ott.se`, `iptv-pack.se`, `iptv-panel.se`, `iptv-plans.se`, `iptv-playlist.se`, `iptv-portal.se`, `iptv-premium.se`, `iptv-pvr.se`, `iptv-quebec.se`, `iptv-radio.se`, `iptv-replay.se`, `iptv-reseller.se`, `iptv-review.se`, `iptv-series.se`, `iptv-server.se`, `iptv-setup.se`, `iptv-sport.se`, `iptv-stb.se`, `iptv-stick.se`, `iptv-stream.se`, `iptv-suomi.se`, `iptv-test.se`, `iptv-trial.se`, `iptv-umea.se`, `iptv-uppsala.se`, `iptv-usb.se`, `iptv-vod.se`, `iptv-watch.se`, `iptv-wifi.se`, `iptv-xtream.se`, `iptvbox.se`, `iptvcodes.se`, `iptvpanel.se`, `iptvplaylist.se`, `iptvportal.se`, `iptvreseller.se`, `iptvserver.se`, `iptvsetup.se`, `iptvtrial.se`, `jura-iptv.se`, `kabyle-iptv.se`, `kanal-iptv.se`, `karaoke-iptv.se`, `kaufen-iptv.se`, `kids-box.se`, `kids-iptv.se`, `kodi-iptv.se`, `languedoc-iptv.se`, `lapland-iptv.se`, `latino-box.se`, `latino-iptv.se`, `legal-box.se`, `legal-guide.se`, `legal-iptv.se`, `legale-iptv.se`, `ligue-iptv.se`, `limburg-iptv.se`, `line-box.se`, `line-iptv.se`, `linkoping-iptv.se`, `lite-iptv.se`, `live-box.se`, `live-epg.se`, `live-guide.se`, `live-iptv.se`, `live-player.se`, `m3u-box.se`, `m3u-iptv.se`, `m3u-player.se`, `mac-box.se`, `mac-iptv.se`, `mag-box.se`, `mag-iptv.se`, `mag-player.se`, `mag-server.se`, `magbox.se`, `maghreb-iptv.se`, `malmo-iptv.se`, `maroc-box.se`, `maroc-iptv.se`, `max-iptv.se`, `meilleur-iptv.se`, `mejor-iptv.se`, `melhor-iptv.se`, `miglior-iptv.se`, `migliore-iptv.se`, `mini-box.se`, `mma-box.se`, `mma-iptv.se`, `motogp-box.se`, `motogp-iptv.se`, `movie-box.se`, `movie-iptv.se`, `multi-iptv.se`, `nascar-iptv.se`, `nba-box.se`, `nba-iptv.se`, `news-box.se`, `news-iptv.se`, `nhl-box.se`, `nhl-iptv.se`, `normandie-box.se`, `normandie-iptv.se`, `norsk-box.se`, `norsk-iptv.se`, `nrw-box.se`, `nrw-iptv.se`, `nvidia-box.se`, `nvidia-iptv.se`, `nvidia-player.se`, `orebro-iptv.se`, `ott-box.se`, `ott-iptv.se`, `ott-player.se`, `pack-box.se`, `pack-iptv.se`, `panel-box.se`, `panel-iptv.se`, `panel-server.se`, `parabole-iptv.se`, `paras-iptv.se`, `pascher-iptv.se`, `paytv-iptv.se`, `pga-iptv.se`, `picks-iptv.se`, `pinoy-box.se`, `pinoy-iptv.se`, `plans-iptv.se`, `player-app.se`, `player-avis.se`, `player-box.se`, `player-compare.se`, `player-guide.se`, `player-iptv.se`, `playlist-iptv.se`, `playlist-player.se`, `plus-iptv.se`, `podcast-iptv.se`, `polonais-iptv.se`, `portal-box.se`, `premier-iptv.se`, `premium-iptv.se`, `pro-box.se`, `pro-player.se`, `proberen-iptv.se`, `prova-iptv.se`, `provence-iptv.se`, `prueba-iptv.se`, `pvr-box.se`, `pvr-iptv.se`, `quebec-iptv.se`, `quebecois-iptv.se`, `racing-iptv.se`, `radio-box.se`, `radio-iptv.se`, `rank-iptv.se`, `rating-box.se`, `rating-iptv.se`, `replay-box.se`, `replay-iptv.se`, `reseller-box.se`, `reseller-iptv.se`, `reseller-panel.se`, `reunion-box.se`, `reunion-iptv.se`, `review-box.se`, `review-guide.se`, `review-iptv.se`, `roku-box.se`, `roku-iptv.se`, `roku-player.se`, `romand-iptv.se`, `rugby-iptv.se`, `sachsen-iptv.se`, `sami-box.se`, `sami-iptv.se`, `sammenlign-iptv.se`, `satellite-box.se`, `satellite-iptv.se`, `savoie-iptv.se`, `sender-iptv.se`, `series-box.se`, `series-iptv.se`, `server-box.se`, `server-guide.se`, `server-iptv.se`, `server-panel.se`, `setup-app.se`, `setup-box.se`, `setup-iptv.se`, `setup-player.se`, `shield-box.se`, `shield-iptv.se`, `shield-player.se`, `smart-box.se`, `smart-player.se`, `soccer-box.se`, `soccer-iptv.se`, `sport-box.se`, `sport-guide.se`, `sport-iptv.se`, `stb-box.se`, `stb-iptv.se`, `stb-player.se`, `stick-iptv.se`, `stockholm-iptv.se`, `stream-box.se`, `stream-iptv.se`, `stream-player.se`, `suscripcion-iptv.se`, `tahiti-iptv.se`, `tennis-box.se`, `tennis-iptv.se`, `tessin-iptv.se`, `test-box.se`, `test-iptv.se`, `ticino-box.se`, `ticino-iptv.se`, `timeshift-iptv.se`, `tnt-box.se`, `tnt-iptv.se`, `trial-app.se`, `trial-box.se`, `trial-iptv.se`, `trial-player.se`, `tunisie-iptv.se`, `turc-iptv.se`, `ufc-iptv.se`, `ultra-iptv.se`, `umea-iptv.se`, `uppsala-iptv.se`, `usb-box.se`, `usb-iptv.se`, `valais-box.se`, `valais-iptv.se`, `vaud-iptv.se`, `vergelijk-iptv.se`, `vergleich-iptv.se`, `vertaa-iptv.se`, `vestland-iptv.se`, `vlaams-box.se`, `vlaams-iptv.se`, `vlc-iptv.se`, `vod-abo.se`, `vod-box.se`, `vod-guide.se`, `vod-iptv.se`, `vod-player.se`, `vpn-box.se`, `vpn-iptv.se`, `wallon-iptv.se`, `wallonie-iptv.se`, `watch-box.se`, `watch-guide.se`, `watch-iptv.se`, `wifi-box.se`, `wifi-iptv.se`, `worldcup-iptv.se`, `wwe-box.se`, `wwe-iptv.se`, `xtream-box.se`, `xtream-iptv.se`, `xtream-player.se`, `zgemma-iptv.se`
 
 
 ### .no — Norway
 
-**AVAILABLE (474)** — native RDAP 404 + no DNS.
+**AVAILABLE (485)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -5768,12 +5885,15 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `algerie-iptv.no` |
 | `alsace-box.no` |
 | `alsace-iptv.no` |
+| `amazigh-iptv.no` |
 | `anbieter-iptv.no` |
 | `android-box.no` |
 | `android-iptv.no` |
 | `android-player.no` |
 | `anime-box.no` |
 | `anime-iptv.no` |
+| `antilles-box.no` |
+| `antilles-iptv.no` |
 | `app-box.no` |
 | `app-iptv.no` |
 | `app-player.no` |
@@ -5814,6 +5934,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `cable-box.no` |
 | `cable-iptv.no` |
 | `cafe-iptv.no` |
+| `caledonie-iptv.no` |
 | `catala-iptv.no` |
 | `catalan-box.no` |
 | `catalan-iptv.no` |
@@ -5843,6 +5964,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `confronta-iptv.no` |
 | `cordcut-iptv.no` |
 | `corse-iptv.no` |
+| `creole-box.no` |
+| `creole-iptv.no` |
 | `cricket-box.no` |
 | `cricket-iptv.no` |
 | `dansk-box.no` |
@@ -5899,6 +6022,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `guide-box.no` |
 | `guide-player.no` |
 | `guideiptv.no` |
+| `guyane-iptv.no` |
 | `halpa-iptv.no` |
 | `hdmi-box.no` |
 | `hdmi-iptv.no` |
@@ -6008,6 +6132,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `iptvtrial.no` |
 | `jamfor-iptv.no` |
 | `jura-iptv.no` |
+| `kabyle-iptv.no` |
 | `kanal-iptv.no` |
 | `karaoke-iptv.no` |
 | `kaufen-iptv.no` |
@@ -6129,6 +6254,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `reseller-box.no` |
 | `reseller-iptv.no` |
 | `reseller-panel.no` |
+| `reunion-box.no` |
+| `reunion-iptv.no` |
 | `review-box.no` |
 | `review-guide.no` |
 | `review-iptv.no` |
@@ -6175,6 +6302,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `stream-player.no` |
 | `streamcompare.no` |
 | `suscripcion-iptv.no` |
+| `tahiti-iptv.no` |
 | `tennis-box.no` |
 | `tennis-iptv.no` |
 | `tessin-iptv.no` |
@@ -6232,7 +6360,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .dk — Denmark
 
-**AVAILABLE (470)** — native RDAP 404 + no DNS.
+**AVAILABLE (481)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -6252,12 +6380,15 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `algerie-iptv.dk` |
 | `alsace-box.dk` |
 | `alsace-iptv.dk` |
+| `amazigh-iptv.dk` |
 | `anbieter-iptv.dk` |
 | `android-box.dk` |
 | `android-iptv.dk` |
 | `android-player.dk` |
 | `anime-box.dk` |
 | `anime-iptv.dk` |
+| `antilles-box.dk` |
+| `antilles-iptv.dk` |
 | `app-box.dk` |
 | `app-iptv.dk` |
 | `app-player.dk` |
@@ -6297,6 +6428,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `cable-box.dk` |
 | `cable-iptv.dk` |
 | `cafe-iptv.dk` |
+| `caledonie-iptv.dk` |
 | `catala-iptv.dk` |
 | `catalan-box.dk` |
 | `catalan-iptv.dk` |
@@ -6326,6 +6458,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `confronta-iptv.dk` |
 | `cordcut-iptv.dk` |
 | `corse-iptv.dk` |
+| `creole-box.dk` |
+| `creole-iptv.dk` |
 | `cricket-box.dk` |
 | `cricket-iptv.dk` |
 | `dansk-box.dk` |
@@ -6383,6 +6517,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `guide-box.dk` |
 | `guide-player.dk` |
 | `guideiptv.dk` |
+| `guyane-iptv.dk` |
 | `halpa-iptv.dk` |
 | `hdmi-box.dk` |
 | `hdmi-iptv.dk` |
@@ -6490,6 +6625,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `iptvtrial.dk` |
 | `jamfor-iptv.dk` |
 | `jura-iptv.dk` |
+| `kabyle-iptv.dk` |
 | `kanal-iptv.dk` |
 | `karaoke-iptv.dk` |
 | `kaufen-iptv.dk` |
@@ -6611,6 +6747,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `reseller-box.dk` |
 | `reseller-iptv.dk` |
 | `reseller-panel.dk` |
+| `reunion-box.dk` |
+| `reunion-iptv.dk` |
 | `review-box.dk` |
 | `review-iptv.dk` |
 | `roku-box.dk` |
@@ -6655,6 +6793,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `stream-player.dk` |
 | `streamcompare.dk` |
 | `suscripcion-iptv.dk` |
+| `tahiti-iptv.dk` |
 | `tennis-box.dk` |
 | `tennis-iptv.dk` |
 | `tessin-iptv.dk` |
@@ -6710,7 +6849,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .fi — Finland
 
-**AVAILABLE (476)** — native RDAP 404 + no DNS.
+**AVAILABLE (487)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -6728,12 +6867,15 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `algerie-iptv.fi` |
 | `alsace-box.fi` |
 | `alsace-iptv.fi` |
+| `amazigh-iptv.fi` |
 | `anbieter-iptv.fi` |
 | `android-box.fi` |
 | `android-iptv.fi` |
 | `android-player.fi` |
 | `anime-box.fi` |
 | `anime-iptv.fi` |
+| `antilles-box.fi` |
+| `antilles-iptv.fi` |
 | `app-box.fi` |
 | `app-iptv.fi` |
 | `app-player.fi` |
@@ -6773,6 +6915,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `cable-box.fi` |
 | `cable-iptv.fi` |
 | `cafe-iptv.fi` |
+| `caledonie-iptv.fi` |
 | `catala-iptv.fi` |
 | `catalan-box.fi` |
 | `catalan-iptv.fi` |
@@ -6802,6 +6945,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `confronta-iptv.fi` |
 | `cordcut-iptv.fi` |
 | `corse-iptv.fi` |
+| `creole-box.fi` |
+| `creole-iptv.fi` |
 | `cricket-box.fi` |
 | `cricket-iptv.fi` |
 | `dansk-box.fi` |
@@ -6858,6 +7003,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `guide-box.fi` |
 | `guide-player.fi` |
 | `guideiptv.fi` |
+| `guyane-iptv.fi` |
 | `halpa-iptv.fi` |
 | `hdmi-box.fi` |
 | `hdmi-iptv.fi` |
@@ -6971,6 +7117,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `jamfor-iptv.fi` |
 | `jura-iptv.fi` |
 | `jyvaskyla-iptv.fi` |
+| `kabyle-iptv.fi` |
 | `kanal-iptv.fi` |
 | `karaoke-iptv.fi` |
 | `kaufen-iptv.fi` |
@@ -7092,6 +7239,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `reseller-box.fi` |
 | `reseller-iptv.fi` |
 | `reseller-panel.fi` |
+| `reunion-box.fi` |
+| `reunion-iptv.fi` |
 | `review-box.fi` |
 | `review-guide.fi` |
 | `review-iptv.fi` |
@@ -7137,6 +7286,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `stream-player.fi` |
 | `streamcompare.fi` |
 | `suscripcion-iptv.fi` |
+| `tahiti-iptv.fi` |
 | `tampere-iptv.fi` |
 | `tennis-box.fi` |
 | `tennis-iptv.fi` |
@@ -7215,13 +7365,14 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (80)** — native RDAP 404 + no DNS.
+**AVAILABLE (81)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
 | `androidtvguide.co.uk` |
 | `anime-guide.co.uk` |
 | `appletv-guide.co.uk` |
+| `bay-guide.co.uk` |
 | `best-firestick.co.uk` |
 | `box-compare.co.uk` |
 | `box-guide.co.uk` |
