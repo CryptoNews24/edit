@@ -279,5 +279,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Yvelines | `versaillais iptv` / `mantois iptv` / `poissyen iptv` / `houillois iptv` | Gentilé commercial | AVAILABLE leftovers: `versaillais-iptv.fr`, `mantois-iptv.fr`, `poissyen-iptv.fr`, `houillois-iptv.fr` |
 | Boxes | `t962p iptv` / `a133p iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962p-iptv.fr`, `a133p-iptv.fr` |
 | UK geo 57 | `cupar guide` / `ladybank guide` / `auchtermuchty guide` | Nominet no-iptv | AVAILABLE: `cupar-guide.co.uk`, `ladybank-guide.co.uk`, `auchtermuchty-guide.co.uk` (also `.uk`) |
+| FR Hauts-de-Seine | `nanterrien iptv` / `suresnois iptv` / `puteolien iptv` / `courbevoisien iptv` | Gentilé commercial | AVAILABLE leftovers: `nanterrien-iptv.fr`, `suresnois-iptv.fr`, `puteolien-iptv.fr`, `courbevoisien-iptv.fr` |
+| Boxes | `t965p iptv` / `rk3562p iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965p-iptv.fr`, `rk3562p-iptv.fr` |
+| UK geo 58 | `falkland guide` / `markinch guide` / `kennoway guide` | Nominet no-iptv | AVAILABLE: `falkland-guide.co.uk`, `markinch-guide.co.uk`, `kennoway-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
