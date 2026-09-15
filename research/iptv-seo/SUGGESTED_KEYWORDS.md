@@ -88,5 +88,9 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Indigenous CA | `mikmaq iptv` / `mohawk iptv` / `cree iptv` | Canada commercial | AVAILABLE leftovers: `mikmaq-iptv.ca`, `mohawk-iptv.ca`, `cree-iptv.ca` |
 | Boxes | `anadol iptv` / `x96 iptv` | Cheap Android boxes | AVAILABLE leftovers: `anadol-iptv.fr`, `x96-iptv.fr` |
 | Geo FR 7 | `iptv puy de dome` / `iptv cote d or` / `iptv ain` | Departement commercial | AVAILABLE: `puydedome-iptv.fr`, `cotedor-iptv.fr`, `ain-iptv.fr` |
+| Regional EU | `luxembourgish iptv` / `scots iptv` / `walser iptv` / `ladin iptv` | Regional commercial | AVAILABLE leftovers: `luxembourgish-iptv.fr`, `scots-iptv.fr`, `walser-iptv.ch`, `ladin-iptv.fr`. `scots-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Indigenous CA 2 | `innu iptv` / `haida iptv` | Canada commercial | AVAILABLE leftovers: `innu-iptv.ca`, `haida-iptv.ca` (`dene-iptv` skipped: not two-word under current tokenizer) |
+| Boxes | `t95 iptv` / `h96 iptv` | Cheap Android boxes | AVAILABLE leftovers: `t95-iptv.fr`, `h96-iptv.fr` |
+| Geo FR 8 | `iptv haute vienne` / `iptv deux sevres` / `iptv vienne` / `iptv charente maritime` | Departement commercial | AVAILABLE: `hautevienne-iptv.fr`, `deuxsevres-iptv.fr`, `vienne-iptv.fr`, `charentemaritime-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
