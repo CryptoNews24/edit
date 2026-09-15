@@ -504,6 +504,10 @@ def main() -> None:
         ("France", "fr", "iptv reunion", "geo", "fr_ov"),
         ("France", "fr", "iptv guyane", "geo", "fr_ov"),
         ("France", "fr", "iptv tahiti", "geo", "fr_ov"),
+        ("France", "fr", "iptv martinique", "geo", "fr_ov"),
+        ("France", "fr", "iptv guadeloupe", "geo", "fr_ov"),
+        ("France", "fr", "iptv mayotte", "geo", "fr_ov"),
+        ("Switzerland", "fr", "iptv romandie", "geo", "ch_fr"),
     ]
     for item in extra:
         add(rows, seen, *item)
