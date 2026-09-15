@@ -57,5 +57,7 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Central Asia 2 | `kyrgyz iptv` / `tajik iptv` / `turkmen iptv` / `nepali iptv` / `bengali iptv` | Diaspora commercial | AVAILABLE leftovers: `kyrgyz-iptv.fr`, `tajik-iptv.fr`, `turkmen-iptv.fr`, `nepali-iptv.fr`, `bengali-iptv.fr`, `bengali-iptv.ca`. `.se` UNKNOWN — not a buy |
 | Satellite boxes | `openbox iptv` / `skybox iptv` / `icecrypt iptv` / `vu+ iptv` / `ferguson iptv` | Linux/sat boxes | AVAILABLE leftovers: `openbox-iptv.fr`, `skybox-iptv.fr`, `icecrypt-iptv.fr`, `vuplus-iptv.fr`, `ferguson-iptv.fr`. `vuplus-iptv.ch` UNKNOWN — not a buy |
 | Geo leftover | `iptv pyrenees` / `iptv vosges` / `iptv ardennes` | FR mountain/border commercial | AVAILABLE: `pyrenees-iptv.fr`, `vosges-iptv.fr`, `ardennes-iptv.fr`. `pyrenees-box.fr` TAKEN |
+| Indic langs | `telugu iptv` / `malayalam iptv` / `sinhala iptv` / `kannada iptv` / `gujarati iptv` | Diaspora commercial | AVAILABLE leftovers: `telugu-iptv.fr`, `malayalam-iptv.fr`, `sinhala-iptv.fr`, `kannada-iptv.fr`, `gujarati-iptv.fr`, `telugu-iptv.ca` |
+| Linux boxes | `maxytec iptv` / `xsarius iptv` | Enigma/Linux boxes | AVAILABLE leftovers: `maxytec-iptv.fr`, `xsarius-iptv.fr`, `lot-iptv.fr`, `ariege-box.fr`, `aveyron-box.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
