@@ -255,5 +255,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Côtes-d'Armor | `lannionais iptv` / `tregorrois iptv` / `dinannais iptv` / `paimpolais iptv` | Gentilé commercial | AVAILABLE leftovers: `lannionais-iptv.fr`, `tregorrois-iptv.fr`, `dinannais-iptv.fr`, `paimpolais-iptv.fr` |
 | Boxes | `t968m iptv` / `rk3562s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968m-iptv.fr`, `rk3562s-iptv.fr` |
 | UK geo 49 | `crieff guide` / `auchterarder guide` / `blackford guide` | Nominet no-iptv | AVAILABLE: `crieff-guide.co.uk`, `auchterarder-guide.co.uk`, `blackford-guide.co.uk` (also `.uk`) |
+| FR Ille-et-Vilaine | `malouin iptv` / `fougerais iptv` / `vitreen iptv` / `redonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `malouin-iptv.fr`, `fougerais-iptv.fr`, `vitreen-iptv.fr`, `redonnais-iptv.fr` |
+| Boxes | `t962m iptv` / `s905x3s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962m-iptv.fr`, `s905x3s-iptv.fr` |
+| UK geo 50 | `dunkeld guide` / `pitlochry guide` / `aberfeldy guide` | Nominet no-iptv | AVAILABLE: `dunkeld-guide.co.uk`, `pitlochry-guide.co.uk`, `aberfeldy-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
