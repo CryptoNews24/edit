@@ -300,5 +300,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Seine-Saint-Denis 3 | `noisysien iptv` / `montreuilais iptv` / `dionysien iptv` / `blancmesnilois iptv` | Gentilé commercial | AVAILABLE leftovers: `noisysien-iptv.fr`, `montreuilais-iptv.fr`, `dionysien-iptv.fr`, `blancmesnilois-iptv.fr`. `noisysien-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t972r iptv` / `s905x7s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972r-iptv.fr`, `s905x7s-iptv.fr` |
 | UK geo 64 | `east wemyss guide` / `west wemyss guide` / `leslie guide` | Nominet no-iptv | AVAILABLE: `eastwemyss-guide.co.uk`, `westwemyss-guide.co.uk`, `leslie-guide.co.uk` (also `.uk`) |
+| FR Val-d'Oise | `argenteuillais iptv` / `sarcellois iptv` / `ermontois iptv` / `cergypontois iptv` | Gentilé commercial | AVAILABLE leftovers: `argenteuillais-iptv.fr`, `sarcellois-iptv.fr`, `ermontois-iptv.fr`, `cergypontois-iptv.fr`. `argenteuillais-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t950t iptv` / `rk3568r iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950t-iptv.fr`, `rk3568r-iptv.fr` |
+| UK geo 65 | `thornton guide` / `springfield guide` / `balgonie guide` | Nominet no-iptv | AVAILABLE: `thornton-guide.co.uk`, `springfield-guide.co.uk`, `balgonie-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
