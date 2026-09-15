@@ -168,5 +168,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Lorraine | `nanceien iptv` / `lunevillois iptv` / `toulois iptv` / `spinalien iptv` | Gentilé commercial | AVAILABLE leftovers: `nanceien-iptv.fr`, `lunevillois-iptv.fr`, `toulois-iptv.fr`, `spinalien-iptv.fr` |
 | Boxes | `t982 iptv` / `rk3528 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t982-iptv.fr`, `rk3528-iptv.fr` |
 | UK geo 20 | `campbeltown guide` / `inveraray guide` / `lochgilphead guide` | Nominet no-iptv | AVAILABLE: `campbeltown-guide.co.uk`, `inveraray-guide.co.uk`, `lochgilphead-guide.co.uk` (also `.uk`) |
+| FR Moselle | `thionvillois iptv` / `forbachois iptv` / `sarregueminois iptv` / `bitchois iptv` | Gentilé commercial | AVAILABLE leftovers: `thionvillois-iptv.fr`, `forbachois-iptv.fr`, `sarregueminois-iptv.fr`, `bitchois-iptv.fr` |
+| Boxes | `t950s iptv` / `rk3562 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950s-iptv.fr`, `rk3562-iptv.fr` |
+| UK geo 21 | `tarbert guide` / `bowmore guide` / `port ellen guide` | Nominet no-iptv | AVAILABLE: `tarbert-guide.co.uk`, `bowmore-guide.co.uk`, `portellen-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
