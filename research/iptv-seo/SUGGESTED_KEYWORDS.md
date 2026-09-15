@@ -19,6 +19,8 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 | Nordics | `beste iptv norge` / `bedste iptv` / `paras iptv` / `basta iptv` | Local “best IPTV” | City leftovers (`stockholm-iptv.se`, `oslo` pairs) — country EMDs often gone |
 | All | `iptv sport` / `iptv epg` / `replay iptv` / `chaine iptv` | Sports + guide + catch-up intent | `sport-iptv.fr`, `epg-iptv.fr`, `replay-iptv.fr`, `chaines-iptv.fr`, `sport-iptv.de` |
 | All | `iptv kids` / `iptv news` / `iptv install` / `hdr iptv` | Family, news, setup, quality | `kids-iptv.fr`, `news-iptv.fr`, `install-iptv.fr`, `hdr-iptv.fr`, `kids-iptv.us`, `install-iptv.us` |
+| All | `iptv vpn` / `xtream line` / `mac iptv` / `bouquet iptv` | Setup + reseller-line intent | `vpn-iptv.fr`, `bouquet-iptv.fr`, `mac-iptv.fr`, `iptv-line.us` |
+| FR-MAGHREB / LATAM | `iptv arabe` / `iptv maroc` / `iptv latino` | Diaspora + language commercial | `arabe-iptv.fr`, `maroc-iptv.fr`, `maghreb-iptv.fr`, `latino-iptv.us` |
 | Apps (SEO only) | `tivimate playlist`, `ott navigator`, `ibo player`, `smarters pro`, `gse smart iptv` | High intent setup queries | **No brand EMD** — write guides on a comparison domain |
 
 ## Rules

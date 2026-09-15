@@ -433,6 +433,20 @@ def main() -> None:
         ("United States", "en", "how to install iptv", "howto", "us_howto"),
         ("France", "fr", "installer iptv", "howto", "fr_howto"),
         ("Germany", "de", "iptv einrichten", "howto", "de_howto"),
+        ("France", "fr", "bouquet iptv", "content", "fr_content"),
+        ("United States", "en", "iptv vpn", "howto", "us_howto"),
+        ("United States", "en", "xtream line", "reseller", "us_b2b"),
+        ("Canada", "en", "iptv mac address", "device", "ca_device"),
+        ("France", "fr", "iptv arabe", "geo_lang", "fr_maghreb"),
+        ("France", "fr", "iptv maroc", "geo_lang", "fr_maghreb"),
+        ("France", "fr", "iptv tunisie", "geo_lang", "fr_maghreb"),
+        ("France", "fr", "iptv algerie", "geo_lang", "fr_maghreb"),
+        ("United States", "en", "iptv latino", "geo_lang", "us_latam"),
+        ("Canada", "en", "iptv latino canada", "geo_lang", "ca_latam"),
+        ("United States", "en", "pinoy iptv", "geo_lang", "us_ph"),
+        ("United States", "en", "desi iptv", "geo_lang", "us_in"),
+        ("France", "fr", "iptv grec", "geo_lang", "fr_gr"),
+        ("Canada", "en", "hindi iptv", "geo_lang", "ca_in"),
     ]
     for item in extra:
         add(rows, seen, *item)
