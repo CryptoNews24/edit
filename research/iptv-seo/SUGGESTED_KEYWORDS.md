@@ -92,5 +92,9 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Indigenous CA 2 | `innu iptv` / `haida iptv` | Canada commercial | AVAILABLE leftovers: `innu-iptv.ca`, `haida-iptv.ca` (`dene-iptv` skipped: not two-word under current tokenizer) |
 | Boxes | `t95 iptv` / `h96 iptv` | Cheap Android boxes | AVAILABLE leftovers: `t95-iptv.fr`, `h96-iptv.fr` |
 | Geo FR 8 | `iptv haute vienne` / `iptv deux sevres` / `iptv vienne` / `iptv charente maritime` | Departement commercial | AVAILABLE: `hautevienne-iptv.fr`, `deuxsevres-iptv.fr`, `vienne-iptv.fr`, `charentemaritime-iptv.fr` |
+| Nordic / Celtic | `icelandic iptv` / `manx iptv` / `alemannic iptv` | Regional commercial | AVAILABLE leftovers: `icelandic-iptv.fr`, `manx-iptv.fr`, `alemannic-iptv.fr` |
+| Indigenous CA 3 | `gitxsan iptv` / `nisgaa iptv` / `tlingit iptv` | Canada/US commercial | AVAILABLE leftovers: `gitxsan-iptv.ca`, `nisgaa-iptv.ca`, `tlingit-iptv.us`. `nisgaa-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `mxq iptv` / `tx3 iptv` | Cheap Android boxes | AVAILABLE leftovers: `mxq-iptv.fr`, `tx3-iptv.fr`. `mxq-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Geo FR 9 | `iptv eure et loir` / `iptv loir et cher` / `iptv indre et loire` / `iptv indre` | Departement commercial | AVAILABLE: `eureetloir-iptv.fr`, `loiretcher-iptv.fr`, `indreetloire-iptv.fr`, `indre-iptv.fr`. `eureetloir-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
