@@ -210,5 +210,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Aveyron | `villefranchois iptv` / `decazevillois iptv` / `saintaffricain iptv` / `najacois iptv` | Gentilé commercial | AVAILABLE leftovers: `villefranchois-iptv.fr`, `decazevillois-iptv.fr`, `saintaffricain-iptv.fr`, `najacois-iptv.fr`. `decazevillois-iptv.nl` / `villefranchois-box.nl` UNKNOWN (SIDN 429) — not buys |
 | Boxes | `t982s iptv` / `a133s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t982s-iptv.fr`, `a133s-iptv.fr` |
 | UK geo 34 | `leverburgh guide` / `scalpay guide` / `grimshader guide` | Nominet no-iptv | AVAILABLE: `leverburgh-guide.co.uk`, `scalpay-guide.co.uk`, `grimshader-guide.co.uk` (also `.uk`) |
+| FR Lot/Tarn | `gourdonnais iptv` / `souillagais iptv` / `gaillacois iptv` / `mazametain iptv` | Gentilé commercial | AVAILABLE leftovers: `gourdonnais-iptv.fr`, `souillagais-iptv.fr`, `gaillacois-iptv.fr`, `mazametain-iptv.fr` |
+| Boxes | `t950e iptv` / `rk3229s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950e-iptv.fr`, `rk3229s-iptv.fr` |
+| UK geo 35 | `eriskay guide` / `lochboisdale guide` / `daliburgh guide` | Nominet no-iptv | AVAILABLE: `eriskay-guide.co.uk`, `lochboisdale-guide.co.uk`, `daliburgh-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
