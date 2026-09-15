@@ -67,5 +67,9 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Africa 3 | `lingala iptv` / `kinyarwanda iptv` / `tswana iptv` | Diaspora commercial | AVAILABLE leftovers: `lingala-iptv.fr`, `kinyarwanda-iptv.fr`, `tswana-iptv.fr`. `tswana-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Vu+ line | `vu uno iptv` / `vu ultimo iptv` / `vu zero iptv` | Enigma boxes | AVAILABLE leftovers: `vuuno-iptv.fr`, `vuultimo-iptv.fr`, `vuzero-iptv.fr` |
 | Geo FR 2 | `iptv yonne` / `iptv loiret` / `iptv calvados` / `iptv manche` | Departement commercial | AVAILABLE: `yonne-iptv.fr`, `loiret-iptv.fr`, `calvados-iptv.fr`, `manche-iptv.fr` |
+| Indic 4 | `maithili iptv` / `meitei iptv` / `dogri iptv` | Diaspora commercial | AVAILABLE leftovers: `maithili-iptv.fr`, `meitei-iptv.fr`, `dogri-iptv.fr`. `dogri-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Africa 4 | `luganda iptv` / `bambara iptv` / `fula iptv` | Diaspora commercial | AVAILABLE leftovers: `luganda-iptv.fr`, `bambara-iptv.fr`, `fula-iptv.fr`. Several `.ch` SWITCH 500 UNKNOWN — not buys |
+| Vu+ / K1 | `vu duo iptv` / `k1 plus iptv` | Enigma boxes | AVAILABLE leftovers: `vuduo-iptv.fr`, `k1plus-iptv.fr` |
+| Geo FR 3 | `iptv eure` / `iptv orne` | Departement commercial | AVAILABLE: `eure-iptv.fr`, `orne-iptv.fr`. `eure-box.nl` UNKNOWN (SIDN 429) — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
