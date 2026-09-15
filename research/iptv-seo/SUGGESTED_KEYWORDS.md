@@ -177,5 +177,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Jura | `belfortain iptv` / `montbeliardais iptv` / `bisontin iptv` / `ledonien iptv` | Gentilé commercial | AVAILABLE leftovers: `belfortain-iptv.fr`, `montbeliardais-iptv.fr`, `bisontin-iptv.fr`, `ledonien-iptv.fr`. `ledonien-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t968 iptv` / `rk3576 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968-iptv.fr`, `rk3576-iptv.fr` |
 | UK geo 23 | `portree guide` / `broadford guide` / `fort william guide` | Nominet no-iptv | AVAILABLE: `portree-guide.co.uk`, `broadford-guide.co.uk`, `fortwilliam-guide.co.uk` (also `.uk`) |
+| FR Haute-Saone | `vesulien iptv` / `luxovien iptv` / `graylois iptv` / `lurien iptv` | Gentilé commercial | AVAILABLE leftovers: `vesulien-iptv.fr`, `luxovien-iptv.fr`, `graylois-iptv.fr`, `lurien-iptv.fr` |
+| Boxes | `t765 iptv` / `rk3588s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t765-iptv.fr`, `rk3588s-iptv.fr` |
+| UK geo 24 | `plockton guide` / `applecross guide` / `gairloch guide` | Nominet no-iptv | AVAILABLE: `plockton-guide.co.uk`, `applecross-guide.co.uk`, `gairloch-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
