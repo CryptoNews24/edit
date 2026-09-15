@@ -291,5 +291,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Val-de-Marne 2 | `vitryen iptv` / `choisysien iptv` / `orlyen iptv` / `cachenais iptv` | Gentilé commercial | AVAILABLE leftovers: `vitryen-iptv.fr`, `choisysien-iptv.fr`, `orlyen-iptv.fr`, `cachenais-iptv.fr`. `cachenais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t968r iptv` / `h313r iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968r-iptv.fr`, `h313r-iptv.fr` |
 | UK geo 61 | `cardenden guide` / `kinglassie guide` / `kelty guide` | Nominet no-iptv | AVAILABLE: `cardenden-guide.co.uk`, `kinglassie-guide.co.uk`, `kelty-guide.co.uk` (also `.uk`) |
+| FR Seine-Saint-Denis | `pantinois iptv` / `bondynois iptv` / `bagnoletais iptv` / `aulnaysien iptv` | Gentilé commercial | AVAILABLE leftovers: `pantinois-iptv.fr`, `bondynois-iptv.fr`, `bagnoletais-iptv.fr`, `aulnaysien-iptv.fr`. `bagnoletais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t962r iptv` / `rk3326r iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962r-iptv.fr`, `rk3326r-iptv.fr`. `rk3326r-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 62 | `inverkeithing guide` / `dalgety bay guide` / `aberdour guide` | Nominet no-iptv | AVAILABLE: `inverkeithing-guide.co.uk`, `dalgetybay-guide.co.uk`, `aberdour-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
