@@ -99,5 +99,8 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Romance 2 | `piedmontese iptv` / `ligurian iptv` / `neapolitan iptv` / `venetian iptv` / `maltese iptv` | Regional/diaspora | AVAILABLE leftovers: `piedmontese-iptv.fr`, `ligurian-iptv.fr`, `neapolitan-iptv.fr`, `venetian-iptv.fr`, `maltese-iptv.fr`. `neapolitan-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `h616 iptv` / `x99 iptv` | Cheap Android boxes | AVAILABLE leftovers: `h616-iptv.fr`, `x99-iptv.fr`. `h616-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Ile-de-France | `iptv yvelines` / `iptv essonne` / `iptv val d oise` / `iptv val de marne` / `iptv hauts de seine` / `iptv seine et marne` | Departement commercial | AVAILABLE: `yvelines-iptv.fr`, `essonne-iptv.fr`, `valdoise-iptv.fr`, `valdemarne-iptv.fr`, `hautsdeseine-iptv.fr`, `seineetmarne-iptv.fr` |
+| Romance 3 | `emilian iptv` / `romagnol iptv` / `gascon iptv` / `provencal iptv` / `nissart iptv` | Regional FR/IT | AVAILABLE leftovers: `emilian-iptv.fr`, `romagnol-iptv.fr`, `gascon-iptv.fr`, `provencal-iptv.fr`, `nissart-iptv.fr` |
+| Boxes | `tx6 iptv` / `t95k iptv` | Cheap Android boxes | AVAILABLE leftovers: `tx6-iptv.fr`, `t95k-iptv.fr`. `tx6-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| North FR | `iptv pas de calais` / `iptv seine saint denis` / `iptv nord` | Departement commercial | AVAILABLE: `pasdecalais-iptv.fr`, `seinesaintdenis-iptv.fr`, `nord-iptv.fr`. `nord-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
