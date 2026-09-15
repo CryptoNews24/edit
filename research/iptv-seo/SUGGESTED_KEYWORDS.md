@@ -120,5 +120,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR city langs 3 | `rouennais iptv` / `havrais iptv` / `caennais iptv` / `messin iptv` / `mulhousien iptv` / `amienois iptv` / `toulonnais iptv` / `brestois iptv` | Gentilé commercial | AVAILABLE leftovers: `rouennais-iptv.fr`, `havrais-iptv.fr`, `caennais-iptv.fr`, `messin-iptv.fr`, `mulhousien-iptv.fr`, `amienois-iptv.fr`, `toulonnais-iptv.fr`, `brestois-iptv.fr` |
 | Boxes | `x96 mini iptv` / `t95 max iptv` / `h96 pro iptv` | Cheap Android boxes | AVAILABLE leftovers: `x96mini-iptv.fr`, `t95max-iptv.fr`, `h96pro-iptv.fr` |
 | UK geo 4 | `motherwell guide` / `cumbernauld guide` / `east kilbride guide` | Nominet no-iptv | AVAILABLE: `motherwell-guide.co.uk`, `cumbernauld-guide.co.uk`, `eastkilbride-guide.co.uk` (also `.uk`) |
+| FR city langs 4 | `orleanais iptv` / `limougeaud iptv` / `percheron iptv` / `ardennais iptv` / `vosgien iptv` / `comtois iptv` / `jurassien iptv` | Gentilé commercial | AVAILABLE leftovers: `orleanais-iptv.fr`, `limougeaud-iptv.fr`, `percheron-iptv.fr`, `ardennais-iptv.fr`, `vosgien-iptv.fr`, `comtois-iptv.fr`, `jurassien-iptv.fr`. `orleanais-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `mxq pro iptv` / `t95 mini iptv` / `x99 max iptv` | Cheap Android boxes | AVAILABLE leftovers: `mxqpro-iptv.fr`, `t95mini-iptv.fr`, `x99max-iptv.fr` |
+| UK geo 5 | `wishaw guide` / `coatbridge guide` / `airdrie guide` | Nominet no-iptv | AVAILABLE: `wishaw-guide.co.uk`, `coatbridge-guide.co.uk`, `airdrie-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
