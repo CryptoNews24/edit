@@ -222,5 +222,11 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Béarn | `oloronais iptv` / `pontacquais iptv` / `salisien iptv` / `mauleonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `oloronais-iptv.fr`, `pontacquais-iptv.fr`, `salisien-iptv.fr`, `mauleonnais-iptv.fr`. `mauleonnais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t962s iptv` / `h313e iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962s-iptv.fr`, `h313e-iptv.fr` |
 | UK geo 38 | `tobermory guide` / `craignure guide` / `fionnphort guide` | Nominet no-iptv | AVAILABLE: `tobermory-guide.co.uk`, `craignure-guide.co.uk`, `fionnphort-guide.co.uk` (also `.uk`) |
+| FR Basque coast | `hasparrenais iptv` / `bidachais iptv` / `hendayais iptv` / `cibourien iptv` | Gentilé commercial | AVAILABLE leftovers: `hasparrenais-iptv.fr`, `bidachais-iptv.fr`, `hendayais-iptv.fr`, `cibourien-iptv.fr` |
+| Boxes | `t965s iptv` / `rk3568s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965s-iptv.fr`, `rk3568s-iptv.fr`. `rk3568s-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 39 | `lochaline guide` / `kilchoan guide` / `strontian guide` | Nominet no-iptv | AVAILABLE: `lochaline-guide.co.uk`, `kilchoan-guide.co.uk`, `strontian-guide.co.uk` (also `.uk`) |
+| FR Landes coast | `parentissois iptv` / `biscarrossais iptv` / `mimizanais iptv` / `capbretonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `parentissois-iptv.fr`, `biscarrossais-iptv.fr`, `mimizanais-iptv.fr`, `capbretonnais-iptv.fr` |
+| Boxes | `t972e iptv` / `a311ds iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972e-iptv.fr`, `a311ds-iptv.fr` |
+| UK geo 40 | `ardnamurchan guide` / `kilmelford guide` / `taynuilt guide` | Nominet no-iptv | AVAILABLE: `ardnamurchan-guide.co.uk`, `kilmelford-guide.co.uk`, `taynuilt-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
