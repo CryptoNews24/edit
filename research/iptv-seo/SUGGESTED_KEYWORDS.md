@@ -165,5 +165,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Champagne | `sparnacien iptv` / `sedanais iptv` / `dizierois iptv` / `barrois iptv` | Gentilé commercial | AVAILABLE leftovers: `sparnacien-iptv.fr`, `sedanais-iptv.fr`, `dizierois-iptv.fr`, `barrois-iptv.fr`. `sedanais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t963 iptv` / `s905l2 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963-iptv.fr`, `s905l2-iptv.fr` |
 | UK geo 19 | `rothesay guide` / `dunoon guide` / `millport guide` | Nominet no-iptv | AVAILABLE: `rothesay-guide.co.uk`, `dunoon-guide.co.uk`, `millport-guide.co.uk` (also `.uk`) |
+| FR Lorraine | `nanceien iptv` / `lunevillois iptv` / `toulois iptv` / `spinalien iptv` | Gentilé commercial | AVAILABLE leftovers: `nanceien-iptv.fr`, `lunevillois-iptv.fr`, `toulois-iptv.fr`, `spinalien-iptv.fr` |
+| Boxes | `t982 iptv` / `rk3528 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t982-iptv.fr`, `rk3528-iptv.fr` |
+| UK geo 20 | `campbeltown guide` / `inveraray guide` / `lochgilphead guide` | Nominet no-iptv | AVAILABLE: `campbeltown-guide.co.uk`, `inveraray-guide.co.uk`, `lochgilphead-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
