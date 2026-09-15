@@ -52,5 +52,7 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Enigma 3 | `qviart iptv` / `axas iptv` | Linux box setup | AVAILABLE leftovers: `qviart-iptv.fr`, `axas-iptv.de`, `herault-iptv.fr`, `aude-iptv.fr`, `ostsee-iptv.de`, `elbe-iptv.de` |
 | SEA langs | `khmer iptv` / `lao iptv` / `myanmar iptv` | Diaspora commercial | AVAILABLE leftovers: `khmer-iptv.fr`, `lao-iptv.fr`, `myanmar-iptv.fr`. `amiko-iptv.nl` TAKEN |
 | Enigma 4 | `amiko iptv` / `opticum iptv` | Linux box setup | AVAILABLE leftovers: `amiko-iptv.fr`, `opticum-iptv.de`, `tarn-iptv.fr`, `weser-iptv.de`, `oder-iptv.de`. `weser-box.de` TAKEN |
+| Central Asia | `tibetan iptv` / `mongolian iptv` / `uzbek iptv` | Diaspora commercial | AVAILABLE leftovers: `tibetan-iptv.fr`, `mongolian-iptv.fr`, `uzbek-iptv.fr`. `azbox-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Enigma 5 | `protek iptv` / `azbox iptv` | Linux/satellite boxes | AVAILABLE leftovers: `protek-iptv.fr`, `azbox-iptv.fr`, `cevennes-iptv.fr`, `camargue-iptv.fr`, `spree-iptv.de`, `havel-iptv.de` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
