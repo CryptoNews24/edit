@@ -6,7 +6,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | Market | Keyword | Why it is strong | Domain hunt (two-word, AVAILABLE only) |
 | --- | --- | --- | --- |
-| France | `iptv fibre` / `iptv tnt` / `iptv parabole` | ISP + broadcast switchers next to abonnement cluster | RDAP this wave |
+| France | `iptv fibre` / `iptv tnt` / `iptv parabole` | ISP + broadcast switchers next to abonnement cluster | `fibre-iptv.fr`, `tnt-iptv.fr`, `parabole-iptv.fr` |
 | France | `code xtream` / `m3u iptv` / `iptv mag` | Server/playlist commercial intent | `xtream-box.fr`, `m3u-box.fr`, `mag-box.fr` |
 | France | `iptv 4k` / `iptv firestick france` | Device + quality modifiers | `4k-box.fr`, `firestick-box.fr`, `decoder-iptv.fr` |
 | Canada | `iptv firestick canada` / `forfait iptv` | Device + QC/FR-CA commercial | `firestick-iptv.ca`, `forfait-iptv.ca` |
