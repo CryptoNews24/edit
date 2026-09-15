@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC hour (18:00 retry). STOP after two 429s. **No new volumes invented.** Do not use free Semrush.
+Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / `4.semrush.com.in` return HTTP 200 + `Session expired, access again from Dashboard` — **not HTTP 429**. `noxtools.com` login is a Cloudflare “Just a moment…” challenge (403), so this VM cannot open a dashboard session. User browser works. **No new volumes invented.** Do not use free Semrush.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -105,5 +105,11 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Oil langs | `gallo iptv` / `poitevin iptv` / `champenois iptv` / `lorrain iptv` | Regional FR | AVAILABLE leftovers: `gallo-iptv.fr`, `poitevin-iptv.fr`, `champenois-iptv.fr`, `lorrain-iptv.fr` |
 | Boxes | `x92 iptv` / `km9 iptv` | Cheap Android boxes | AVAILABLE leftovers: `x92-iptv.fr`, `km9-iptv.fr` |
 | East FR | `iptv haute marne` / `iptv haute saone` / `iptv belfort` | Departement commercial | AVAILABLE: `hautemarne-iptv.fr`, `hautsaone-iptv.fr`, `belfort-iptv.fr` |
+| Oil langs 2 | `normand iptv` / `angevin iptv` / `tourangeau iptv` / `berrichon iptv` / `bourguignon iptv` | Regional FR | AVAILABLE leftovers: `normand-iptv.fr`, `angevin-iptv.fr`, `tourangeau-iptv.fr`, `berrichon-iptv.fr`, `bourguignon-iptv.fr` |
+| Boxes | `h96 mini iptv` | Cheap Android box | AVAILABLE leftovers: `h96mini-iptv.fr` |
+| East FR 2 | `iptv meurthe et moselle` / `iptv meurthe` | Departement commercial | AVAILABLE: `meurtheetmoselle-iptv.fr`, `meurthe-iptv.fr` |
+| Oil langs 3 | `savoyard iptv` / `dauphinois iptv` / `auvergnat iptv` / `flamand iptv` / `arpitan iptv` / `francoprovencal iptv` | Regional FR/CH | AVAILABLE leftovers: `savoyard-iptv.fr`, `dauphinois-iptv.fr`, `auvergnat-iptv.fr`, `flamand-iptv.fr`, `arpitan-iptv.fr`, `francoprovencal-iptv.fr`, `tessinois-iptv.ch` |
+| Boxes | `x96 max iptv` / `h96 max iptv` / `vontar iptv` | Cheap Android boxes | AVAILABLE leftovers: `x96max-iptv.fr`, `h96max-iptv.fr`, `vontar-iptv.fr` |
+| UK geo | `ayrshire guide` / `lanarkshire guide` / `inverness guide` / `dundee guide` | Nominet no-iptv | AVAILABLE: `ayrshire-guide.co.uk`, `lanarkshire-guide.co.uk`, `inverness-guide.co.uk`, `dundee-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
