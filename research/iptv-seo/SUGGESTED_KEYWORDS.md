@@ -117,5 +117,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR city langs 2 | `rennais iptv` / `nimois iptv` / `dijonnais iptv` / `reimois iptv` / `grenoblois iptv` / `montpellierain iptv` / `clermontois iptv` / `briochin iptv` | Gentilé commercial | AVAILABLE leftovers: `rennais-iptv.fr`, `nimois-iptv.fr`, `dijonnais-iptv.fr`, `reimois-iptv.fr`, `grenoblois-iptv.fr`, `montpellierain-iptv.fr`, `clermontois-iptv.fr`, `briochin-iptv.fr` |
 | Boxes | `x88 pro iptv` / `t95z plus iptv` | Cheap Android boxes | AVAILABLE leftovers: `x88pro-iptv.fr`, `t95zplus-iptv.fr`. `t95zplus-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 3 | `kilmarnock guide` / `greenock guide` / `livingston guide` | Nominet no-iptv | AVAILABLE: `kilmarnock-guide.co.uk`, `greenock-guide.co.uk`, `livingston-guide.co.uk` (also `.uk`) |
+| FR city langs 3 | `rouennais iptv` / `havrais iptv` / `caennais iptv` / `messin iptv` / `mulhousien iptv` / `amienois iptv` / `toulonnais iptv` / `brestois iptv` | Gentilé commercial | AVAILABLE leftovers: `rouennais-iptv.fr`, `havrais-iptv.fr`, `caennais-iptv.fr`, `messin-iptv.fr`, `mulhousien-iptv.fr`, `amienois-iptv.fr`, `toulonnais-iptv.fr`, `brestois-iptv.fr` |
+| Boxes | `x96 mini iptv` / `t95 max iptv` / `h96 pro iptv` | Cheap Android boxes | AVAILABLE leftovers: `x96mini-iptv.fr`, `t95max-iptv.fr`, `h96pro-iptv.fr` |
+| UK geo 4 | `motherwell guide` / `cumbernauld guide` / `east kilbride guide` | Nominet no-iptv | AVAILABLE: `motherwell-guide.co.uk`, `cumbernauld-guide.co.uk`, `eastkilbride-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
