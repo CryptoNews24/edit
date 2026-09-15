@@ -192,5 +192,8 @@ Noxtools recheck (2026-09-15 20:43 UTC, egress `44.239.53.183`, Chrome 153): **n
 | FR Savoie | `albertvillois iptv` / `rumillien iptv` / `moutierain iptv` / `beaufortain iptv` | Gentilé commercial | AVAILABLE leftovers: `albertvillois-iptv.fr`, `rumillien-iptv.fr`, `moutierain-iptv.fr`, `beaufortain-iptv.fr` |
 | Boxes | `t962d iptv` / `h618s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962d-iptv.fr`, `h618s-iptv.fr` |
 | UK geo 28 | `lerwick guide` / `scalloway guide` / `baltasound guide` | Nominet no-iptv | AVAILABLE: `lerwick-guide.co.uk`, `scalloway-guide.co.uk`, `baltasound-guide.co.uk` (also `.uk`) |
+| FR Isère | `voironnais iptv` / `viennois iptv` / `romanais iptv` / `marcellinois iptv` | Gentilé commercial | AVAILABLE leftovers: `voironnais-iptv.fr`, `viennois-iptv.fr`, `romanais-iptv.fr`, `marcellinois-iptv.fr` |
+| Boxes | `t968s iptv` / `h313s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968s-iptv.fr`, `h313s-iptv.fr` |
+| UK geo 29 | `hillswick guide` / `bressay guide` / `fetlar guide` | Nominet no-iptv | AVAILABLE: `hillswick-guide.co.uk`, `bressay-guide.co.uk`, `fetlar-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
