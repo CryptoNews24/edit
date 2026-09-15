@@ -102,5 +102,8 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Romance 3 | `emilian iptv` / `romagnol iptv` / `gascon iptv` / `provencal iptv` / `nissart iptv` | Regional FR/IT | AVAILABLE leftovers: `emilian-iptv.fr`, `romagnol-iptv.fr`, `gascon-iptv.fr`, `provencal-iptv.fr`, `nissart-iptv.fr` |
 | Boxes | `tx6 iptv` / `t95k iptv` | Cheap Android boxes | AVAILABLE leftovers: `tx6-iptv.fr`, `t95k-iptv.fr`. `tx6-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | North FR | `iptv pas de calais` / `iptv seine saint denis` / `iptv nord` | Departement commercial | AVAILABLE: `pasdecalais-iptv.fr`, `seinesaintdenis-iptv.fr`, `nord-iptv.fr`. `nord-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Oil langs | `gallo iptv` / `poitevin iptv` / `champenois iptv` / `lorrain iptv` | Regional FR | AVAILABLE leftovers: `gallo-iptv.fr`, `poitevin-iptv.fr`, `champenois-iptv.fr`, `lorrain-iptv.fr` |
+| Boxes | `x92 iptv` / `km9 iptv` | Cheap Android boxes | AVAILABLE leftovers: `x92-iptv.fr`, `km9-iptv.fr` |
+| East FR | `iptv haute marne` / `iptv haute saone` / `iptv belfort` | Departement commercial | AVAILABLE: `hautemarne-iptv.fr`, `hautsaone-iptv.fr`, `belfort-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
