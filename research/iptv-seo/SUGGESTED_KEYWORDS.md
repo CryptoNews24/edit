@@ -34,5 +34,7 @@ Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this
 | Minority langs | `iptv occitan` / `iptv breton` / `iptv romansh` / `iptv alsacien` | Regional FR/CH languages | AVAILABLE leftovers: `occitan-iptv.fr`, `breton-iptv.fr`, `romansh-iptv.ch`, `alsacien-iptv.fr` |
 | TV brands | `hisense iptv` / `samsung iptv` / `philips iptv` / `sony iptv` | Smart-TV + IPTV setup | AVAILABLE leftovers: `hisense-iptv.fr`, `samsung-iptv.fr`, `philips-iptv.nl`, `sony-iptv.de`. `wales-guide.co.uk` TAKEN; `wales-guide.uk` AVAILABLE |
 | Regions | `iptv auvergne` / `iptv lorraine` / `iptv zeeland` / `iptv saarland` | Local geo commercial | AVAILABLE: `auvergne-iptv.fr`, `lorraine-iptv.fr`, `saarland-iptv.de`, `zug-iptv.ch`. `zeeland-iptv.nl` UNKNOWN (SIDN 429) — not listed as a buy |
+| Diaspora | `punjabi iptv` / `tamil iptv` / `urdu iptv` / `bollywood iptv` | Language + film commercial | AVAILABLE leftovers: `punjabi-iptv.ca`, `tamil-iptv.ca`, `urdu-iptv.ca`, `bollywood-iptv.ca`, `punjabi-iptv.fr`. `fiber-box.nl` TAKEN |
+| US sports | `nfl iptv` / `mlb iptv` / `mls iptv` | League + cord-cut | AVAILABLE leftovers: `nfl-iptv.us`, `mlb-iptv.us`, `mls-iptv.us`, `cfl-iptv.ca`. `norfolk-guide.co.uk` TAKEN; `norfolk-guide.uk` AVAILABLE |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
