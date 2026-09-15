@@ -270,5 +270,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Loir-et-Cher / Indre | `vendomois iptv` / `blaisois iptv` / `castelroussin iptv` / `vierzonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `vendomois-iptv.fr`, `blaisois-iptv.fr`, `castelroussin-iptv.fr`, `vierzonnais-iptv.fr` |
 | Boxes | `t972n iptv` / `h618n iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972n-iptv.fr`, `h618n-iptv.fr` |
 | UK geo 54 | `broughty ferry guide` / `tayport guide` / `anstruther guide` | Nominet no-iptv | AVAILABLE: `broughtyferry-guide.co.uk`, `tayport-guide.co.uk`, `anstruther-guide.co.uk` (also `.uk`) |
+| FR Loiret / Sologne | `giennois iptv` / `montargois iptv` / `pithiverien iptv` / `solognot iptv` | Gentilé commercial | AVAILABLE leftovers: `giennois-iptv.fr`, `montargois-iptv.fr`, `pithiverien-iptv.fr`, `solognot-iptv.fr` |
+| Boxes | `t950p iptv` / `s905x6s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950p-iptv.fr`, `s905x6s-iptv.fr`. `t950p-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 55 | `pittenweem guide` / `crail guide` / `leuchars guide` | Nominet no-iptv | AVAILABLE: `pittenweem-guide.co.uk`, `crail-guide.co.uk`, `leuchars-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
