@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429**. Keyword Overview servers 1, 2, and 4 returned **HTTP 200** with body `Session expired, access again from Dashboard`. `noxtools.com/secure/login` is Cloudflare 403 (`Just a moment...`) from this datacenter IP. User browser is fine. **No new volumes invented.** Paste `box avis` FR Overview to remap `box-avis.fr`.
+Noxtools recheck (2026-09-15 23:00 UTC, egress `44.250.14.191`): **not HTTP 429**. Servers 1–2 Keyword Overview HTTP 200. `noxtools.com/secure/login` Cloudflare 403 (`Just a moment...`). No invented volumes. Paste `box avis` FR Overview to remap `box-avis.fr`.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -327,5 +327,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Seine-et-Marne 2 | `chellessien iptv` / `pontaultien iptv` / `torcyen iptv` / `lognesien iptv` | Gentilé commercial | AVAILABLE leftovers: `chellessien-iptv.fr`, `pontaultien-iptv.fr`, `torcyen-iptv.fr`, `lognesien-iptv.fr` |
 | Boxes | `t965u iptv` / `rk3328u iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965u-iptv.fr`, `rk3328u-iptv.fr` |
 | UK geo 73 | `almondbank guide` / `errol guide` / `inchture guide` | Nominet no-iptv | AVAILABLE: `almondbank-guide.co.uk`, `errol-guide.co.uk`, `inchture-guide.co.uk` (also `.uk`) |
+| FR Seine-et-Marne 3 | `dammariois iptv` / `ozoirien iptv` / `lagnyen iptv` / `noisielois iptv` | Gentilé commercial | AVAILABLE leftovers: `dammariois-iptv.fr`, `ozoirien-iptv.fr`, `lagnyen-iptv.fr`, `noisielois-iptv.fr`. `ozoirien-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t972u iptv` / `h618u iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972u-iptv.fr`, `h618u-iptv.fr` |
+| UK geo 74 | `coupar angus guide` / `burrelton guide` / `wolfhill guide` | Nominet no-iptv | AVAILABLE: `couparangus-guide.co.uk`, `burrelton-guide.co.uk`, `wolfhill-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
