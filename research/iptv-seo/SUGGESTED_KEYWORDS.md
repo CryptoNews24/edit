@@ -111,5 +111,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | Oil langs 3 | `savoyard iptv` / `dauphinois iptv` / `auvergnat iptv` / `flamand iptv` / `arpitan iptv` / `francoprovencal iptv` | Regional FR/CH | AVAILABLE leftovers: `savoyard-iptv.fr`, `dauphinois-iptv.fr`, `auvergnat-iptv.fr`, `flamand-iptv.fr`, `arpitan-iptv.fr`, `francoprovencal-iptv.fr`, `tessinois-iptv.ch` |
 | Boxes | `x96 max iptv` / `h96 max iptv` / `vontar iptv` | Cheap Android boxes | AVAILABLE leftovers: `x96max-iptv.fr`, `h96max-iptv.fr`, `vontar-iptv.fr` |
 | UK geo | `ayrshire guide` / `lanarkshire guide` / `inverness guide` / `dundee guide` | Nominet no-iptv | AVAILABLE: `ayrshire-guide.co.uk`, `lanarkshire-guide.co.uk`, `inverness-guide.co.uk`, `dundee-guide.co.uk` (also `.uk`) |
+| FR city langs | `lyonnais iptv` / `marseillais iptv` / `nicois iptv` / `toulousain iptv` / `lillois iptv` / `nantais iptv` / `bordelais iptv` / `strasbourgeois iptv` | Gentilé commercial | AVAILABLE leftovers: `lyonnais-iptv.fr`, `marseillais-iptv.fr`, `nicois-iptv.fr`, `toulousain-iptv.fr`, `lillois-iptv.fr`, `nantais-iptv.fr`, `bordelais-iptv.fr`, `strasbourgeois-iptv.fr` |
+| Boxes | `transpeed iptv` / `hk1 max iptv` | Cheap Android boxes | AVAILABLE leftovers: `transpeed-iptv.fr`, `hk1max-iptv.fr` |
+| UK geo 2 | `falkirk guide` / `dunfermline guide` / `paisley guide` | Nominet no-iptv | AVAILABLE: `falkirk-guide.co.uk`, `dunfermline-guide.co.uk`, `paisley-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
