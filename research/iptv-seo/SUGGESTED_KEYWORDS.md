@@ -309,5 +309,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Val-d'Oise 3 | `herblaysien iptv` / `eragnyen iptv` / `osnysien iptv` / `pontoisien iptv` | Gentilé commercial | AVAILABLE leftovers: `herblaysien-iptv.fr`, `eragnyen-iptv.fr`, `osnysien-iptv.fr`, `pontoisien-iptv.fr` |
 | Boxes | `t962t iptv` / `a133t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962t-iptv.fr`, `a133t-iptv.fr` |
 | UK geo 67 | `alloa guide` / `clackmannan guide` / `sauchie guide` | Nominet no-iptv | AVAILABLE: `alloa-guide.co.uk`, `clackmannan-guide.co.uk`, `sauchie-guide.co.uk` (also `.uk`) |
+| FR Essonne | `evryen iptv` / `massyen iptv` / `corbeilois iptv` / `savignyen iptv` | Gentilé commercial | AVAILABLE leftovers: `evryen-iptv.fr`, `massyen-iptv.fr`, `corbeilois-iptv.fr`, `savignyen-iptv.fr` |
+| Boxes | `t965t iptv` / `rk3328t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965t-iptv.fr`, `rk3328t-iptv.fr`. `rk3328t-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 68 | `dollar guide` / `dunblane guide` / `bridge of allan guide` | Nominet no-iptv | AVAILABLE: `dollar-guide.co.uk`, `dunblane-guide.co.uk`, `bridgeofallan-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
