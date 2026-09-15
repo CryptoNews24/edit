@@ -324,5 +324,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Seine-et-Marne | `melunais iptv` / `bellifontain iptv` / `meldois iptv` / `provinois iptv` | Gentilé commercial | AVAILABLE leftovers: `melunais-iptv.fr`, `bellifontain-iptv.fr`, `meldois-iptv.fr`, `provinois-iptv.fr` |
 | Boxes | `t962u iptv` / `a133u iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962u-iptv.fr`, `a133u-iptv.fr` |
 | UK geo 72 | `newburgh guide` / `dunning guide` / `methven guide` | Nominet no-iptv | AVAILABLE: `newburgh-guide.co.uk`, `dunning-guide.co.uk`, `methven-guide.co.uk` (also `.uk`) |
+| FR Seine-et-Marne 2 | `chellessien iptv` / `pontaultien iptv` / `torcyen iptv` / `lognesien iptv` | Gentilé commercial | AVAILABLE leftovers: `chellessien-iptv.fr`, `pontaultien-iptv.fr`, `torcyen-iptv.fr`, `lognesien-iptv.fr` |
+| Boxes | `t965u iptv` / `rk3328u iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965u-iptv.fr`, `rk3328u-iptv.fr` |
+| UK geo 73 | `almondbank guide` / `errol guide` / `inchture guide` | Nominet no-iptv | AVAILABLE: `almondbank-guide.co.uk`, `errol-guide.co.uk`, `inchture-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
