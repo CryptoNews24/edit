@@ -4969,3 +4969,8 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,France,fr,iptv languedoc,geo,fr_geo,fr,queued,ok,iptvlanguedoc.fr,.fr
 2026-09-15,Switzerland,it,iptv ticino,geo,ch_it,ch,queued,ok,iptvticino.ch,.ch
 2026-09-15,Finland,fi,iptv lapland,geo,fi_geo,fi,queued,ok,iptvlapland.fi,.fi
+2026-09-15,France,fr,iptv catalan,geo_lang,fr_cat,fr,queued,ok,iptvcatalan.fr,.fr
+2026-09-15,France,fr,iptv basque,geo_lang,fr_eu,fr,queued,ok,iptvbasque.fr,.fr
+2026-09-15,Belgium,fr,iptv wallon,geo_lang,be_fr,be,queued,ok,iptvwallon.be,.be
+2026-09-15,Norway,no,sami iptv,geo_lang,no_sami,no,queued,ok,samiiptv.no,.no
+2026-09-15,Sweden,sv,sami iptv,geo_lang,se_sami,se,queued,ok,samiiptv.se,.se
