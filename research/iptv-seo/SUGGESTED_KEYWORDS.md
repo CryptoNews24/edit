@@ -159,5 +159,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Yonne | `beaunois iptv` / `auxerrois iptv` / `avalonnais iptv` / `tonnerrois iptv` | Gentilé commercial | AVAILABLE leftovers: `beaunois-iptv.fr`, `auxerrois-iptv.fr`, `avalonnais-iptv.fr`, `tonnerrois-iptv.fr` |
 | Boxes | `s905y4 iptv` / `t972 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905y4-iptv.fr`, `t972-iptv.fr` |
 | UK geo 17 | `cardross guide` / `balloch guide` / `renton guide` | Nominet no-iptv | AVAILABLE: `cardross-guide.co.uk`, `balloch-guide.co.uk`, `renton-guide.co.uk` (also `.uk`) |
+| FR Aube | `troyen iptv` / `aubois iptv` / `langrois iptv` / `chaumontais iptv` | Gentilé commercial | AVAILABLE leftovers: `troyen-iptv.fr`, `aubois-iptv.fr`, `langrois-iptv.fr`, `chaumontais-iptv.fr`. `chaumontais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `s905x5 iptv` / `t966 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905x5-iptv.fr`, `t966-iptv.fr` |
+| UK geo 18 | `kilwinning guide` / `stevenston guide` / `dalry guide` | Nominet no-iptv | AVAILABLE: `kilwinning-guide.co.uk`, `stevenston-guide.co.uk`, `dalry-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
