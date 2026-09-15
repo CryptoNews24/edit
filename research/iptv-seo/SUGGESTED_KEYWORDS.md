@@ -123,5 +123,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR city langs 4 | `orleanais iptv` / `limougeaud iptv` / `percheron iptv` / `ardennais iptv` / `vosgien iptv` / `comtois iptv` / `jurassien iptv` | Gentilé commercial | AVAILABLE leftovers: `orleanais-iptv.fr`, `limougeaud-iptv.fr`, `percheron-iptv.fr`, `ardennais-iptv.fr`, `vosgien-iptv.fr`, `comtois-iptv.fr`, `jurassien-iptv.fr`. `orleanais-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `mxq pro iptv` / `t95 mini iptv` / `x99 max iptv` | Cheap Android boxes | AVAILABLE leftovers: `mxqpro-iptv.fr`, `t95mini-iptv.fr`, `x99max-iptv.fr` |
 | UK geo 5 | `wishaw guide` / `coatbridge guide` / `airdrie guide` | Nominet no-iptv | AVAILABLE: `wishaw-guide.co.uk`, `coatbridge-guide.co.uk`, `airdrie-guide.co.uk` (also `.uk`) |
+| FR city langs 5 | `biterrois iptv` / `narbonnais iptv` / `perpignanais iptv` / `niortais iptv` / `angoumoisin iptv` / `charentais iptv` / `girondin iptv` / `bearnais iptv` | Gentilé commercial | AVAILABLE leftovers: `biterrois-iptv.fr`, `narbonnais-iptv.fr`, `perpignanais-iptv.fr`, `niortais-iptv.fr`, `angoumoisin-iptv.fr`, `charentais-iptv.fr`, `girondin-iptv.fr`, `bearnais-iptv.fr` |
+| Boxes | `s905x4 iptv` / `h618 iptv` | Cheap Android SoC/boxes | AVAILABLE leftovers: `s905x4-iptv.fr`, `h618-iptv.fr` |
+| UK geo 6 | `kirkcaldy guide` / `dumbarton guide` / `inverclyde guide` | Nominet no-iptv | AVAILABLE: `kirkcaldy-guide.co.uk`, `dumbarton-guide.co.uk`, `inverclyde-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
