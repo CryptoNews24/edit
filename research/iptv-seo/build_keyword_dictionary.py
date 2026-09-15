@@ -419,6 +419,14 @@ def main() -> None:
         ("Finland", "fi", "paras iptv", "local_language", "fi_local"),
         ("Switzerland", "fr", "abonnement iptv suisse", "local_language", "ch_local"),
         ("Switzerland", "de", "iptv abo schweiz", "local_language", "ch_local"),
+        ("France", "fr", "iptv sport", "content", "fr_content"),
+        ("France", "fr", "replay iptv", "content", "fr_content"),
+        ("France", "fr", "iptv epg", "guide", "fr_guide"),
+        ("United States", "en", "iptv sports", "content", "us_content"),
+        ("United States", "en", "iptv epg", "guide", "us_guide"),
+        ("Germany", "de", "iptv sport", "content", "de_content"),
+        ("Netherlands", "nl", "iptv sport", "content", "nl_content"),
+        ("Canada", "en", "iptv sports canada", "content", "ca_content"),
     ]
     for item in extra:
         add(rows, seen, *item)
