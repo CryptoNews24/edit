@@ -182,6 +182,9 @@ High-intent **AVAILABLE** leftovers (do not buy from this list):
 | `android-iptv.us` / `reseller-panel.us` / `server-panel.us` | best iptv 5.4K | Device + B2B leftovers on .us |
 | `goedkope-iptv.nl` / `proberen-iptv.nl` | (volume N/A until Semrush NL) | Cheap/trial Dutch pair |
 | `decoder-iptv.fr` / `kodi-iptv.fr` / `strasbourg-iptv.fr` | abonnement iptv 18.1K | Decoder/player + city leftover |
+| `sport-iptv.fr` / `epg-iptv.fr` / `replay-iptv.fr` / `chaines-iptv.fr` | abonnement iptv 18.1K | Sport / EPG / replay leftovers |
+| `kelowna-iptv.ca` | best iptv canada 1.9K | City leftover |
+| `sport-iptv.us` / `epg-iptv.us` / `philadelphia-iptv.us` | best iptv 5.4K | Sport/EPG/city leftovers |
 
 Brand app names (TiviMate, Smarters, IBO, GSE, OTT Navigator) stay **SEO keywords only** — not EMD domains.
 
