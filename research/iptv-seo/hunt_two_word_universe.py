@@ -725,6 +725,25 @@ STEMS = (
     "pfalz-iptv",
     "rhein-iptv",
     "pfalz-box",
+    "slovenian-iptv",
+    "georgian-iptv",
+    "azeri-iptv",
+    "kazakh-iptv",
+    "slovenian-box",
+    "somali-iptv",
+    "yoruba-iptv",
+    "dari-iptv",
+    "pashto-iptv",
+    "somali-box",
+    "dreambox-iptv",
+    "mutant-iptv",
+    "dreambox-box",
+    "vaucluse-iptv",
+    "drome-iptv",
+    "vaucluse-box",
+    "holstein-iptv",
+    "westfalen-iptv",
+    "holstein-box",
 )
 
 # Local cities × iptv on the matching country TLD (still two words).
@@ -823,6 +842,9 @@ CITY_BY_TLD = {
         "gap",
         "foix",
         "albi",
+        "sete",
+        "agde",
+        "foix",
     ),
     ".ca": (
         "toronto",
@@ -898,6 +920,8 @@ CITY_BY_TLD = {
         "niagara",
         "chatham",
         "welland",
+        "orillia",
+        "sarnia",
     ),
     ".us": (
         "houston",
@@ -979,6 +1003,8 @@ CITY_BY_TLD = {
         "siouxfalls",
         "bismarck",
         "fargo",
+        "duluth",
+        "greenbay",
     ),
     ".de": (
         "berlin",
@@ -1046,6 +1072,8 @@ CITY_BY_TLD = {
         "siegen",
         "bayreuth",
         "siegen",
+        "hof",
+        "plauen",
     ),
     ".nl": (
         "amsterdam",
@@ -1106,6 +1134,8 @@ CITY_BY_TLD = {
         "heerlen",
         "venray",
         "heerlen",
+        "tiel",
+        "culemborg",
     ),
     ".ch": (
         "zurich",
@@ -1146,6 +1176,8 @@ CITY_BY_TLD = {
         "sion",
         "monthey",
         "sion",
+        "aigle",
+        "sion",
     ),
     ".no": (
         "oslo",
@@ -1172,6 +1204,8 @@ CITY_BY_TLD = {
         "skien",
         "hamar",
         "tromso",
+        "alta",
+        "kirkenes",
     ),
     ".dk": (
         "kobenhavn",
@@ -1197,6 +1231,8 @@ CITY_BY_TLD = {
         "ringsted",
         "koge",
         "ringsted",
+        "viborg",
+        "hobro",
         "viborg",
     ),
     ".fi": (
@@ -1224,6 +1260,8 @@ CITY_BY_TLD = {
         "imatra",
         "kotka",
         "imatra",
+        "pori",
+        "rauma",
         "pori",
     ),
     ".se": (
@@ -1253,6 +1291,8 @@ CITY_BY_TLD = {
         "umea",
         "kiruna",
         "umea",
+        "pitea",
+        "lulea",
     ),
 }
 
@@ -1372,6 +1412,10 @@ def candidates() -> list[str]:
         "shetland-guide",
         "anglesey-guide",
         "skye-guide",
+        "hebrides-guide",
+        "wight-guide",
+        "scilly-guide",
+        "manx-guide",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

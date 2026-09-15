@@ -44,5 +44,7 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Boxes | `homatics iptv` / `wetek iptv` | Android/OTT boxes | AVAILABLE leftovers: `homatics-iptv.us`, `wetek-iptv.fr`, `droidbox-iptv.us`, `sarthe-iptv.fr`, `lausitz-iptv.de`, `seeland-iptv.ch` |
 | Balkans | `albanian iptv` / `bosnian iptv` / `macedonian iptv` | Diaspora commercial | AVAILABLE leftovers: `albanian-iptv.fr`, `bosnian-iptv.de`, `macedonian-iptv.us`. `gtmedia-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Enigma boxes | `gtmedia iptv` / `octagon iptv` | Satellite/Android hybrid | AVAILABLE leftovers: `gtmedia-iptv.fr`, `octagon-iptv.de`, `morbihan-iptv.fr`, `finistere-iptv.fr`, `pfalz-iptv.de`, `rhein-iptv.de` |
+| More langs | `somali iptv` / `yoruba iptv` / `dari iptv` / `georgian iptv` | Diaspora commercial | AVAILABLE leftovers: `somali-iptv.fr`, `yoruba-iptv.fr`, `dari-iptv.fr`, `georgian-iptv.fr`. `dreambox-iptv.nl` TAKEN |
+| More boxes | `dreambox iptv` / `mutant iptv` | Enigma/Linux boxes | AVAILABLE leftovers: `dreambox-iptv.fr`, `mutant-iptv.de`, `vaucluse-iptv.fr`, `holstein-iptv.de`. `holstein-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
