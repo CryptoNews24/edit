@@ -54,5 +54,8 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Enigma 4 | `amiko iptv` / `opticum iptv` | Linux box setup | AVAILABLE leftovers: `amiko-iptv.fr`, `opticum-iptv.de`, `tarn-iptv.fr`, `weser-iptv.de`, `oder-iptv.de`. `weser-box.de` TAKEN |
 | Central Asia | `tibetan iptv` / `mongolian iptv` / `uzbek iptv` | Diaspora commercial | AVAILABLE leftovers: `tibetan-iptv.fr`, `mongolian-iptv.fr`, `uzbek-iptv.fr`. `azbox-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Enigma 5 | `protek iptv` / `azbox iptv` | Linux/satellite boxes | AVAILABLE leftovers: `protek-iptv.fr`, `azbox-iptv.fr`, `cevennes-iptv.fr`, `camargue-iptv.fr`, `spree-iptv.de`, `havel-iptv.de` |
+| Central Asia 2 | `kyrgyz iptv` / `tajik iptv` / `turkmen iptv` / `nepali iptv` / `bengali iptv` | Diaspora commercial | AVAILABLE leftovers: `kyrgyz-iptv.fr`, `tajik-iptv.fr`, `turkmen-iptv.fr`, `nepali-iptv.fr`, `bengali-iptv.fr`, `bengali-iptv.ca`. `.se` UNKNOWN — not a buy |
+| Satellite boxes | `openbox iptv` / `skybox iptv` / `icecrypt iptv` / `vu+ iptv` / `ferguson iptv` | Linux/sat boxes | AVAILABLE leftovers: `openbox-iptv.fr`, `skybox-iptv.fr`, `icecrypt-iptv.fr`, `vuplus-iptv.fr`, `ferguson-iptv.fr`. `vuplus-iptv.ch` UNKNOWN — not a buy |
+| Geo leftover | `iptv pyrenees` / `iptv vosges` / `iptv ardennes` | FR mountain/border commercial | AVAILABLE: `pyrenees-iptv.fr`, `vosges-iptv.fr`, `ardennes-iptv.fr`. `pyrenees-box.fr` TAKEN |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
