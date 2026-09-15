@@ -240,5 +240,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Charente-Maritime | `rochelais iptv` / `rochefortais iptv` / `saintais iptv` / `royannais iptv` | Gentilé commercial | AVAILABLE leftovers: `rochelais-iptv.fr`, `rochefortais-iptv.fr`, `saintais-iptv.fr`, `royannais-iptv.fr` |
 | Boxes | `t962k iptv` / `h618e iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962k-iptv.fr`, `h618e-iptv.fr` |
 | UK geo 44 | `port bannatyne guide` / `innellan guide` / `sandbank guide` | Nominet no-iptv | AVAILABLE: `portbannatyne-guide.co.uk`, `innellan-guide.co.uk`, `sandbank-guide.co.uk` (also `.uk`) |
+| FR Vendée | `sablais iptv` / `fontenaisien iptv` / `luconnais iptv` / `challandais iptv` | Gentilé commercial | AVAILABLE leftovers: `sablais-iptv.fr`, `fontenaisien-iptv.fr`, `luconnais-iptv.fr`, `challandais-iptv.fr` |
+| Boxes | `t965e iptv` / `rk3288s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965e-iptv.fr`, `rk3288s-iptv.fr` |
+| UK geo 45 | `kilmun guide` / `strone guide` / `blairmore guide` | Nominet no-iptv | AVAILABLE: `kilmun-guide.co.uk`, `strone-guide.co.uk`, `blairmore-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
