@@ -157,7 +157,7 @@ def main() -> None:
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools Sign In reached via Chrome CDP. Member login rejected for known emails when using the NordLayer org password (incorrect username/password). Did not use Semrush free tools. No new Keyword Overview volumes this run. NordLayer Linux client still cannot attach on this kernel. App/box/server two-word RDAP hunt appended; volumes stay N/A until a Noxtools Semrush server session works.",
+        "detail": "Noxtools login is Cloudflare 403 from this VM (not HTTP 429). Servers 1-2 return HTTP 200 Session expired. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works.",
         "min_volume": 500,
         "exclude_kd": "Difficult",
     }
