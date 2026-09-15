@@ -234,5 +234,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Bassin | `andernosien iptv` / `arcachonnais iptv` / `testerin iptv` / `biganais iptv` | Gentilé commercial | AVAILABLE leftovers: `andernosien-iptv.fr`, `arcachonnais-iptv.fr`, `testerin-iptv.fr`, `biganais-iptv.fr` |
 | Boxes | `t950m iptv` / `s905x4s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950m-iptv.fr`, `s905x4s-iptv.fr`. `s905x4s-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 42 | `minard guide` / `furnace guide` / `cairndow guide` | Nominet no-iptv | AVAILABLE: `minard-guide.co.uk`, `furnace-guide.co.uk`, `cairndow-guide.co.uk` (also `.uk`) |
+| FR Libournais | `libournais iptv` / `emilionais iptv` / `coutrasien iptv` / `castillonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `libournais-iptv.fr`, `emilionais-iptv.fr`, `coutrasien-iptv.fr`, `castillonnais-iptv.fr` |
+| Boxes | `t968k iptv` / `rk3528s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968k-iptv.fr`, `rk3528s-iptv.fr` |
+| UK geo 43 | `strachur guide` / `tighnabruaich guide` / `colintraive guide` | Nominet no-iptv | AVAILABLE: `strachur-guide.co.uk`, `tighnabruaich-guide.co.uk`, `colintraive-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
