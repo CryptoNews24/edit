@@ -1547,6 +1547,14 @@ STEMS = (
     "t972p-iptv",
     "h618p-iptv",
     "t972p-box",
+    "creteilais-iptv",
+    "vincennois-iptv",
+    "ivryen-iptv",
+    "champignyen-iptv",
+    "creteilais-box",
+    "t950r-iptv",
+    "s905w4s-iptv",
+    "t950r-box",
 )
 
 # Local cities × iptv on the matching country TLD (still two words).
@@ -2555,6 +2563,9 @@ def candidates() -> list[str]:
         "methil-guide",
         "buckhaven-guide",
         "windygates-guide",
+        "glenrothes-guide",
+        "lochgelly-guide",
+        "cowdenbeath-guide",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
