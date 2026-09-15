@@ -258,5 +258,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Ille-et-Vilaine | `malouin iptv` / `fougerais iptv` / `vitreen iptv` / `redonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `malouin-iptv.fr`, `fougerais-iptv.fr`, `vitreen-iptv.fr`, `redonnais-iptv.fr` |
 | Boxes | `t962m iptv` / `s905x3s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962m-iptv.fr`, `s905x3s-iptv.fr` |
 | UK geo 50 | `dunkeld guide` / `pitlochry guide` / `aberfeldy guide` | Nominet no-iptv | AVAILABLE: `dunkeld-guide.co.uk`, `pitlochry-guide.co.uk`, `aberfeldy-guide.co.uk` (also `.uk`) |
+| FR Mayenne | `lavallois iptv` / `mayennais iptv` / `gontierien iptv` / `sabolien iptv` | Gentilé commercial | AVAILABLE leftovers: `lavallois-iptv.fr`, `mayennais-iptv.fr`, `gontierien-iptv.fr`, `sabolien-iptv.fr` |
+| Boxes | `t965k iptv` / `rk3399k iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965k-iptv.fr`, `rk3399k-iptv.fr` |
+| UK geo 51 | `blairgowrie guide` / `alyth guide` / `kirriemuir guide` | Nominet no-iptv | AVAILABLE: `blairgowrie-guide.co.uk`, `alyth-guide.co.uk`, `kirriemuir-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
