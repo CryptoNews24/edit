@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-15 18:42 UTC
+Updated 2026-09-15 18:44 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
@@ -520,6 +520,10 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   family-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  faroese-box.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  faroese-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   farsi-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   ferguson-box.ca
@@ -594,9 +598,15 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   frisian-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  friulian-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   fula-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   futuna-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  galician-box.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  galician-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   gard-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -629,6 +639,8 @@ Canada
   graubunden-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   grec-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  greenlandic-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   gtmedia-box.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -735,6 +747,8 @@ Canada
   install-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   install-player.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  inuktitut-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-aanbieder.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -1044,6 +1058,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iqaluit-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  isere-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   jamfor-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   japanese-iptv.ca
@@ -1114,6 +1130,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   kyrgyz-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  ladino-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   laliga-box.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   laliga-iptv.ca
@@ -1175,6 +1193,10 @@ Canada
   live-guide.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   live-player.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  loire-box.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  loire-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   loiret-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -1408,6 +1430,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   oise-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  ojibwe-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   olympics-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   onn-box.ca
@@ -1610,6 +1634,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   rhein-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  rhone-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   richmond-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   roku-box.ca
@@ -1661,6 +1687,8 @@ Canada
   samsung-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   santali-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  sardinian-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   sarnia-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -1724,6 +1752,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   shona-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  sicilian-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   simmental-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   sindhi-iptv.ca
@@ -1779,6 +1809,10 @@ Canada
   spree-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   spreewald-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  starbox-box.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  starbox-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   stb-box.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -1907,6 +1941,10 @@ Canada
   twente-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   twi-iptv.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  uclan-box.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  uclan-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   ufc-iptv.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -2638,6 +2676,10 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   family-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  faroese-box.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  faroese-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   farsi-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   ferguson-box.fr
@@ -2720,11 +2762,17 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   frisian-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  friulian-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   frontignan-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   fula-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   futuna-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  galician-box.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  galician-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   gap-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -2757,6 +2805,8 @@ France
   graubunden-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   grec-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  greenlandic-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   grenoble-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -2865,6 +2915,8 @@ France
   install-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   install-player.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  inuktitut-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptv-aanbieder.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -3198,6 +3250,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   iptvtrial.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  isere-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   jamfor-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   japanese-iptv.fr
@@ -3255,6 +3309,8 @@ France
   kyrgyz-box.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   kyrgyz-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  ladino-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   laliga-box.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -3331,6 +3387,10 @@ France
   live-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   live-player.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  loire-box.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  loire-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   loiret-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -3576,6 +3636,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   oise-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  ojibwe-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   olympics-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   onn-box.fr
@@ -3772,6 +3834,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   rhein-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  rhone-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   rodez-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   roku-box.fr
@@ -3829,6 +3893,8 @@ France
   samsungiptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   santali-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  sardinian-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   sarthe-box.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -3888,6 +3954,8 @@ France
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   shona-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  sicilian-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   simmental-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   sindhi-iptv.fr
@@ -3937,6 +4005,10 @@ France
   spree-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   spreewald-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  starbox-box.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  starbox-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   stb-box.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -4057,6 +4129,10 @@ France
   twente-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   twi-iptv.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  uclan-box.fr
+    abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
+  uclan-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
   ufc-iptv.fr
     abonnement iptv — 18.1K/mo KD 25 Easy CPC $0.69 [FR]
@@ -4756,6 +4832,10 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   fargo-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  faroese-box.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  faroese-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   farsi-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   ferguson-box.us
@@ -4834,9 +4914,15 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   frisian-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  friulian-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   fula-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   futuna-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  galician-box.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  galician-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   gard-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -4869,6 +4955,8 @@ United States
   grec-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   greenbay-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  greenlandic-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   greensboro-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -4979,6 +5067,8 @@ United States
   install-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   install-player.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  inuktitut-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-aanbieder.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -5322,6 +5412,8 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvsetup.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  isere-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   jacksonville-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   jamfor-iptv.us
@@ -5387,6 +5479,8 @@ United States
   kyrgyz-box.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   kyrgyz-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  ladino-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   laliga-box.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -5457,6 +5551,10 @@ United States
   live-player.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   livecompare.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  loire-box.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  loire-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   loiret-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -5692,6 +5790,8 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   oise-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  ojibwe-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   olympics-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   omaha-iptv.us
@@ -5908,6 +6008,8 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   rhein-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  rhone-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   richmondva-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   rochester-iptv.us
@@ -5963,6 +6065,8 @@ United States
   samsung-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   santali-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  sardinian-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   sarthe-box.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -6023,6 +6127,8 @@ United States
   shield-player.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   shona-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  sicilian-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   simmental-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -6085,6 +6191,10 @@ United States
   spreewald-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   springfield-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  starbox-box.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  starbox-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   stb-box.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -6217,6 +6327,10 @@ United States
   twente-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   twi-iptv.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  uclan-box.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  uclan-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   ufc-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -6946,6 +7060,10 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   fargo-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  faroese-box.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  faroese-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   farsi-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   ferguson-box.us
@@ -7024,9 +7142,15 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   frisian-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  friulian-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   fula-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   futuna-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  galician-box.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  galician-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   gard-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -7059,6 +7183,8 @@ United States
   grec-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   greenbay-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  greenlandic-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   greensboro-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -7169,6 +7295,8 @@ United States
   install-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   install-player.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  inuktitut-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptv-aanbieder.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -7512,6 +7640,8 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   iptvsetup.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  isere-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   jacksonville-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   jamfor-iptv.us
@@ -7577,6 +7707,8 @@ United States
   kyrgyz-box.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   kyrgyz-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  ladino-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   laliga-box.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -7647,6 +7779,10 @@ United States
   live-player.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   livecompare.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  loire-box.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  loire-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   loiret-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -7882,6 +8018,8 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   oise-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  ojibwe-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   olympics-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   omaha-iptv.us
@@ -8098,6 +8236,8 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   rhein-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  rhone-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   richmondva-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   rochester-iptv.us
@@ -8153,6 +8293,8 @@ United States
   samsung-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   santali-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  sardinian-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   sarthe-box.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -8213,6 +8355,8 @@ United States
   shield-player.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   shona-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  sicilian-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   simmental-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -8275,6 +8419,10 @@ United States
   spreewald-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   springfield-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  starbox-box.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  starbox-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   stb-box.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -8407,6 +8555,10 @@ United States
   twente-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   twi-iptv.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  uclan-box.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  uclan-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   ufc-iptv.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -8616,6 +8768,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   bay-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  bedford-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  bedford-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   best-firestick.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   box-compare.co.uk
@@ -8798,9 +8954,17 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   forth-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gloucester-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gloucester-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   gwynedd-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   gwynedd-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hampshire-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hampshire-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   harbour-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -8813,6 +8977,10 @@ United Kingdom
   hereford-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   hereford-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hertford-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hertford-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   highland-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -8940,6 +9108,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   ouse-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  oxfordshire-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  oxfordshire-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   peak-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   peak-guide.uk
@@ -9039,6 +9211,10 @@ United Kingdom
   solent-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   solent-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  somerset-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  somerset-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   spey-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -9170,6 +9346,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   wight-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  wiltshire-guide.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  wiltshire-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   worcester-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   worcester-guide.uk
@@ -9188,25 +9368,25 @@ United Kingdom
 AVAILABLE = native RDAP 404 + no DNS. Two-word names only. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.
 Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.
 
-.ca  Canada  AVAILABLE=1039  confirm=0  unknown=0
-.us  United States  AVAILABLE=1082  confirm=0  unknown=0
-.fr  France  AVAILABLE=1063  confirm=0  unknown=0
-.de  Germany  AVAILABLE=930  confirm=0  unknown=0
-.nl  Netherlands  AVAILABLE=909  confirm=0  unknown=63
-.ch  Switzerland  AVAILABLE=946  confirm=0  unknown=12
+.ca  Canada  AVAILABLE=1058  confirm=0  unknown=0
+.us  United States  AVAILABLE=1101  confirm=0  unknown=0
+.fr  France  AVAILABLE=1082  confirm=0  unknown=0
+.de  Germany  AVAILABLE=949  confirm=0  unknown=0
+.nl  Netherlands  AVAILABLE=927  confirm=0  unknown=64
+.ch  Switzerland  AVAILABLE=965  confirm=0  unknown=12
 .be  Belgium  AVAILABLE=0  confirm=16  unknown=0
 .at  Austria  AVAILABLE=0  confirm=11  unknown=0
 .es  Spain  AVAILABLE=0  confirm=11  unknown=0
 .it  Italy  AVAILABLE=0  confirm=12  unknown=0
 .pt  Portugal  AVAILABLE=0  confirm=9  unknown=0
-.se  Sweden  AVAILABLE=1  confirm=7  unknown=927
-.no  Norway  AVAILABLE=945  confirm=0  unknown=0
-.dk  Denmark  AVAILABLE=941  confirm=0  unknown=0
-.fi  Finland  AVAILABLE=943  confirm=0  unknown=0
+.se  Sweden  AVAILABLE=1  confirm=7  unknown=946
+.no  Norway  AVAILABLE=964  confirm=0  unknown=0
+.dk  Denmark  AVAILABLE=960  confirm=0  unknown=0
+.fi  Finland  AVAILABLE=962  confirm=0  unknown=0
 .pl  Poland  AVAILABLE=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=164  confirm=0  unknown=0
+.co.uk  United Kingdom  AVAILABLE=171  confirm=0  unknown=0
 
 -------- .ca Canada AVAILABLE --------
   4k-box.ca
@@ -9446,6 +9626,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   ewe-iptv.ca
   family-box.ca
   family-iptv.ca
+  faroese-box.ca
+  faroese-iptv.ca
   farsi-iptv.ca
   ferguson-box.ca
   ferguson-iptv.ca
@@ -9486,8 +9668,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.ca
   frisian-box.ca
   frisian-iptv.ca
+  friulian-iptv.ca
   fula-iptv.ca
   futuna-iptv.ca
+  galician-box.ca
+  galician-iptv.ca
   gard-iptv.ca
   gatineau-iptv.ca
   gelderland-iptv.ca
@@ -9504,6 +9689,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gotland-iptv.ca
   graubunden-iptv.ca
   grec-iptv.ca
+  greenlandic-iptv.ca
   gtmedia-box.ca
   gtmedia-iptv.ca
   guadeloupe-box.ca
@@ -9557,6 +9743,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.ca
   install-iptv.ca
   install-player.ca
+  inuktitut-iptv.ca
   iptv-aanbieder.ca
   iptv-abbotsford.ca
   iptv-abo.ca
@@ -9714,6 +9901,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvvancouver.ca
   iptvwinnipeg.ca
   iqaluit-iptv.ca
+  isere-iptv.ca
   jamfor-iptv.ca
   japanese-iptv.ca
   jura-iptv.ca
@@ -9749,6 +9937,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kw-iptv.ca
   kyrgyz-box.ca
   kyrgyz-iptv.ca
+  ladino-iptv.ca
   laliga-box.ca
   laliga-iptv.ca
   landes-box.ca
@@ -9781,6 +9970,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-epg.ca
   live-guide.ca
   live-player.ca
+  loire-box.ca
+  loire-iptv.ca
   loiret-iptv.ca
   london-iptv.ca
   lorraine-box.ca
@@ -9897,6 +10088,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.ca
   odia-iptv.ca
   oise-iptv.ca
+  ojibwe-iptv.ca
   olympics-iptv.ca
   onn-box.ca
   onn-iptv.ca
@@ -9999,6 +10191,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.ca
   review-iptv.ca
   rhein-iptv.ca
+  rhone-iptv.ca
   richmond-iptv.ca
   roku-box.ca
   roku-iptv.ca
@@ -10025,6 +10218,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-box.ca
   samsung-iptv.ca
   santali-iptv.ca
+  sardinian-iptv.ca
   sarnia-iptv.ca
   sarthe-box.ca
   sarthe-iptv.ca
@@ -10056,6 +10250,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.ca
   shield-player.ca
   shona-iptv.ca
+  sicilian-iptv.ca
   simmental-iptv.ca
   sindhi-iptv.ca
   sinhala-iptv.ca
@@ -10084,6 +10279,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.ca
   spree-iptv.ca
   spreewald-iptv.ca
+  starbox-box.ca
+  starbox-iptv.ca
   stb-box.ca
   stb-iptv.ca
   stb-player.ca
@@ -10148,6 +10345,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.ca
   twente-iptv.ca
   twi-iptv.ca
+  uclan-box.ca
+  uclan-iptv.ca
   ufc-iptv.ca
   ugoos-iptv.ca
   ukrainian-box.ca
@@ -10509,6 +10708,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   family-box.us
   family-iptv.us
   fargo-iptv.us
+  faroese-box.us
+  faroese-iptv.us
   farsi-iptv.us
   ferguson-box.us
   ferguson-iptv.us
@@ -10548,8 +10749,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.us
   frisian-box.us
   frisian-iptv.us
+  friulian-iptv.us
   fula-iptv.us
   futuna-iptv.us
+  galician-box.us
+  galician-iptv.us
   gard-iptv.us
   gelderland-iptv.us
   georgian-iptv.us
@@ -10566,6 +10770,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   graubunden-iptv.us
   grec-iptv.us
   greenbay-iptv.us
+  greenlandic-iptv.us
   greensboro-iptv.us
   gtmedia-box.us
   gtmedia-iptv.us
@@ -10621,6 +10826,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.us
   install-iptv.us
   install-player.us
+  inuktitut-iptv.us
   iptv-aanbieder.us
   iptv-abo.us
   iptv-abonnement.us
@@ -10792,6 +10998,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvroku.us
   iptvsamsung.us
   iptvsetup.us
+  isere-iptv.us
   jacksonville-iptv.us
   jamfor-iptv.us
   japanese-iptv.us
@@ -10825,6 +11032,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.us
   kyrgyz-box.us
   kyrgyz-iptv.us
+  ladino-iptv.us
   laliga-box.us
   laliga-iptv.us
   landes-box.us
@@ -10860,6 +11068,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-guide.us
   live-player.us
   livecompare.us
+  loire-box.us
+  loire-iptv.us
   loiret-iptv.us
   lorraine-box.us
   lorraine-iptv.us
@@ -10977,6 +11187,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.us
   odia-iptv.us
   oise-iptv.us
+  ojibwe-iptv.us
   olympics-iptv.us
   omaha-iptv.us
   onn-box.us
@@ -11085,6 +11296,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.us
   review-iptv.us
   rhein-iptv.us
+  rhone-iptv.us
   richmondva-iptv.us
   rochester-iptv.us
   roku-box.us
@@ -11113,6 +11325,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-box.us
   samsung-iptv.us
   santali-iptv.us
+  sardinian-iptv.us
   sarthe-box.us
   sarthe-iptv.us
   satellite-box.us
@@ -11143,6 +11356,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.us
   shield-player.us
   shona-iptv.us
+  sicilian-iptv.us
   simmental-iptv.us
   sindhi-iptv.us
   sinhala-iptv.us
@@ -11174,6 +11388,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-iptv.us
   spreewald-iptv.us
   springfield-iptv.us
+  starbox-box.us
+  starbox-iptv.us
   stb-box.us
   stb-iptv.us
   stb-player.us
@@ -11240,6 +11456,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.us
   twente-iptv.us
   twi-iptv.us
+  uclan-box.us
+  uclan-iptv.us
   ufc-iptv.us
   ugoos-iptv.us
   ukrainian-box.us
@@ -11598,6 +11816,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   evry-iptv.fr
   ewe-iptv.fr
   family-iptv.fr
+  faroese-box.fr
+  faroese-iptv.fr
   farsi-iptv.fr
   ferguson-box.fr
   ferguson-iptv.fr
@@ -11639,9 +11859,12 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.fr
   frisian-box.fr
   frisian-iptv.fr
+  friulian-iptv.fr
   frontignan-iptv.fr
   fula-iptv.fr
   futuna-iptv.fr
+  galician-box.fr
+  galician-iptv.fr
   gap-iptv.fr
   gard-iptv.fr
   gelderland-iptv.fr
@@ -11658,6 +11881,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gotland-iptv.fr
   graubunden-iptv.fr
   grec-iptv.fr
+  greenlandic-iptv.fr
   grenoble-iptv.fr
   gtmedia-box.fr
   gtmedia-iptv.fr
@@ -11712,6 +11936,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.fr
   install-iptv.fr
   install-player.fr
+  inuktitut-iptv.fr
   iptv-aanbieder.fr
   iptv-adsl.fr
   iptv-agde.fr
@@ -11878,6 +12103,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvreseller.fr
   iptvsetup.fr
   iptvtrial.fr
+  isere-iptv.fr
   jamfor-iptv.fr
   japanese-iptv.fr
   jura-iptv.fr
@@ -11907,6 +12133,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.fr
   kyrgyz-box.fr
   kyrgyz-iptv.fr
+  ladino-iptv.fr
   laliga-box.fr
   laliga-iptv.fr
   landes-iptv.fr
@@ -11945,6 +12172,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-guide.fr
   live-iptv.fr
   live-player.fr
+  loire-box.fr
+  loire-iptv.fr
   loiret-iptv.fr
   lorient-iptv.fr
   lorraine-box.fr
@@ -12067,6 +12296,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.fr
   odia-iptv.fr
   oise-iptv.fr
+  ojibwe-iptv.fr
   olympics-iptv.fr
   onn-box.fr
   onn-iptv.fr
@@ -12165,6 +12395,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.fr
   review-iptv.fr
   rhein-iptv.fr
+  rhone-iptv.fr
   rodez-iptv.fr
   roku-box.fr
   roku-iptv.fr
@@ -12194,6 +12425,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-iptv.fr
   samsungiptv.fr
   santali-iptv.fr
+  sardinian-iptv.fr
   sarthe-box.fr
   sarthe-iptv.fr
   satellite-box.fr
@@ -12223,6 +12455,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.fr
   shield-player.fr
   shona-iptv.fr
+  sicilian-iptv.fr
   simmental-iptv.fr
   sindhi-iptv.fr
   sinhala-iptv.fr
@@ -12248,6 +12481,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.fr
   spree-iptv.fr
   spreewald-iptv.fr
+  starbox-box.fr
+  starbox-iptv.fr
   stb-box.fr
   stb-iptv.fr
   stb-player.fr
@@ -12308,6 +12543,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.fr
   twente-iptv.fr
   twi-iptv.fr
+  uclan-box.fr
+  uclan-iptv.fr
   ufc-iptv.fr
   ugoos-iptv.fr
   ukrainian-box.fr
@@ -12617,6 +12854,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   euro-iptv.de
   ewe-iptv.de
   family-iptv.de
+  faroese-box.de
+  faroese-iptv.de
   farsi-iptv.de
   ferguson-box.de
   ferguson-iptv.de
@@ -12655,9 +12894,12 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.de
   frisian-box.de
   frisian-iptv.de
+  friulian-iptv.de
   fula-iptv.de
   fulda-iptv.de
   futuna-iptv.de
+  galician-box.de
+  galician-iptv.de
   gard-iptv.de
   gelderland-iptv.de
   georgian-iptv.de
@@ -12676,6 +12918,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gotland-iptv.de
   graubunden-iptv.de
   grec-iptv.de
+  greenlandic-iptv.de
   gtmedia-box.de
   gtmedia-iptv.de
   guadeloupe-box.de
@@ -12732,6 +12975,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.de
   install-iptv.de
   install-player.de
+  inuktitut-iptv.de
   iptv-aachen.de
   iptv-aanbieder.de
   iptv-adsl.de
@@ -12855,6 +13099,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvratgeber.de
   iptvsetup.de
   iptvvergleicher.de
+  isere-iptv.de
   jamfor-iptv.de
   japanese-iptv.de
   jena-iptv.de
@@ -12890,6 +13135,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.de
   kyrgyz-box.de
   kyrgyz-iptv.de
+  ladino-iptv.de
   laliga-box.de
   laliga-iptv.de
   landes-box.de
@@ -12918,6 +13164,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-epg.de
   live-iptv.de
   live-player.de
+  loire-box.de
+  loire-iptv.de
   loiret-iptv.de
   lorraine-box.de
   lorraine-iptv.de
@@ -13027,6 +13275,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   odia-iptv.de
   offenburg-iptv.de
   oise-iptv.de
+  ojibwe-iptv.de
   olympics-iptv.de
   onn-box.de
   onn-iptv.de
@@ -13117,6 +13366,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.de
   review-iptv.de
   rhein-iptv.de
+  rhone-iptv.de
   roku-box.de
   roku-iptv.de
   roku-player.de
@@ -13140,6 +13390,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-box.de
   samsung-iptv.de
   santali-iptv.de
+  sardinian-iptv.de
   sarthe-box.de
   sarthe-iptv.de
   satellite-box.de
@@ -13164,6 +13415,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.de
   shield-player.de
   shona-iptv.de
+  sicilian-iptv.de
   siegen-iptv.de
   simmental-iptv.de
   sindhi-iptv.de
@@ -13187,6 +13439,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.de
   spree-iptv.de
   spreewald-iptv.de
+  starbox-box.de
+  starbox-iptv.de
   stb-box.de
   stb-iptv.de
   stb-player.de
@@ -13238,6 +13492,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.de
   twente-iptv.de
   twi-iptv.de
+  uclan-box.de
+  uclan-iptv.de
   ufc-iptv.de
   ugoos-iptv.de
   ukrainian-box.de
@@ -13545,6 +13801,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   euro-iptv.nl
   ewe-iptv.nl
   family-iptv.nl
+  faroese-box.nl
   farsi-iptv.nl
   ferguson-box.nl
   ferguson-iptv.nl
@@ -13580,8 +13837,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.nl
   frisian-box.nl
   frisian-iptv.nl
+  friulian-iptv.nl
   fula-iptv.nl
   futuna-iptv.nl
+  galician-box.nl
+  galician-iptv.nl
   gard-iptv.nl
   gelderland-iptv.nl
   georgian-iptv.nl
@@ -13600,6 +13860,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gouda-iptv.nl
   graubunden-iptv.nl
   grec-iptv.nl
+  greenlandic-iptv.nl
   groningen-iptv.nl
   gtmedia-iptv.nl
   guadeloupe-box.nl
@@ -13649,6 +13910,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.nl
   install-iptv.nl
   install-player.nl
+  inuktitut-iptv.nl
   iptv-alkmaar.nl
   iptv-almere.nl
   iptv-amersfoort.nl
@@ -13760,6 +14022,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvsetup.nl
   iptvtrial.nl
   iptvvergelijker.nl
+  isere-iptv.nl
   jamfor-iptv.nl
   japanese-iptv.nl
   jura-iptv.nl
@@ -13788,6 +14051,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.nl
   kyrgyz-box.nl
   kyrgyz-iptv.nl
+  ladino-iptv.nl
   laliga-box.nl
   laliga-iptv.nl
   landes-box.nl
@@ -13819,6 +14083,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-epg.nl
   live-guide.nl
   live-player.nl
+  loire-box.nl
+  loire-iptv.nl
   loiret-iptv.nl
   lorraine-box.nl
   lorraine-iptv.nl
@@ -13924,6 +14190,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.nl
   odia-iptv.nl
   oise-iptv.nl
+  ojibwe-iptv.nl
   olympics-iptv.nl
   onn-box.nl
   onn-iptv.nl
@@ -14018,6 +14285,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.nl
   review-iptv.nl
   rhein-iptv.nl
+  rhone-iptv.nl
   roermond-iptv.nl
   roku-box.nl
   roku-iptv.nl
@@ -14041,6 +14309,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-box.nl
   samsung-iptv.nl
   santali-iptv.nl
+  sardinian-iptv.nl
   sarthe-box.nl
   sarthe-iptv.nl
   satellite-box.nl
@@ -14069,6 +14338,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.nl
   shield-player.nl
   shona-iptv.nl
+  sicilian-iptv.nl
   simmental-iptv.nl
   sindhi-iptv.nl
   sinhala-iptv.nl
@@ -14095,6 +14365,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.nl
   spree-iptv.nl
   spreewald-iptv.nl
+  starbox-box.nl
+  starbox-iptv.nl
   stb-box.nl
   stb-iptv.nl
   stb-player.nl
@@ -14148,6 +14420,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.nl
   twente-iptv.nl
   twi-iptv.nl
+  uclan-box.nl
+  uclan-iptv.nl
   ufc-iptv.nl
   ugoos-iptv.nl
   ukrainian-box.nl
@@ -14240,7 +14514,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   zug-iptv.nl
   zulu-iptv.nl
   zwolle-iptv.nl
-  UNKNOWN: achterhoek-box.nl, amharic-box.nl, app-iptv.nl, assamese-iptv.nl, azbox-box.nl, barato-iptv.nl, bayern-box.nl, bretagne-iptv.nl, cevennes-box.nl, cfl-iptv.nl, cheap-player.nl, chromecast-box.nl, creuse-iptv.nl, cycling-iptv.nl, dansk-box.nl, deals-iptv.nl, denbosch-iptv.nl, dogri-iptv.nl, ede-iptv.nl, eure-box.nl, flemish-box.nl, gers-iptv.nl, gtmedia-box.nl, guide-player.nl, heerlen-iptv.nl, helmond-iptv.nl, hilversum-iptv.nl, hockey-box.nl, holstein-box.nl, holstein-iptv.nl, iptv-adsl.nl, iptv-culemborg.nl, iptv-denbosch.nl, iptv-dns.nl, iptv-film.nl, iptv-heerlen.nl, iptv-middelburg.nl, iptv-server.nl, iptv-spijkenisse.nl, iptv-usb.nl, iptv-vlissingen.nl, iptv-zoetermeer.nl, kempen-iptv.nl, limburg-iptv.nl, marathi-box.nl, mecklenburg-iptv.nl, mma-iptv.nl, nijmegen-iptv.nl, oss-iptv.nl, overijssel-iptv.nl, picardie-iptv.nl, romandie-iptv.nl, sammenlign-iptv.nl, tahiti-iptv.nl, ticino-iptv.nl, tswana-iptv.nl, usb-box.nl, vlc-iptv.nl, vod-iptv.nl, wallonie-iptv.nl, xtream-player.nl, zeeland-iptv.nl, zidoo-iptv.nl
+  UNKNOWN: achterhoek-box.nl, amharic-box.nl, app-iptv.nl, assamese-iptv.nl, azbox-box.nl, barato-iptv.nl, bayern-box.nl, bretagne-iptv.nl, cevennes-box.nl, cfl-iptv.nl, cheap-player.nl, chromecast-box.nl, creuse-iptv.nl, cycling-iptv.nl, dansk-box.nl, deals-iptv.nl, denbosch-iptv.nl, dogri-iptv.nl, ede-iptv.nl, eure-box.nl, faroese-iptv.nl, flemish-box.nl, gers-iptv.nl, gtmedia-box.nl, guide-player.nl, heerlen-iptv.nl, helmond-iptv.nl, hilversum-iptv.nl, hockey-box.nl, holstein-box.nl, holstein-iptv.nl, iptv-adsl.nl, iptv-culemborg.nl, iptv-denbosch.nl, iptv-dns.nl, iptv-film.nl, iptv-heerlen.nl, iptv-middelburg.nl, iptv-server.nl, iptv-spijkenisse.nl, iptv-usb.nl, iptv-vlissingen.nl, iptv-zoetermeer.nl, kempen-iptv.nl, limburg-iptv.nl, marathi-box.nl, mecklenburg-iptv.nl, mma-iptv.nl, nijmegen-iptv.nl, oss-iptv.nl, overijssel-iptv.nl, picardie-iptv.nl, romandie-iptv.nl, sammenlign-iptv.nl, tahiti-iptv.nl, ticino-iptv.nl, tswana-iptv.nl, usb-box.nl, vlc-iptv.nl, vod-iptv.nl, wallonie-iptv.nl, xtream-player.nl, zeeland-iptv.nl, zidoo-iptv.nl
 
 -------- .ch Switzerland AVAILABLE --------
   4k-box.ch
@@ -14468,6 +14742,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   ewe-iptv.ch
   family-box.ch
   family-iptv.ch
+  faroese-box.ch
+  faroese-iptv.ch
   farsi-iptv.ch
   ferguson-box.ch
   ferguson-iptv.ch
@@ -14506,8 +14782,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.ch
   frisian-box.ch
   frisian-iptv.ch
+  friulian-iptv.ch
   fula-iptv.ch
   futuna-iptv.ch
+  galician-box.ch
+  galician-iptv.ch
   gard-iptv.ch
   gelderland-iptv.ch
   geneve-iptv.ch
@@ -14524,6 +14803,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gotland-iptv.ch
   graubunden-iptv.ch
   grec-iptv.ch
+  greenlandic-iptv.ch
   grindelwald-iptv.ch
   gtmedia-box.ch
   gtmedia-iptv.ch
@@ -14575,6 +14855,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-iptv.ch
   install-player.ch
   interlaken-iptv.ch
+  inuktitut-iptv.ch
   iptv-4k.ch
   iptv-aanbieder.ch
   iptv-aarau.ch
@@ -14693,6 +14974,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvsetup.ch
   iptvtrial.ch
   iptvvergleich.ch
+  isere-iptv.ch
   jamfor-iptv.ch
   japanese-iptv.ch
   jura-iptv.ch
@@ -14722,6 +15004,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.ch
   kyrgyz-box.ch
   kyrgyz-iptv.ch
+  ladino-iptv.ch
   laliga-box.ch
   laliga-iptv.ch
   landes-box.ch
@@ -14754,6 +15037,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-iptv.ch
   live-player.ch
   locarno-iptv.ch
+  loire-box.ch
+  loire-iptv.ch
   loiret-iptv.ch
   lorraine-box.ch
   lorraine-iptv.ch
@@ -14866,6 +15151,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.ch
   odia-iptv.ch
   oise-iptv.ch
+  ojibwe-iptv.ch
   olympics-iptv.ch
   onn-box.ch
   onn-iptv.ch
@@ -14962,6 +15248,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.ch
   review-iptv.ch
   rhein-iptv.ch
+  rhone-iptv.ch
   roku-box.ch
   roku-iptv.ch
   roku-player.ch
@@ -14985,6 +15272,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-box.ch
   samsung-iptv.ch
   santali-iptv.ch
+  sardinian-iptv.ch
   sarthe-box.ch
   sarthe-iptv.ch
   satellite-box.ch
@@ -15014,6 +15302,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.ch
   shield-player.ch
   shona-iptv.ch
+  sicilian-iptv.ch
   sierre-iptv.ch
   simmental-iptv.ch
   sinhala-iptv.ch
@@ -15040,6 +15329,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.ch
   spree-iptv.ch
   spreewald-iptv.ch
+  starbox-box.ch
+  starbox-iptv.ch
   stb-box.ch
   stb-iptv.ch
   stb-player.ch
@@ -15094,6 +15385,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.ch
   twente-iptv.ch
   twi-iptv.ch
+  uclan-box.ch
+  uclan-iptv.ch
   ufc-iptv.ch
   ugoos-iptv.ch
   ukrainian-box.ch
@@ -15214,7 +15507,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
 -------- .se Sweden AVAILABLE --------
   jamfor-iptv.se
   CONFIRM AT REGISTRAR: avis-iptv.se, basta-iptv.se, compareiptv.se, guideiptv.se, iptv-stockholm.se, iptvcompare.se, streamcompare.se
-  UNKNOWN: 4k-box.se, 4k-iptv.se, 4k-player.se, aanbieder-iptv.se, aargau-box.se, aargau-iptv.se, abbonamento-iptv.se, abo-box.se, abo-iptv.se, abo-vod.se, abonnement-iptv.se, achterhoek-box.se, achterhoek-iptv.se, adsl-box.se, adsl-iptv.se, aisne-iptv.se, akan-iptv.se, albanian-box.se, albanian-iptv.se, algerie-iptv.se, allgaeu-box.se, allgaeu-iptv.se, allier-iptv.se, alsace-box.se, alsace-iptv.se, alsacien-iptv.se, amazigh-iptv.se, amharic-box.se, amharic-iptv.se, amiko-box.se, amiko-iptv.se, anbieter-iptv.se, android-box.se, android-iptv.se, android-player.se, anime-box.se, anime-iptv.se, antilles-box.se, antilles-iptv.se, app-box.se, app-iptv.se, app-player.se, appenzell-box.se, appenzell-iptv.se, appletv-box.se, appletv-player.se, aquitaine-iptv.se, arabe-box.se, arabe-iptv.se, ardeche-iptv.se, ardennes-iptv.se, ariege-box.se, ariege-iptv.se, armenian-iptv.se, armor-iptv.se, assamese-iptv.se, aube-iptv.se, aude-iptv.se, auvergne-box.se, auvergne-iptv.se, aveyron-box.se, aveyron-iptv.se, avis-box.se, axas-box.se, axas-iptv.se, azbox-box.se, azbox-iptv.se, azeri-iptv.se, backup-box.se, backup-iptv.se, bambara-iptv.se, barato-iptv.se, basque-box.se, basque-iptv.se, basrhin-iptv.se, bayern-box.se, bayern-iptv.se, bedste-iptv.se, beelink-box.se, beelink-iptv.se, bengali-iptv.se, beste-iptv.se, betuwe-iptv.se, bhojpuri-box.se, bhojpuri-iptv.se, billig-iptv.se, bollywood-box.se, bollywood-iptv.se, borlange-iptv.se, bosnian-iptv.se, bouquet-box.se, bouquet-iptv.se, box-abo.se, box-app.se, box-avis.se, box-compare.se, box-guide.se, box-iptv.se, boxing-iptv.se, brabant-box.se, brabant-iptv.se, brandenburg-box.se, brandenburg-iptv.se, brasil-iptv.se, bretagne-box.se, bretagne-iptv.se, breton-box.se, breton-iptv.se, bulgarian-iptv.se, bundesliga-box.se, bundesliga-iptv.se, cable-box.se, cable-iptv.se, cafe-iptv.se, caledonie-iptv.se, calvados-iptv.se, camargue-iptv.se, cantal-iptv.se, cantonese-box.se, cantonese-iptv.se, catala-iptv.se, catalan-box.se, catalan-iptv.se, catchup-box.se, catchup-guide.se, catchup-iptv.se, cevennes-box.se, cevennes-iptv.se, cfl-iptv.se, chaines-iptv.se, champagne-iptv.se, champions-iptv.se, charente-iptv.se, cheap-box.se, cheap-iptv.se, cheap-player.se, chewa-iptv.se, chromecast-box.se, chromecast-player.se, cinema-box.se, cinema-iptv.se, codes-box.se, codes-player.se, comparar-iptv.se, comparateur-iptv.se, compare-box.se, compare-player.se, comparer-iptv.se, config-box.se, config-iptv.se, confronta-iptv.se, copa-iptv.se, cordcut-iptv.se, correze-iptv.se, corse-iptv.se, corsican-iptv.se, creole-box.se, creole-iptv.se, creuse-box.se, creuse-iptv.se, cricket-box.se, cricket-iptv.se, croatian-iptv.se, cube-iptv.se, cycling-iptv.se, czech-iptv.se, dagbani-iptv.se, dansk-box.se, dansk-iptv.se, dari-iptv.se, darts-box.se, darts-iptv.se, deals-iptv.se, decoder-iptv.se, desi-box.se, desi-iptv.se, dns-box.se, dns-iptv.se, docu-iptv.se, dogri-iptv.se, dordogne-box.se, dordogne-iptv.se, doubs-box.se, doubs-iptv.se, downloader-iptv.se, dreambox-box.se, dreambox-iptv.se, drenthe-iptv.se, droidbox-iptv.se, drome-iptv.se, dsl-iptv.se, edision-box.se, edision-iptv.se, eifel-box.se, eifel-iptv.se, elbe-iptv.se, emmental-box.se, emmental-iptv.se, engadin-box.se, engadin-iptv.se, enigma-iptv.se, epg-box.se, epg-iptv.se, eredivisie-box.se, eredivisie-iptv.se, erzgebirge-iptv.se, essai-box.se, essai-iptv.se, estonian-iptv.se, eure-box.se, eure-iptv.se, euro-iptv.se, ewe-iptv.se, falun-iptv.se, family-box.se, family-iptv.se, farsi-iptv.se, ferguson-box.se, ferguson-iptv.se, fiber-box.se, fiber-iptv.se, fibre-box.se, fibre-iptv.se, filipino-iptv.se, film-box.se, film-guide.se, film-iptv.se, films-iptv.se, finistere-iptv.se, firecube-iptv.se, firestick-box.se, firestick-iptv.se, firetv-box.se, firetv-iptv.se, firetv-player.se, fitness-iptv.se, flemish-box.se, flemish-iptv.se, flevoland-box.se, flevoland-iptv.se, foot-box.se, foot-iptv.se, football-iptv.se, forfait-box.se, forfait-iptv.se, formula-box.se, formula-iptv.se, formuler-iptv.se, formuler-player.se, friesland-iptv.se, frisian-box.se, frisian-iptv.se, fula-iptv.se, futuna-iptv.se, gallivare-iptv.se, gard-iptv.se, gavle-iptv.se, gelderland-iptv.se, georgian-iptv.se, gers-iptv.se, gids-iptv.se, gigabit-iptv.se, gigablue-box.se, gigablue-iptv.se, glarus-iptv.se, goedkope-iptv.se, golf-iptv.se, googletv-iptv.se, goteborg-iptv.se, gotland-iptv.se, graubunden-iptv.se, grec-iptv.se, gtmedia-box.se, gtmedia-iptv.se, guadeloupe-box.se, guadeloupe-iptv.se, guenstig-iptv.se, guia-iptv.se, guida-iptv.se, guide-box.se, guide-player.se, gujarati-iptv.se, guyane-iptv.se, halpa-iptv.se, handball-box.se, handball-iptv.se, haryanvi-iptv.se, harz-iptv.se, hausa-iptv.se, hautrhin-iptv.se, havel-iptv.se, hdmi-box.se, hdmi-iptv.se, hdr-box.se, hdr-iptv.se, helsingborg-iptv.se, herault-box.se, herault-iptv.se, hessen-box.se, hessen-iptv.se, hevc-box.se, hevc-iptv.se, hindi-iptv.se, hisense-box.se, hisense-iptv.se, hockey-box.se, hockey-iptv.se, holstein-box.se, holstein-iptv.se, homatics-box.se, homatics-iptv.se, home-iptv.se, hotel-iptv.se, hungarian-box.se, hungarian-iptv.se, icecrypt-iptv.se, igbo-iptv.se, infomir-box.se, infomir-iptv.se, install-box.se, install-iptv.se, install-player.se, iptv-4k.se, iptv-aanbieder.se, iptv-abo.se, iptv-abonnement.se, iptv-adsl.se, iptv-anbieter.se, iptv-anime.se, iptv-arabe.se, iptv-backup.se, iptv-borlange.se, iptv-bouquet.se, iptv-catchup.se, iptv-cheap.se, iptv-cinema.se, iptv-codes.se, iptv-config.se, iptv-deals.se, iptv-decoder.se, iptv-deutschland.se, iptv-dns.se, iptv-epg.se, iptv-falun.se, iptv-fibre.se, iptv-film.se, iptv-foot.se, iptv-gallivare.se, iptv-gavle.se, iptv-gids.se, iptv-goteborg.se, iptv-hdmi.se, iptv-helsingborg.se, iptv-install.se, iptv-jokkmokk.se, iptv-jonkoping.se, iptv-kalix.se, iptv-karlstad.se, iptv-kids.se, iptv-kiruna.se, iptv-latino.se, iptv-legal.se, iptv-legale.se, iptv-line.se, iptv-linkoping.se, iptv-live.se, iptv-lulea.se, iptv-m3u.se, iptv-mac.se, iptv-mag.se, iptv-malmo.se, iptv-maroc.se, iptv-nederland.se, iptv-news.se, iptv-norrkoping.se, iptv-orebro.se, iptv-ostersund.se, iptv-ott.se, iptv-pack.se, iptv-panel.se, iptv-pitea.se, iptv-plans.se, iptv-playlist.se, iptv-portal.se, iptv-premium.se, iptv-pvr.se, iptv-quebec.se, iptv-radio.se, iptv-replay.se, iptv-reseller.se, iptv-review.se, iptv-series.se, iptv-server.se, iptv-setup.se, iptv-skelleftea.se, iptv-sport.se, iptv-stb.se, iptv-stick.se, iptv-stream.se, iptv-sundsvall.se, iptv-suomi.se, iptv-test.se, iptv-trial.se, iptv-umea.se, iptv-uppsala.se, iptv-usb.se, iptv-vasteras.se, iptv-visby.se, iptv-vod.se, iptv-watch.se, iptv-wifi.se, iptv-xtream.se, iptvbox.se, iptvcodes.se, iptvpanel.se, iptvplaylist.se, iptvportal.se, iptvreseller.se, iptvserver.se, iptvsetup.se, iptvtrial.se, japanese-iptv.se, jokkmokk-iptv.se, jonkoping-iptv.se, jura-iptv.se, jynxbox-iptv.se, k1plus-box.se, k1plus-iptv.se, kabyle-iptv.se, kalix-iptv.se, kanal-iptv.se, kannada-iptv.se, karaoke-iptv.se, karlstad-iptv.se, kashmiri-iptv.se, kaufen-iptv.se, kazakh-iptv.se, kdrama-iptv.se, kempen-box.se, kempen-iptv.se, khmer-box.se, khmer-iptv.se, kids-box.se, kids-iptv.se, kinyarwanda-iptv.se, kiruna-iptv.se, kodi-iptv.se, konkani-iptv.se, korean-box.se, korean-iptv.se, krio-iptv.se, kurdish-iptv.se, kyrgyz-box.se, kyrgyz-iptv.se, laliga-box.se, laliga-iptv.se, landes-box.se, landes-iptv.se, languedoc-iptv.se, lao-iptv.se, lapland-iptv.se, latino-box.se, latino-iptv.se, latvian-iptv.se, lausitz-box.se, lausitz-iptv.se, legal-box.se, legal-guide.se, legal-iptv.se, legale-iptv.se, ligue-iptv.se, ligue1-iptv.se, ligue2-iptv.se, limburg-iptv.se, limousin-iptv.se, line-box.se, line-iptv.se, lingala-box.se, lingala-iptv.se, linkoping-iptv.se, lite-iptv.se, lithuanian-iptv.se, live-box.se, live-epg.se, live-guide.se, live-iptv.se, live-player.se, loiret-iptv.se, lorraine-box.se, lorraine-iptv.se, lot-box.se, lot-iptv.se, lozere-iptv.se, luganda-box.se, luganda-iptv.se, lulea-iptv.se, m3u-box.se, m3u-iptv.se, m3u-player.se, mac-box.se, mac-iptv.se, macedonian-iptv.se, mag-box.se, mag-iptv.se, mag-player.se, mag-server.se, mag254-box.se, mag254-iptv.se, magbox.se, maghreb-iptv.se, maithili-box.se, maithili-iptv.se, malayalam-iptv.se, malmo-iptv.se, manche-iptv.se, mandarin-iptv.se, marathi-box.se, marathi-iptv.se, maroc-box.se, maroc-iptv.se, martinique-box.se, martinique-iptv.se, max-iptv.se, maxytec-box.se, maxytec-iptv.se, mayenne-iptv.se, mayotte-iptv.se, mecklenburg-iptv.se, mecool-box.se, mecool-iptv.se, meilleur-iptv.se, meitei-iptv.se, mejor-iptv.se, melhor-iptv.se, meuse-iptv.se, miglior-iptv.se, migliore-iptv.se, mini-box.se, minix-iptv.se, miraclebox-box.se, miraclebox-iptv.se, mittelland-iptv.se, mlb-box.se, mlb-iptv.se, mls-iptv.se, mma-box.se, mma-iptv.se, mongolian-iptv.se, morbihan-box.se, morbihan-iptv.se, mosel-iptv.se, moselle-iptv.se, motogp-box.se, motogp-iptv.se, movie-box.se, movie-iptv.se, muensterland-iptv.se, multi-iptv.se, mutant-iptv.se, myanmar-iptv.se, nascar-iptv.se, nba-box.se, nba-iptv.se, ncaa-box.se, ncaa-iptv.se, ndebele-box.se, ndebele-iptv.se, nepali-iptv.se, neuchatel-box.se, neuchatel-iptv.se, news-box.se, news-iptv.se, nfl-box.se, nfl-iptv.se, nhl-box.se, nhl-iptv.se, niederrhein-box.se, niederrhein-iptv.se, nievre-iptv.se, nordsee-iptv.se, normandie-box.se, normandie-iptv.se, norrkoping-iptv.se, norsk-box.se, norsk-iptv.se, nrw-box.se, nrw-iptv.se, nvidia-box.se, nvidia-iptv.se, nvidia-player.se, oberland-box.se, oberland-iptv.se, occitan-box.se, occitan-iptv.se, octagon-box.se, octagon-iptv.se, oder-iptv.se, odia-iptv.se, oise-iptv.se, olympics-iptv.se, onn-box.se, onn-iptv.se, onn-player.se, openbox-box.se, openbox-iptv.se, opticum-box.se, opticum-iptv.se, orebro-iptv.se, orne-iptv.se, oromo-box.se, oromo-iptv.se, osmio-box.se, osmio-iptv.se, ostersund-iptv.se, ostfriesland-iptv.se, ostsee-box.se, ostsee-iptv.se, ott-box.se, ott-iptv.se, ott-player.se, overijssel-iptv.se, pack-box.se, pack-iptv.se, panel-box.se, panel-iptv.se, panel-server.se, parabole-iptv.se, paras-iptv.se, pascher-iptv.se, pashto-iptv.se, paysbasque-box.se, paysbasque-iptv.se, paytv-iptv.se, peel-iptv.se, pfalz-box.se, pfalz-iptv.se, pga-iptv.se, philips-box.se, philips-iptv.se, picard-iptv.se, picardie-iptv.se, picks-iptv.se, pinoy-box.se, pinoy-iptv.se, pitea-iptv.se, plans-iptv.se, player-app.se, player-avis.se, player-box.se, player-compare.se, player-guide.se, player-iptv.se, playlist-iptv.se, playlist-player.se, plus-iptv.se, podcast-iptv.se, poitou-iptv.se, polonais-iptv.se, polynesie-iptv.se, portal-box.se, premier-iptv.se, premium-iptv.se, pro-box.se, pro-player.se, proberen-iptv.se, protek-box.se, protek-iptv.se, prova-iptv.se, provence-iptv.se, prueba-iptv.se, punjabi-box.se, punjabi-iptv.se, pvr-box.se, pvr-iptv.se, pyrenees-box.se, pyrenees-iptv.se, quebec-iptv.se, quebecois-iptv.se, qviart-box.se, qviart-iptv.se, racing-iptv.se, radio-box.se, radio-iptv.se, rajasthani-iptv.se, rank-iptv.se, rating-box.se, rating-iptv.se, replay-box.se, replay-iptv.se, reseller-box.se, reseller-iptv.se, reseller-panel.se, reunion-box.se, reunion-iptv.se, review-box.se, review-guide.se, review-iptv.se, rhein-iptv.se, roku-box.se, roku-iptv.se, roku-player.se, romand-iptv.se, romandie-box.se, romandie-iptv.se, romani-iptv.se, romanian-box.se, romanian-iptv.se, romansh-iptv.se, rugby-iptv.se, ruhr-box.se, ruhr-iptv.se, saarland-box.se, saarland-iptv.se, sachsen-iptv.se, saintpierre-iptv.se, sami-box.se, sami-iptv.se, sammenlign-iptv.se, samsung-box.se, samsung-iptv.se, santali-iptv.se, sarthe-box.se, sarthe-iptv.se, satellite-box.se, satellite-iptv.se, sauerland-box.se, sauerland-iptv.se, savoie-iptv.se, schwarzwald-iptv.se, schwyz-iptv.se, seeland-box.se, seeland-iptv.se, sender-iptv.se, serbian-iptv.se, seriea-iptv.se, series-box.se, series-iptv.se, server-box.se, server-guide.se, server-iptv.se, server-panel.se, setup-app.se, setup-box.se, setup-iptv.se, setup-player.se, shield-box.se, shield-iptv.se, shield-player.se, shona-iptv.se, simmental-iptv.se, sindhi-iptv.se, sinhala-iptv.se, sixnations-iptv.se, skelleftea-iptv.se, ski-iptv.se, skybox-iptv.se, slovak-iptv.se, slovenian-box.se, slovenian-iptv.se, smart-box.se, smart-player.se, snooker-iptv.se, soccer-box.se, soccer-iptv.se, somali-box.se, somali-iptv.se, somme-box.se, somme-iptv.se, sony-iptv.se, sotho-box.se, sotho-iptv.se, sport-box.se, sport-guide.se, sport-iptv.se, spree-box.se, spree-iptv.se, spreewald-iptv.se, stb-box.se, stb-iptv.se, stb-player.se, stick-iptv.se, stockholm-iptv.se, stream-box.se, stream-iptv.se, stream-player.se, sundsvall-iptv.se, suscripcion-iptv.se, swahili-iptv.se, swiss-box.se, swiss-iptv.se, tahiti-iptv.se, tajik-iptv.se, tamil-box.se, tamil-iptv.se, tanix-box.se, tanix-iptv.se, tarn-box.se, tarn-iptv.se, tcl-box.se, tcl-iptv.se, telenovela-iptv.se, telugu-box.se, telugu-iptv.se, tennis-box.se, tennis-iptv.se, tessin-iptv.se, test-box.se, test-iptv.se, thai-iptv.se, thueringen-iptv.se, thurgau-iptv.se, tibetan-box.se, tibetan-iptv.se, ticino-box.se, ticino-iptv.se, tigrinya-box.se, tigrinya-iptv.se, timeshift-iptv.se, tnt-box.se, tnt-iptv.se, trial-app.se, trial-box.se, trial-iptv.se, trial-player.se, tswana-iptv.se, tulu-box.se, tulu-iptv.se, tunisie-iptv.se, turc-iptv.se, turkmen-iptv.se, twente-box.se, twente-iptv.se, twi-iptv.se, ufc-iptv.se, ugoos-iptv.se, ukrainian-box.se, ukrainian-iptv.se, ultra-iptv.se, umea-iptv.se, uppsala-iptv.se, urdu-iptv.se, usb-box.se, usb-iptv.se, uzbek-iptv.se, valais-box.se, valais-iptv.se, var-box.se, var-iptv.se, vasteras-iptv.se, vaucluse-box.se, vaucluse-iptv.se, vaud-iptv.se, veluwe-box.se, veluwe-iptv.se, vendee-box.se, vendee-iptv.se, vergelijk-iptv.se, vergleich-iptv.se, vertaa-iptv.se, vestland-iptv.se, vietnamese-iptv.se, visby-iptv.se, vlaams-box.se, vlaams-iptv.se, vlc-iptv.se, vod-abo.se, vod-box.se, vod-guide.se, vod-iptv.se, vod-player.se, vosges-box.se, vosges-iptv.se, vpn-box.se, vpn-iptv.se, vuduo-box.se, vuduo-iptv.se, vuplus-iptv.se, vusolo-box.se, vusolo-iptv.se, vustorm-box.se, vustorm-iptv.se, vuultimo-iptv.se, vuuno-box.se, vuuno-iptv.se, vuzero-iptv.se, wadden-iptv.se, wallis-iptv.se, wallon-iptv.se, wallonie-iptv.se, walloon-box.se, walloon-iptv.se, watch-box.se, watch-guide.se, watch-iptv.se, weser-box.se, weser-iptv.se, westfalen-iptv.se, wetek-box.se, wetek-iptv.se, wifi-box.se, wifi-iptv.se, wnba-iptv.se, wolof-iptv.se, worldcup-iptv.se, wwe-box.se, wwe-iptv.se, xhosa-iptv.se, xiaomi-box.se, xiaomi-iptv.se, xiaomi-player.se, xsarius-box.se, xsarius-iptv.se, xtream-box.se, xtream-iptv.se, xtream-player.se, yiddish-iptv.se, yonne-box.se, yonne-iptv.se, yoruba-iptv.se, zeeland-box.se, zeeland-iptv.se, zgemma-iptv.se, zidoo-box.se, zidoo-iptv.se, zug-box.se, zug-iptv.se, zulu-iptv.se
+  UNKNOWN: 4k-box.se, 4k-iptv.se, 4k-player.se, aanbieder-iptv.se, aargau-box.se, aargau-iptv.se, abbonamento-iptv.se, abo-box.se, abo-iptv.se, abo-vod.se, abonnement-iptv.se, achterhoek-box.se, achterhoek-iptv.se, adsl-box.se, adsl-iptv.se, aisne-iptv.se, akan-iptv.se, albanian-box.se, albanian-iptv.se, algerie-iptv.se, allgaeu-box.se, allgaeu-iptv.se, allier-iptv.se, alsace-box.se, alsace-iptv.se, alsacien-iptv.se, amazigh-iptv.se, amharic-box.se, amharic-iptv.se, amiko-box.se, amiko-iptv.se, anbieter-iptv.se, android-box.se, android-iptv.se, android-player.se, anime-box.se, anime-iptv.se, antilles-box.se, antilles-iptv.se, app-box.se, app-iptv.se, app-player.se, appenzell-box.se, appenzell-iptv.se, appletv-box.se, appletv-player.se, aquitaine-iptv.se, arabe-box.se, arabe-iptv.se, ardeche-iptv.se, ardennes-iptv.se, ariege-box.se, ariege-iptv.se, armenian-iptv.se, armor-iptv.se, assamese-iptv.se, aube-iptv.se, aude-iptv.se, auvergne-box.se, auvergne-iptv.se, aveyron-box.se, aveyron-iptv.se, avis-box.se, axas-box.se, axas-iptv.se, azbox-box.se, azbox-iptv.se, azeri-iptv.se, backup-box.se, backup-iptv.se, bambara-iptv.se, barato-iptv.se, basque-box.se, basque-iptv.se, basrhin-iptv.se, bayern-box.se, bayern-iptv.se, bedste-iptv.se, beelink-box.se, beelink-iptv.se, bengali-iptv.se, beste-iptv.se, betuwe-iptv.se, bhojpuri-box.se, bhojpuri-iptv.se, billig-iptv.se, bollywood-box.se, bollywood-iptv.se, borlange-iptv.se, bosnian-iptv.se, bouquet-box.se, bouquet-iptv.se, box-abo.se, box-app.se, box-avis.se, box-compare.se, box-guide.se, box-iptv.se, boxing-iptv.se, brabant-box.se, brabant-iptv.se, brandenburg-box.se, brandenburg-iptv.se, brasil-iptv.se, bretagne-box.se, bretagne-iptv.se, breton-box.se, breton-iptv.se, bulgarian-iptv.se, bundesliga-box.se, bundesliga-iptv.se, cable-box.se, cable-iptv.se, cafe-iptv.se, caledonie-iptv.se, calvados-iptv.se, camargue-iptv.se, cantal-iptv.se, cantonese-box.se, cantonese-iptv.se, catala-iptv.se, catalan-box.se, catalan-iptv.se, catchup-box.se, catchup-guide.se, catchup-iptv.se, cevennes-box.se, cevennes-iptv.se, cfl-iptv.se, chaines-iptv.se, champagne-iptv.se, champions-iptv.se, charente-iptv.se, cheap-box.se, cheap-iptv.se, cheap-player.se, chewa-iptv.se, chromecast-box.se, chromecast-player.se, cinema-box.se, cinema-iptv.se, codes-box.se, codes-player.se, comparar-iptv.se, comparateur-iptv.se, compare-box.se, compare-player.se, comparer-iptv.se, config-box.se, config-iptv.se, confronta-iptv.se, copa-iptv.se, cordcut-iptv.se, correze-iptv.se, corse-iptv.se, corsican-iptv.se, creole-box.se, creole-iptv.se, creuse-box.se, creuse-iptv.se, cricket-box.se, cricket-iptv.se, croatian-iptv.se, cube-iptv.se, cycling-iptv.se, czech-iptv.se, dagbani-iptv.se, dansk-box.se, dansk-iptv.se, dari-iptv.se, darts-box.se, darts-iptv.se, deals-iptv.se, decoder-iptv.se, desi-box.se, desi-iptv.se, dns-box.se, dns-iptv.se, docu-iptv.se, dogri-iptv.se, dordogne-box.se, dordogne-iptv.se, doubs-box.se, doubs-iptv.se, downloader-iptv.se, dreambox-box.se, dreambox-iptv.se, drenthe-iptv.se, droidbox-iptv.se, drome-iptv.se, dsl-iptv.se, edision-box.se, edision-iptv.se, eifel-box.se, eifel-iptv.se, elbe-iptv.se, emmental-box.se, emmental-iptv.se, engadin-box.se, engadin-iptv.se, enigma-iptv.se, epg-box.se, epg-iptv.se, eredivisie-box.se, eredivisie-iptv.se, erzgebirge-iptv.se, essai-box.se, essai-iptv.se, estonian-iptv.se, eure-box.se, eure-iptv.se, euro-iptv.se, ewe-iptv.se, falun-iptv.se, family-box.se, family-iptv.se, faroese-box.se, faroese-iptv.se, farsi-iptv.se, ferguson-box.se, ferguson-iptv.se, fiber-box.se, fiber-iptv.se, fibre-box.se, fibre-iptv.se, filipino-iptv.se, film-box.se, film-guide.se, film-iptv.se, films-iptv.se, finistere-iptv.se, firecube-iptv.se, firestick-box.se, firestick-iptv.se, firetv-box.se, firetv-iptv.se, firetv-player.se, fitness-iptv.se, flemish-box.se, flemish-iptv.se, flevoland-box.se, flevoland-iptv.se, foot-box.se, foot-iptv.se, football-iptv.se, forfait-box.se, forfait-iptv.se, formula-box.se, formula-iptv.se, formuler-iptv.se, formuler-player.se, friesland-iptv.se, frisian-box.se, frisian-iptv.se, friulian-iptv.se, fula-iptv.se, futuna-iptv.se, galician-box.se, galician-iptv.se, gallivare-iptv.se, gard-iptv.se, gavle-iptv.se, gelderland-iptv.se, georgian-iptv.se, gers-iptv.se, gids-iptv.se, gigabit-iptv.se, gigablue-box.se, gigablue-iptv.se, glarus-iptv.se, goedkope-iptv.se, golf-iptv.se, googletv-iptv.se, goteborg-iptv.se, gotland-iptv.se, graubunden-iptv.se, grec-iptv.se, greenlandic-iptv.se, gtmedia-box.se, gtmedia-iptv.se, guadeloupe-box.se, guadeloupe-iptv.se, guenstig-iptv.se, guia-iptv.se, guida-iptv.se, guide-box.se, guide-player.se, gujarati-iptv.se, guyane-iptv.se, halpa-iptv.se, handball-box.se, handball-iptv.se, haryanvi-iptv.se, harz-iptv.se, hausa-iptv.se, hautrhin-iptv.se, havel-iptv.se, hdmi-box.se, hdmi-iptv.se, hdr-box.se, hdr-iptv.se, helsingborg-iptv.se, herault-box.se, herault-iptv.se, hessen-box.se, hessen-iptv.se, hevc-box.se, hevc-iptv.se, hindi-iptv.se, hisense-box.se, hisense-iptv.se, hockey-box.se, hockey-iptv.se, holstein-box.se, holstein-iptv.se, homatics-box.se, homatics-iptv.se, home-iptv.se, hotel-iptv.se, hungarian-box.se, hungarian-iptv.se, icecrypt-iptv.se, igbo-iptv.se, infomir-box.se, infomir-iptv.se, install-box.se, install-iptv.se, install-player.se, inuktitut-iptv.se, iptv-4k.se, iptv-aanbieder.se, iptv-abo.se, iptv-abonnement.se, iptv-adsl.se, iptv-anbieter.se, iptv-anime.se, iptv-arabe.se, iptv-backup.se, iptv-borlange.se, iptv-bouquet.se, iptv-catchup.se, iptv-cheap.se, iptv-cinema.se, iptv-codes.se, iptv-config.se, iptv-deals.se, iptv-decoder.se, iptv-deutschland.se, iptv-dns.se, iptv-epg.se, iptv-falun.se, iptv-fibre.se, iptv-film.se, iptv-foot.se, iptv-gallivare.se, iptv-gavle.se, iptv-gids.se, iptv-goteborg.se, iptv-hdmi.se, iptv-helsingborg.se, iptv-install.se, iptv-jokkmokk.se, iptv-jonkoping.se, iptv-kalix.se, iptv-karlstad.se, iptv-kids.se, iptv-kiruna.se, iptv-latino.se, iptv-legal.se, iptv-legale.se, iptv-line.se, iptv-linkoping.se, iptv-live.se, iptv-lulea.se, iptv-m3u.se, iptv-mac.se, iptv-mag.se, iptv-malmo.se, iptv-maroc.se, iptv-nederland.se, iptv-news.se, iptv-norrkoping.se, iptv-orebro.se, iptv-ostersund.se, iptv-ott.se, iptv-pack.se, iptv-panel.se, iptv-pitea.se, iptv-plans.se, iptv-playlist.se, iptv-portal.se, iptv-premium.se, iptv-pvr.se, iptv-quebec.se, iptv-radio.se, iptv-replay.se, iptv-reseller.se, iptv-review.se, iptv-series.se, iptv-server.se, iptv-setup.se, iptv-skelleftea.se, iptv-sport.se, iptv-stb.se, iptv-stick.se, iptv-stream.se, iptv-sundsvall.se, iptv-suomi.se, iptv-test.se, iptv-trial.se, iptv-umea.se, iptv-uppsala.se, iptv-usb.se, iptv-vasteras.se, iptv-visby.se, iptv-vod.se, iptv-watch.se, iptv-wifi.se, iptv-xtream.se, iptvbox.se, iptvcodes.se, iptvpanel.se, iptvplaylist.se, iptvportal.se, iptvreseller.se, iptvserver.se, iptvsetup.se, iptvtrial.se, isere-iptv.se, japanese-iptv.se, jokkmokk-iptv.se, jonkoping-iptv.se, jura-iptv.se, jynxbox-iptv.se, k1plus-box.se, k1plus-iptv.se, kabyle-iptv.se, kalix-iptv.se, kanal-iptv.se, kannada-iptv.se, karaoke-iptv.se, karlstad-iptv.se, kashmiri-iptv.se, kaufen-iptv.se, kazakh-iptv.se, kdrama-iptv.se, kempen-box.se, kempen-iptv.se, khmer-box.se, khmer-iptv.se, kids-box.se, kids-iptv.se, kinyarwanda-iptv.se, kiruna-iptv.se, kodi-iptv.se, konkani-iptv.se, korean-box.se, korean-iptv.se, krio-iptv.se, kurdish-iptv.se, kyrgyz-box.se, kyrgyz-iptv.se, ladino-iptv.se, laliga-box.se, laliga-iptv.se, landes-box.se, landes-iptv.se, languedoc-iptv.se, lao-iptv.se, lapland-iptv.se, latino-box.se, latino-iptv.se, latvian-iptv.se, lausitz-box.se, lausitz-iptv.se, legal-box.se, legal-guide.se, legal-iptv.se, legale-iptv.se, ligue-iptv.se, ligue1-iptv.se, ligue2-iptv.se, limburg-iptv.se, limousin-iptv.se, line-box.se, line-iptv.se, lingala-box.se, lingala-iptv.se, linkoping-iptv.se, lite-iptv.se, lithuanian-iptv.se, live-box.se, live-epg.se, live-guide.se, live-iptv.se, live-player.se, loire-box.se, loire-iptv.se, loiret-iptv.se, lorraine-box.se, lorraine-iptv.se, lot-box.se, lot-iptv.se, lozere-iptv.se, luganda-box.se, luganda-iptv.se, lulea-iptv.se, m3u-box.se, m3u-iptv.se, m3u-player.se, mac-box.se, mac-iptv.se, macedonian-iptv.se, mag-box.se, mag-iptv.se, mag-player.se, mag-server.se, mag254-box.se, mag254-iptv.se, magbox.se, maghreb-iptv.se, maithili-box.se, maithili-iptv.se, malayalam-iptv.se, malmo-iptv.se, manche-iptv.se, mandarin-iptv.se, marathi-box.se, marathi-iptv.se, maroc-box.se, maroc-iptv.se, martinique-box.se, martinique-iptv.se, max-iptv.se, maxytec-box.se, maxytec-iptv.se, mayenne-iptv.se, mayotte-iptv.se, mecklenburg-iptv.se, mecool-box.se, mecool-iptv.se, meilleur-iptv.se, meitei-iptv.se, mejor-iptv.se, melhor-iptv.se, meuse-iptv.se, miglior-iptv.se, migliore-iptv.se, mini-box.se, minix-iptv.se, miraclebox-box.se, miraclebox-iptv.se, mittelland-iptv.se, mlb-box.se, mlb-iptv.se, mls-iptv.se, mma-box.se, mma-iptv.se, mongolian-iptv.se, morbihan-box.se, morbihan-iptv.se, mosel-iptv.se, moselle-iptv.se, motogp-box.se, motogp-iptv.se, movie-box.se, movie-iptv.se, muensterland-iptv.se, multi-iptv.se, mutant-iptv.se, myanmar-iptv.se, nascar-iptv.se, nba-box.se, nba-iptv.se, ncaa-box.se, ncaa-iptv.se, ndebele-box.se, ndebele-iptv.se, nepali-iptv.se, neuchatel-box.se, neuchatel-iptv.se, news-box.se, news-iptv.se, nfl-box.se, nfl-iptv.se, nhl-box.se, nhl-iptv.se, niederrhein-box.se, niederrhein-iptv.se, nievre-iptv.se, nordsee-iptv.se, normandie-box.se, normandie-iptv.se, norrkoping-iptv.se, norsk-box.se, norsk-iptv.se, nrw-box.se, nrw-iptv.se, nvidia-box.se, nvidia-iptv.se, nvidia-player.se, oberland-box.se, oberland-iptv.se, occitan-box.se, occitan-iptv.se, octagon-box.se, octagon-iptv.se, oder-iptv.se, odia-iptv.se, oise-iptv.se, ojibwe-iptv.se, olympics-iptv.se, onn-box.se, onn-iptv.se, onn-player.se, openbox-box.se, openbox-iptv.se, opticum-box.se, opticum-iptv.se, orebro-iptv.se, orne-iptv.se, oromo-box.se, oromo-iptv.se, osmio-box.se, osmio-iptv.se, ostersund-iptv.se, ostfriesland-iptv.se, ostsee-box.se, ostsee-iptv.se, ott-box.se, ott-iptv.se, ott-player.se, overijssel-iptv.se, pack-box.se, pack-iptv.se, panel-box.se, panel-iptv.se, panel-server.se, parabole-iptv.se, paras-iptv.se, pascher-iptv.se, pashto-iptv.se, paysbasque-box.se, paysbasque-iptv.se, paytv-iptv.se, peel-iptv.se, pfalz-box.se, pfalz-iptv.se, pga-iptv.se, philips-box.se, philips-iptv.se, picard-iptv.se, picardie-iptv.se, picks-iptv.se, pinoy-box.se, pinoy-iptv.se, pitea-iptv.se, plans-iptv.se, player-app.se, player-avis.se, player-box.se, player-compare.se, player-guide.se, player-iptv.se, playlist-iptv.se, playlist-player.se, plus-iptv.se, podcast-iptv.se, poitou-iptv.se, polonais-iptv.se, polynesie-iptv.se, portal-box.se, premier-iptv.se, premium-iptv.se, pro-box.se, pro-player.se, proberen-iptv.se, protek-box.se, protek-iptv.se, prova-iptv.se, provence-iptv.se, prueba-iptv.se, punjabi-box.se, punjabi-iptv.se, pvr-box.se, pvr-iptv.se, pyrenees-box.se, pyrenees-iptv.se, quebec-iptv.se, quebecois-iptv.se, qviart-box.se, qviart-iptv.se, racing-iptv.se, radio-box.se, radio-iptv.se, rajasthani-iptv.se, rank-iptv.se, rating-box.se, rating-iptv.se, replay-box.se, replay-iptv.se, reseller-box.se, reseller-iptv.se, reseller-panel.se, reunion-box.se, reunion-iptv.se, review-box.se, review-guide.se, review-iptv.se, rhein-iptv.se, rhone-iptv.se, roku-box.se, roku-iptv.se, roku-player.se, romand-iptv.se, romandie-box.se, romandie-iptv.se, romani-iptv.se, romanian-box.se, romanian-iptv.se, romansh-iptv.se, rugby-iptv.se, ruhr-box.se, ruhr-iptv.se, saarland-box.se, saarland-iptv.se, sachsen-iptv.se, saintpierre-iptv.se, sami-box.se, sami-iptv.se, sammenlign-iptv.se, samsung-box.se, samsung-iptv.se, santali-iptv.se, sardinian-iptv.se, sarthe-box.se, sarthe-iptv.se, satellite-box.se, satellite-iptv.se, sauerland-box.se, sauerland-iptv.se, savoie-iptv.se, schwarzwald-iptv.se, schwyz-iptv.se, seeland-box.se, seeland-iptv.se, sender-iptv.se, serbian-iptv.se, seriea-iptv.se, series-box.se, series-iptv.se, server-box.se, server-guide.se, server-iptv.se, server-panel.se, setup-app.se, setup-box.se, setup-iptv.se, setup-player.se, shield-box.se, shield-iptv.se, shield-player.se, shona-iptv.se, sicilian-iptv.se, simmental-iptv.se, sindhi-iptv.se, sinhala-iptv.se, sixnations-iptv.se, skelleftea-iptv.se, ski-iptv.se, skybox-iptv.se, slovak-iptv.se, slovenian-box.se, slovenian-iptv.se, smart-box.se, smart-player.se, snooker-iptv.se, soccer-box.se, soccer-iptv.se, somali-box.se, somali-iptv.se, somme-box.se, somme-iptv.se, sony-iptv.se, sotho-box.se, sotho-iptv.se, sport-box.se, sport-guide.se, sport-iptv.se, spree-box.se, spree-iptv.se, spreewald-iptv.se, starbox-box.se, starbox-iptv.se, stb-box.se, stb-iptv.se, stb-player.se, stick-iptv.se, stockholm-iptv.se, stream-box.se, stream-iptv.se, stream-player.se, sundsvall-iptv.se, suscripcion-iptv.se, swahili-iptv.se, swiss-box.se, swiss-iptv.se, tahiti-iptv.se, tajik-iptv.se, tamil-box.se, tamil-iptv.se, tanix-box.se, tanix-iptv.se, tarn-box.se, tarn-iptv.se, tcl-box.se, tcl-iptv.se, telenovela-iptv.se, telugu-box.se, telugu-iptv.se, tennis-box.se, tennis-iptv.se, tessin-iptv.se, test-box.se, test-iptv.se, thai-iptv.se, thueringen-iptv.se, thurgau-iptv.se, tibetan-box.se, tibetan-iptv.se, ticino-box.se, ticino-iptv.se, tigrinya-box.se, tigrinya-iptv.se, timeshift-iptv.se, tnt-box.se, tnt-iptv.se, trial-app.se, trial-box.se, trial-iptv.se, trial-player.se, tswana-iptv.se, tulu-box.se, tulu-iptv.se, tunisie-iptv.se, turc-iptv.se, turkmen-iptv.se, twente-box.se, twente-iptv.se, twi-iptv.se, uclan-box.se, uclan-iptv.se, ufc-iptv.se, ugoos-iptv.se, ukrainian-box.se, ukrainian-iptv.se, ultra-iptv.se, umea-iptv.se, uppsala-iptv.se, urdu-iptv.se, usb-box.se, usb-iptv.se, uzbek-iptv.se, valais-box.se, valais-iptv.se, var-box.se, var-iptv.se, vasteras-iptv.se, vaucluse-box.se, vaucluse-iptv.se, vaud-iptv.se, veluwe-box.se, veluwe-iptv.se, vendee-box.se, vendee-iptv.se, vergelijk-iptv.se, vergleich-iptv.se, vertaa-iptv.se, vestland-iptv.se, vietnamese-iptv.se, visby-iptv.se, vlaams-box.se, vlaams-iptv.se, vlc-iptv.se, vod-abo.se, vod-box.se, vod-guide.se, vod-iptv.se, vod-player.se, vosges-box.se, vosges-iptv.se, vpn-box.se, vpn-iptv.se, vuduo-box.se, vuduo-iptv.se, vuplus-iptv.se, vusolo-box.se, vusolo-iptv.se, vustorm-box.se, vustorm-iptv.se, vuultimo-iptv.se, vuuno-box.se, vuuno-iptv.se, vuzero-iptv.se, wadden-iptv.se, wallis-iptv.se, wallon-iptv.se, wallonie-iptv.se, walloon-box.se, walloon-iptv.se, watch-box.se, watch-guide.se, watch-iptv.se, weser-box.se, weser-iptv.se, westfalen-iptv.se, wetek-box.se, wetek-iptv.se, wifi-box.se, wifi-iptv.se, wnba-iptv.se, wolof-iptv.se, worldcup-iptv.se, wwe-box.se, wwe-iptv.se, xhosa-iptv.se, xiaomi-box.se, xiaomi-iptv.se, xiaomi-player.se, xsarius-box.se, xsarius-iptv.se, xtream-box.se, xtream-iptv.se, xtream-player.se, yiddish-iptv.se, yonne-box.se, yonne-iptv.se, yoruba-iptv.se, zeeland-box.se, zeeland-iptv.se, zgemma-iptv.se, zidoo-box.se, zidoo-iptv.se, zug-box.se, zug-iptv.se, zulu-iptv.se
 
 -------- .no Norway AVAILABLE --------
   4k-box.no
@@ -15442,6 +15735,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   ewe-iptv.no
   family-box.no
   family-iptv.no
+  faroese-box.no
+  faroese-iptv.no
   farsi-iptv.no
   ferguson-box.no
   ferguson-iptv.no
@@ -15480,8 +15775,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.no
   frisian-box.no
   frisian-iptv.no
+  friulian-iptv.no
   fula-iptv.no
   futuna-iptv.no
+  galician-box.no
+  galician-iptv.no
   gard-iptv.no
   gelderland-iptv.no
   georgian-iptv.no
@@ -15497,6 +15795,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gotland-iptv.no
   graubunden-iptv.no
   grec-iptv.no
+  greenlandic-iptv.no
   gtmedia-box.no
   gtmedia-iptv.no
   guadeloupe-box.no
@@ -15551,6 +15850,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.no
   install-iptv.no
   install-player.no
+  inuktitut-iptv.no
   iptv-4k.no
   iptv-aanbieder.no
   iptv-abo.no
@@ -15660,6 +15960,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvserver.no
   iptvsetup.no
   iptvtrial.no
+  isere-iptv.no
   jamfor-iptv.no
   japanese-iptv.no
   jura-iptv.no
@@ -15691,6 +15992,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.no
   kyrgyz-box.no
   kyrgyz-iptv.no
+  ladino-iptv.no
   laliga-box.no
   laliga-iptv.no
   landes-box.no
@@ -15724,6 +16026,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-guide.no
   live-iptv.no
   live-player.no
+  loire-box.no
+  loire-iptv.no
   loiret-iptv.no
   lorraine-box.no
   lorraine-iptv.no
@@ -15834,6 +16138,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.no
   odia-iptv.no
   oise-iptv.no
+  ojibwe-iptv.no
   olympics-iptv.no
   onn-box.no
   onn-iptv.no
@@ -15932,6 +16237,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.no
   review-iptv.no
   rhein-iptv.no
+  rhone-iptv.no
   roku-box.no
   roku-iptv.no
   roku-player.no
@@ -15957,6 +16263,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-iptv.no
   sandnes-iptv.no
   santali-iptv.no
+  sardinian-iptv.no
   sarthe-box.no
   sarthe-iptv.no
   satellite-box.no
@@ -15985,6 +16292,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.no
   shield-player.no
   shona-iptv.no
+  sicilian-iptv.no
   simmental-iptv.no
   sindhi-iptv.no
   sinhala-iptv.no
@@ -16012,6 +16320,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.no
   spree-iptv.no
   spreewald-iptv.no
+  starbox-box.no
+  starbox-iptv.no
   stavanger-iptv.no
   stb-box.no
   stb-iptv.no
@@ -16070,6 +16380,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.no
   twente-iptv.no
   twi-iptv.no
+  uclan-box.no
+  uclan-iptv.no
   ufc-iptv.no
   ugoos-iptv.no
   ukrainian-box.no
@@ -16387,6 +16699,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   ewe-iptv.dk
   family-box.dk
   family-iptv.dk
+  faroese-box.dk
+  faroese-iptv.dk
   farsi-iptv.dk
   ferguson-box.dk
   ferguson-iptv.dk
@@ -16425,8 +16739,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.dk
   frisian-box.dk
   frisian-iptv.dk
+  friulian-iptv.dk
   fula-iptv.dk
   futuna-iptv.dk
+  galician-box.dk
+  galician-iptv.dk
   gard-iptv.dk
   gelderland-iptv.dk
   georgian-iptv.dk
@@ -16442,6 +16759,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gotland-iptv.dk
   graubunden-iptv.dk
   grec-iptv.dk
+  greenlandic-iptv.dk
   gtmedia-box.dk
   gtmedia-iptv.dk
   guadeloupe-box.dk
@@ -16498,6 +16816,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.dk
   install-iptv.dk
   install-player.dk
+  inuktitut-iptv.dk
   iptv-4k.dk
   iptv-aalborg.dk
   iptv-aanbieder.dk
@@ -16605,6 +16924,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvserver.dk
   iptvsetup.dk
   iptvtrial.dk
+  isere-iptv.dk
   jamfor-iptv.dk
   japanese-iptv.dk
   jura-iptv.dk
@@ -16637,6 +16957,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.dk
   kyrgyz-box.dk
   kyrgyz-iptv.dk
+  ladino-iptv.dk
   laliga-box.dk
   laliga-iptv.dk
   landes-box.dk
@@ -16669,6 +16990,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-guide.dk
   live-iptv.dk
   live-player.dk
+  loire-box.dk
+  loire-iptv.dk
   loiret-iptv.dk
   lorraine-box.dk
   lorraine-iptv.dk
@@ -16780,6 +17103,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.dk
   odia-iptv.dk
   oise-iptv.dk
+  ojibwe-iptv.dk
   olympics-iptv.dk
   onn-box.dk
   onn-iptv.dk
@@ -16875,6 +17199,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-box.dk
   review-iptv.dk
   rhein-iptv.dk
+  rhone-iptv.dk
   ringsted-iptv.dk
   roku-box.dk
   roku-iptv.dk
@@ -16901,6 +17226,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-box.dk
   samsung-iptv.dk
   santali-iptv.dk
+  sardinian-iptv.dk
   sarthe-box.dk
   sarthe-iptv.dk
   satellite-box.dk
@@ -16929,6 +17255,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.dk
   shield-player.dk
   shona-iptv.dk
+  sicilian-iptv.dk
   silkeborg-iptv.dk
   simmental-iptv.dk
   sindhi-iptv.dk
@@ -16958,6 +17285,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.dk
   spree-iptv.dk
   spreewald-iptv.dk
+  starbox-box.dk
+  starbox-iptv.dk
   stb-box.dk
   stb-iptv.dk
   stb-player.dk
@@ -17013,6 +17342,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.dk
   twente-iptv.dk
   twi-iptv.dk
+  uclan-box.dk
+  uclan-iptv.dk
   ufc-iptv.dk
   ugoos-iptv.dk
   ukrainian-box.dk
@@ -17327,6 +17658,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   ewe-iptv.fi
   family-box.fi
   family-iptv.fi
+  faroese-box.fi
+  faroese-iptv.fi
   farsi-iptv.fi
   ferguson-box.fi
   ferguson-iptv.fi
@@ -17364,8 +17697,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   friesland-iptv.fi
   frisian-box.fi
   frisian-iptv.fi
+  friulian-iptv.fi
   fula-iptv.fi
   futuna-iptv.fi
+  galician-box.fi
+  galician-iptv.fi
   gard-iptv.fi
   gelderland-iptv.fi
   georgian-iptv.fi
@@ -17381,6 +17717,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gotland-iptv.fi
   graubunden-iptv.fi
   grec-iptv.fi
+  greenlandic-iptv.fi
   gtmedia-box.fi
   gtmedia-iptv.fi
   guadeloupe-box.fi
@@ -17434,6 +17771,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   install-box.fi
   install-iptv.fi
   install-player.fi
+  inuktitut-iptv.fi
   iptv-4k.fi
   iptv-aanbieder.fi
   iptv-abo.fi
@@ -17543,6 +17881,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   iptvserver.fi
   iptvsetup.fi
   iptvtrial.fi
+  isere-iptv.fi
   jamfor-iptv.fi
   japanese-iptv.fi
   joensuu-iptv.fi
@@ -17577,6 +17916,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kurdish-iptv.fi
   kyrgyz-box.fi
   kyrgyz-iptv.fi
+  ladino-iptv.fi
   lahti-iptv.fi
   laliga-box.fi
   laliga-iptv.fi
@@ -17611,6 +17951,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   live-guide.fi
   live-iptv.fi
   live-player.fi
+  loire-box.fi
+  loire-iptv.fi
   loiret-iptv.fi
   lorraine-box.fi
   lorraine-iptv.fi
@@ -17721,6 +18063,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   oder-iptv.fi
   odia-iptv.fi
   oise-iptv.fi
+  ojibwe-iptv.fi
   olympics-iptv.fi
   onn-box.fi
   onn-iptv.fi
@@ -17820,6 +18163,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   review-guide.fi
   review-iptv.fi
   rhein-iptv.fi
+  rhone-iptv.fi
   roku-box.fi
   roku-iptv.fi
   roku-player.fi
@@ -17844,6 +18188,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   samsung-box.fi
   samsung-iptv.fi
   santali-iptv.fi
+  sardinian-iptv.fi
   sarthe-box.fi
   sarthe-iptv.fi
   satellite-box.fi
@@ -17874,6 +18219,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   shield-iptv.fi
   shield-player.fi
   shona-iptv.fi
+  sicilian-iptv.fi
   simmental-iptv.fi
   sindhi-iptv.fi
   sinhala-iptv.fi
@@ -17901,6 +18247,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   spree-box.fi
   spree-iptv.fi
   spreewald-iptv.fi
+  starbox-box.fi
+  starbox-iptv.fi
   stb-box.fi
   stb-iptv.fi
   stb-player.fi
@@ -17959,6 +18307,8 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   twente-box.fi
   twente-iptv.fi
   twi-iptv.fi
+  uclan-box.fi
+  uclan-iptv.fi
   ufc-iptv.fi
   ugoos-iptv.fi
   ukrainian-box.fi
@@ -18070,6 +18420,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   appletv-guide.co.uk
   avon-guide.co.uk
   bay-guide.co.uk
+  bedford-guide.co.uk
   best-firestick.co.uk
   box-compare.co.uk
   box-guide.co.uk
@@ -18122,10 +18473,13 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   formula-guide.co.uk
   formuler-guide.co.uk
   forth-guide.co.uk
+  gloucester-guide.co.uk
   gwynedd-guide.co.uk
+  hampshire-guide.co.uk
   harbour-guide.co.uk
   hebrides-guide.co.uk
   hereford-guide.co.uk
+  hertford-guide.co.uk
   highland-guide.co.uk
   hockey-guide.co.uk
   hotel-box.co.uk
@@ -18159,6 +18513,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   ottcompare.co.uk
   ottguide.co.uk
   ouse-guide.co.uk
+  oxfordshire-guide.co.uk
   peak-guide.co.uk
   pembroke-guide.co.uk
   pennine-guide.co.uk
@@ -18186,6 +18541,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   snowdon-guide.co.uk
   soccer-guide.co.uk
   solent-guide.co.uk
+  somerset-guide.co.uk
   spey-guide.co.uk
   speyside-guide.co.uk
   sport-box.co.uk
@@ -18225,6 +18581,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   weald-guide.co.uk
   wifi-guide.co.uk
   wight-guide.co.uk
+  wiltshire-guide.co.uk
   worcester-guide.co.uk
   wye-guide.co.uk
   xtreamguide.co.uk

@@ -79,5 +79,9 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Boxes | `miraclebox iptv` / `jynxbox iptv` | Android/sat boxes | AVAILABLE leftovers: `miraclebox-iptv.fr`, `jynxbox-iptv.fr` |
 | Geo FR 5 | `iptv doubs` / `iptv meuse` / `iptv moselle` / `iptv bas rhin` / `iptv haut rhin` | Departement commercial | AVAILABLE: `doubs-iptv.fr`, `meuse-iptv.fr`, `moselle-iptv.fr`, `basrhin-iptv.fr`, `hautrhin-iptv.fr` |
 | Regional langs | `walloon iptv` / `corsican iptv` | BE/FR regional | AVAILABLE leftovers: `walloon-iptv.fr`, `corsican-iptv.fr` |
+| Romance langs | `galician iptv` / `sicilian iptv` / `sardinian iptv` / `friulian iptv` / `ladino iptv` | Regional/diaspora | AVAILABLE leftovers: `galician-iptv.fr`, `sicilian-iptv.fr`, `sardinian-iptv.fr`, `friulian-iptv.fr`, `ladino-iptv.fr` |
+| Arctic / CA | `faroese iptv` / `greenlandic iptv` / `inuktitut iptv` / `ojibwe iptv` | Nordic + Indigenous CA | AVAILABLE leftovers: `faroese-iptv.fr`, `greenlandic-iptv.fr`, `inuktitut-iptv.ca`, `ojibwe-iptv.ca`. `faroese-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `uclan iptv` / `starbox iptv` | Android/sat boxes | AVAILABLE leftovers: `uclan-iptv.fr`, `starbox-iptv.fr` |
+| Geo FR 6 | `iptv loire` / `iptv rhone` / `iptv isere` | Departement commercial | AVAILABLE: `loire-iptv.fr`, `rhone-iptv.fr`, `isere-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
