@@ -341,6 +341,20 @@ STEMS = (
     "polonais-iptv",
     "pinoy-box",
     "desi-box",
+    "catchup-guide",
+    "multi-iptv",
+    "ultra-iptv",
+    "max-iptv",
+    "plus-iptv",
+    "pro-box",
+    "pro-player",
+    "lite-iptv",
+    "mini-box",
+    "home-iptv",
+    "family-iptv",
+    "family-box",
+    "hotel-iptv",
+    "cafe-iptv",
 )
 
 # Local cities × iptv on the matching country TLD (still two words).
