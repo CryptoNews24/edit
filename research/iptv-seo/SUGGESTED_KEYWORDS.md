@@ -48,5 +48,7 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | More boxes | `dreambox iptv` / `mutant iptv` | Enigma/Linux boxes | AVAILABLE leftovers: `dreambox-iptv.fr`, `mutant-iptv.de`, `vaucluse-iptv.fr`, `holstein-iptv.de`. `holstein-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Africa langs | `amharic iptv` / `hausa iptv` / `igbo iptv` | Diaspora commercial | AVAILABLE leftovers: `amharic-iptv.fr`, `hausa-iptv.fr`, `igbo-iptv.fr`. `amharic-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Enigma 2 | `edision iptv` / `gigablue iptv` | Linux box setup | AVAILABLE leftovers: `edision-iptv.fr`, `gigablue-iptv.de`, `var-iptv.fr`, `gard-iptv.fr`, `niederrhein-iptv.de`. `var-box.de` TAKEN |
+| Africa 2 | `oromo iptv` / `akan iptv` / `zulu iptv` | Diaspora commercial | AVAILABLE leftovers: `oromo-iptv.fr`, `akan-iptv.fr`, `zulu-iptv.fr` |
+| Enigma 3 | `qviart iptv` / `axas iptv` | Linux box setup | AVAILABLE leftovers: `qviart-iptv.fr`, `axas-iptv.de`, `herault-iptv.fr`, `aude-iptv.fr`, `ostsee-iptv.de`, `elbe-iptv.de` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
