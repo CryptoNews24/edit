@@ -427,6 +427,12 @@ def main() -> None:
         ("Germany", "de", "iptv sport", "content", "de_content"),
         ("Netherlands", "nl", "iptv sport", "content", "nl_content"),
         ("Canada", "en", "iptv sports canada", "content", "ca_content"),
+        ("France", "fr", "iptv enfants", "content", "fr_content"),
+        ("United States", "en", "iptv kids", "content", "us_content"),
+        ("United States", "en", "iptv news", "content", "us_content"),
+        ("United States", "en", "how to install iptv", "howto", "us_howto"),
+        ("France", "fr", "installer iptv", "howto", "fr_howto"),
+        ("Germany", "de", "iptv einrichten", "howto", "de_howto"),
     ]
     for item in extra:
         add(rows, seen, *item)

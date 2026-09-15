@@ -29,6 +29,7 @@ domain,rdap,dns,verdict
 4k-player.no,404,no,AVAILABLE
 4k-player.se,,no,UNKNOWN
 4k-player.us,404,no,AVAILABLE
+aalborg-iptv.dk,404,no,AVAILABLE
 aanbieder-iptv.ca,404,no,AVAILABLE
 aanbieder-iptv.ch,404,no,AVAILABLE
 aanbieder-iptv.de,404,no,AVAILABLE
@@ -105,7 +106,9 @@ abonnementiptv.fr,200,yes,TAKEN
 abonnementiptv.us,404,no,AVAILABLE
 alberta-iptv-guide.ca,404,no,AVAILABLE
 alberta-iptv.ca,404,no,AVAILABLE
+almere-iptv.nl,404,no,AVAILABLE
 americaniptv.us,200,yes,TAKEN
+amiens-iptv.fr,404,no,AVAILABLE
 amsterdam-iptv.nl,404,no,AVAILABLE
 anbieter-iptv.ca,404,no,AVAILABLE
 anbieter-iptv.ch,200,no,TAKEN
@@ -217,6 +220,7 @@ appletv-player.nl,404,no,AVAILABLE
 appletv-player.no,404,no,AVAILABLE
 appletv-player.se,,no,UNKNOWN
 appletv-player.us,404,no,AVAILABLE
+arnhem-iptv.nl,404,no,AVAILABLE
 atlanta-iptv.us,404,no,AVAILABLE
 austin-iptv.us,404,no,AVAILABLE
 avis-abo-france.fr,404,no,AVAILABLE
@@ -266,6 +270,7 @@ avis-iptv.us,404,no,AVAILABLE
 avisabo.fr,404,no,AVAILABLE
 avisiptv.com,200,yes,TAKEN
 avisiptv.fr,404,no,AVAILABLE
+baltimore-iptv.us,404,no,AVAILABLE
 barato-iptv.ca,404,no,AVAILABLE
 barato-iptv.ch,404,no,AVAILABLE
 barato-iptv.de,404,no,AVAILABLE
@@ -414,6 +419,7 @@ boxdeals.co.uk,200,no,TAKEN
 boxguide.co.uk,,yes,TAKEN
 brampton-iptv.ca,200,yes,TAKEN
 breda-iptv.nl,404,no,AVAILABLE
+bremen-iptv.de,404,no,AVAILABLE
 british-tv-guide.co.uk,404,no,AVAILABLE
 calgary-iptv-guide.ca,404,no,AVAILABLE
 calgary-iptv.ca,404,no,AVAILABLE
@@ -524,6 +530,7 @@ classement-meilleur-iptv.fr,404,no,AVAILABLE
 classementiptv.fr,404,no,AVAILABLE
 classementiptv.net,200,yes,TAKEN
 classementiptv.us,404,no,AVAILABLE
+clermont-iptv.fr,404,no,AVAILABLE
 cleveland-iptv.us,404,no,AVAILABLE
 codes-box.ca,404,no,AVAILABLE
 codes-box.ch,404,no,AVAILABLE
@@ -673,6 +680,26 @@ comparestream.ca,404,no,AVAILABLE
 comparestream.co.uk,404,no,AVAILABLE
 comparestream.us,404,no,AVAILABLE
 comparetvguide.co.uk,404,no,AVAILABLE
+config-box.ca,404,no,AVAILABLE
+config-box.ch,404,no,AVAILABLE
+config-box.de,404,no,AVAILABLE
+config-box.dk,404,no,AVAILABLE
+config-box.fi,404,no,AVAILABLE
+config-box.fr,404,no,AVAILABLE
+config-box.nl,404,no,AVAILABLE
+config-box.no,404,no,AVAILABLE
+config-box.se,,no,UNKNOWN
+config-box.us,404,no,AVAILABLE
+config-iptv.ca,404,no,AVAILABLE
+config-iptv.ch,404,no,AVAILABLE
+config-iptv.de,404,no,AVAILABLE
+config-iptv.dk,404,no,AVAILABLE
+config-iptv.fi,404,no,AVAILABLE
+config-iptv.fr,404,no,AVAILABLE
+config-iptv.nl,404,no,AVAILABLE
+config-iptv.no,404,no,AVAILABLE
+config-iptv.se,,no,UNKNOWN
+config-iptv.us,404,no,AVAILABLE
 confronta-iptv-it.it,404,no,Confirm at registrar
 confronta-iptv.ca,404,no,AVAILABLE
 confronta-iptv.ch,404,no,AVAILABLE
@@ -731,6 +758,7 @@ denhaag-iptv.nl,404,no,AVAILABLE
 denver-iptv.us,404,no,AVAILABLE
 detroit-iptv.us,404,no,AVAILABLE
 dijon-iptv.fr,404,no,AVAILABLE
+dortmund-iptv.de,404,no,AVAILABLE
 downloader-iptv.ca,404,no,AVAILABLE
 downloader-iptv.ch,404,no,AVAILABLE
 downloader-iptv.de,404,no,AVAILABLE
@@ -811,6 +839,7 @@ essai-iptv.us,404,no,AVAILABLE
 essaiiptv.ca,404,no,AVAILABLE
 essaiiptv.fr,404,no,AVAILABLE
 essaiiptv.us,404,no,AVAILABLE
+essen-iptv.de,404,no,AVAILABLE
 film-box.ca,404,no,AVAILABLE
 film-box.ch,404,no,AVAILABLE
 film-box.de,200,yes,TAKEN
@@ -968,6 +997,7 @@ forum-iptv.fr,404,no,AVAILABLE
 frankfurt-iptv.de,404,no,AVAILABLE
 freetv-guide.co.uk,404,no,AVAILABLE
 freetvguide.us,200,yes,TAKEN
+gatineau-iptv.ca,404,no,AVAILABLE
 geneve-iptv.ch,404,no,AVAILABLE
 gids-iptv-be.be,404,no,Confirm at registrar
 gids-iptv.ca,404,no,AVAILABLE
@@ -1109,9 +1139,79 @@ halpa-iptv.us,404,no,AVAILABLE
 hamburg-iptv.de,404,no,AVAILABLE
 hamilton-iptv.ca,404,no,AVAILABLE
 hannover-iptv.de,404,no,AVAILABLE
+hdr-box.ca,404,no,AVAILABLE
+hdr-box.ch,404,no,AVAILABLE
+hdr-box.de,404,no,AVAILABLE
+hdr-box.dk,404,no,AVAILABLE
+hdr-box.fi,404,no,AVAILABLE
+hdr-box.fr,404,no,AVAILABLE
+hdr-box.nl,404,no,AVAILABLE
+hdr-box.no,404,no,AVAILABLE
+hdr-box.se,,no,UNKNOWN
+hdr-box.us,404,no,AVAILABLE
+hdr-iptv.ca,404,no,AVAILABLE
+hdr-iptv.ch,404,no,AVAILABLE
+hdr-iptv.de,404,no,AVAILABLE
+hdr-iptv.dk,404,no,AVAILABLE
+hdr-iptv.fi,404,no,AVAILABLE
+hdr-iptv.fr,404,no,AVAILABLE
+hdr-iptv.nl,404,no,AVAILABLE
+hdr-iptv.no,404,no,AVAILABLE
+hdr-iptv.se,,no,UNKNOWN
+hdr-iptv.us,404,no,AVAILABLE
 helsinki-iptv.fi,404,no,AVAILABLE
+hevc-box.ca,404,no,AVAILABLE
+hevc-box.ch,404,no,AVAILABLE
+hevc-box.de,404,no,AVAILABLE
+hevc-box.dk,404,no,AVAILABLE
+hevc-box.fi,404,no,AVAILABLE
+hevc-box.fr,404,no,AVAILABLE
+hevc-box.nl,404,no,AVAILABLE
+hevc-box.no,404,no,AVAILABLE
+hevc-box.se,,no,UNKNOWN
+hevc-box.us,404,no,AVAILABLE
+hevc-iptv.ca,404,no,AVAILABLE
+hevc-iptv.ch,404,no,AVAILABLE
+hevc-iptv.de,404,no,AVAILABLE
+hevc-iptv.dk,404,no,AVAILABLE
+hevc-iptv.fi,404,no,AVAILABLE
+hevc-iptv.fr,404,no,AVAILABLE
+hevc-iptv.nl,404,no,AVAILABLE
+hevc-iptv.no,404,no,AVAILABLE
+hevc-iptv.se,,no,UNKNOWN
+hevc-iptv.us,404,no,AVAILABLE
 houston-iptv.us,404,no,AVAILABLE
 indianapolis-iptv.us,404,no,AVAILABLE
+install-box.ca,404,no,AVAILABLE
+install-box.ch,404,no,AVAILABLE
+install-box.de,404,no,AVAILABLE
+install-box.dk,404,no,AVAILABLE
+install-box.fi,404,no,AVAILABLE
+install-box.fr,404,no,AVAILABLE
+install-box.nl,404,no,AVAILABLE
+install-box.no,404,no,AVAILABLE
+install-box.se,,no,UNKNOWN
+install-box.us,404,no,AVAILABLE
+install-iptv.ca,404,no,AVAILABLE
+install-iptv.ch,404,no,AVAILABLE
+install-iptv.de,404,no,AVAILABLE
+install-iptv.dk,404,no,AVAILABLE
+install-iptv.fi,404,no,AVAILABLE
+install-iptv.fr,404,no,AVAILABLE
+install-iptv.nl,404,no,AVAILABLE
+install-iptv.no,404,no,AVAILABLE
+install-iptv.se,,no,UNKNOWN
+install-iptv.us,404,no,AVAILABLE
+install-player.ca,404,no,AVAILABLE
+install-player.ch,404,no,AVAILABLE
+install-player.de,404,no,AVAILABLE
+install-player.dk,404,no,AVAILABLE
+install-player.fi,404,no,AVAILABLE
+install-player.fr,404,no,AVAILABLE
+install-player.nl,404,no,AVAILABLE
+install-player.no,404,no,AVAILABLE
+install-player.se,,no,UNKNOWN
+install-player.us,404,no,AVAILABLE
 iptv-4k-france.fr,200,yes,TAKEN
 iptv-4k.ca,200,yes,TAKEN
 iptv-4k.ch,404,no,AVAILABLE
@@ -1158,6 +1258,8 @@ iptv-abonnement.no,404,no,AVAILABLE
 iptv-abonnement.se,,no,UNKNOWN
 iptv-abonnement.us,404,no,AVAILABLE
 iptv-alberta.ca,404,no,AVAILABLE
+iptv-almere.nl,404,no,AVAILABLE
+iptv-amiens.fr,404,no,AVAILABLE
 iptv-amsterdam.nl,200,yes,TAKEN
 iptv-anbieter-test.de,404,no,AVAILABLE
 iptv-anbieter-vergleich.de,200,yes,TAKEN
@@ -1185,9 +1287,11 @@ iptv-app.no,404,no,AVAILABLE
 iptv-app.se,,yes,TAKEN
 iptv-app.us,404,no,AVAILABLE
 iptv-arizona.us,404,no,AVAILABLE
+iptv-arnhem.nl,404,no,AVAILABLE
 iptv-atlanta.us,404,no,AVAILABLE
 iptv-atlantic.ca,404,no,AVAILABLE
 iptv-austin.us,404,no,AVAILABLE
+iptv-baltimore.us,404,no,AVAILABLE
 iptv-barcelona-es.es,404,no,Confirm at registrar
 iptv-barcelona.es,404,no,Confirm at registrar
 iptv-basel.ch,404,no,AVAILABLE
@@ -1209,6 +1313,7 @@ iptv-box.se,,yes,TAKEN
 iptv-box.us,404,no,AVAILABLE
 iptv-brampton.ca,200,no,TAKEN
 iptv-breda.nl,404,no,AVAILABLE
+iptv-bremen.de,404,no,AVAILABLE
 iptv-bretagne.fr,404,no,AVAILABLE
 iptv-brussels.be,404,no,Confirm at registrar
 iptv-bruxelles-guide.be,404,no,Confirm at registrar
@@ -1240,6 +1345,7 @@ iptv-cheap.no,404,no,AVAILABLE
 iptv-cheap.se,,no,UNKNOWN
 iptv-cheap.us,404,no,AVAILABLE
 iptv-chicago.us,404,no,AVAILABLE
+iptv-clermont.fr,404,no,AVAILABLE
 iptv-cleveland.us,404,no,AVAILABLE
 iptv-codes.ca,404,no,AVAILABLE
 iptv-codes.ch,404,no,AVAILABLE
@@ -1254,6 +1360,16 @@ iptv-codes.us,404,no,AVAILABLE
 iptv-columbus.us,404,no,AVAILABLE
 iptv-compare.ca,404,no,AVAILABLE
 iptv-compare.us,404,no,AVAILABLE
+iptv-config.ca,404,no,AVAILABLE
+iptv-config.ch,404,no,AVAILABLE
+iptv-config.de,200,yes,TAKEN
+iptv-config.dk,404,no,AVAILABLE
+iptv-config.fi,404,no,AVAILABLE
+iptv-config.fr,404,no,AVAILABLE
+iptv-config.nl,404,no,AVAILABLE
+iptv-config.no,404,no,AVAILABLE
+iptv-config.se,,no,UNKNOWN
+iptv-config.us,404,no,AVAILABLE
 iptv-dallas.us,404,no,AVAILABLE
 iptv-danmark.ca,404,no,AVAILABLE
 iptv-danmark.ch,404,no,AVAILABLE
@@ -1300,6 +1416,7 @@ iptv-deutschland.no,404,no,AVAILABLE
 iptv-deutschland.se,,no,UNKNOWN
 iptv-deutschland.us,404,no,AVAILABLE
 iptv-dijon.fr,404,no,AVAILABLE
+iptv-dortmund.de,404,no,AVAILABLE
 iptv-dresden.de,404,no,AVAILABLE
 iptv-duesseldorf.de,404,no,AVAILABLE
 iptv-edmonton-guide.ca,404,no,AVAILABLE
@@ -1315,6 +1432,7 @@ iptv-epg.nl,200,no,TAKEN
 iptv-epg.no,404,no,AVAILABLE
 iptv-epg.se,,no,UNKNOWN
 iptv-epg.us,404,no,AVAILABLE
+iptv-essen.de,404,no,AVAILABLE
 iptv-film.ca,404,no,AVAILABLE
 iptv-film.ch,404,no,AVAILABLE
 iptv-film.de,404,no,AVAILABLE
@@ -1362,9 +1480,30 @@ iptv-hannover.de,404,no,AVAILABLE
 iptv-helsinki.fi,404,no,AVAILABLE
 iptv-houston.us,404,no,AVAILABLE
 iptv-indianapolis.us,404,no,AVAILABLE
+iptv-install.ca,404,no,AVAILABLE
+iptv-install.ch,404,no,AVAILABLE
+iptv-install.de,404,no,AVAILABLE
+iptv-install.dk,404,no,AVAILABLE
+iptv-install.fi,404,no,AVAILABLE
+iptv-install.fr,404,no,AVAILABLE
+iptv-install.nl,404,no,AVAILABLE
+iptv-install.no,404,no,AVAILABLE
+iptv-install.se,,no,UNKNOWN
+iptv-install.us,404,no,AVAILABLE
+iptv-jyvaskyla.fi,404,no,AVAILABLE
 iptv-kaufen.de,200,yes,TAKEN
 iptv-kelowna-guide.ca,404,no,AVAILABLE
 iptv-kelowna.ca,404,no,AVAILABLE
+iptv-kids.ca,404,no,AVAILABLE
+iptv-kids.ch,404,no,AVAILABLE
+iptv-kids.de,404,no,AVAILABLE
+iptv-kids.dk,404,no,AVAILABLE
+iptv-kids.fi,404,no,AVAILABLE
+iptv-kids.fr,404,no,AVAILABLE
+iptv-kids.nl,404,no,AVAILABLE
+iptv-kids.no,404,no,AVAILABLE
+iptv-kids.se,,no,UNKNOWN
+iptv-kids.us,404,no,AVAILABLE
 iptv-kingston.ca,404,no,AVAILABLE
 iptv-kobenhavn.dk,404,no,AVAILABLE
 iptv-koeln.de,404,no,AVAILABLE
@@ -1398,6 +1537,8 @@ iptv-levis.ca,404,no,AVAILABLE
 iptv-liege-guide.be,404,no,Confirm at registrar
 iptv-lille-guide.fr,404,no,AVAILABLE
 iptv-lille.fr,404,no,AVAILABLE
+iptv-limoges.fr,404,no,AVAILABLE
+iptv-linkoping.se,,no,UNKNOWN
 iptv-lisboa.pt,404,no,Confirm at registrar
 iptv-live.ca,200,yes,TAKEN
 iptv-live.ch,404,no,AVAILABLE
@@ -1461,8 +1602,19 @@ iptv-nederland.nl,200,no,TAKEN
 iptv-nederland.no,404,no,AVAILABLE
 iptv-nederland.se,,no,UNKNOWN
 iptv-nederland.us,404,no,AVAILABLE
+iptv-news.ca,404,no,AVAILABLE
+iptv-news.ch,404,no,AVAILABLE
+iptv-news.de,404,no,AVAILABLE
+iptv-news.dk,404,no,AVAILABLE
+iptv-news.fi,404,no,AVAILABLE
+iptv-news.fr,200,yes,TAKEN
+iptv-news.nl,404,no,AVAILABLE
+iptv-news.no,404,no,AVAILABLE
+iptv-news.se,,no,UNKNOWN
+iptv-news.us,404,no,AVAILABLE
 iptv-newyork.us,404,no,AVAILABLE
 iptv-nice.fr,404,no,AVAILABLE
+iptv-nijmegen.nl,404,no,AVAILABLE
 iptv-nimes.fr,404,no,AVAILABLE
 iptv-norge.ca,404,no,AVAILABLE
 iptv-norge.ch,404,no,AVAILABLE
@@ -1481,6 +1633,7 @@ iptv-ohio.us,404,no,AVAILABLE
 iptv-ontario-guide.ca,404,no,AVAILABLE
 iptv-ontario.ca,200,yes,TAKEN
 iptv-opas.fi,404,no,AVAILABLE
+iptv-orebro.se,,no,UNKNOWN
 iptv-orlando.us,404,no,AVAILABLE
 iptv-oslo.no,404,no,AVAILABLE
 iptv-ott.ca,404,no,AVAILABLE
@@ -1509,6 +1662,7 @@ iptv-panel.us,404,no,AVAILABLE
 iptv-paris.fr,404,no,AVAILABLE
 iptv-pas-cher.fr,200,yes,TAKEN
 iptv-pas-cher.net,200,yes,TAKEN
+iptv-perpignan.fr,404,no,AVAILABLE
 iptv-philadelphia.us,404,no,AVAILABLE
 iptv-phoenix.us,404,no,AVAILABLE
 iptv-pittsburgh.us,404,no,AVAILABLE
@@ -1566,6 +1720,16 @@ iptv-premium.se,,no,UNKNOWN
 iptv-premium.us,200,no,TAKEN
 iptv-proberen.nl,404,no,AVAILABLE
 iptv-provence.fr,404,no,AVAILABLE
+iptv-pvr.ca,404,no,AVAILABLE
+iptv-pvr.ch,404,no,AVAILABLE
+iptv-pvr.de,404,no,AVAILABLE
+iptv-pvr.dk,404,no,AVAILABLE
+iptv-pvr.fi,404,no,AVAILABLE
+iptv-pvr.fr,404,no,AVAILABLE
+iptv-pvr.nl,404,no,AVAILABLE
+iptv-pvr.no,404,no,AVAILABLE
+iptv-pvr.se,,no,UNKNOWN
+iptv-pvr.us,404,no,AVAILABLE
 iptv-quebec-city.ca,404,no,AVAILABLE
 iptv-quebec.ca,200,no,TAKEN
 iptv-quebec.ch,404,no,AVAILABLE
@@ -1577,6 +1741,7 @@ iptv-quebec.nl,404,no,AVAILABLE
 iptv-quebec.no,404,no,AVAILABLE
 iptv-quebec.se,,no,UNKNOWN
 iptv-quebec.us,404,no,AVAILABLE
+iptv-raleigh.us,404,no,AVAILABLE
 iptv-rank.fr,404,no,AVAILABLE
 iptv-rankings.fr,404,no,AVAILABLE
 iptv-ratgeber-at.at,404,no,Confirm at registrar
@@ -1622,7 +1787,9 @@ iptv-roku-guide.us,404,no,AVAILABLE
 iptv-roma-it.it,404,no,Confirm at registrar
 iptv-roma.it,404,no,Confirm at registrar
 iptv-rotterdam.nl,404,no,AVAILABLE
+iptv-sacramento.us,404,no,AVAILABLE
 iptv-saguenay.ca,404,no,AVAILABLE
+iptv-saltlake.us,404,no,AVAILABLE
 iptv-sask.ca,404,no,AVAILABLE
 iptv-saskatoon.ca,404,no,AVAILABLE
 iptv-schweiz-guide.ch,404,no,AVAILABLE
@@ -1682,6 +1849,7 @@ iptv-stb.nl,404,no,AVAILABLE
 iptv-stb.no,404,no,AVAILABLE
 iptv-stb.se,,no,UNKNOWN
 iptv-stb.us,404,no,AVAILABLE
+iptv-stgallen.ch,404,no,AVAILABLE
 iptv-stick.ca,404,no,AVAILABLE
 iptv-stick.ch,404,no,AVAILABLE
 iptv-stick.de,404,no,AVAILABLE
@@ -1769,6 +1937,7 @@ iptv-trial.nl,404,no,AVAILABLE
 iptv-trial.no,404,no,AVAILABLE
 iptv-trial.se,,no,UNKNOWN
 iptv-trial.us,404,no,AVAILABLE
+iptv-tromso.no,404,no,AVAILABLE
 iptv-trondheim.no,404,no,AVAILABLE
 iptv-turku.fi,404,no,AVAILABLE
 iptv-uppsala.se,,no,UNKNOWN
@@ -2055,6 +2224,7 @@ jamfor-iptv.no,404,no,AVAILABLE
 jamfor-iptv.se,404,no,AVAILABLE
 jamfor-iptv.us,404,no,AVAILABLE
 jamforiptv.se,,yes,TAKEN
+jyvaskyla-iptv.fi,404,no,AVAILABLE
 kanal-iptv.ca,404,no,AVAILABLE
 kanal-iptv.ch,404,no,AVAILABLE
 kanal-iptv.de,404,no,AVAILABLE
@@ -2076,6 +2246,26 @@ kaufen-iptv.no,404,no,AVAILABLE
 kaufen-iptv.se,,no,UNKNOWN
 kaufen-iptv.us,404,no,AVAILABLE
 kelowna-iptv.ca,404,no,AVAILABLE
+kids-box.ca,404,no,AVAILABLE
+kids-box.ch,404,no,AVAILABLE
+kids-box.de,200,yes,TAKEN
+kids-box.dk,404,no,AVAILABLE
+kids-box.fi,404,no,AVAILABLE
+kids-box.fr,404,no,AVAILABLE
+kids-box.nl,200,yes,TAKEN
+kids-box.no,404,no,AVAILABLE
+kids-box.se,,no,UNKNOWN
+kids-box.us,404,no,AVAILABLE
+kids-iptv.ca,404,no,AVAILABLE
+kids-iptv.ch,404,no,AVAILABLE
+kids-iptv.de,404,no,AVAILABLE
+kids-iptv.dk,404,no,AVAILABLE
+kids-iptv.fi,404,no,AVAILABLE
+kids-iptv.fr,404,no,AVAILABLE
+kids-iptv.nl,404,no,AVAILABLE
+kids-iptv.no,404,no,AVAILABLE
+kids-iptv.se,,no,UNKNOWN
+kids-iptv.us,404,no,AVAILABLE
 kobenhavn-iptv.dk,404,no,AVAILABLE
 kodi-iptv.ca,404,no,AVAILABLE
 kodi-iptv.ch,404,no,AVAILABLE
@@ -2090,6 +2280,7 @@ kodi-iptv.us,404,no,AVAILABLE
 koeln-iptv.de,404,no,AVAILABLE
 kw-iptv.ca,404,no,AVAILABLE
 lausanne-iptv.ch,404,no,AVAILABLE
+laval-iptv.ca,404,no,AVAILABLE
 legal-box.ca,200,yes,TAKEN
 legal-box.ch,404,no,AVAILABLE
 legal-box.de,200,yes,TAKEN
@@ -2135,6 +2326,8 @@ lehavre-iptv.fr,404,no,AVAILABLE
 leipzig-iptv.de,404,no,AVAILABLE
 lg-iptv.fr,404,no,AVAILABLE
 lille-iptv.fr,404,no,AVAILABLE
+limoges-iptv.fr,404,no,AVAILABLE
+linkoping-iptv.se,,no,UNKNOWN
 listeiptv.fr,404,no,AVAILABLE
 listeiptv.us,404,no,AVAILABLE
 live-box.ca,404,no,AVAILABLE
@@ -2198,6 +2391,7 @@ livetvguide.us,404,no,AVAILABLE
 london-iptv-ca.ca,404,no,AVAILABLE
 london-iptv.ca,404,no,AVAILABLE
 lugano-iptv.ch,404,no,AVAILABLE
+luzern-iptv.ch,404,no,AVAILABLE
 lyon-iptv.fr,404,no,AVAILABLE
 m3u-box.ca,404,no,AVAILABLE
 m3u-box.ch,404,no,AVAILABLE
@@ -2380,7 +2574,28 @@ najlepszy-iptv.pl,404,no,Confirm at registrar
 nantes-iptv.fr,404,no,AVAILABLE
 nashville-iptv.us,404,no,AVAILABLE
 nejlepsi-iptv.cz,404,no,Confirm at registrar
+news-box.ca,404,no,AVAILABLE
+news-box.ch,404,no,AVAILABLE
+news-box.de,200,yes,TAKEN
+news-box.dk,404,no,AVAILABLE
+news-box.fi,404,no,AVAILABLE
+news-box.fr,404,no,AVAILABLE
+news-box.nl,404,no,AVAILABLE
+news-box.no,404,no,AVAILABLE
+news-box.se,,no,UNKNOWN
+news-box.us,404,no,AVAILABLE
+news-iptv.ca,404,no,AVAILABLE
+news-iptv.ch,404,no,AVAILABLE
+news-iptv.de,404,no,AVAILABLE
+news-iptv.dk,404,no,AVAILABLE
+news-iptv.fi,404,no,AVAILABLE
+news-iptv.fr,404,no,AVAILABLE
+news-iptv.nl,404,no,AVAILABLE
+news-iptv.no,404,no,AVAILABLE
+news-iptv.se,,no,UNKNOWN
+news-iptv.us,404,no,AVAILABLE
 nice-iptv.fr,404,no,AVAILABLE
+nijmegen-iptv.nl,429,no,UNKNOWN
 nordiptv.ca,404,no,AVAILABLE
 nurnberg-iptv.de,404,no,AVAILABLE
 nvidia-box.ca,404,no,AVAILABLE
@@ -2415,6 +2630,7 @@ nvidia-player.se,,no,UNKNOWN
 nvidia-player.us,404,no,AVAILABLE
 odense-iptv.dk,404,no,AVAILABLE
 ontario-iptv.ca,200,yes,TAKEN
+orebro-iptv.se,,no,UNKNOWN
 orlando-iptv.us,404,no,AVAILABLE
 oslo-iptv.no,404,no,AVAILABLE
 ott-box.ca,404,no,AVAILABLE
@@ -2522,6 +2738,7 @@ paytv-iptv.no,404,no,AVAILABLE
 paytv-iptv.se,,no,UNKNOWN
 paytv-iptv.us,404,no,AVAILABLE
 paytvcompare.us,404,no,AVAILABLE
+perpignan-iptv.fr,404,no,AVAILABLE
 philadelphia-iptv.us,404,no,AVAILABLE
 phoenix-iptv.us,404,no,AVAILABLE
 picks-iptv.ca,404,no,AVAILABLE
@@ -2685,6 +2902,26 @@ prueba-iptv.se,,no,UNKNOWN
 prueba-iptv.us,404,no,AVAILABLE
 pruvodce-iptv.cz,404,no,Confirm at registrar
 przewodnik-iptv.pl,404,no,Confirm at registrar
+pvr-box.ca,404,no,AVAILABLE
+pvr-box.ch,404,no,AVAILABLE
+pvr-box.de,404,no,AVAILABLE
+pvr-box.dk,404,no,AVAILABLE
+pvr-box.fi,404,no,AVAILABLE
+pvr-box.fr,404,no,AVAILABLE
+pvr-box.nl,404,no,AVAILABLE
+pvr-box.no,404,no,AVAILABLE
+pvr-box.se,,no,UNKNOWN
+pvr-box.us,404,no,AVAILABLE
+pvr-iptv.ca,404,no,AVAILABLE
+pvr-iptv.ch,404,no,AVAILABLE
+pvr-iptv.de,404,no,AVAILABLE
+pvr-iptv.dk,404,no,AVAILABLE
+pvr-iptv.fi,404,no,AVAILABLE
+pvr-iptv.fr,404,no,AVAILABLE
+pvr-iptv.nl,404,no,AVAILABLE
+pvr-iptv.no,404,no,AVAILABLE
+pvr-iptv.se,,no,UNKNOWN
+pvr-iptv.us,404,no,AVAILABLE
 quebec-iptv-avis.ca,404,no,AVAILABLE
 quebec-iptv-guide.ca,404,no,AVAILABLE
 quebec-iptv.ca,200,yes,TAKEN
@@ -2698,6 +2935,7 @@ quebec-iptv.no,404,no,AVAILABLE
 quebec-iptv.se,,no,UNKNOWN
 quebec-iptv.us,404,no,AVAILABLE
 quebeciptv.ca,200,yes,TAKEN
+raleigh-iptv.us,404,no,AVAILABLE
 rank-iptv.ca,404,no,AVAILABLE
 rank-iptv.ch,404,no,AVAILABLE
 rank-iptv.de,404,no,AVAILABLE
@@ -2849,6 +3087,8 @@ roku-player.se,,no,UNKNOWN
 roku-player.us,404,no,AVAILABLE
 rokuguide.co.uk,404,no,AVAILABLE
 rotterdam-iptv.nl,404,no,AVAILABLE
+sacramento-iptv.us,404,no,AVAILABLE
+saltlake-iptv.us,404,no,AVAILABLE
 sammenlign-iptv-dk.dk,404,no,AVAILABLE
 sammenlign-iptv-no.no,404,no,AVAILABLE
 sammenlign-iptv.ca,404,no,AVAILABLE
@@ -3081,6 +3321,7 @@ stb-player.nl,404,no,AVAILABLE
 stb-player.no,404,no,AVAILABLE
 stb-player.se,,no,UNKNOWN
 stb-player.us,404,no,AVAILABLE
+stgallen-iptv.ch,404,no,AVAILABLE
 stick-guide.co.uk,404,no,AVAILABLE
 stick-iptv.ca,404,no,AVAILABLE
 stick-iptv.ch,404,no,AVAILABLE
@@ -3196,6 +3437,16 @@ test-iptv.us,404,no,AVAILABLE
 testiptv.us,404,no,AVAILABLE
 testiptv24.fr,404,no,AVAILABLE
 tilburg-iptv.nl,404,no,AVAILABLE
+timeshift-iptv.ca,404,no,AVAILABLE
+timeshift-iptv.ch,404,no,AVAILABLE
+timeshift-iptv.de,404,no,AVAILABLE
+timeshift-iptv.dk,404,no,AVAILABLE
+timeshift-iptv.fi,404,no,AVAILABLE
+timeshift-iptv.fr,404,no,AVAILABLE
+timeshift-iptv.nl,404,no,AVAILABLE
+timeshift-iptv.no,404,no,AVAILABLE
+timeshift-iptv.se,,no,UNKNOWN
+timeshift-iptv.us,404,no,AVAILABLE
 tivimate-guide.us,404,no,AVAILABLE
 tivimateguide.co.uk,404,no,AVAILABLE
 top-abo-iptv.fr,404,no,AVAILABLE
@@ -3244,6 +3495,7 @@ trial-player.no,404,no,AVAILABLE
 trial-player.se,,no,UNKNOWN
 trial-player.us,404,no,AVAILABLE
 trialiptv.ca,404,no,AVAILABLE
+tromso-iptv.no,404,no,AVAILABLE
 trondheim-iptv.no,404,no,AVAILABLE
 turku-iptv.fi,404,no,AVAILABLE
 tvboxguide.co.uk,404,no,AVAILABLE
