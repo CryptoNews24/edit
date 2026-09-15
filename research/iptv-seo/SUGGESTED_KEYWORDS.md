@@ -28,6 +28,6 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this IP after one attempt (`iptv box` FR). Incognito also 429. **No new volumes invented.** Retry when the timer fires; do not use free Semrush.
 
-| Sport | `iptv ligue` / `tennis iptv` / `cricket iptv` / `mma iptv` | More sports verticals | `ligue-iptv.fr`, `tennis-iptv.fr`, `cricket-iptv.us`, `mma-iptv.us`, `tennis-guide.co.uk` |
+| Sport | `f1 iptv` / `motogp iptv` / `wwe iptv` / `world cup iptv` | Motorsport + wrestling + cup | `formula-iptv.fr`, `motogp-iptv.fr`, `wwe-iptv.us`, `worldcup-iptv.fr`, `champions-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
