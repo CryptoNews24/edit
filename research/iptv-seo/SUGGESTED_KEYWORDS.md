@@ -153,5 +153,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Loire | `roannais iptv` / `stephanois iptv` / `forezien iptv` / `charolais iptv` | Gentilé commercial | AVAILABLE leftovers: `roannais-iptv.fr`, `stephanois-iptv.fr`, `forezien-iptv.fr`, `charolais-iptv.fr` |
 | Boxes | `s905d3 iptv` / `rk3326 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905d3-iptv.fr`, `rk3326-iptv.fr` |
 | UK geo 15 | `johnstone guide` / `barrhead guide` / `renfrew guide` | Nominet no-iptv | AVAILABLE: `johnstone-guide.co.uk`, `barrhead-guide.co.uk`, `renfrew-guide.co.uk` (also `.uk`) |
+| FR Saone | `caladois iptv` / `beaujolais iptv` / `maconnais iptv` / `chalonnais iptv` / `bressan iptv` | Gentilé commercial | AVAILABLE leftovers: `caladois-iptv.fr`, `beaujolais-iptv.fr`, `maconnais-iptv.fr`, `chalonnais-iptv.fr`, `bressan-iptv.fr` |
+| Boxes | `s905l3 iptv` / `rk3288 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905l3-iptv.fr`, `rk3288-iptv.fr` |
+| UK geo 16 | `erskine guide` / `linwood guide` / `bishopton guide` | Nominet no-iptv | AVAILABLE: `erskine-guide.co.uk`, `linwood-guide.co.uk`, `bishopton-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
