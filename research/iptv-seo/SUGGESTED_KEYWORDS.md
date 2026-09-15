@@ -40,5 +40,7 @@ Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this
 | Android boxes | `mecool iptv` / `beelink iptv` / `minix iptv` | Cheap box setup queries | AVAILABLE leftovers: `mecool-iptv.us`, `beelink-iptv.fr`, `minix-iptv.us`. `allgaeu-box.de` TAKEN |
 | CEE langs | `romanian iptv` / `hungarian iptv` / `czech iptv` / `serbian iptv` | Diaspora commercial | AVAILABLE leftovers: `romanian-iptv.fr`, `hungarian-iptv.de`, `czech-iptv.us`, `serbian-iptv.de`. `sauerland-box.de` TAKEN |
 | More boxes | `zidoo iptv` / `tanix iptv` | Android box setup | AVAILABLE leftovers: `zidoo-iptv.fr`, `tanix-iptv.us`. `zidoo-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Baltic | `ukrainian iptv` / `lithuanian iptv` / `latvian iptv` / `estonian iptv` | Diaspora commercial | AVAILABLE leftovers: `ukrainian-iptv.ca`, `lithuanian-iptv.de`, `latvian-iptv.fr`, `estonian-iptv.fr`. `kempen-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `homatics iptv` / `wetek iptv` | Android/OTT boxes | AVAILABLE leftovers: `homatics-iptv.us`, `wetek-iptv.fr`, `droidbox-iptv.us`, `sarthe-iptv.fr`, `lausitz-iptv.de`, `seeland-iptv.ch` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
