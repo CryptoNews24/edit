@@ -261,5 +261,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Mayenne | `lavallois iptv` / `mayennais iptv` / `gontierien iptv` / `sabolien iptv` | Gentilé commercial | AVAILABLE leftovers: `lavallois-iptv.fr`, `mayennais-iptv.fr`, `gontierien-iptv.fr`, `sabolien-iptv.fr` |
 | Boxes | `t965k iptv` / `rk3399k iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965k-iptv.fr`, `rk3399k-iptv.fr` |
 | UK geo 51 | `blairgowrie guide` / `alyth guide` / `kirriemuir guide` | Nominet no-iptv | AVAILABLE: `blairgowrie-guide.co.uk`, `alyth-guide.co.uk`, `kirriemuir-guide.co.uk` (also `.uk`) |
+| FR Anjou | `saumurois iptv` / `cholletain iptv` / `segreen iptv` / `baugeois iptv` | Gentilé commercial | AVAILABLE leftovers: `saumurois-iptv.fr`, `cholletain-iptv.fr`, `segreen-iptv.fr`, `baugeois-iptv.fr` |
+| Boxes | `t972m iptv` / `h618k iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972m-iptv.fr`, `h618k-iptv.fr` |
+| UK geo 52 | `forfar guide` / `brechin guide` / `montrose guide` | Nominet no-iptv | AVAILABLE: `forfar-guide.co.uk`, `brechin-guide.co.uk`, `montrose-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
