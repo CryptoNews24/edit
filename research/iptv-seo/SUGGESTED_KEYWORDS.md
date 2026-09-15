@@ -28,6 +28,6 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this IP after one attempt (`iptv box` FR). Incognito also 429. **No new volumes invented.** Retry when the timer fires; do not use free Semrush.
 
-| Nordic / BE / QC | `iptv norsk` / `dansk iptv` / `vlaams iptv` / `iptv quebecois` | Local-language leftovers | `norsk-iptv.no`, `dansk-iptv.dk`, `vlaams-iptv.nl`, `quebecois-iptv.ca` |
+| FR / CH regions | `iptv alsace` / `iptv bretagne` / `iptv corse` / `iptv valais` | Regional commercial | `alsace-iptv.fr`, `bretagne-iptv.fr`, `corse-iptv.fr`, `provence-iptv.fr`, `valais-iptv.ch`, `vaud-iptv.ch` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
