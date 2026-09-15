@@ -228,5 +228,11 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Landes coast | `parentissois iptv` / `biscarrossais iptv` / `mimizanais iptv` / `capbretonnais iptv` | Gentilé commercial | AVAILABLE leftovers: `parentissois-iptv.fr`, `biscarrossais-iptv.fr`, `mimizanais-iptv.fr`, `capbretonnais-iptv.fr` |
 | Boxes | `t972e iptv` / `a311ds iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972e-iptv.fr`, `a311ds-iptv.fr` |
 | UK geo 40 | `ardnamurchan guide` / `kilmelford guide` / `taynuilt guide` | Nominet no-iptv | AVAILABLE: `ardnamurchan-guide.co.uk`, `kilmelford-guide.co.uk`, `taynuilt-guide.co.uk` (also `.uk`) |
+| FR Médoc | `medocain iptv` / `soulacais iptv` / `hourtinais iptv` / `carcanais iptv` | Gentilé commercial | AVAILABLE leftovers: `medocain-iptv.fr`, `soulacais-iptv.fr`, `hourtinais-iptv.fr`, `carcanais-iptv.fr` |
+| Boxes | `t963k iptv` / `rk3399e iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963k-iptv.fr`, `rk3399e-iptv.fr` |
+| UK geo 41 | `tayvallich guide` / `crinan guide` / `kilmartin guide` | Nominet no-iptv | AVAILABLE: `tayvallich-guide.co.uk`, `crinan-guide.co.uk`, `kilmartin-guide.co.uk` (also `.uk`) |
+| FR Bassin | `andernosien iptv` / `arcachonnais iptv` / `testerin iptv` / `biganais iptv` | Gentilé commercial | AVAILABLE leftovers: `andernosien-iptv.fr`, `arcachonnais-iptv.fr`, `testerin-iptv.fr`, `biganais-iptv.fr` |
+| Boxes | `t950m iptv` / `s905x4s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950m-iptv.fr`, `s905x4s-iptv.fr`. `s905x4s-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 42 | `minard guide` / `furnace guide` / `cairndow guide` | Nominet no-iptv | AVAILABLE: `minard-guide.co.uk`, `furnace-guide.co.uk`, `cairndow-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
