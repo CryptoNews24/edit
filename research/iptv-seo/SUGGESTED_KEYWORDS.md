@@ -38,5 +38,7 @@ Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this
 | US sports | `nfl iptv` / `mlb iptv` / `mls iptv` | League + cord-cut | AVAILABLE leftovers: `nfl-iptv.us`, `mlb-iptv.us`, `mls-iptv.us`, `cfl-iptv.ca`. `norfolk-guide.co.uk` TAKEN; `norfolk-guide.uk` AVAILABLE |
 | East Asia / SEA | `cantonese iptv` / `vietnamese iptv` / `korean iptv` / `thai iptv` | Language commercial | AVAILABLE leftovers: `cantonese-iptv.ca`, `vietnamese-iptv.fr`, `korean-iptv.us`, `thai-iptv.fr`. `landes-box.fr` TAKEN |
 | Android boxes | `mecool iptv` / `beelink iptv` / `minix iptv` | Cheap box setup queries | AVAILABLE leftovers: `mecool-iptv.us`, `beelink-iptv.fr`, `minix-iptv.us`. `allgaeu-box.de` TAKEN |
+| CEE langs | `romanian iptv` / `hungarian iptv` / `czech iptv` / `serbian iptv` | Diaspora commercial | AVAILABLE leftovers: `romanian-iptv.fr`, `hungarian-iptv.de`, `czech-iptv.us`, `serbian-iptv.de`. `sauerland-box.de` TAKEN |
+| More boxes | `zidoo iptv` / `tanix iptv` | Android box setup | AVAILABLE leftovers: `zidoo-iptv.fr`, `tanix-iptv.us`. `zidoo-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
