@@ -198,5 +198,8 @@ Noxtools recheck (2026-09-15 20:43 UTC, egress `44.239.53.183`, Chrome 153): **n
 | FR Drôme | `valentinois iptv` / `montilien iptv` / `nyonsais iptv` / `diois iptv` | Gentilé commercial | AVAILABLE leftovers: `valentinois-iptv.fr`, `montilien-iptv.fr`, `nyonsais-iptv.fr`, `diois-iptv.fr` |
 | Boxes | `t972s iptv` / `rk3566s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972s-iptv.fr`, `rk3566s-iptv.fr` |
 | UK geo 30 | `kirkwall guide` / `stromness guide` / `rousay guide` | Nominet no-iptv | AVAILABLE: `kirkwall-guide.co.uk`, `stromness-guide.co.uk`, `rousay-guide.co.uk` (also `.uk`) |
+| FR Ardèche | `privadois iptv` / `aubenassien iptv` / `annoneen iptv` / `tournonais iptv` | Gentilé commercial | AVAILABLE leftovers: `privadois-iptv.fr`, `aubenassien-iptv.fr`, `annoneen-iptv.fr`, `tournonais-iptv.fr` |
+| Boxes | `t950x iptv` / `h728s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950x-iptv.fr`, `h728s-iptv.fr` |
+| UK geo 31 | `westray guide` / `stronsay guide` / `egilsay guide` | Nominet no-iptv | AVAILABLE: `westray-guide.co.uk`, `stronsay-guide.co.uk`, `egilsay-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
