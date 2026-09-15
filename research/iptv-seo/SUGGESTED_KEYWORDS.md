@@ -216,5 +216,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Gers | `auscitain iptv` / `lectourois iptv` / `fleurantin iptv` / `mirandais iptv` | Gentilé commercial | AVAILABLE leftovers: `auscitain-iptv.fr`, `lectourois-iptv.fr`, `fleurantin-iptv.fr`, `mirandais-iptv.fr` |
 | Boxes | `t968x iptv` / `s905w2s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968x-iptv.fr`, `s905w2s-iptv.fr`. `s905w2s-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 36 | `castlebay guide` / `eoligarry guide` / `northbay guide` | Nominet no-iptv | AVAILABLE: `castlebay-guide.co.uk`, `eoligarry-guide.co.uk`, `northbay-guide.co.uk` (also `.uk`) |
+| FR Landes | `marsanais iptv` / `peyrehoradais iptv` / `orthezien iptv` / `morcenais iptv` | Gentilé commercial | AVAILABLE leftovers: `marsanais-iptv.fr`, `peyrehoradais-iptv.fr`, `orthezien-iptv.fr`, `morcenais-iptv.fr` |
+| Boxes | `t950k iptv` / `rk3326s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950k-iptv.fr`, `rk3326s-iptv.fr` |
+| UK geo 37 | `scarinish guide` / `arinagour guide` / `bunessan guide` | Nominet no-iptv | AVAILABLE: `scarinish-guide.co.uk`, `arinagour-guide.co.uk`, `bunessan-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
