@@ -297,5 +297,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Seine-Saint-Denis 2 | `bobignyen iptv` / `drancyen iptv` / `livryen iptv` / `sevranois iptv` | Gentilé commercial | AVAILABLE leftovers: `bobignyen-iptv.fr`, `drancyen-iptv.fr`, `livryen-iptv.fr`, `sevranois-iptv.fr` |
 | Boxes | `t965r iptv` / `h618r iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965r-iptv.fr`, `h618r-iptv.fr` |
 | UK geo 63 | `burntisland guide` / `kinghorn guide` / `dysart guide` | Nominet no-iptv | AVAILABLE: `burntisland-guide.co.uk`, `kinghorn-guide.co.uk`, `dysart-guide.co.uk` (also `.uk`) |
+| FR Seine-Saint-Denis 3 | `noisysien iptv` / `montreuilais iptv` / `dionysien iptv` / `blancmesnilois iptv` | Gentilé commercial | AVAILABLE leftovers: `noisysien-iptv.fr`, `montreuilais-iptv.fr`, `dionysien-iptv.fr`, `blancmesnilois-iptv.fr`. `noisysien-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t972r iptv` / `s905x7s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972r-iptv.fr`, `s905x7s-iptv.fr` |
+| UK geo 64 | `east wemyss guide` / `west wemyss guide` / `leslie guide` | Nominet no-iptv | AVAILABLE: `eastwemyss-guide.co.uk`, `westwemyss-guide.co.uk`, `leslie-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
