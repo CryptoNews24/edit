@@ -152,7 +152,10 @@ No keyword met: verified high volume + Easy/VE/NA KD + weak SERP + available ccT
 
 ---
 
-## Next research moves (when Noxtools Semrush Servers 1–6 accept a member session)
+## Next research moves (Noxtools Semrush Servers **1 → 2 → 3 → 4**, then 5/6)
+
+Open Semrush from the member picker buttons. If a server 429s or hangs, switch to the next of 1/2/3/4. Incognito does not bypass IP 429. Do **not** use Semrush free tools.
+
 
 1. Keyword Overview + related: every IPTV **app** next to iptv/box/subscription/server (`tivimate iptv`, `smarters pro`, `ott navigator`, `ibo player`, `xciptv`, `televizo`, `ss iptv`, `gse smart iptv`).
 2. Same for **box/device**: MAG, Formuler, Fire Stick, Roku, Android box, Shield.
