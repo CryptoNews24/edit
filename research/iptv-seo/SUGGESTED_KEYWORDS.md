@@ -21,6 +21,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 | All | `iptv kids` / `iptv news` / `iptv install` / `hdr iptv` | Family, news, setup, quality | `kids-iptv.fr`, `news-iptv.fr`, `install-iptv.fr`, `hdr-iptv.fr`, `kids-iptv.us`, `install-iptv.us` |
 | All | `iptv vpn` / `xtream line` / `mac iptv` / `bouquet iptv` | Setup + reseller-line intent | `vpn-iptv.fr`, `bouquet-iptv.fr`, `mac-iptv.fr`, `iptv-line.us` |
 | FR-MAGHREB / LATAM | `iptv arabe` / `iptv maroc` / `iptv latino` | Diaspora + language commercial | `arabe-iptv.fr`, `maroc-iptv.fr`, `maghreb-iptv.fr`, `latino-iptv.us` |
+| Diaspora EN | `pinoy iptv` / `desi iptv` / `hindi iptv` / `iptv grec` | Language communities on trusted TLDs | `pinoy-iptv.us`, `desi-iptv.us`, `hindi-iptv.ca`, `grec-iptv.fr` |
 | Apps (SEO only) | `tivimate playlist`, `ott navigator`, `ibo player`, `smarters pro`, `gse smart iptv` | High intent setup queries | **No brand EMD** — write guides on a comparison domain |
 
 ## Rules
