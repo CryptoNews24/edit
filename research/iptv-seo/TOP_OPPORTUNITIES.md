@@ -1,6 +1,6 @@
 # Top opportunities (provisional)
 
-Keyword tables: **`KEYWORDS.md`** (AVAILABLE + volume >= 500). Domain dump: **`LIST.txt`**. Rechecked 2026-09-14 with native RDAP + DNS.
+Keyword tables: **`KEYWORDS.md`** (AVAILABLE + volume >= 500 + **KD not Difficult**). Domain dump: **`LIST.txt`**. Rechecked 2026-09-14 with native RDAP + DNS.
 
 🔥 **JACKPOT (keyword):** `abonnement iptv` — FR **18.1K**/mo, KD **25 Easy**, CPC $0.69. Exact `abonnementiptv.fr` **TAKEN**. Use `compareriptv.fr` / `avis-iptv.fr` / `comparateur-iptv.fr` (AVAILABLE).
 
@@ -8,7 +8,9 @@ Ireland keywords stay in the dictionary for SEO only. **Ignore all `.ie` domains
 
 France cluster **~33.8K** verified (`abonnement iptv` 18.1K Easy + `iptv france` 8.1K + `meilleur iptv` 5.4K + `iptv pas cher` 1.6K Easy + `essai iptv` 590 Very easy). `essaiiptv.fr` and `essai-iptv.fr` both rechecked **AVAILABLE**. `iptvpascher.fr` / `iptv-pas-cher.fr` TAKEN; `pascheriptv.fr` / `pas-cher-iptv.fr` AVAILABLE.
 
-🟢 **HIGH:** `iptv canada` — CA **14.8K**/mo, KD **52 Difficult**. Register **`compareiptv.ca` / `iptvguide.ca` / `compareriptv.ca`**. **`iptvcanada.ca` is TAKEN**. Also TAKEN: `abonnementiptv.ca`, `iptvquebec.ca`, `iptv-quebec.ca`. `iptv4k.ca` is TAKEN and **live** (expiry 2026-09-25) — not a drop-watch.
+🟢 **HIGH:** `best iptv canada` — CA **1.9K**/mo, KD **32 Possible**. Register **`compareiptv.ca` / `iptvguide.ca` / `compareriptv.ca`**. Head term `iptv canada` (14.8K, KD **52 Difficult**) is **excluded**. **`iptvcanada.ca` is TAKEN**. Also TAKEN: `abonnementiptv.ca`, `iptvquebec.ca`, `iptv-quebec.ca`. `iptv4k.ca` is TAKEN and **live** (expiry 2026-09-25) — not a drop-watch.
+
+US head `iptv` (90.5K, KD **62 Difficult**) is **excluded**. Use `best iptv` (5.4K Easy) / `iptv usa` (2.4K Easy) instead (`compareiptv.us`, `avis-iptv.us`, `cordcutusa.us`).
 
 Noxtools member pages currently **HTTP 403** from this IP (Cloudflare). Semrush Servers 1–6 previously **429**. Volumes below are only what was already verified — not invented. New geos (BE/NL/DE/CH/AU/ES/IT) stay **N/A** until Server 6 works again.
 
@@ -61,7 +63,7 @@ Provisional score = commercial intent + SERP weakness + cluster + domain (max 50
 | --- | --- |
 | Country | Canada |
 | Language | English (+ FR cluster: `iptvfrancais.ca`, `forfaitiptv.ca`, `essaiiptv.ca`) |
-| Keywords | iptv canada; best iptv canada |
+| Keywords | best iptv canada (head `iptv canada` excluded — Difficult) |
 | Volume / KD / CPC | N/A |
 | Intent | Commercial |
 | SERP | Stronger than Ireland (Guru99, STH, `iptvcanada.com`, `.ca` store) but forums/thin blogs still present |

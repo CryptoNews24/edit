@@ -14,7 +14,7 @@ from filters import (
     country_tld_groups,
     domain_meets_volume,
     mapped_keyword,
-    meets_volume,
+    meets_opportunity,
     rank_available_domains,
     skip_domain,
 )
@@ -89,7 +89,7 @@ def main() -> None:
         "# IPTV keyword table",
         "",
         f"Updated {now}. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= {MIN_VOLUME}/mo**.",
-        f"Keywords with Semrush volume **under {MIN_VOLUME}** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.",
+        f"Keywords with Semrush volume **under {MIN_VOLUME}** are excluded. **Difficult** KD is excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.",
         "",
         "Semrush refresh this run: **Noxtools member Sign In only** (no Semrush free tools). Chrome CDP reached `noxtools.com/secure/login`. Member credentials on file are **incorrect** (Noxtools error: username or password is incorrect). Semrush Servers 1–6 need a working member session. NordLayer Linux client still cannot attach on this VM. **No new volumes invented.**",
         "",
@@ -99,7 +99,7 @@ def main() -> None:
         "",
         "## Top 10 AVAILABLE (high traffic, low competition)",
         "",
-        "Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with verified volume ≥ 500. At most 3 domains per keyword so the list is not ten copies of the same French head term.",
+        "Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with verified volume ≥ 500 and KD not Difficult. At most 3 domains per keyword so the list is not ten copies of the same French head term.",
         "",
         "| Rank | Domain | Keyword | Volume / mo | KD | Score |",
         "| ---: | --- | --- | ---: | --- | ---: |",
@@ -207,7 +207,7 @@ def main() -> None:
     }
 
     for name, k in sorted(kws.items(), key=lambda kv: -int(kv[1].get("volume") or 0)):
-        if not meets_volume({"keywords": kws}, name):
+        if not meets_opportunity({"keywords": kws}, name):
             continue
         meta = verified_meta.get(name, {})
         db = (k.get("db") or "").lower()
@@ -237,7 +237,7 @@ def main() -> None:
     lines += [
         "",
         "France verified cluster ≈ **33.8K**/mo (`abonnement iptv` + `iptv france` + `meilleur iptv` + `iptv pas cher` + `essai iptv`).",
-        "Canada verified cluster ≈ **16.7K**/mo (`iptv canada` + `best iptv canada`). `iptv subscription canada` (390) is excluded (<500).",
+        "Canada verified cluster ≈ **1.9K**/mo (`best iptv canada`). Head term `iptv canada` (14.8K, KD 52 Difficult) is **excluded**. `iptv subscription canada` (390) is excluded (<500).",
         "",
         "## 2. Tracked keywords (Semrush volume >= 500 only)",
         "",
@@ -261,6 +261,8 @@ def main() -> None:
         except ValueError:
             continue
         if vol_n < MIN_VOLUME:
+            continue
+        if "difficult" in (r.get("KD Category") or "").lower():
             continue
         kw = r["Keyword"]
         serp = r.get("SERP Difficulty") or "N/A"
@@ -301,7 +303,7 @@ def main() -> None:
         "| Keyword | Market | SERP | Top domains | Related searches |",
         "| --- | --- | --- | --- | --- |",
     ]
-    keep_kw = {n.lower() for n in kws if meets_volume({"keywords": kws}, n)}
+    keep_kw = {n.lower() for n in kws if meets_opportunity({"keywords": kws}, n)}
     for r in inspections:
         if r["Keyword"].lower() not in keep_kw:
             continue
@@ -322,10 +324,10 @@ def main() -> None:
         ("pascheriptv.fr", "iptv pas cher"),
         ("essaiiptv.fr", "essai iptv"),
         ("guideiptv.fr", "iptv france"),
-        ("compareiptv.ca", "iptv canada"),
-        ("iptvguide.ca", "iptv canada"),
-        ("compareriptv.ca", "iptv canada"),
-        ("compareiptv.us", "iptv"),
+        ("compareiptv.ca", "best iptv canada"),
+        ("iptvguide.ca", "best iptv canada"),
+        ("compareriptv.ca", "best iptv canada"),
+        ("compareiptv.us", "best iptv"),
         ("avis-iptv.us", "best iptv"),
     ]
     lines += [
@@ -338,7 +340,7 @@ def main() -> None:
     for domain, kw_name in picks:
         if skip_domain(domain):
             continue
-        if not meets_volume(traffic, kw_name):
+        if not meets_opportunity(traffic, kw_name):
             continue
         k = kws[kw_name]
         metrics = f"{k['volume_display']}/mo · KD {k['kd']} {k['kd_label']}"

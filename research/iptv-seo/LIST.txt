@@ -1,7 +1,7 @@
 IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)
-Updated 2026-09-15 01:14 UTC
+Updated 2026-09-15 02:31 UTC
 
-Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). Taken names excluded
+Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** Taken names excluded
 except almost-expired + website down + mapped keyword volume >= 500.
 Confirm-at-registrar and unverified (N/A) names are excluded until Semrush confirms >= 500.
 Do not purchase from this file. Recheck at a registrar cart before buying.
@@ -11,32 +11,30 @@ iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip .uk names tha
 
 Score = monthly volume × (100 − KD) / 100. AVAILABLE only. Max 3 names per keyword.
 
-  1. compareiptv.us
-     iptv  90.5K/mo  KD 62 Difficult  score 34390.0
-  2. box-avis.fr
+  1. box-avis.fr
      abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
-  3. iptv-box.ca
-     iptv canada  14.8K/mo  KD 52 Difficult  score 7104.0
-  4. guideiptv.fr
+  2. guideiptv.fr
      iptv france  8.1K/mo  KD 33 Possible  score 5427.0
-  5. avis-iptv.us
+  3. avis-iptv.us
      best iptv  5.4K/mo  KD 23 Easy  score 4158.0
-  6. cordcutusa.us
+  4. cordcutusa.us
      iptv usa  2.4K/mo  KD 19 Easy  score 1944.0
-  7. pascheriptv.fr
+  5. iptv-box.ca
+     best iptv canada  1.9K/mo  KD 32 Possible  score 1292.0
+  6. pascheriptv.fr
      iptv pas cher  1.6K/mo  KD 21 Easy  score 1264.0
-  8. essaiiptv.fr
+  7. essaiiptv.fr
      essai iptv  590/mo  KD 4 Very easy  score 566.4
-  9. firestick-iptv.us
+  8. firestick-iptv.us
      iptv firestick  590/mo  KD 38 Possible  score 365.8
-  10. android-iptv.us
-     iptv  90.5K/mo  KD 62 Difficult  score 34390.0
+  9. avis-iptv.fr
+     abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
+  10. compareiptv.fr
+     abonnement iptv  18.1K/mo  KD 25 Easy  score 13575.0
 
 ======== VERIFIED SEMRUSH (>= 500/mo) ========
 
-  iptv  [US]  90.5K/mo  KD 62 Difficult  CPC $1.16  Informational
   abonnement iptv  [FR]  18.1K/mo  KD 25 Easy  CPC $0.69  Informational
-  iptv canada  [CA]  14.8K/mo  KD 52 Difficult  CPC $0.91  Informational
   iptv france  [FR]  8.1K/mo  KD 33 Possible  CPC $0.57  Commercial
   meilleur iptv  [FR]  5.4K/mo  KD 43 Possible  CPC N/A  Commercial
   best iptv  [US]  5.4K/mo  KD 23 Easy  CPC N/A  Informational / Commercial
@@ -335,397 +333,397 @@ France
 
 Canada
   abo-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   anbieter-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   android-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   android-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   app-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   appletv-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   avis-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   avis-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   bc-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   box-avis.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   box-compare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   box-guide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   box-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   cheap-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   chromecast-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   compare-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   compare-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   compare-player.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   compareiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   compareriptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   comparestream.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   cordcut-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   cordcutcanada.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   deals-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   firestick-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   firestick-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   firestickcanada.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   firetv-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   formuler-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   formuler-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   gids-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   guide-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   guide-player.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   guideiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   halifax-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   hamilton-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-abo.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-alberta.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-anbieter.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-app.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-atlantic.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-bc.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-cheap.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-codes.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-compare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-deals.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-gatineau.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-gids.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-kingston.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-laval.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-legal.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-levis.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-m3u.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-mag.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-manitoba.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-mississauga.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-moncton.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-nanaimo.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-ott.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-panel.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-player.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-playlist.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-portal.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-reseller.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-review.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-saguenay.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-sask.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-server.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-setup.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-sherbrooke.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-stick.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-sudbury.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-test.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-thunderbay.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-trial.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-vod.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-watch.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-windsor.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-winnipeg.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptv-xtream.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvchooser.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvcodes.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvdeals.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvguide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvkelowna.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvlegal.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvpanel.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvpicks.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvrank.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvrating.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvregina.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvserver.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvsetup.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvvancouver.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   iptvwinnipeg.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   kw-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   legal-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   london-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   m3u-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   mag-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   nordiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   nvidia-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   ott-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   ottawa-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   panel-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   pascheriptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   paytv-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   player-avis.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   player-compare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   player-guide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   player-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   playlist-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   reddit-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   review-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   roku-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   saskatoon-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   server-guide.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   server-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   setup-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   shield-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   smart-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   smarttviptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   stick-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   stream-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   streamcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   streamrank.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   test-box.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   test-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   trial-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   trialiptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tvcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   vancouver-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   victoria-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   vod-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   watch-iptv.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   watchcompare.ca
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
 
 United States
   abonnementiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   android-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   androidtv-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   appletv-guide.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   appletv-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   avis-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   boxcompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   canadianiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   cheap-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   classementiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   comparateur-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   compare-iptv.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   compareiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   compareriptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   comparestream.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   cordcutguide.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   cordcutusa.us
     iptv usa — 2.4K/mo KD 19 Easy CPC N/A [US]
   essaiiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   firestick-guide.us
     iptv firestick — 590/mo KD 38 Possible CPC N/A [US]
   firestick-iptv.us
     iptv firestick — 590/mo KD 38 Possible CPC N/A [US]
   guideiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-arizona.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-atlanta.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-austin.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-boston.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-california.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-charlotte.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-cleveland.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-columbus.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-compare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-dallas.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-denver.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-detroit.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-florida.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-houston.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-indianapolis.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-lasvegas.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-miami.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-minneapolis.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-nashville.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-newyork.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-ohio.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-orlando.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-philadelphia.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-phoenix.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-pittsburgh.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-portland.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-reviews.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-seattle.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-tampa.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv-texas.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptv4k.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvandroid.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvchecker.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvcompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvdeals.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvlegal.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvpicks.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvrank.us
@@ -733,33 +731,33 @@ United States
   iptvrating.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvroku.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   iptvsamsung.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   legal-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   listeiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   livecompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   ottcompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   pascheriptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   paytvcompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   playlist-guide.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   roku-guide.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   roku-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   samsung-iptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   smarters-guide.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   smarttviptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   streamcompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   streamingcompare.us
@@ -767,9 +765,9 @@ United States
   streamrank.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   testiptv.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-guide.us
-    iptv — 90.5K/mo KD 62 Difficult CPC $1.16 [US]
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tvcompare.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   watchcompare.us
@@ -779,19 +777,19 @@ United States
 
 Global
   compareiptv.net
-    iptv canada — 14.8K/mo KD 52 Difficult CPC $0.91 [CA]
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
 
 ======== DROP-WATCH (taken + site down + expiry <=90d + Semrush >= 500) — not for sale ========
 
 Canada
   iptv-canada.ca
-    TAKEN + offline/parked — expiry 2026-07-26 (expired 50d). Site not working. Mapped Semrush keyword iptv canada = 14800/mo. Not for sale today.
+    TAKEN + offline/parked — expiry 2026-07-26 (expired 50d). Site not working. Mapped Semrush keyword best iptv canada = 1900/mo. Not for sale today.
   iptvcanada.ca
-    TAKEN + offline/parked — expiry 2026-11-02 (49 days left). Site not working. Mapped Semrush keyword iptv canada = 14800/mo. Not for sale today.
+    TAKEN + offline/parked — expiry 2026-11-02 (49 days left). Site not working. Mapped Semrush keyword best iptv canada = 1900/mo. Not for sale today.
   iptvprovider.ca
-    TAKEN + offline/parked — expiry 2026-11-19 (66 days left). Site not working. Mapped Semrush keyword iptv canada = 14800/mo. Not for sale today.
+    TAKEN + offline/parked — expiry 2026-11-19 (66 days left). Site not working. Mapped Semrush keyword best iptv canada = 1900/mo. Not for sale today.
   iptvreviews.ca
-    TAKEN + offline/parked — expiry 2026-10-04 (20 days left). Site not working. Mapped Semrush keyword iptv canada = 14800/mo. Not for sale today.
+    TAKEN + offline/parked — expiry 2026-10-04 (20 days left). Site not working. Mapped Semrush keyword best iptv canada = 1900/mo. Not for sale today.
 
 ======== AVAILABLE .us (nic.us RDAP 404 + no DNS; Semrush US still N/A) ========
 

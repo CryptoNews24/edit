@@ -370,6 +370,25 @@ def opportunity_score(volume: int, kd: int) -> float:
     return round(volume * (100 - kd) / 100.0, 1)
 
 
+# Semrush "Difficult" (and harder) is out of the buy/score lists.
+_EXCLUDED_KD = {"difficult", "very hard", "super hard"}
+
+# When a domain was mapped to a Difficult head term, use the next verified easier keyword.
+DIFFICULT_FALLBACK = {
+    "iptv": "best iptv",
+    "iptv canada": "best iptv canada",
+}
+
+
+def kd_is_excluded(k: dict | None) -> bool:
+    if not k:
+        return False
+    lab = str(k.get("kd_label") or "").strip().lower()
+    if lab in _EXCLUDED_KD:
+        return True
+    return "difficult" in lab
+
+
 def keyword_volume(traffic: dict, name: str | None) -> int | None:
     if not name:
         return None
@@ -387,12 +406,29 @@ def meets_volume(traffic: dict, name: str | None) -> bool:
     return vol is not None and vol >= MIN_VOLUME
 
 
+def meets_opportunity(traffic: dict, name: str | None) -> bool:
+    """Volume >= 500 and KD is not Difficult."""
+    if not meets_volume(traffic, name):
+        return False
+    k = (traffic.get("keywords") or {}).get(name)
+    return not kd_is_excluded(k)
+
+
 def mapped_keyword(traffic: dict, domain: str) -> str | None:
-    return (traffic.get("domain_keyword_map") or {}).get(domain)
+    kw = (traffic.get("domain_keyword_map") or {}).get(domain)
+    if not kw:
+        return None
+    kws = traffic.get("keywords") or {}
+    if kd_is_excluded(kws.get(kw)):
+        fb = DIFFICULT_FALLBACK.get(kw)
+        if fb and meets_opportunity(traffic, fb):
+            return fb
+        return None
+    return kw
 
 
 def domain_meets_volume(traffic: dict, domain: str) -> bool:
-    return meets_volume(traffic, mapped_keyword(traffic, domain))
+    return meets_opportunity(traffic, mapped_keyword(traffic, domain))
 
 
 PREFERRED_DOMAINS = (
@@ -433,7 +469,7 @@ def rank_available_domains(traffic: dict, recheck: dict, limit: int = 10, per_ke
         if skip_domain(domain):
             continue
         kw = mapped_keyword(traffic, domain)
-        if not meets_volume(traffic, kw):
+        if not meets_opportunity(traffic, kw):
             continue
         k = kws[kw]
         vol = int(k["volume"])

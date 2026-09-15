@@ -15,7 +15,7 @@ from filters import (
     domain_meets_volume,
     keyword_volume,
     mapped_keyword,
-    meets_volume,
+    meets_opportunity,
     rank_available_domains,
     skip_domain,
 )
@@ -76,7 +76,7 @@ def country_of(domain: str) -> str:
 
 
 def kw_line(domain: str, traffic: dict) -> str:
-    name = (traffic.get("domain_keyword_map") or {}).get(domain)
+    name = mapped_keyword(traffic, domain)
     kws = traffic.get("keywords") or {}
     if not name or name not in kws:
         return "volume N/A (not verified in Semrush yet)"
@@ -149,13 +149,13 @@ def main() -> None:
             )
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    kws = {n: k for n, k in (traffic.get("keywords") or {}).items() if meets_volume(traffic, n)}
+    kws = {n: k for n, k in (traffic.get("keywords") or {}).items() if meets_opportunity(traffic, n)}
 
     lines = [
         "IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)",
         f"Updated {now}",
         "",
-        f"Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= {MIN_VOLUME}/mo (verified). Taken names excluded",
+        f"Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= {MIN_VOLUME}/mo (verified). **Difficult KD excluded.** Taken names excluded",
         "except almost-expired + website down + mapped keyword volume >= 500.",
         "Confirm-at-registrar and unverified (N/A) names are excluded until Semrush confirms >= 500.",
         "Do not purchase from this file. Recheck at a registrar cart before buying.",

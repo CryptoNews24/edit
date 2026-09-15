@@ -131,7 +131,7 @@ def main() -> None:
             if any(x in d for x in ("plan", "forfait", "essai")):
                 kwmap[d] = "iptv subscription canada"
             else:
-                kwmap[d] = "iptv canada"
+                kwmap[d] = "best iptv canada"
         elif d.endswith(".us"):
             if "firestick" in d or "firetv" in d:
                 kwmap[d] = "iptv firestick"
@@ -139,10 +139,8 @@ def main() -> None:
                 kwmap[d] = "iptv subscription"
             elif "usa" in d or "american" in d:
                 kwmap[d] = "iptv usa"
-            elif any(x in d for x in ("compare", "avis", "rank", "rating", "picks")):
-                kwmap[d] = "best iptv"
             else:
-                kwmap[d] = "iptv"
+                kwmap[d] = "best iptv"
     for d in (
         "iptvcanada.ca",
         "iptv-canada.ca",
@@ -150,10 +148,10 @@ def main() -> None:
         "livetvcanada.ca",
         "iptvprovider.ca",
     ):
-        kwmap[d] = "iptv canada"
+        kwmap[d] = "best iptv canada"
     kwmap["irishiptv.net"] = "iptv ireland"
-    kwmap["compareiptv.us"] = "iptv"
-    kwmap["compareriptv.us"] = "iptv"
+    kwmap["compareiptv.us"] = "best iptv"
+    kwmap["compareriptv.us"] = "best iptv"
     kwmap["avis-iptv.us"] = "best iptv"
     traffic["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     traffic["semrush_refresh"] = {
@@ -161,6 +159,7 @@ def main() -> None:
         "status": "partial",
         "detail": "Noxtools Sign In reached via Chrome CDP. Member login rejected for known emails when using the NordLayer org password (incorrect username/password). Did not use Semrush free tools. No new Keyword Overview volumes this run. NordLayer Linux client still cannot attach on this kernel. App/box/server two-word RDAP hunt appended; volumes stay N/A until a Noxtools Semrush server session works.",
         "min_volume": 500,
+        "exclude_kd": "Difficult",
     }
     (CANVA / "traffic.json").write_text(json.dumps(traffic, indent=2) + "\n", encoding="utf-8")
 

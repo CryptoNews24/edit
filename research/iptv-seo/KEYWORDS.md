@@ -1,7 +1,7 @@
 # IPTV keyword table
 
-Updated 2026-09-15 01:14 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
-Keywords with Semrush volume **under 500** are excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
+Updated 2026-09-15 02:31 UTC. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= 500/mo**.
+Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush refresh this run: **Noxtools member Sign In only** (no Semrush free tools). Chrome CDP reached `noxtools.com/secure/login`. Member credentials on file are **incorrect** (Noxtools error: username or password is incorrect). Semrush Servers 1–6 need a working member session. NordLayer Linux client still cannot attach on this VM. **No new volumes invented.**
 
@@ -11,28 +11,26 @@ Keyword universe expanded: IPTV apps, boxes, subscription, server, reseller, pan
 
 ## Top 10 AVAILABLE (high traffic, low competition)
 
-Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with verified volume ≥ 500. At most 3 domains per keyword so the list is not ten copies of the same French head term.
+Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with verified volume ≥ 500 and KD not Difficult. At most 3 domains per keyword so the list is not ten copies of the same French head term.
 
 | Rank | Domain | Keyword | Volume / mo | KD | Score |
 | ---: | --- | --- | ---: | --- | ---: |
-| 1 | `compareiptv.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
-| 2 | `box-avis.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
-| 3 | `iptv-box.ca` | iptv canada | 14.8K | 52 Difficult | 7104.0 |
-| 4 | `guideiptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
-| 5 | `avis-iptv.us` | best iptv | 5.4K | 23 Easy | 4158.0 |
-| 6 | `cordcutusa.us` | iptv usa | 2.4K | 19 Easy | 1944.0 |
-| 7 | `pascheriptv.fr` | iptv pas cher | 1.6K | 21 Easy | 1264.0 |
-| 8 | `essaiiptv.fr` | essai iptv | 590 | 4 Very easy | 566.4 |
-| 9 | `firestick-iptv.us` | iptv firestick | 590 | 38 Possible | 365.8 |
-| 10 | `android-iptv.us` | iptv | 90.5K | 62 Difficult | 34390.0 |
+| 1 | `box-avis.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
+| 2 | `guideiptv.fr` | iptv france | 8.1K | 33 Possible | 5427.0 |
+| 3 | `avis-iptv.us` | best iptv | 5.4K | 23 Easy | 4158.0 |
+| 4 | `cordcutusa.us` | iptv usa | 2.4K | 19 Easy | 1944.0 |
+| 5 | `iptv-box.ca` | best iptv canada | 1.9K | 32 Possible | 1292.0 |
+| 6 | `pascheriptv.fr` | iptv pas cher | 1.6K | 21 Easy | 1264.0 |
+| 7 | `essaiiptv.fr` | essai iptv | 590 | 4 Very easy | 566.4 |
+| 8 | `firestick-iptv.us` | iptv firestick | 590 | 38 Possible | 365.8 |
+| 9 | `avis-iptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
+| 10 | `compareiptv.fr` | abonnement iptv | 18.1K | 25 Easy | 13575.0 |
 
 ## 1. Verified Semrush (sorted by volume)
 
 | Keyword | Country (DB) | Volume / mo | KD | CPC | Intent | Priority | Best AVAILABLE domain | Taken exact-match |
 | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
-| iptv | United States (`US`) | 90.5K | 62 Difficult | $1.16 | Informational | HIGH | `compareiptv.us` (AVAILABLE) | bestiptv.us / iptvusa.us |
 | abonnement iptv | France (`FR`) | 18.1K | 25 Easy | $0.69 | Informational | JACKPOT | `compareriptv.fr` (AVAILABLE) | abonnementiptv.fr |
-| iptv canada | Canada (`CA`) | 14.8K | 52 Difficult | $0.91 | Informational | HIGH | `compareiptv.ca` (AVAILABLE) | iptvcanada.ca (offline, expiry 2026-11-02) |
 | iptv france | France (`FR`) | 8.1K | 33 Possible | $0.57 | Commercial | HIGH | `guideiptv.fr` (AVAILABLE) | iptvfrance.fr |
 | meilleur iptv | France (`FR`) | 5.4K | 43 Possible | N/A | Commercial | HIGH | `compareriptv.fr` (AVAILABLE) | meilleuriptv.fr |
 | best iptv | United States (`US`) | 5.4K | 23 Easy | N/A | Informational / Commercial | HIGH | `compareiptv.us` (AVAILABLE) | bestiptv.us |
@@ -46,7 +44,7 @@ Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE n
 | iptv firestick | United States (`US`) | 590 | 38 Possible | N/A | Informational / Commercial | LONG-TAIL | `firestick-guide.us` (AVAILABLE) | firestickiptv.us / iptvfirestick.us |
 
 France verified cluster ≈ **33.8K**/mo (`abonnement iptv` + `iptv france` + `meilleur iptv` + `iptv pas cher` + `essai iptv`).
-Canada verified cluster ≈ **16.7K**/mo (`iptv canada` + `best iptv canada`). `iptv subscription canada` (390) is excluded (<500).
+Canada verified cluster ≈ **1.9K**/mo (`best iptv canada`). Head term `iptv canada` (14.8K, KD 52 Difficult) is **excluded**. `iptv subscription canada` (390) is excluded (<500).
 
 ## 2. Tracked keywords (Semrush volume >= 500 only)
 
@@ -55,7 +53,6 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | Keyword | Country | Lang | Volume | KD | CPC | Intent | SERP | Priority | Domain | Availability | Notes |
 | --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- | --- | --- |
 | abonnement iptv | France | fr | 18100 | 25 Easy | $0.69 | Informational | weak | JACKPOT | `compareriptv.fr` | AVAILABLE | Verified 18.1K global 29.4K / KD 25 Easy. Exact abonnementiptv.fr taken. |
-| iptv canada | Canada | en | 14800 | 52 Difficult | $0.91 | Informational | moderate | HIGH | `compareiptv.ca` | AVAILABLE | Verified 14.8K / KD 52 Difficult. EMD iptvcanada.ca taken and currently offline. |
 | iptv france | France | fr | 8100 | 33 Possible | $0.57 | Commercial | weak-moderate | HIGH | `guideiptv.fr` | AVAILABLE | Verified 8.1K / KD 33 Possible. iptvfrance.fr taken. |
 | meilleur iptv | France | fr | 5400 | 43 Possible | N/A | Commercial | N/A | HIGH | `compareriptv.fr` | AVAILABLE | Verified 5.4K / KD 43 Possible. |
 | best iptv | United States | en | 5400 | 23 Easy | N/A | Informational / Commercial | N/A | HIGH | `compareiptv.us` | AVAILABLE | Verified 5.4K / KD 23 Easy. bestiptv.us TAKEN. |
@@ -84,77 +81,16 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `pascheriptv.fr` | iptv pas cher | 1.6K/mo · KD 21 Easy | AVAILABLE |
 | `essaiiptv.fr` | essai iptv | 590/mo · KD 4 Very easy | AVAILABLE |
 | `guideiptv.fr` | iptv france | 8.1K/mo · KD 33 Possible | AVAILABLE |
-| `compareiptv.ca` | iptv canada | 14.8K/mo · KD 52 Difficult | AVAILABLE |
-| `iptvguide.ca` | iptv canada | 14.8K/mo · KD 52 Difficult | AVAILABLE |
-| `compareriptv.ca` | iptv canada | 14.8K/mo · KD 52 Difficult | AVAILABLE |
-| `compareiptv.us` | iptv | 90.5K/mo · KD 62 Difficult | AVAILABLE |
+| `compareiptv.ca` | best iptv canada | 1.9K/mo · KD 32 Possible | AVAILABLE |
+| `iptvguide.ca` | best iptv canada | 1.9K/mo · KD 32 Possible | AVAILABLE |
+| `compareriptv.ca` | best iptv canada | 1.9K/mo · KD 32 Possible | AVAILABLE |
+| `compareiptv.us` | best iptv | 5.4K/mo · KD 23 Easy | AVAILABLE |
 | `avis-iptv.us` | best iptv | 5.4K/mo · KD 23 Easy | AVAILABLE |
 
 ## 5. AVAILABLE domains (mapped Semrush volume >= 500)
 
 | Domain | Country | Keyword | Volume / mo | KD | Availability |
 | --- | --- | --- | ---: | --- | --- |
-| `abonnementiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `android-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `androidtv-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `appletv-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `appletv-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `canadianiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `cheap-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `classementiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `comparateur-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `compareiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `compareriptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `cordcutguide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `essaiiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `guideiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-arizona.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-atlanta.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-austin.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-boston.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-california.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-charlotte.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-cleveland.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-columbus.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-dallas.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-denver.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-detroit.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-florida.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-houston.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-indianapolis.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-lasvegas.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-miami.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-minneapolis.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-nashville.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-newyork.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-ohio.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-orlando.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-philadelphia.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-phoenix.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-pittsburgh.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-portland.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-reviews.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-seattle.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-tampa.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv-texas.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptv4k.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptvandroid.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptvchecker.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptvdeals.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptvlegal.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptvroku.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `iptvsamsung.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `legal-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `listeiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `pascheriptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `playlist-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `roku-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `roku-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `samsung-iptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `smarters-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `smarttviptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `testiptv.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
-| `tivimate-guide.us` | United States | iptv | 90.5K | 62 Difficult | AVAILABLE |
 | `abo-avis.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `abo-compare.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `aboiptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -280,145 +216,6 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `trial-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `vod-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `watch-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
-| `abo-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `anbieter-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `android-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `android-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `app-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `appletv-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `avis-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `avis-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `bc-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `box-avis.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `box-compare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `box-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `box-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `cheap-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `chromecast-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `compare-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `compare-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `compare-player.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `compareiptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `compareriptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `comparestream.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `cordcut-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `cordcutcanada.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `deals-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `firestick-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `firestick-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `firestickcanada.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `firetv-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `formuler-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `formuler-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `gids-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `guide-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `guide-player.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `guideiptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `halifax-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `hamilton-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-abo.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-alberta.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-anbieter.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-app.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-atlantic.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-bc.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-cheap.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-codes.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-compare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-deals.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-gatineau.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-gids.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-kingston.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-laval.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-legal.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-levis.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-m3u.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-mag.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-manitoba.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-mississauga.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-moncton.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-nanaimo.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-ott.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-panel.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-player.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-playlist.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-portal.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-reseller.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-review.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-saguenay.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-sask.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-server.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-setup.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-sherbrooke.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-stick.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-sudbury.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-test.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-thunderbay.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-trial.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-vod.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-watch.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-windsor.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-winnipeg.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptv-xtream.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvchooser.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvcodes.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvcompare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvdeals.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvguide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvkelowna.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvlegal.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvpanel.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvpicks.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvrank.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvrating.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvregina.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvserver.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvsetup.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvvancouver.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `iptvwinnipeg.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `kw-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `legal-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `london-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `m3u-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `mag-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `nordiptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `nvidia-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `ott-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `ottawa-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `panel-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `pascheriptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `paytv-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `player-avis.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `player-compare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `player-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `player-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `playlist-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `reddit-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `review-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `roku-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `saskatoon-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `server-guide.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `server-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `setup-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `shield-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `smart-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `smarttviptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `stick-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `stream-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `streamcompare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `streamrank.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `test-box.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `test-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `trial-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `trialiptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `tvcompare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `vancouver-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `victoria-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `vod-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `watch-iptv.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `watchcompare.ca` | Canada | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
-| `compareiptv.net` | Global | iptv canada | 14.8K | 52 Difficult | AVAILABLE |
 | `box-guide.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `guide-abo.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `guide-box.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
@@ -427,25 +224,225 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `guideiptv.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `player-guide.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
 | `server-guide.fr` | France | iptv france | 8.1K | 33 Possible | AVAILABLE |
+| `abonnementiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `android-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `androidtv-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `appletv-guide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `appletv-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `avis-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `boxcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `canadianiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `cheap-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `classementiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `comparateur-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `compare-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `compareiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `compareriptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `comparestream.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `cordcutguide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `essaiiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `guideiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-arizona.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-atlanta.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-austin.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-boston.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-california.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-charlotte.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-cleveland.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-columbus.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptv-compare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-dallas.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-denver.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-detroit.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-florida.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-houston.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-indianapolis.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-lasvegas.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-miami.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-minneapolis.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-nashville.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-newyork.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-ohio.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-orlando.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-philadelphia.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-phoenix.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-pittsburgh.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-portland.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-reviews.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-seattle.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-tampa.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv-texas.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptv4k.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvandroid.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvchecker.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvdeals.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvlegal.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptvpicks.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptvrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `iptvrating.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvroku.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `iptvsamsung.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `legal-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `listeiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `livecompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `ottcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `pascheriptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `paytvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `playlist-guide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `roku-guide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `roku-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `samsung-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `smarters-guide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `smarttviptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `streamcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `streamingcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `streamrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `testiptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `tivimate-guide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tvcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `watchcompare.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `watchrank.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `cordcutusa.us` | United States | iptv usa | 2.4K | 19 Easy | AVAILABLE |
+| `abo-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `anbieter-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `android-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `android-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `app-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `appletv-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `avis-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `avis-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `bc-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `box-avis.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `box-compare.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `box-guide.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `box-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `cheap-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `chromecast-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `compare-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `compare-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `compare-player.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `compareiptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `compareriptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `comparestream.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `cordcut-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `cordcutcanada.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `deals-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `firestick-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `firestick-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `firestickcanada.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `firetv-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `formuler-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `formuler-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `gids-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `guide-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `guide-player.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `guideiptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `halifax-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `hamilton-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-abo.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-alberta.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-anbieter.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-app.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-atlantic.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-bc.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-cheap.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-codes.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-compare.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-deals.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-gatineau.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-gids.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-kingston.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-laval.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-legal.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-levis.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-m3u.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-mag.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-manitoba.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-mississauga.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-moncton.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-nanaimo.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-ott.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-panel.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-player.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-playlist.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-portal.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-reseller.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-review.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-saguenay.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-sask.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-server.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-setup.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-sherbrooke.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-stick.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-sudbury.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-test.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-thunderbay.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-trial.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-vod.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-watch.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-windsor.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-winnipeg.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptv-xtream.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvchooser.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvcodes.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvcompare.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvdeals.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvguide.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvkelowna.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvlegal.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvpanel.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvpicks.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvrank.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvrating.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvregina.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvserver.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvsetup.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvvancouver.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `iptvwinnipeg.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `kw-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `legal-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `london-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `m3u-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `mag-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `nordiptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `nvidia-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `ott-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `ottawa-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `panel-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `pascheriptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `paytv-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `player-avis.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `player-compare.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `player-guide.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `player-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `playlist-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `reddit-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `review-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `roku-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `saskatoon-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `server-guide.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `server-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `setup-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `shield-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `smart-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `smarttviptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `stick-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `stream-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `streamcompare.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `streamrank.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `test-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `test-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `trial-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `trialiptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tvcompare.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `vancouver-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `victoria-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `vod-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `watch-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `watchcompare.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `compareiptv.net` | Global | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `pascheriptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `essai-box.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `essai-iptv.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
@@ -460,11 +457,11 @@ Not for sale today. Shown because the mapped keyword is strong and the site is d
 
 | Domain | Keyword | Volume / mo | Site | Expiry |
 | --- | --- | ---: | --- | --- |
-| `iptv-canada.ca` | iptv canada | 14.8K | offline_no_dns | 2026-07-26 |
-| `iptvreviews.ca` | iptv canada | 14.8K | offline_no_dns | 2026-10-04 |
-| `livetvcanada.ca` | iptv canada | 14.8K | offline_no_dns | 2026-10-22 |
-| `iptvcanada.ca` | iptv canada | 14.8K | offline_no_dns | 2026-11-02 |
-| `iptvprovider.ca` | iptv canada | 14.8K | parked_or_placeholder | 2026-11-19 |
+| `iptv-canada.ca` | best iptv canada | 1.9K | offline_no_dns | 2026-07-26 |
+| `iptvreviews.ca` | best iptv canada | 1.9K | offline_no_dns | 2026-10-04 |
+| `livetvcanada.ca` | best iptv canada | 1.9K | offline_no_dns | 2026-10-22 |
+| `iptvcanada.ca` | best iptv canada | 1.9K | offline_no_dns | 2026-11-02 |
+| `iptvprovider.ca` | best iptv canada | 1.9K | parked_or_placeholder | 2026-11-19 |
 | `irishiptv.net` | iptv ireland | 1.9K | offline | 2026-11-28 |
 
 ## 7. `.us` and `.uk` (no `iptv` in `.uk` names)
