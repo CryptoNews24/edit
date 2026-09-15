@@ -162,5 +162,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Aube | `troyen iptv` / `aubois iptv` / `langrois iptv` / `chaumontais iptv` | Gentilé commercial | AVAILABLE leftovers: `troyen-iptv.fr`, `aubois-iptv.fr`, `langrois-iptv.fr`, `chaumontais-iptv.fr`. `chaumontais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `s905x5 iptv` / `t966 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905x5-iptv.fr`, `t966-iptv.fr` |
 | UK geo 18 | `kilwinning guide` / `stevenston guide` / `dalry guide` | Nominet no-iptv | AVAILABLE: `kilwinning-guide.co.uk`, `stevenston-guide.co.uk`, `dalry-guide.co.uk` (also `.uk`) |
+| FR Champagne | `sparnacien iptv` / `sedanais iptv` / `dizierois iptv` / `barrois iptv` | Gentilé commercial | AVAILABLE leftovers: `sparnacien-iptv.fr`, `sedanais-iptv.fr`, `dizierois-iptv.fr`, `barrois-iptv.fr`. `sedanais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t963 iptv` / `s905l2 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963-iptv.fr`, `s905l2-iptv.fr` |
+| UK geo 19 | `rothesay guide` / `dunoon guide` / `millport guide` | Nominet no-iptv | AVAILABLE: `rothesay-guide.co.uk`, `dunoon-guide.co.uk`, `millport-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
