@@ -83,5 +83,10 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Arctic / CA | `faroese iptv` / `greenlandic iptv` / `inuktitut iptv` / `ojibwe iptv` | Nordic + Indigenous CA | AVAILABLE leftovers: `faroese-iptv.fr`, `greenlandic-iptv.fr`, `inuktitut-iptv.ca`, `ojibwe-iptv.ca`. `faroese-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `uclan iptv` / `starbox iptv` | Android/sat boxes | AVAILABLE leftovers: `uclan-iptv.fr`, `starbox-iptv.fr` |
 | Geo FR 6 | `iptv loire` / `iptv rhone` / `iptv isere` | Departement commercial | AVAILABLE: `loire-iptv.fr`, `rhone-iptv.fr`, `isere-iptv.fr` |
+| Celtic | `cornish iptv` / `gaelic iptv` / `welsh iptv` | UK/FR regional | AVAILABLE leftovers: `cornish-iptv.fr`, `gaelic-iptv.fr`, `welsh-iptv.fr` |
+| Iberia | `asturian iptv` / `aragonese iptv` | Regional ES (trusted TLD leftovers) | AVAILABLE leftovers: `asturian-iptv.fr`, `aragonese-iptv.fr` |
+| Indigenous CA | `mikmaq iptv` / `mohawk iptv` / `cree iptv` | Canada commercial | AVAILABLE leftovers: `mikmaq-iptv.ca`, `mohawk-iptv.ca`, `cree-iptv.ca` |
+| Boxes | `anadol iptv` / `x96 iptv` | Cheap Android boxes | AVAILABLE leftovers: `anadol-iptv.fr`, `x96-iptv.fr` |
+| Geo FR 7 | `iptv puy de dome` / `iptv cote d or` / `iptv ain` | Departement commercial | AVAILABLE: `puydedome-iptv.fr`, `cotedor-iptv.fr`, `ain-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
