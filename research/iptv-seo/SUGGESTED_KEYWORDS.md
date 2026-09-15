@@ -312,5 +312,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Essonne | `evryen iptv` / `massyen iptv` / `corbeilois iptv` / `savignyen iptv` | Gentilé commercial | AVAILABLE leftovers: `evryen-iptv.fr`, `massyen-iptv.fr`, `corbeilois-iptv.fr`, `savignyen-iptv.fr` |
 | Boxes | `t965t iptv` / `rk3328t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965t-iptv.fr`, `rk3328t-iptv.fr`. `rk3328t-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 68 | `dollar guide` / `dunblane guide` / `bridge of allan guide` | Nominet no-iptv | AVAILABLE: `dollar-guide.co.uk`, `dunblane-guide.co.uk`, `bridgeofallan-guide.co.uk` (also `.uk`) |
+| FR Essonne 2 | `palaisien iptv` / `longjumeaunais iptv` / `yerrois iptv` / `dourdanais iptv` | Gentilé commercial | AVAILABLE leftovers: `palaisien-iptv.fr`, `longjumeaunais-iptv.fr`, `yerrois-iptv.fr`, `dourdanais-iptv.fr` |
+| Boxes | `t972t iptv` / `h618t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972t-iptv.fr`, `h618t-iptv.fr` |
+| UK geo 69 | `doune guide` / `callander guide` / `aberfoyle guide` | Nominet no-iptv | AVAILABLE: `doune-guide.co.uk`, `callander-guide.co.uk`, `aberfoyle-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
