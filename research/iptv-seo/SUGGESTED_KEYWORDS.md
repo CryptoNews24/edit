@@ -28,6 +28,6 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this IP after one attempt (`iptv box` FR). Incognito also 429. **No new volumes invented.** Retry when the timer fires; do not use free Semrush.
 
-- Do not register TiviMate / Smarters / IBO / GSE / OTT Navigator EMDs.
+| All | `iptv wifi` / `hdmi iptv` / `iptv usb` / `adsl iptv` | Setup + last-mile | `wifi-iptv.fr`, `hdmi-iptv.fr`, `usb-iptv.fr`, `adsl-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
