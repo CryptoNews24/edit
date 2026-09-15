@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-15 23:37 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-15 23:40 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -101,6 +101,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `a133u-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `a133v-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `a133w-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `a133y-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `a311d-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `a311ds-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `aanbieder-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -317,6 +318,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `bretignyen-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `breton-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `breton-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `breuilletien-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `briecomtois-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `briecomtois-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `briochin-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -534,6 +536,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `essonne-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `estampois-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `estonian-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `etrechyen-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `etrechyen-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `eure-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `eure-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `eureetloir-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -1153,6 +1157,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `morcenais-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `moretain-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `morezien-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `morignyen-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `morlaisien-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `mosel-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `moselle-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -1665,6 +1670,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `t962w-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `t962x-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `t962x-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `t962y-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
+| `t962y-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `t963-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `t963-iptv.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
 | `t963e-box.fr` | France | abonnement iptv | 18.1K | 25 Easy | AVAILABLE |
@@ -1999,6 +2006,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `a133u-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `a133v-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `a133w-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `a133y-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `a311d-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `a311ds-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `aanbieder-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -2215,6 +2223,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `bretignyen-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `breton-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `breton-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `breuilletien-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `briecomtois-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `briecomtois-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `briochin-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -2430,6 +2439,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `essonne-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `estampois-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `estonian-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `etrechyen-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `etrechyen-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `eure-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `eure-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `eureetloir-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -3057,6 +3068,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `morcenais-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `moretain-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `morezien-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `morignyen-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `morlaisien-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `mosel-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `moselle-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -3410,6 +3422,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `sacramento-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `saintaffricain-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `saintais-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `saintcheronais-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `saintfargeausien-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `saintfargeausien-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `saintpierre-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -3590,6 +3603,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `t962w-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `t962x-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `t962x-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `t962y-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `t962y-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `t963-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `t963-iptv.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `t963e-box.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -3921,6 +3936,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `a133u-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `a133v-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `a133w-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `a133y-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `a311d-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `a311ds-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `aanbieder-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -4127,6 +4143,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `bretignyen-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `breton-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `breton-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `breuilletien-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `briecomtois-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `briecomtois-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `briochin-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -4329,6 +4346,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `essonne-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `estampois-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `estonian-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `etrechyen-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `etrechyen-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `eure-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `eure-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `eureetloir-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -4938,6 +4957,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `morcenais-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `moretain-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `morezien-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `morignyen-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `morlaisien-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `mosel-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `moselle-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -5282,6 +5302,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `saguenay-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `saintaffricain-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `saintais-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `saintcheronais-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `saintfargeausien-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `saintfargeausien-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `saintjohn-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -5461,6 +5482,8 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `t962w-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `t962x-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `t962x-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `t962y-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `t962y-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `t963-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `t963-iptv.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `t963e-box.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -5791,6 +5814,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `pascher-iptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `pascheriptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `percheron-iptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
+| `saintcheronais-iptv.fr` | France | iptv pas cher | 1.6K | 21 Easy | AVAILABLE |
 | `essai-box.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `essai-iptv.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
 | `essaiiptv.fr` | France | essai iptv | 590 | 4 Very easy | AVAILABLE |
@@ -5819,7 +5843,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **2864**.
+AVAILABLE in this dump: **2878**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -5833,6 +5857,7 @@ AVAILABLE in this dump: **2864**.
 | `a133u-iptv.us` | .us | native RDAP 404 + no DNS |
 | `a133v-iptv.us` | .us | native RDAP 404 + no DNS |
 | `a133w-iptv.us` | .us | native RDAP 404 + no DNS |
+| `a133y-iptv.us` | .us | native RDAP 404 + no DNS |
 | `a311d-iptv.us` | .us | native RDAP 404 + no DNS |
 | `a311ds-iptv.us` | .us | native RDAP 404 + no DNS |
 | `aanbieder-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -6172,6 +6197,7 @@ AVAILABLE in this dump: **2864**.
 | `bretignyen-iptv.us` | .us | native RDAP 404 + no DNS |
 | `breton-box.us` | .us | native RDAP 404 + no DNS |
 | `breton-iptv.us` | .us | native RDAP 404 + no DNS |
+| `breuilletien-iptv.us` | .us | native RDAP 404 + no DNS |
 | `bridgeofallan-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `bridgeofallan-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `briecomtois-box.us` | .us | native RDAP 404 + no DNS |
@@ -6583,6 +6609,8 @@ AVAILABLE in this dump: **2864**.
 | `essonne-iptv.us` | .us | native RDAP 404 + no DNS |
 | `estampois-iptv.us` | .us | native RDAP 404 + no DNS |
 | `estonian-iptv.us` | .us | native RDAP 404 + no DNS |
+| `etrechyen-box.us` | .us | native RDAP 404 + no DNS |
+| `etrechyen-iptv.us` | .us | native RDAP 404 + no DNS |
 | `eure-box.us` | .us | native RDAP 404 + no DNS |
 | `eure-iptv.us` | .us | native RDAP 404 + no DNS |
 | `eureetloir-box.us` | .us | native RDAP 404 + no DNS |
@@ -7184,6 +7212,8 @@ AVAILABLE in this dump: **2864**.
 | `kinglassie-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `kinlochbervie-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `kinlochbervie-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `kinlochrannoch-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `kinlochrannoch-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `kinross-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `kinross-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `kinyarwanda-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -7517,6 +7547,7 @@ AVAILABLE in this dump: **2864**.
 | `morcenais-iptv.us` | .us | native RDAP 404 + no DNS |
 | `moretain-iptv.us` | .us | native RDAP 404 + no DNS |
 | `morezien-iptv.us` | .us | native RDAP 404 + no DNS |
+| `morignyen-iptv.us` | .us | native RDAP 404 + no DNS |
 | `morlaisien-iptv.us` | .us | native RDAP 404 + no DNS |
 | `mosel-iptv.us` | .us | native RDAP 404 + no DNS |
 | `moselle-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -7828,6 +7859,8 @@ AVAILABLE in this dump: **2864**.
 | `raleigh-iptv.us` | .us | native RDAP 404 + no DNS |
 | `rambolitain-iptv.us` | .us | native RDAP 404 + no DNS |
 | `rank-iptv.us` | .us | native RDAP 404 + no DNS |
+| `rannochstation-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `rannochstation-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `rapidcity-iptv.us` | .us | native RDAP 404 + no DNS |
 | `rating-box.us` | .us | native RDAP 404 + no DNS |
 | `rating-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -7974,6 +8007,7 @@ AVAILABLE in this dump: **2864**.
 | `sacramento-iptv.us` | .us | native RDAP 404 + no DNS |
 | `saintaffricain-iptv.us` | .us | native RDAP 404 + no DNS |
 | `saintais-iptv.us` | .us | native RDAP 404 + no DNS |
+| `saintcheronais-iptv.us` | .us | native RDAP 404 + no DNS |
 | `saintfargeausien-box.us` | .us | native RDAP 404 + no DNS |
 | `saintfargeausien-iptv.us` | .us | native RDAP 404 + no DNS |
 | `saintpierre-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -8264,6 +8298,8 @@ AVAILABLE in this dump: **2864**.
 | `t962w-iptv.us` | .us | native RDAP 404 + no DNS |
 | `t962x-box.us` | .us | native RDAP 404 + no DNS |
 | `t962x-iptv.us` | .us | native RDAP 404 + no DNS |
+| `t962y-box.us` | .us | native RDAP 404 + no DNS |
+| `t962y-iptv.us` | .us | native RDAP 404 + no DNS |
 | `t963-box.us` | .us | native RDAP 404 + no DNS |
 | `t963-iptv.us` | .us | native RDAP 404 + no DNS |
 | `t963e-box.us` | .us | native RDAP 404 + no DNS |
@@ -8463,6 +8499,8 @@ AVAILABLE in this dump: **2864**.
 | `tulsa-iptv.us` | .us | native RDAP 404 + no DNS |
 | `tulu-box.us` | .us | native RDAP 404 + no DNS |
 | `tulu-iptv.us` | .us | native RDAP 404 + no DNS |
+| `tummelbridge-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `tummelbridge-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tunisie-iptv.us` | .us | native RDAP 404 + no DNS |
 | `turc-iptv.us` | .us | native RDAP 404 + no DNS |
 | `turkmen-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -8695,29 +8733,29 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 | TLD | Country | AVAILABLE | Confirm (not free) | UNKNOWN |
 | --- | --- | ---: | ---: | ---: |
-| .ca | Canada | 1885 | 0 | 0 |
-| .us | United States | 1928 | 0 | 0 |
-| .fr | France | 1909 | 0 | 0 |
-| .de | Germany | 1776 | 0 | 0 |
-| .nl | Netherlands | 1710 | 0 | 108 |
-| .ch | Switzerland | 1792 | 0 | 12 |
+| .ca | Canada | 1893 | 0 | 0 |
+| .us | United States | 1936 | 0 | 0 |
+| .fr | France | 1917 | 0 | 0 |
+| .de | Germany | 1784 | 0 | 0 |
+| .nl | Netherlands | 1717 | 0 | 109 |
+| .ch | Switzerland | 1800 | 0 | 12 |
 | .be | Belgium | 0 | 16 | 0 |
 | .at | Austria | 0 | 11 | 0 |
 | .es | Spain | 0 | 11 | 0 |
 | .it | Italy | 0 | 12 | 0 |
 | .pt | Portugal | 0 | 9 | 0 |
-| .se | Sweden | 1 | 7 | 1773 |
-| .no | Norway | 1791 | 0 | 0 |
-| .dk | Denmark | 1787 | 0 | 0 |
-| .fi | Finland | 1789 | 0 | 0 |
+| .se | Sweden | 1 | 7 | 1781 |
+| .no | Norway | 1799 | 0 | 0 |
+| .dk | Denmark | 1795 | 0 | 0 |
+| .fi | Finland | 1797 | 0 | 0 |
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 463 | 0 | 0 |
+| .co.uk | United Kingdom | 466 | 0 | 0 |
 
 ### .ca — Canada
 
-**AVAILABLE (1885)** — native RDAP 404 + no DNS.
+**AVAILABLE (1893)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -8731,6 +8769,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `a133u-iptv.ca` |
 | `a133v-iptv.ca` |
 | `a133w-iptv.ca` |
+| `a133y-iptv.ca` |
 | `a311d-iptv.ca` |
 | `a311ds-iptv.ca` |
 | `aanbieder-iptv.ca` |
@@ -8937,6 +8976,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `bretignyen-iptv.ca` |
 | `breton-box.ca` |
 | `breton-iptv.ca` |
+| `breuilletien-iptv.ca` |
 | `briecomtois-box.ca` |
 | `briecomtois-iptv.ca` |
 | `briochin-iptv.ca` |
@@ -9143,6 +9183,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `essonne-iptv.ca` |
 | `estampois-iptv.ca` |
 | `estonian-iptv.ca` |
+| `etrechyen-box.ca` |
+| `etrechyen-iptv.ca` |
 | `eure-box.ca` |
 | `eure-iptv.ca` |
 | `eureetloir-box.ca` |
@@ -9759,6 +9801,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `morcenais-iptv.ca` |
 | `moretain-iptv.ca` |
 | `morezien-iptv.ca` |
+| `morignyen-iptv.ca` |
 | `morlaisien-iptv.ca` |
 | `mosel-iptv.ca` |
 | `moselle-iptv.ca` |
@@ -10104,6 +10147,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `saguenay-iptv.ca` |
 | `saintaffricain-iptv.ca` |
 | `saintais-iptv.ca` |
+| `saintcheronais-iptv.ca` |
 | `saintfargeausien-box.ca` |
 | `saintfargeausien-iptv.ca` |
 | `saintjohn-iptv.ca` |
@@ -10283,6 +10327,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `t962w-iptv.ca` |
 | `t962x-box.ca` |
 | `t962x-iptv.ca` |
+| `t962y-box.ca` |
+| `t962y-iptv.ca` |
 | `t963-box.ca` |
 | `t963-iptv.ca` |
 | `t963e-box.ca` |
@@ -10610,7 +10656,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .us — United States
 
-**AVAILABLE (1928)** — native RDAP 404 + no DNS.
+**AVAILABLE (1936)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -10624,6 +10670,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `a133u-iptv.us` |
 | `a133v-iptv.us` |
 | `a133w-iptv.us` |
+| `a133y-iptv.us` |
 | `a311d-iptv.us` |
 | `a311ds-iptv.us` |
 | `aanbieder-iptv.us` |
@@ -10840,6 +10887,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `bretignyen-iptv.us` |
 | `breton-box.us` |
 | `breton-iptv.us` |
+| `breuilletien-iptv.us` |
 | `briecomtois-box.us` |
 | `briecomtois-iptv.us` |
 | `briochin-iptv.us` |
@@ -11056,6 +11104,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `essonne-iptv.us` |
 | `estampois-iptv.us` |
 | `estonian-iptv.us` |
+| `etrechyen-box.us` |
+| `etrechyen-iptv.us` |
 | `eure-box.us` |
 | `eure-iptv.us` |
 | `eureetloir-box.us` |
@@ -11691,6 +11741,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `morcenais-iptv.us` |
 | `moretain-iptv.us` |
 | `morezien-iptv.us` |
+| `morignyen-iptv.us` |
 | `morlaisien-iptv.us` |
 | `mosel-iptv.us` |
 | `moselle-iptv.us` |
@@ -12044,6 +12095,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `sacramento-iptv.us` |
 | `saintaffricain-iptv.us` |
 | `saintais-iptv.us` |
+| `saintcheronais-iptv.us` |
 | `saintfargeausien-box.us` |
 | `saintfargeausien-iptv.us` |
 | `saintpierre-iptv.us` |
@@ -12224,6 +12276,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `t962w-iptv.us` |
 | `t962x-box.us` |
 | `t962x-iptv.us` |
+| `t962y-box.us` |
+| `t962y-iptv.us` |
 | `t963-box.us` |
 | `t963-iptv.us` |
 | `t963e-box.us` |
@@ -12546,7 +12600,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .fr — France
 
-**AVAILABLE (1909)** — native RDAP 404 + no DNS.
+**AVAILABLE (1917)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -12560,6 +12614,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `a133u-iptv.fr` |
 | `a133v-iptv.fr` |
 | `a133w-iptv.fr` |
+| `a133y-iptv.fr` |
 | `a311d-iptv.fr` |
 | `a311ds-iptv.fr` |
 | `aanbieder-iptv.fr` |
@@ -12777,6 +12832,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `bretignyen-iptv.fr` |
 | `breton-box.fr` |
 | `breton-iptv.fr` |
+| `breuilletien-iptv.fr` |
 | `briecomtois-box.fr` |
 | `briecomtois-iptv.fr` |
 | `briochin-iptv.fr` |
@@ -13000,6 +13056,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `essonne-iptv.fr` |
 | `estampois-iptv.fr` |
 | `estonian-iptv.fr` |
+| `etrechyen-box.fr` |
+| `etrechyen-iptv.fr` |
 | `eure-box.fr` |
 | `eure-iptv.fr` |
 | `eureetloir-box.fr` |
@@ -13629,6 +13687,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `morcenais-iptv.fr` |
 | `moretain-iptv.fr` |
 | `morezien-iptv.fr` |
+| `morignyen-iptv.fr` |
 | `morlaisien-iptv.fr` |
 | `mosel-iptv.fr` |
 | `moselle-iptv.fr` |
@@ -13975,6 +14034,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `sachsen-iptv.fr` |
 | `saintaffricain-iptv.fr` |
 | `saintais-iptv.fr` |
+| `saintcheronais-iptv.fr` |
 | `saintetienne-iptv.fr` |
 | `saintfargeausien-box.fr` |
 | `saintfargeausien-iptv.fr` |
@@ -14147,6 +14207,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `t962w-iptv.fr` |
 | `t962x-box.fr` |
 | `t962x-iptv.fr` |
+| `t962y-box.fr` |
+| `t962y-iptv.fr` |
 | `t963-box.fr` |
 | `t963-iptv.fr` |
 | `t963e-box.fr` |
@@ -14463,7 +14525,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .de — Germany
 
-**AVAILABLE (1776)** — native RDAP 404 + no DNS.
+**AVAILABLE (1784)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -14476,6 +14538,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `a133u-iptv.de` |
 | `a133v-iptv.de` |
 | `a133w-iptv.de` |
+| `a133y-iptv.de` |
 | `a311d-iptv.de` |
 | `a311ds-iptv.de` |
 | `aachen-iptv.de` |
@@ -14672,6 +14735,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `bretignyen-iptv.de` |
 | `breton-box.de` |
 | `breton-iptv.de` |
+| `breuilletien-iptv.de` |
 | `briecomtois-box.de` |
 | `briecomtois-iptv.de` |
 | `briochin-iptv.de` |
@@ -14871,6 +14935,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `essonne-iptv.de` |
 | `estampois-iptv.de` |
 | `estonian-iptv.de` |
+| `etrechyen-box.de` |
+| `etrechyen-iptv.de` |
 | `eure-box.de` |
 | `eure-iptv.de` |
 | `eureetloir-box.de` |
@@ -15446,6 +15512,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `morcenais-iptv.de` |
 | `moretain-iptv.de` |
 | `morezien-iptv.de` |
+| `morignyen-iptv.de` |
 | `morlaisien-iptv.de` |
 | `mosel-iptv.de` |
 | `moselle-iptv.de` |
@@ -15776,6 +15843,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `sachsen-iptv.de` |
 | `saintaffricain-iptv.de` |
 | `saintais-iptv.de` |
+| `saintcheronais-iptv.de` |
 | `saintfargeausien-box.de` |
 | `saintfargeausien-iptv.de` |
 | `saintpierre-iptv.de` |
@@ -15936,6 +16004,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `t962w-iptv.de` |
 | `t962x-box.de` |
 | `t962x-iptv.de` |
+| `t962y-box.de` |
+| `t962y-iptv.de` |
 | `t963-box.de` |
 | `t963-iptv.de` |
 | `t963e-box.de` |
@@ -16247,7 +16317,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .nl — Netherlands
 
-**AVAILABLE (1710)** — native RDAP 404 + no DNS.
+**AVAILABLE (1717)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -16261,6 +16331,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `a133u-iptv.nl` |
 | `a133v-iptv.nl` |
 | `a133w-iptv.nl` |
+| `a133y-iptv.nl` |
 | `a311d-iptv.nl` |
 | `a311ds-iptv.nl` |
 | `aanbieder-iptv.nl` |
@@ -16453,6 +16524,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `bretignyen-iptv.nl` |
 | `breton-box.nl` |
 | `breton-iptv.nl` |
+| `breuilletien-iptv.nl` |
 | `briecomtois-box.nl` |
 | `briecomtois-iptv.nl` |
 | `briochin-iptv.nl` |
@@ -16640,6 +16712,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `essonne-iptv.nl` |
 | `estampois-iptv.nl` |
 | `estonian-iptv.nl` |
+| `etrechyen-box.nl` |
+| `etrechyen-iptv.nl` |
 | `eure-iptv.nl` |
 | `eureetloir-box.nl` |
 | `euro-iptv.nl` |
@@ -17179,6 +17253,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `morcenais-iptv.nl` |
 | `moretain-iptv.nl` |
 | `morezien-iptv.nl` |
+| `morignyen-iptv.nl` |
 | `morlaisien-iptv.nl` |
 | `mosel-iptv.nl` |
 | `moselle-iptv.nl` |
@@ -17659,6 +17734,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `t962w-iptv.nl` |
 | `t962x-box.nl` |
 | `t962x-iptv.nl` |
+| `t962y-box.nl` |
+| `t962y-iptv.nl` |
 | `t963-box.nl` |
 | `t963-iptv.nl` |
 | `t963e-iptv.nl` |
@@ -17962,12 +18039,12 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `zulu-iptv.nl` |
 | `zwolle-iptv.nl` |
 
-**UNKNOWN (RDAP failed):** `achterhoek-box.nl`, `albigeois-iptv.nl`, `amharic-box.nl`, `app-iptv.nl`, `argenteuillais-box.nl`, `assamese-iptv.nl`, `aurayen-iptv.nl`, `aurillacois-iptv.nl`, `azbox-box.nl`, `bagnoletais-iptv.nl`, `barato-iptv.nl`, `bayern-box.nl`, `bellegardien-iptv.nl`, `brayetais-iptv.nl`, `bretagne-iptv.nl`, `cachenais-iptv.nl`, `cevennes-box.nl`, `cfl-iptv.nl`, `chaumontais-iptv.nl`, `cheap-player.nl`, `chromecast-box.nl`, `clichois-box.nl`, `creuse-iptv.nl`, `cycling-iptv.nl`, `dansk-box.nl`, `deals-iptv.nl`, `decazevillois-iptv.nl`, `denbosch-iptv.nl`, `dogri-iptv.nl`, `douarneniste-iptv.nl`, `ede-iptv.nl`, `eure-box.nl`, `eureetloir-iptv.nl`, `faroese-iptv.nl`, `flemish-box.nl`, `gers-iptv.nl`, `gtmedia-box.nl`, `guide-player.nl`, `h616-box.nl`, `heerlen-iptv.nl`, `helmond-iptv.nl`, `hilversum-iptv.nl`, `hockey-box.nl`, `holstein-box.nl`, `holstein-iptv.nl`, `iptv-adsl.nl`, `iptv-culemborg.nl`, `iptv-denbosch.nl`, `iptv-dns.nl`, `iptv-film.nl`, `iptv-heerlen.nl`, `iptv-middelburg.nl`, `iptv-server.nl`, `iptv-spijkenisse.nl`, `iptv-usb.nl`, `iptv-vlissingen.nl`, `iptv-zoetermeer.nl`, `kempen-iptv.nl`, `ledonien-iptv.nl`, `limburg-iptv.nl`, `marathi-box.nl`, `mauleonnais-iptv.nl`, `mecklenburg-iptv.nl`, `mma-iptv.nl`, `montrougien-iptv.nl`, `mxq-iptv.nl`, `neapolitan-iptv.nl`, `nijmegen-iptv.nl`, `nisgaa-iptv.nl`, `noisysien-box.nl`, `nord-iptv.nl`, `orleanais-box.nl`, `oss-iptv.nl`, `overijssel-iptv.nl`, `ozoirien-iptv.nl`, `picardie-iptv.nl`, `pornicais-iptv.nl`, `rk3326r-iptv.nl`, `rk3328t-iptv.nl`, `rk3568s-iptv.nl`, `rockchip-iptv.nl`, `romandie-iptv.nl`, `s905w2s-iptv.nl`, `s905x2-iptv.nl`, `s905x4s-iptv.nl`, `sammenlign-iptv.nl`, `sarladais-iptv.nl`, `scots-iptv.nl`, `sedanais-iptv.nl`, `t950n-iptv.nl`, `t950p-iptv.nl`, `t95zplus-iptv.nl`, `t963e-box.nl`, `t963s-iptv.nl`, `t963x-box.nl`, `t965w-box.nl`, `tahiti-iptv.nl`, `ticino-iptv.nl`, `tswana-iptv.nl`, `tx6-box.nl`, `usb-box.nl`, `villefranchois-box.nl`, `vlc-iptv.nl`, `vod-iptv.nl`, `wallonie-iptv.nl`, `xtream-player.nl`, `zeeland-iptv.nl`, `zidoo-iptv.nl`
+**UNKNOWN (RDAP failed):** `achterhoek-box.nl`, `albigeois-iptv.nl`, `amharic-box.nl`, `app-iptv.nl`, `argenteuillais-box.nl`, `assamese-iptv.nl`, `aurayen-iptv.nl`, `aurillacois-iptv.nl`, `azbox-box.nl`, `bagnoletais-iptv.nl`, `barato-iptv.nl`, `bayern-box.nl`, `bellegardien-iptv.nl`, `brayetais-iptv.nl`, `bretagne-iptv.nl`, `cachenais-iptv.nl`, `cevennes-box.nl`, `cfl-iptv.nl`, `chaumontais-iptv.nl`, `cheap-player.nl`, `chromecast-box.nl`, `clichois-box.nl`, `creuse-iptv.nl`, `cycling-iptv.nl`, `dansk-box.nl`, `deals-iptv.nl`, `decazevillois-iptv.nl`, `denbosch-iptv.nl`, `dogri-iptv.nl`, `douarneniste-iptv.nl`, `ede-iptv.nl`, `eure-box.nl`, `eureetloir-iptv.nl`, `faroese-iptv.nl`, `flemish-box.nl`, `gers-iptv.nl`, `gtmedia-box.nl`, `guide-player.nl`, `h616-box.nl`, `heerlen-iptv.nl`, `helmond-iptv.nl`, `hilversum-iptv.nl`, `hockey-box.nl`, `holstein-box.nl`, `holstein-iptv.nl`, `iptv-adsl.nl`, `iptv-culemborg.nl`, `iptv-denbosch.nl`, `iptv-dns.nl`, `iptv-film.nl`, `iptv-heerlen.nl`, `iptv-middelburg.nl`, `iptv-server.nl`, `iptv-spijkenisse.nl`, `iptv-usb.nl`, `iptv-vlissingen.nl`, `iptv-zoetermeer.nl`, `kempen-iptv.nl`, `ledonien-iptv.nl`, `limburg-iptv.nl`, `marathi-box.nl`, `mauleonnais-iptv.nl`, `mecklenburg-iptv.nl`, `mma-iptv.nl`, `montrougien-iptv.nl`, `mxq-iptv.nl`, `neapolitan-iptv.nl`, `nijmegen-iptv.nl`, `nisgaa-iptv.nl`, `noisysien-box.nl`, `nord-iptv.nl`, `orleanais-box.nl`, `oss-iptv.nl`, `overijssel-iptv.nl`, `ozoirien-iptv.nl`, `picardie-iptv.nl`, `pornicais-iptv.nl`, `rk3326r-iptv.nl`, `rk3328t-iptv.nl`, `rk3568s-iptv.nl`, `rockchip-iptv.nl`, `romandie-iptv.nl`, `s905w2s-iptv.nl`, `s905x2-iptv.nl`, `s905x4s-iptv.nl`, `saintcheronais-iptv.nl`, `sammenlign-iptv.nl`, `sarladais-iptv.nl`, `scots-iptv.nl`, `sedanais-iptv.nl`, `t950n-iptv.nl`, `t950p-iptv.nl`, `t95zplus-iptv.nl`, `t963e-box.nl`, `t963s-iptv.nl`, `t963x-box.nl`, `t965w-box.nl`, `tahiti-iptv.nl`, `ticino-iptv.nl`, `tswana-iptv.nl`, `tx6-box.nl`, `usb-box.nl`, `villefranchois-box.nl`, `vlc-iptv.nl`, `vod-iptv.nl`, `wallonie-iptv.nl`, `xtream-player.nl`, `zeeland-iptv.nl`, `zidoo-iptv.nl`
 
 
 ### .ch — Switzerland
 
-**AVAILABLE (1792)** — native RDAP 404 + no DNS.
+**AVAILABLE (1800)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -17982,6 +18059,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `a133u-iptv.ch` |
 | `a133v-iptv.ch` |
 | `a133w-iptv.ch` |
+| `a133y-iptv.ch` |
 | `a311d-iptv.ch` |
 | `a311ds-iptv.ch` |
 | `aanbieder-iptv.ch` |
@@ -18184,6 +18262,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `bretignyen-iptv.ch` |
 | `breton-box.ch` |
 | `breton-iptv.ch` |
+| `breuilletien-iptv.ch` |
 | `briecomtois-box.ch` |
 | `briecomtois-iptv.ch` |
 | `brig-iptv.ch` |
@@ -18381,6 +18460,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `essonne-iptv.ch` |
 | `estampois-iptv.ch` |
 | `estonian-iptv.ch` |
+| `etrechyen-box.ch` |
+| `etrechyen-iptv.ch` |
 | `eure-box.ch` |
 | `eure-iptv.ch` |
 | `eureetloir-box.ch` |
@@ -18946,6 +19027,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `moretain-iptv.ch` |
 | `morezien-iptv.ch` |
 | `morges-iptv.ch` |
+| `morignyen-iptv.ch` |
 | `morlaisien-iptv.ch` |
 | `mosel-iptv.ch` |
 | `moselle-iptv.ch` |
@@ -19281,6 +19363,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `sachsen-iptv.ch` |
 | `saintaffricain-iptv.ch` |
 | `saintais-iptv.ch` |
+| `saintcheronais-iptv.ch` |
 | `saintfargeausien-box.ch` |
 | `saintfargeausien-iptv.ch` |
 | `saintpierre-iptv.ch` |
@@ -19450,6 +19533,8 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `t962w-iptv.ch` |
 | `t962x-box.ch` |
 | `t962x-iptv.ch` |
+| `t962y-box.ch` |
+| `t962y-iptv.ch` |
 | `t963-box.ch` |
 | `t963-iptv.ch` |
 | `t963e-box.ch` |
@@ -19812,12 +19897,12 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 **Confirm at registrar (not listed as free):** `avis-iptv.se`, `basta-iptv.se`, `compareiptv.se`, `guideiptv.se`, `iptv-stockholm.se`, `iptvcompare.se`, `streamcompare.se`
 
-**UNKNOWN (RDAP failed):** `4k-box.se`, `4k-iptv.se`, `4k-player.se`, `a133-box.se`, `a133-iptv.se`, `a133p-iptv.se`, `a133s-iptv.se`, `a133t-iptv.se`, `a133u-iptv.se`, `a133v-iptv.se`, `a133w-iptv.se`, `a311d-iptv.se`, `a311ds-iptv.se`, `aanbieder-iptv.se`, `aargau-box.se`, `aargau-iptv.se`, `abbonamento-iptv.se`, `abo-box.se`, `abo-iptv.se`, `abo-vod.se`, `abonnement-iptv.se`, `achterhoek-box.se`, `achterhoek-iptv.se`, `adsl-box.se`, `adsl-iptv.se`, `agenais-iptv.se`, `ain-iptv.se`, `aisne-iptv.se`, `akan-iptv.se`, `albanian-box.se`, `albanian-iptv.se`, `albertvillois-box.se`, `albertvillois-iptv.se`, `albigeois-iptv.se`, `alemannic-iptv.se`, `algerie-iptv.se`, `allgaeu-box.se`, `allgaeu-iptv.se`, `allier-iptv.se`, `allwinner-iptv.se`, `alsace-box.se`, `alsace-iptv.se`, `alsacien-iptv.se`, `amazigh-iptv.se`, `amboisien-iptv.se`, `amharic-box.se`, `amharic-iptv.se`, `amienois-iptv.se`, `amiko-box.se`, `amiko-iptv.se`, `amlogic-iptv.se`, `anadol-box.se`, `anadol-iptv.se`, `anbieter-iptv.se`, `ancenien-iptv.se`, `andernosien-box.se`, `andernosien-iptv.se`, `android-box.se`, `android-iptv.se`, `android-player.se`, `angevin-iptv.se`, `angoumoisin-iptv.se`, `anime-box.se`, `anime-iptv.se`, `annecien-box.se`, `annecien-iptv.se`, `annemassien-iptv.se`, `annoneen-iptv.se`, `antilles-box.se`, `antilles-iptv.se`, `app-box.se`, `app-iptv.se`, `app-player.se`, `appenzell-box.se`, `appenzell-iptv.se`, `appletv-box.se`, `appletv-player.se`, `aquitaine-iptv.se`, `arabe-box.se`, `arabe-iptv.se`, `aragonese-iptv.se`, `arboisien-iptv.se`, `arcachonnais-iptv.se`, `ardeche-iptv.se`, `ardechois-iptv.se`, `ardennais-iptv.se`, `ardennes-iptv.se`, `argenteuillais-box.se`, `argenteuillais-iptv.se`, `ariege-box.se`, `ariege-iptv.se`, `arlesien-iptv.se`, `armenian-iptv.se`, `armor-iptv.se`, `arpitan-iptv.se`, `assamese-iptv.se`, `asturian-iptv.se`, `athisien-box.se`, `athisien-iptv.se`, `aube-iptv.se`, `aubenassien-iptv.se`, `aubois-iptv.se`, `aude-iptv.se`, `audois-iptv.se`, `aulnaysien-iptv.se`, `aurayen-iptv.se`, `aurillacois-iptv.se`, `auscitain-box.se`, `auscitain-iptv.se`, `auvergnat-iptv.se`, `auvergne-box.se`, `auvergne-iptv.se`, `auxerrois-iptv.se`, `avalonnais-iptv.se`, `aveyron-box.se`, `aveyron-iptv.se`, `aveyronnais-iptv.se`, `avignonnais-box.se`, `avignonnais-iptv.se`, `avis-box.se`, `avonais-iptv.se`, `axas-box.se`, `axas-iptv.se`, `azbox-box.se`, `azbox-iptv.se`, `azeri-iptv.se`, `backup-box.se`, `backup-iptv.se`, `bagnoletais-iptv.se`, `bambara-iptv.se`, `barato-iptv.se`, `barbizonnais-box.se`, `barbizonnais-iptv.se`, `barrois-iptv.se`, `basque-box.se`, `basque-iptv.se`, `basrhin-iptv.se`, `baugeois-iptv.se`, `bayern-box.se`, `bayern-iptv.se`, `bayonnais-iptv.se`, `bearnais-iptv.se`, `beaufortain-iptv.se`, `beaujolais-iptv.se`, `beaunois-box.se`, `beaunois-iptv.se`, `bedste-iptv.se`, `beelink-box.se`, `beelink-iptv.se`, `belfort-iptv.se`, `belfortain-box.se`, `belfortain-iptv.se`, `bellegardien-iptv.se`, `bellifontain-iptv.se`, `bengali-iptv.se`, `bergeracois-box.se`, `bergeracois-iptv.se`, `berrichon-iptv.se`, `beste-iptv.se`, `betuwe-iptv.se`, `bhojpuri-box.se`, `bhojpuri-iptv.se`, `biarrot-iptv.se`, `bidachais-iptv.se`, `biganais-iptv.se`, `bigourdan-iptv.se`, `billig-iptv.se`, `biscarrossais-iptv.se`, `bisontin-iptv.se`, `bitchois-iptv.se`, `biterrois-box.se`, `biterrois-iptv.se`, `blaisois-iptv.se`, `blancmesnilois-iptv.se`, `blandyen-iptv.se`, `bobignyen-box.se`, `bobignyen-iptv.se`, `boisleroyen-iptv.se`, `bollywood-box.se`, `bollywood-iptv.se`, `bondynois-iptv.se`, `bordelais-iptv.se`, `borlange-iptv.se`, `bosnian-iptv.se`, `bouquet-box.se`, `bouquet-iptv.se`, `bourguignon-iptv.se`, `boutignyen-box.se`, `boutignyen-iptv.se`, `box-abo.se`, `box-app.se`, `box-avis.se`, `box-compare.se`, `box-guide.se`, `box-iptv.se`, `boxing-iptv.se`, `brabant-box.se`, `brabant-iptv.se`, `brandenburg-box.se`, `brandenburg-iptv.se`, `brasil-iptv.se`, `brayetais-iptv.se`, `bressan-iptv.se`, `brestois-iptv.se`, `bretagne-box.se`, `bretagne-iptv.se`, `bretignyen-iptv.se`, `breton-box.se`, `breton-iptv.se`, `briecomtois-box.se`, `briecomtois-iptv.se`, `briochin-iptv.se`, `brivadois-iptv.se`, `brunoyen-iptv.se`, `bulgarian-iptv.se`, `bundesliga-box.se`, `bundesliga-iptv.se`, `bunonais-box.se`, `bunonais-iptv.se`, `buxogeorgien-box.se`, `buxogeorgien-iptv.se`, `cable-box.se`, `cable-iptv.se`, `cachenais-iptv.se`, `caennais-iptv.se`, `cafe-iptv.se`, `cahorsin-iptv.se`, `caladois-box.se`, `caladois-iptv.se`, `caledonie-iptv.se`, `calvados-iptv.se`, `camargue-iptv.se`, `cantal-iptv.se`, `cantalien-iptv.se`, `cantonese-box.se`, `cantonese-iptv.se`, `capbretonnais-iptv.se`, `carcanais-iptv.se`, `castelroussin-iptv.se`, `castillonnais-iptv.se`, `castrais-iptv.se`, `catala-iptv.se`, `catalan-box.se`, `catalan-iptv.se`, `catchup-box.se`, `catchup-guide.se`, `catchup-iptv.se`, `cergypontois-iptv.se`, `cesonais-iptv.se`, `cevennes-box.se`, `cevennes-iptv.se`, `cfl-iptv.se`, `chaillyen-iptv.se`, `chaines-iptv.se`, `challandais-iptv.se`, `chalois-iptv.se`, `chalonnais-iptv.se`, `chamberien-iptv.se`, `champagne-iptv.se`, `champagnolais-iptv.se`, `champenois-iptv.se`, `champignyen-iptv.se`, `champions-iptv.se`, `champmotteusien-iptv.se`, `charentais-iptv.se`, `charente-iptv.se`, `charentemaritime-iptv.se`, `charolais-iptv.se`, `chartrain-box.se`, `chartrain-iptv.se`, `chaumontais-iptv.se`, `cheap-box.se`, `cheap-iptv.se`, `cheap-player.se`, `chellessien-box.se`, `chellessien-iptv.se`, `chessyen-iptv.se`, `chewa-iptv.se`, `chinonais-box.se`, `chinonais-iptv.se`, `choisysien-iptv.se`, `cholletain-iptv.se`, `chromecast-box.se`, `chromecast-player.se`, `cibourien-iptv.se`, `cinema-box.se`, `cinema-iptv.se`, `clayesien-iptv.se`, `clermontois-iptv.se`, `clichois-box.se`, `clichois-iptv.se`, `clusien-iptv.se`, `codes-box.se`, `codes-player.se`, `colmarien-box.se`, `colmarien-iptv.se`, `combslais-iptv.se`, `comparar-iptv.se`, `comparateur-iptv.se`, `compare-box.se`, `compare-player.se`, `comparer-iptv.se`, `comtois-iptv.se`, `concarnois-iptv.se`, `config-box.se`, `config-iptv.se`, `confronta-iptv.se`, `copa-iptv.se`, `corbeilois-iptv.se`, `cordcut-iptv.se`, `cornish-box.se`, `cornish-iptv.se`, `correze-iptv.se`, `corse-iptv.se`, `corsican-iptv.se`, `cotedor-iptv.se`, `coulommierois-iptv.se`, `courancesien-iptv.se`, `courbevoisien-iptv.se`, `coutrasien-iptv.se`, `cree-iptv.se`, `creole-box.se`, `creole-iptv.se`, `creteilais-box.se`, `creteilais-iptv.se`, `creuse-box.se`, `creuse-iptv.se`, `cricket-box.se`, `cricket-iptv.se`, `croatian-iptv.se`, `cube-iptv.se`, `cycling-iptv.se`, `czech-iptv.se`, `dacquois-iptv.se`, `dagbani-iptv.se`, `dammariois-box.se`, `dammariois-iptv.se`, `dansk-box.se`, `dansk-iptv.se`, `dari-iptv.se`, `darts-box.se`, `darts-iptv.se`, `dauphinois-iptv.se`, `deals-iptv.se`, `decazevillois-iptv.se`, `decoder-iptv.se`, `desi-box.se`, `desi-iptv.se`, `deuxsevres-iptv.se`, `dijonnais-iptv.se`, `dinannais-iptv.se`, `diois-iptv.se`, `dionysien-iptv.se`, `dizierois-iptv.se`, `dns-box.se`, `dns-iptv.se`, `docu-iptv.se`, `dogri-iptv.se`, `dordogne-box.se`, `dordogne-iptv.se`, `douarneniste-iptv.se`, `doubs-box.se`, `doubs-iptv.se`, `dourdanais-iptv.se`, `downloader-iptv.se`, `drancyen-iptv.se`, `draveilois-iptv.se`, `dreambox-box.se`, `dreambox-iptv.se`, `drenthe-iptv.se`, `droidbox-iptv.se`, `drome-iptv.se`, `dromois-iptv.se`, `drouais-iptv.se`, `dsl-iptv.se`, `edision-box.se`, `edision-iptv.se`, `eifel-box.se`, `eifel-iptv.se`, `elbe-iptv.se`, `emilian-box.se`, `emilian-iptv.se`, `emilionais-iptv.se`, `emmental-box.se`, `emmental-iptv.se`, `engadin-box.se`, `engadin-iptv.se`, `enigma-iptv.se`, `epg-box.se`, `epg-iptv.se`, `eragnyen-iptv.se`, `eredivisie-box.se`, `eredivisie-iptv.se`, `ermontois-iptv.se`, `erzgebirge-iptv.se`, `essai-box.se`, `essai-iptv.se`, `essonne-iptv.se`, `estampois-iptv.se`, `estonian-iptv.se`, `eure-box.se`, `eure-iptv.se`, `eureetloir-box.se`, `eureetloir-iptv.se`, `euro-iptv.se`, `euskarien-iptv.se`, `evryen-box.se`, `evryen-iptv.se`, `ewe-iptv.se`, `falun-iptv.se`, `family-box.se`, `family-iptv.se`, `faroese-box.se`, `faroese-iptv.se`, `farsi-iptv.se`, `ferguson-box.se`, `ferguson-iptv.se`, `fiber-box.se`, `fiber-iptv.se`, `fibre-box.se`, `fibre-iptv.se`, `figeacois-iptv.se`, `filipino-iptv.se`, `film-box.se`, `film-guide.se`, `film-iptv.se`, `films-iptv.se`, `finistere-iptv.se`, `firecube-iptv.se`, `firestick-box.se`, `firestick-iptv.se`, `firetv-box.se`, `firetv-iptv.se`, `firetv-player.se`, `fitness-iptv.se`, `flamand-iptv.se`, `flemish-box.se`, `flemish-iptv.se`, `fleurantin-iptv.se`, `fleuryen-iptv.se`, `flevoland-box.se`, `flevoland-iptv.se`, `fontenaisien-iptv.se`, `foot-box.se`, `foot-iptv.se`, `football-iptv.se`, `forbachois-iptv.se`, `forezien-iptv.se`, `forfait-box.se`, `forfait-iptv.se`, `formula-box.se`, `formula-iptv.se`, `formuler-iptv.se`, `formuler-player.se`, `fougerais-iptv.se`, `franconvillois-box.se`, `franconvillois-iptv.se`, `francoprovencal-iptv.se`, `fribourgeois-iptv.se`, `friesland-iptv.se`, `frisian-box.se`, `frisian-iptv.se`, `friulian-iptv.se`, `fula-iptv.se`, `futuna-iptv.se`, `gaelic-iptv.se`, `gaillacois-iptv.se`, `galician-box.se`, `galician-iptv.se`, `gallivare-iptv.se`, `gallo-box.se`, `gallo-iptv.se`, `gannatois-iptv.se`, `gard-iptv.se`, `gardois-iptv.se`, `gargoisien-iptv.se`, `gascon-iptv.se`, `gavle-iptv.se`, `gelderland-iptv.se`, `genevois-iptv.se`, `georgian-iptv.se`, `gers-iptv.se`, `gexois-iptv.se`, `gids-iptv.se`, `giennois-box.se`, `giennois-iptv.se`, `gigabit-iptv.se`, `gigablue-box.se`, `gigablue-iptv.se`, `girondin-iptv.se`, `gironvillois-iptv.se`, `gitxsan-box.se`, `gitxsan-iptv.se`, `glarus-iptv.se`, `goedkope-iptv.se`, `golf-iptv.se`, `gontierien-iptv.se`, `googletv-iptv.se`, `goteborg-iptv.se`, `gotland-iptv.se`, `gourdonnais-box.se`, `gourdonnais-iptv.se`, `graubunden-iptv.se`, `graylois-iptv.se`, `grec-iptv.se`, `greenlandic-iptv.se`, `grenoblois-iptv.se`, `grezien-iptv.se`, `grignyen-iptv.se`, `gtmedia-box.se`, `gtmedia-iptv.se`, `guadeloupe-box.se`, `guadeloupe-iptv.se`, `guenstig-iptv.se`, `guerandais-box.se`, `guerandais-iptv.se`, `guia-iptv.se`, `guida-iptv.se`, `guide-box.se`, `guide-player.se`, `gujarati-iptv.se`, `guyane-iptv.se`, `h313-box.se`, `h313-iptv.se`, `h313e-iptv.se`, `h313k-iptv.se`, `h313p-iptv.se`, `h313r-iptv.se`, `h313s-iptv.se`, `h313t-iptv.se`, `h313u-iptv.se`, `h313v-iptv.se`, `h313w-iptv.se`, `h313y-iptv.se`, `h616-box.se`, `h616-iptv.se`, `h618-iptv.se`, `h618e-iptv.se`, `h618k-iptv.se`, `h618n-iptv.se`, `h618p-iptv.se`, `h618r-iptv.se`, `h618s-iptv.se`, `h618t-iptv.se`, `h618u-iptv.se`, `h618v-iptv.se`, `h618w-iptv.se`, `h713-iptv.se`, `h728-iptv.se`, `h728s-iptv.se`, `h96-iptv.se`, `h96max-iptv.se`, `h96mini-box.se`, `h96mini-iptv.se`, `h96pro-iptv.se`, `haguenovien-iptv.se`, `haida-iptv.se`, `halpa-iptv.se`, `handball-box.se`, `handball-iptv.se`, `haryanvi-iptv.se`, `harz-iptv.se`, `hasparrenais-box.se`, `hasparrenais-iptv.se`, `hausa-iptv.se`, `hautemarne-box.se`, `hautemarne-iptv.se`, `hautevienne-box.se`, `hautevienne-iptv.se`, `hautrhin-iptv.se`, `hautsaone-iptv.se`, `hautsdeseine-iptv.se`, `havel-iptv.se`, `havrais-iptv.se`, `hdmi-box.se`, `hdmi-iptv.se`, `hdr-box.se`, `hdr-iptv.se`, `helsingborg-iptv.se`, `hendayais-iptv.se`, `herault-box.se`, `herault-iptv.se`, `heraultais-box.se`, `heraultais-iptv.se`, `herblaysien-box.se`, `herblaysien-iptv.se`, `hessen-box.se`, `hessen-iptv.se`, `hevc-box.se`, `hevc-iptv.se`, `hindi-iptv.se`, `hisense-box.se`, `hisense-iptv.se`, `hk1max-iptv.se`, `hockey-box.se`, `hockey-iptv.se`, `holstein-box.se`, `holstein-iptv.se`, `homatics-box.se`, `homatics-iptv.se`, `home-iptv.se`, `hotel-iptv.se`, `houillois-iptv.se`, `hourtinais-iptv.se`, `hungarian-box.se`, `hungarian-iptv.se`, `icecrypt-iptv.se`, `icelandic-box.se`, `icelandic-iptv.se`, `igbo-iptv.se`, `indre-iptv.se`, `indreetloire-iptv.se`, `infomir-box.se`, `infomir-iptv.se`, `innu-box.se`, `innu-iptv.se`, `install-box.se`, `install-iptv.se`, `install-player.se`, `inuktitut-iptv.se`, `iptv-4k.se`, `iptv-aanbieder.se`, `iptv-abo.se`, `iptv-abonnement.se`, `iptv-adsl.se`, `iptv-anbieter.se`, `iptv-anime.se`, `iptv-arabe.se`, `iptv-backup.se`, `iptv-borlange.se`, `iptv-bouquet.se`, `iptv-catchup.se`, `iptv-cheap.se`, `iptv-cinema.se`, `iptv-codes.se`, `iptv-config.se`, `iptv-deals.se`, `iptv-decoder.se`, `iptv-deutschland.se`, `iptv-dns.se`, `iptv-epg.se`, `iptv-falun.se`, `iptv-fibre.se`, `iptv-film.se`, `iptv-foot.se`, `iptv-gallivare.se`, `iptv-gavle.se`, `iptv-gids.se`, `iptv-goteborg.se`, `iptv-hdmi.se`, `iptv-helsingborg.se`, `iptv-install.se`, `iptv-jokkmokk.se`, `iptv-jonkoping.se`, `iptv-kalix.se`, `iptv-karlstad.se`, `iptv-kids.se`, `iptv-kiruna.se`, `iptv-latino.se`, `iptv-legal.se`, `iptv-legale.se`, `iptv-line.se`, `iptv-linkoping.se`, `iptv-live.se`, `iptv-lulea.se`, `iptv-m3u.se`, `iptv-mac.se`, `iptv-mag.se`, `iptv-malmo.se`, `iptv-maroc.se`, `iptv-nederland.se`, `iptv-news.se`, `iptv-norrkoping.se`, `iptv-orebro.se`, `iptv-ostersund.se`, `iptv-ott.se`, `iptv-pack.se`, `iptv-panel.se`, `iptv-pitea.se`, `iptv-plans.se`, `iptv-playlist.se`, `iptv-portal.se`, `iptv-premium.se`, `iptv-pvr.se`, `iptv-quebec.se`, `iptv-radio.se`, `iptv-replay.se`, `iptv-reseller.se`, `iptv-review.se`, `iptv-series.se`, `iptv-server.se`, `iptv-setup.se`, `iptv-skelleftea.se`, `iptv-sport.se`, `iptv-stb.se`, `iptv-stick.se`, `iptv-stream.se`, `iptv-sundsvall.se`, `iptv-suomi.se`, `iptv-test.se`, `iptv-trial.se`, `iptv-umea.se`, `iptv-uppsala.se`, `iptv-usb.se`, `iptv-vasteras.se`, `iptv-visby.se`, `iptv-vod.se`, `iptv-watch.se`, `iptv-wifi.se`, `iptv-xtream.se`, `iptvbox.se`, `iptvcodes.se`, `iptvpanel.se`, `iptvplaylist.se`, `iptvportal.se`, `iptvreseller.se`, `iptvserver.se`, `iptvsetup.se`, `iptvtrial.se`, `isere-iptv.se`, `iserois-iptv.se`, `issoirien-iptv.se`, `ivryen-iptv.se`, `japanese-iptv.se`, `jokkmokk-iptv.se`, `jonkoping-iptv.se`, `jura-iptv.se`, `jurassien-iptv.se`, `juvisyen-box.se`, `juvisyen-iptv.se`, `jynxbox-iptv.se`, `k1plus-box.se`, `k1plus-iptv.se`, `kabyle-iptv.se`, `kalix-iptv.se`, `kanal-iptv.se`, `kannada-iptv.se`, `karaoke-iptv.se`, `karlstad-iptv.se`, `kashmiri-iptv.se`, `kaufen-iptv.se`, `kazakh-iptv.se`, `kdrama-iptv.se`, `kempen-box.se`, `kempen-iptv.se`, `khmer-box.se`, `khmer-iptv.se`, `kids-box.se`, `kids-iptv.se`, `kinyarwanda-iptv.se`, `kiruna-iptv.se`, `km9-iptv.se`, `kodi-iptv.se`, `konkani-iptv.se`, `korean-box.se`, `korean-iptv.se`, `krio-iptv.se`, `kurdish-iptv.se`, `kyrgyz-box.se`, `kyrgyz-iptv.se`, `ladin-iptv.se`, `ladino-iptv.se`, `lagnyen-iptv.se`, `laliga-box.se`, `laliga-iptv.se`, `landes-box.se`, `landes-iptv.se`, `langeaisien-iptv.se`, `langrois-iptv.se`, `languedoc-iptv.se`, `lannionais-box.se`, `lannionais-iptv.se`, `lao-iptv.se`, `lapland-iptv.se`, `latino-box.se`, `latino-iptv.se`, `latvian-iptv.se`, `lausitz-box.se`, `lausitz-iptv.se`, `lavallois-box.se`, `lavallois-iptv.se`, `lectourois-iptv.se`, `ledonien-iptv.se`, `legal-box.se`, `legal-guide.se`, `legal-iptv.se`, `legale-iptv.se`, `lepuysien-box.se`, `lepuysien-iptv.se`, `libournais-box.se`, `libournais-iptv.se`, `lieusaintais-iptv.se`, `ligue-iptv.se`, `ligue1-iptv.se`, `ligue2-iptv.se`, `ligurian-iptv.se`, `lillois-iptv.se`, `limburg-iptv.se`, `limougeaud-iptv.se`, `limousin-iptv.se`, `line-box.se`, `line-iptv.se`, `lingala-box.se`, `lingala-iptv.se`, `linkoping-iptv.se`, `lite-iptv.se`, `lithuanian-iptv.se`, `live-box.se`, `live-epg.se`, `live-guide.se`, `live-iptv.se`, `live-player.se`, `livryen-iptv.se`, `lochois-iptv.se`, `lognesien-iptv.se`, `loire-box.se`, `loire-iptv.se`, `loiret-iptv.se`, `loiretcher-iptv.se`, `longjumeaunais-iptv.se`, `lorientais-iptv.se`, `lorrain-iptv.se`, `lorraine-box.se`, `lorraine-iptv.se`, `lot-box.se`, `lot-iptv.se`, `lourdais-iptv.se`, `lozere-iptv.se`, `luconnais-iptv.se`, `luganda-box.se`, `luganda-iptv.se`, `lulea-iptv.se`, `lunevillois-iptv.se`, `lurien-iptv.se`, `luxembourgish-box.se`, `luxembourgish-iptv.se`, `luxovien-iptv.se`, `lyonnais-box.se`, `lyonnais-iptv.se`, `m3u-box.se`, `m3u-iptv.se`, `m3u-player.se`, `mac-box.se`, `mac-iptv.se`, `macedonian-iptv.se`, `maconnais-iptv.se`, `mag-box.se`, `mag-iptv.se`, `mag-player.se`, `mag-server.se`, `mag254-box.se`, `mag254-iptv.se`, `magbox.se`, `maghreb-iptv.se`, `maissien-iptv.se`, `maithili-box.se`, `maithili-iptv.se`, `malakoffois-iptv.se`, `malayalam-iptv.se`, `malmo-iptv.se`, `malouin-box.se`, `malouin-iptv.se`, `maltese-iptv.se`, `manche-iptv.se`, `mandarin-iptv.se`, `mantois-iptv.se`, `manx-iptv.se`, `marathi-box.se`, `marathi-iptv.se`, `marcellinois-iptv.se`, `maroc-box.se`, `maroc-iptv.se`, `marsanais-box.se`, `marsanais-iptv.se`, `marseillais-iptv.se`, `martinique-box.se`, `martinique-iptv.se`, `marvejolais-iptv.se`, `massyen-iptv.se`, `mauleonnais-iptv.se`, `mauriacois-iptv.se`, `max-iptv.se`, `maxytec-box.se`, `maxytec-iptv.se`, `mayennais-iptv.se`, `mayenne-iptv.se`, `mayotte-iptv.se`, `mazametain-iptv.se`, `mecklenburg-iptv.se`, `mecool-box.se`, `mecool-iptv.se`, `medocain-box.se`, `medocain-iptv.se`, `meilleur-iptv.se`, `meitei-iptv.se`, `mejor-iptv.se`, `meldois-iptv.se`, `melhor-iptv.se`, `melunais-box.se`, `melunais-iptv.se`, `mendois-iptv.se`, `mespuitsien-box.se`, `mespuitsien-iptv.se`, `messin-iptv.se`, `meudonnais-iptv.se`, `meurthe-iptv.se`, `meurtheetmoselle-box.se`, `meurtheetmoselle-iptv.se`, `meuse-iptv.se`, `miglior-iptv.se`, `migliore-iptv.se`, `mikmaq-box.se`, `mikmaq-iptv.se`, `millavois-box.se`, `millavois-iptv.se`, `millylaforetien-box.se`, `millylaforetien-iptv.se`, `mimizanais-iptv.se`, `mini-box.se`, `minix-iptv.se`, `miraclebox-box.se`, `miraclebox-iptv.se`, `mirandais-iptv.se`, `mitryen-iptv.se`, `mittelland-iptv.se`, `mlb-box.se`, `mlb-iptv.se`, `mls-iptv.se`, `mma-box.se`, `mma-iptv.se`, `mohawk-iptv.se`, `moignysien-iptv.se`, `moissyen-iptv.se`, `mongolian-iptv.se`, `monistrolien-iptv.se`, `montalbanais-iptv.se`, `montargois-iptv.se`, `montbeliardais-iptv.se`, `monterelais-iptv.se`, `montgeronnais-iptv.se`, `montilien-iptv.se`, `montluconnais-iptv.se`, `montmorenceen-iptv.se`, `montpellierain-iptv.se`, `montreuilais-iptv.se`, `montrougien-iptv.se`, `morbihan-box.se`, `morbihan-iptv.se`, `morcenais-iptv.se`, `moretain-iptv.se`, `morezien-iptv.se`, `morlaisien-iptv.se`, `mosel-iptv.se`, `moselle-iptv.se`, `motogp-box.se`, `motogp-iptv.se`, `moulinois-iptv.se`, `moutierain-iptv.se`, `movie-box.se`, `movie-iptv.se`, `muensterland-iptv.se`, `mulhousien-iptv.se`, `multi-iptv.se`, `mutant-iptv.se`, `mxq-box.se`, `mxq-iptv.se`, `mxqpro-iptv.se`, `myanmar-iptv.se`, `najacois-iptv.se`, `nanceien-box.se`, `nanceien-iptv.se`, `nangissien-iptv.se`, `nantais-iptv.se`, `nanterrien-box.se`, `nanterrien-iptv.se`, `nantuen-iptv.se`, `narbonnais-iptv.se`, `nascar-iptv.se`, `nazairien-iptv.se`, `nba-box.se`, `nba-iptv.se`, `ncaa-box.se`, `ncaa-iptv.se`, `ndebele-box.se`, `ndebele-iptv.se`, `neapolitan-iptv.se`, `nemourien-iptv.se`, `nepali-iptv.se`, `neuchatel-box.se`, `neuchatel-iptv.se`, `neuchatelois-iptv.se`, `news-box.se`, `news-iptv.se`, `nfl-box.se`, `nfl-iptv.se`, `nhl-box.se`, `nhl-iptv.se`, `nicois-iptv.se`, `niederrhein-box.se`, `niederrhein-iptv.se`, `nievre-iptv.se`, `nimois-iptv.se`, `niortais-iptv.se`, `nisgaa-iptv.se`, `nissart-iptv.se`, `noisielois-iptv.se`, `noisysien-box.se`, `noisysien-iptv.se`, `nord-iptv.se`, `nordsee-iptv.se`, `normand-box.se`, `normand-iptv.se`, `normandie-box.se`, `normandie-iptv.se`, `norrkoping-iptv.se`, `norsk-box.se`, `norsk-iptv.se`, `nrw-box.se`, `nrw-iptv.se`, `nvidia-box.se`, `nvidia-iptv.se`, `nvidia-player.se`, `nyonsais-iptv.se`, `oberland-box.se`, `oberland-iptv.se`, `occitan-box.se`, `occitan-iptv.se`, `octagon-box.se`, `octagon-iptv.se`, `oder-iptv.se`, `odia-iptv.se`, `oise-iptv.se`, `ojibwe-iptv.se`, `oloronais-box.se`, `oloronais-iptv.se`, `olympics-iptv.se`, `oncyen-iptv.se`, `onn-box.se`, `onn-iptv.se`, `onn-player.se`, `openbox-box.se`, `openbox-iptv.se`, `opticum-box.se`, `opticum-iptv.se`, `orebro-iptv.se`, `orleanais-box.se`, `orleanais-iptv.se`, `orlyen-iptv.se`, `orne-iptv.se`, `oromo-box.se`, `oromo-iptv.se`, `orthezien-iptv.se`, `orvelois-iptv.se`, `osmio-box.se`, `osmio-iptv.se`, `osnysien-iptv.se`, `ostersund-iptv.se`, `ostfriesland-iptv.se`, `ostsee-box.se`, `ostsee-iptv.se`, `ott-box.se`, `ott-iptv.se`, `ott-player.se`, `overijssel-iptv.se`, `oyonnaxien-box.se`, `oyonnaxien-iptv.se`, `ozoirien-iptv.se`, `pack-box.se`, `pack-iptv.se`, `paimpolais-iptv.se`, `palaisien-box.se`, `palaisien-iptv.se`, `palois-iptv.se`, `panel-box.se`, `panel-iptv.se`, `panel-server.se`, `pantinois-box.se`, `pantinois-iptv.se`, `parabole-iptv.se`, `paras-iptv.se`, `parentissois-box.se`, `parentissois-iptv.se`, `pascher-iptv.se`, `pasdecalais-box.se`, `pasdecalais-iptv.se`, `pashto-iptv.se`, `paysbasque-box.se`, `paysbasque-iptv.se`, `paytv-iptv.se`, `peel-iptv.se`, `percheron-iptv.se`, `perigourdin-iptv.se`, `perpignanais-iptv.se`, `peyrehoradais-iptv.se`, `pfalz-box.se`, `pfalz-iptv.se`, `pga-iptv.se`, `philips-box.se`, `philips-iptv.se`, `picard-iptv.se`, `picardie-iptv.se`, `picks-iptv.se`, `piedmontese-box.se`, `piedmontese-iptv.se`, `pinoy-box.se`, `pinoy-iptv.se`, `pitea-iptv.se`, `pithiverien-iptv.se`, `plans-iptv.se`, `player-app.se`, `player-avis.se`, `player-box.se`, `player-compare.se`, `player-guide.se`, `player-iptv.se`, `playlist-iptv.se`, `playlist-player.se`, `plus-iptv.se`, `podcast-iptv.se`, `poissyen-iptv.se`, `poitevin-iptv.se`, `poitou-iptv.se`, `polonais-iptv.se`, `polynesie-iptv.se`, `pontacquais-iptv.se`, `pontaultien-iptv.se`, `pontissalien-box.se`, `pontissalien-iptv.se`, `pontivyen-iptv.se`, `pontoisien-iptv.se`, `pornicais-iptv.se`, `portal-box.se`, `premier-iptv.se`, `premium-iptv.se`, `privadois-box.se`, `privadois-iptv.se`, `pro-box.se`, `pro-player.se`, `proberen-iptv.se`, `protek-box.se`, `protek-iptv.se`, `prova-iptv.se`, `provencal-iptv.se`, `provence-iptv.se`, `provinois-iptv.se`, `prueba-iptv.se`, `prunayen-iptv.se`, `punjabi-box.se`, `punjabi-iptv.se`, `puteolien-iptv.se`, `puydedome-box.se`, `puydedome-iptv.se`, `pvr-box.se`, `pvr-iptv.se`, `pyreneen-iptv.se`, `pyrenees-box.se`, `pyrenees-iptv.se`, `quebec-iptv.se`, `quebecois-iptv.se`, `quimperois-box.se`, `quimperois-iptv.se`, `qviart-box.se`, `qviart-iptv.se`, `racing-iptv.se`, `radio-box.se`, `radio-iptv.se`, `rajasthani-iptv.se`, `rambolitain-iptv.se`, `rank-iptv.se`, `rating-box.se`, `rating-iptv.se`, `redonnais-iptv.se`, `reimois-iptv.se`, `rennais-box.se`, `rennais-iptv.se`, `replay-box.se`, `replay-iptv.se`, `reseller-box.se`, `reseller-iptv.se`, `reseller-panel.se`, `reunion-box.se`, `reunion-iptv.se`, `review-box.se`, `review-guide.se`, `review-iptv.se`, `rhein-iptv.se`, `rhodanien-iptv.se`, `rhone-iptv.se`, `riomois-iptv.se`, `rk3229-iptv.se`, `rk3229s-iptv.se`, `rk3288-iptv.se`, `rk3288s-iptv.se`, `rk3326-iptv.se`, `rk3326r-iptv.se`, `rk3326s-iptv.se`, `rk3328-iptv.se`, `rk3328s-iptv.se`, `rk3328t-iptv.se`, `rk3328u-iptv.se`, `rk3328v-iptv.se`, `rk3328w-iptv.se`, `rk3399-iptv.se`, `rk3399e-iptv.se`, `rk3399k-iptv.se`, `rk3399pro-iptv.se`, `rk3399s-iptv.se`, `rk3528-iptv.se`, `rk3528s-iptv.se`, `rk3562-iptv.se`, `rk3562p-iptv.se`, `rk3562s-iptv.se`, `rk3562t-iptv.se`, `rk3562v-iptv.se`, `rk3566-iptv.se`, `rk3566s-iptv.se`, `rk3568-box.se`, `rk3568-iptv.se`, `rk3568r-iptv.se`, `rk3568s-iptv.se`, `rk3568u-iptv.se`, `rk3568w-iptv.se`, `rk3576-iptv.se`, `rk3588-iptv.se`, `rk3588k-iptv.se`, `rk3588s-iptv.se`, `roannais-box.se`, `roannais-iptv.se`, `rochefortais-iptv.se`, `rochelais-box.se`, `rochelais-iptv.se`, `rockchip-iptv.se`, `roisseen-box.se`, `roisseen-iptv.se`, `roku-box.se`, `roku-iptv.se`, `roku-player.se`, `romagnol-iptv.se`, `romanais-iptv.se`, `romand-iptv.se`, `romandie-box.se`, `romandie-iptv.se`, `romani-iptv.se`, `romanian-box.se`, `romanian-iptv.se`, `romansh-iptv.se`, `rouennais-box.se`, `rouennais-iptv.se`, `roussillonnais-iptv.se`, `royannais-iptv.se`, `rugby-iptv.se`, `ruhr-box.se`, `ruhr-iptv.se`, `rumillien-iptv.se`, `ruthenois-iptv.se`, `s905d3-box.se`, `s905d3-iptv.se`, `s905l2-iptv.se`, `s905l3-box.se`, `s905l3-iptv.se`, `s905m2-iptv.se`, `s905w2-iptv.se`, `s905w2s-iptv.se`, `s905w4s-iptv.se`, `s905x2-box.se`, `s905x2-iptv.se`, `s905x3-iptv.se`, `s905x3s-iptv.se`, `s905x4-box.se`, `s905x4-iptv.se`, `s905x4s-iptv.se`, `s905x5-box.se`, `s905x5-iptv.se`, `s905x5s-iptv.se`, `s905x6s-iptv.se`, `s905x7s-iptv.se`, `s905y4-box.se`, `s905y4-iptv.se`, `s905y4s-iptv.se`, `s922x-box.se`, `s922x-iptv.se`, `saarland-box.se`, `saarland-iptv.se`, `sablais-box.se`, `sablais-iptv.se`, `sabolien-iptv.se`, `sachsen-iptv.se`, `saintaffricain-iptv.se`, `saintais-iptv.se`, `saintfargeausien-box.se`, `saintfargeausien-iptv.se`, `saintpierre-iptv.se`, `salisien-iptv.se`, `sami-box.se`, `sami-iptv.se`, `sammenlign-iptv.se`, `samoisien-box.se`, `samoisien-iptv.se`, `samsung-box.se`, `samsung-iptv.se`, `sanflorain-box.se`, `sanflorain-iptv.se`, `santali-iptv.se`, `sarcellois-iptv.se`, `sardinian-iptv.se`, `sarladais-iptv.se`, `sarregueminois-iptv.se`, `sarthe-box.se`, `sarthe-iptv.se`, `satellite-box.se`, `satellite-iptv.se`, `sauerland-box.se`, `sauerland-iptv.se`, `saumurois-box.se`, `saumurois-iptv.se`, `savignyen-iptv.se`, `savignylemplois-iptv.se`, `savoie-iptv.se`, `savoyard-box.se`, `savoyard-iptv.se`, `schwarzwald-iptv.se`, `schwyz-iptv.se`, `scots-iptv.se`, `sedanais-iptv.se`, `seeland-box.se`, `seeland-iptv.se`, `segreen-iptv.se`, `seineetmarne-iptv.se`, `seinesaintdenis-iptv.se`, `selestatois-iptv.se`, `sender-iptv.se`, `serbian-iptv.se`, `seriea-iptv.se`, `series-box.se`, `series-iptv.se`, `serrisien-iptv.se`, `server-box.se`, `server-guide.se`, `server-iptv.se`, `server-panel.se`, `setup-app.se`, `setup-box.se`, `setup-iptv.se`, `setup-player.se`, `sevranois-iptv.se`, `shield-box.se`, `shield-iptv.se`, `shield-player.se`, `shona-iptv.se`, `sicilian-iptv.se`, `simmental-iptv.se`, `sindhi-iptv.se`, `sinhala-iptv.se`, `sixnations-iptv.se`, `skelleftea-iptv.se`, `ski-iptv.se`, `skybox-iptv.se`, `slovak-iptv.se`, `slovenian-box.se`, `slovenian-iptv.se`, `smart-box.se`, `smart-player.se`, `snooker-iptv.se`, `soccer-box.se`, `soccer-iptv.se`, `solognot-iptv.se`, `somali-box.se`, `somali-iptv.se`, `somme-box.se`, `somme-iptv.se`, `sony-iptv.se`, `sotho-box.se`, `sotho-iptv.se`, `souillagais-iptv.se`, `soulacais-iptv.se`, `sparnacien-box.se`, `sparnacien-iptv.se`, `spinalien-iptv.se`, `sport-box.se`, `sport-guide.se`, `sport-iptv.se`, `spree-box.se`, `spree-iptv.se`, `spreewald-iptv.se`, `starbox-box.se`, `starbox-iptv.se`, `stb-box.se`, `stb-iptv.se`, `stb-player.se`, `stephanois-iptv.se`, `stick-iptv.se`, `stockholm-iptv.se`, `strasbourgeois-iptv.se`, `stream-box.se`, `stream-iptv.se`, `stream-player.se`, `sundsvall-iptv.se`, `suresnois-iptv.se`, `suscripcion-iptv.se`, `swahili-iptv.se`, `swiss-box.se`, `swiss-iptv.se`, `t113-iptv.se`, `t527-iptv.se`, `t765-box.se`, `t765-iptv.se`, `t95-box.se`, `t95-iptv.se`, `t950e-box.se`, `t950e-iptv.se`, `t950k-box.se`, `t950k-iptv.se`, `t950m-box.se`, `t950m-iptv.se`, `t950n-box.se`, `t950n-iptv.se`, `t950p-box.se`, `t950p-iptv.se`, `t950r-box.se`, `t950r-iptv.se`, `t950s-box.se`, `t950s-iptv.se`, `t950t-box.se`, `t950t-iptv.se`, `t950u-box.se`, `t950u-iptv.se`, `t950v-box.se`, `t950v-iptv.se`, `t950w-box.se`, `t950w-iptv.se`, `t950x-box.se`, `t950x-iptv.se`, `t950y-box.se`, `t950y-iptv.se`, `t95k-iptv.se`, `t95max-iptv.se`, `t95mini-iptv.se`, `t95zplus-iptv.se`, `t962d-box.se`, `t962d-iptv.se`, `t962e-iptv.se`, `t962k-box.se`, `t962k-iptv.se`, `t962m-box.se`, `t962m-iptv.se`, `t962p-box.se`, `t962p-iptv.se`, `t962r-box.se`, `t962r-iptv.se`, `t962s-box.se`, `t962s-iptv.se`, `t962t-box.se`, `t962t-iptv.se`, `t962u-box.se`, `t962u-iptv.se`, `t962v-box.se`, `t962v-iptv.se`, `t962w-box.se`, `t962w-iptv.se`, `t962x-box.se`, `t962x-iptv.se`, `t963-box.se`, `t963-iptv.se`, `t963e-box.se`, `t963e-iptv.se`, `t963k-box.se`, `t963k-iptv.se`, `t963m-box.se`, `t963m-iptv.se`, `t963n-box.se`, `t963n-iptv.se`, `t963s-box.se`, `t963s-iptv.se`, `t963x-box.se`, `t963x-iptv.se`, `t965-box.se`, `t965-iptv.se`, `t965e-box.se`, `t965e-iptv.se`, `t965k-box.se`, `t965k-iptv.se`, `t965p-box.se`, `t965p-iptv.se`, `t965r-box.se`, `t965r-iptv.se`, `t965s-box.se`, `t965s-iptv.se`, `t965t-box.se`, `t965t-iptv.se`, `t965u-box.se`, `t965u-iptv.se`, `t965v-box.se`, `t965v-iptv.se`, `t965w-box.se`, `t965w-iptv.se`, `t966-iptv.se`, `t966s-box.se`, `t966s-iptv.se`, `t968-box.se`, `t968-iptv.se`, `t968k-box.se`, `t968k-iptv.se`, `t968m-box.se`, `t968m-iptv.se`, `t968p-box.se`, `t968p-iptv.se`, `t968r-box.se`, `t968r-iptv.se`, `t968s-box.se`, `t968s-iptv.se`, `t968t-box.se`, `t968t-iptv.se`, `t968u-box.se`, `t968u-iptv.se`, `t968v-box.se`, `t968v-iptv.se`, `t968w-box.se`, `t968w-iptv.se`, `t968x-box.se`, `t968x-iptv.se`, `t968y-box.se`, `t968y-iptv.se`, `t972-iptv.se`, `t972e-box.se`, `t972e-iptv.se`, `t972k-box.se`, `t972k-iptv.se`, `t972m-box.se`, `t972m-iptv.se`, `t972n-box.se`, `t972n-iptv.se`, `t972p-box.se`, `t972p-iptv.se`, `t972r-box.se`, `t972r-iptv.se`, `t972s-box.se`, `t972s-iptv.se`, `t972t-box.se`, `t972t-iptv.se`, `t972u-box.se`, `t972u-iptv.se`, `t972v-box.se`, `t972v-iptv.se`, `t972w-box.se`, `t972w-iptv.se`, `t982-box.se`, `t982-iptv.se`, `t982s-box.se`, `t982s-iptv.se`, `tahiti-iptv.se`, `tajik-iptv.se`, `tamil-box.se`, `tamil-iptv.se`, `tanix-box.se`, `tanix-iptv.se`, `tarbais-box.se`, `tarbais-iptv.se`, `tarn-box.se`, `tarn-iptv.se`, `tavernyen-iptv.se`, `tcl-box.se`, `tcl-iptv.se`, `telenovela-iptv.se`, `telugu-box.se`, `telugu-iptv.se`, `tennis-box.se`, `tennis-iptv.se`, `tessin-iptv.se`, `tessinois-box.se`, `tessinois-iptv.se`, `test-box.se`, `test-iptv.se`, `testerin-iptv.se`, `thai-iptv.se`, `thiernois-iptv.se`, `thionvillois-box.se`, `thionvillois-iptv.se`, `thomeryen-iptv.se`, `thueringen-iptv.se`, `thurgau-iptv.se`, `tibetan-box.se`, `tibetan-iptv.se`, `ticino-box.se`, `ticino-iptv.se`, `tigrinya-box.se`, `tigrinya-iptv.se`, `timeshift-iptv.se`, `tlingit-iptv.se`, `tnt-box.se`, `tnt-iptv.se`, `tonnerrois-iptv.se`, `torcyen-iptv.se`, `toulois-iptv.se`, `toulonnais-iptv.se`, `toulousain-iptv.se`, `tourangeau-iptv.se`, `tournonais-iptv.se`, `transpeed-box.se`, `transpeed-iptv.se`, `tregorrois-iptv.se`, `tremblaysien-iptv.se`, `trial-app.se`, `trial-box.se`, `trial-iptv.se`, `trial-player.se`, `troyen-box.se`, `troyen-iptv.se`, `tswana-iptv.se`, `tulu-box.se`, `tulu-iptv.se`, `tunisie-iptv.se`, `turc-iptv.se`, `turkmen-iptv.se`, `twente-box.se`, `twente-iptv.se`, `twi-iptv.se`, `tx3-iptv.se`, `tx6-box.se`, `tx6-iptv.se`, `uclan-box.se`, `uclan-iptv.se`, `ufc-iptv.se`, `ugoos-iptv.se`, `ukrainian-box.se`, `ukrainian-iptv.se`, `ultra-iptv.se`, `umea-iptv.se`, `uppsala-iptv.se`, `urdu-iptv.se`, `usb-box.se`, `usb-iptv.se`, `uzbek-iptv.se`, `vairesien-box.se`, `vairesien-iptv.se`, `valais-box.se`, `valais-iptv.se`, `valaisan-iptv.se`, `valdemarne-iptv.se`, `valdoise-iptv.se`, `valentinois-box.se`, `valentinois-iptv.se`, `valpuiseauxais-iptv.se`, `vannetais-box.se`, `vannetais-iptv.se`, `var-box.se`, `var-iptv.se`, `vasteras-iptv.se`, `vaucluse-box.se`, `vaucluse-iptv.se`, `vauclusien-iptv.se`, `vaud-iptv.se`, `vaudois-iptv.se`, `vellave-box.se`, `vellave-iptv.se`, `veluwe-box.se`, `veluwe-iptv.se`, `vendee-box.se`, `vendee-iptv.se`, `vendomois-box.se`, `vendomois-iptv.se`, `venetian-iptv.se`, `vergelijk-iptv.se`, `vergleich-iptv.se`, `versaillais-box.se`, `versaillais-iptv.se`, `vertaa-iptv.se`, `vertsaintdenisien-iptv.se`, `vestland-iptv.se`, `vesulien-box.se`, `vesulien-iptv.se`, `vichyssois-box.se`, `vichyssois-iptv.se`, `videllesien-iptv.se`, `vienne-iptv.se`, `viennois-iptv.se`, `vierzonnais-iptv.se`, `vietnamese-iptv.se`, `villefranchois-box.se`, `villefranchois-iptv.se`, `villeparisisien-box.se`, `villeparisisien-iptv.se`, `vincennois-iptv.se`, `viryen-iptv.se`, `visby-iptv.se`, `vitreen-iptv.se`, `vitryen-box.se`, `vitryen-iptv.se`, `vlaams-box.se`, `vlaams-iptv.se`, `vlc-iptv.se`, `vod-abo.se`, `vod-box.se`, `vod-guide.se`, `vod-iptv.se`, `vod-player.se`, `voironnais-box.se`, `voironnais-iptv.se`, `vontar-iptv.se`, `vosges-box.se`, `vosges-iptv.se`, `vosgien-iptv.se`, `vpn-box.se`, `vpn-iptv.se`, `vuduo-box.se`, `vuduo-iptv.se`, `vulcanien-iptv.se`, `vuplus-iptv.se`, `vusolo-box.se`, `vusolo-iptv.se`, `vustorm-box.se`, `vustorm-iptv.se`, `vuultimo-iptv.se`, `vuuno-box.se`, `vuuno-iptv.se`, `vuzero-iptv.se`, `wadden-iptv.se`, `wallis-iptv.se`, `wallon-iptv.se`, `wallonie-iptv.se`, `walloon-box.se`, `walloon-iptv.se`, `walser-iptv.se`, `watch-box.se`, `watch-guide.se`, `watch-iptv.se`, `welsh-iptv.se`, `weser-box.se`, `weser-iptv.se`, `westfalen-iptv.se`, `wetek-box.se`, `wetek-iptv.se`, `wifi-box.se`, `wifi-iptv.se`, `wnba-iptv.se`, `wolof-iptv.se`, `worldcup-iptv.se`, `wwe-box.se`, `wwe-iptv.se`, `x88pro-box.se`, `x88pro-iptv.se`, `x92-box.se`, `x92-iptv.se`, `x96-iptv.se`, `x96max-box.se`, `x96max-iptv.se`, `x96mini-iptv.se`, `x99-iptv.se`, `x99max-iptv.se`, `xhosa-iptv.se`, `xiaomi-box.se`, `xiaomi-iptv.se`, `xiaomi-player.se`, `xsarius-box.se`, `xsarius-iptv.se`, `xtream-box.se`, `xtream-iptv.se`, `xtream-player.se`, `yerrois-iptv.se`, `yiddish-iptv.se`, `yonne-box.se`, `yonne-iptv.se`, `yoruba-iptv.se`, `yssingelais-iptv.se`, `yvelines-box.se`, `yvelines-iptv.se`, `zeeland-box.se`, `zeeland-iptv.se`, `zgemma-iptv.se`, `zidoo-box.se`, `zidoo-iptv.se`, `zug-box.se`, `zug-iptv.se`, `zulu-iptv.se`
+**UNKNOWN (RDAP failed):** `4k-box.se`, `4k-iptv.se`, `4k-player.se`, `a133-box.se`, `a133-iptv.se`, `a133p-iptv.se`, `a133s-iptv.se`, `a133t-iptv.se`, `a133u-iptv.se`, `a133v-iptv.se`, `a133w-iptv.se`, `a133y-iptv.se`, `a311d-iptv.se`, `a311ds-iptv.se`, `aanbieder-iptv.se`, `aargau-box.se`, `aargau-iptv.se`, `abbonamento-iptv.se`, `abo-box.se`, `abo-iptv.se`, `abo-vod.se`, `abonnement-iptv.se`, `achterhoek-box.se`, `achterhoek-iptv.se`, `adsl-box.se`, `adsl-iptv.se`, `agenais-iptv.se`, `ain-iptv.se`, `aisne-iptv.se`, `akan-iptv.se`, `albanian-box.se`, `albanian-iptv.se`, `albertvillois-box.se`, `albertvillois-iptv.se`, `albigeois-iptv.se`, `alemannic-iptv.se`, `algerie-iptv.se`, `allgaeu-box.se`, `allgaeu-iptv.se`, `allier-iptv.se`, `allwinner-iptv.se`, `alsace-box.se`, `alsace-iptv.se`, `alsacien-iptv.se`, `amazigh-iptv.se`, `amboisien-iptv.se`, `amharic-box.se`, `amharic-iptv.se`, `amienois-iptv.se`, `amiko-box.se`, `amiko-iptv.se`, `amlogic-iptv.se`, `anadol-box.se`, `anadol-iptv.se`, `anbieter-iptv.se`, `ancenien-iptv.se`, `andernosien-box.se`, `andernosien-iptv.se`, `android-box.se`, `android-iptv.se`, `android-player.se`, `angevin-iptv.se`, `angoumoisin-iptv.se`, `anime-box.se`, `anime-iptv.se`, `annecien-box.se`, `annecien-iptv.se`, `annemassien-iptv.se`, `annoneen-iptv.se`, `antilles-box.se`, `antilles-iptv.se`, `app-box.se`, `app-iptv.se`, `app-player.se`, `appenzell-box.se`, `appenzell-iptv.se`, `appletv-box.se`, `appletv-player.se`, `aquitaine-iptv.se`, `arabe-box.se`, `arabe-iptv.se`, `aragonese-iptv.se`, `arboisien-iptv.se`, `arcachonnais-iptv.se`, `ardeche-iptv.se`, `ardechois-iptv.se`, `ardennais-iptv.se`, `ardennes-iptv.se`, `argenteuillais-box.se`, `argenteuillais-iptv.se`, `ariege-box.se`, `ariege-iptv.se`, `arlesien-iptv.se`, `armenian-iptv.se`, `armor-iptv.se`, `arpitan-iptv.se`, `assamese-iptv.se`, `asturian-iptv.se`, `athisien-box.se`, `athisien-iptv.se`, `aube-iptv.se`, `aubenassien-iptv.se`, `aubois-iptv.se`, `aude-iptv.se`, `audois-iptv.se`, `aulnaysien-iptv.se`, `aurayen-iptv.se`, `aurillacois-iptv.se`, `auscitain-box.se`, `auscitain-iptv.se`, `auvergnat-iptv.se`, `auvergne-box.se`, `auvergne-iptv.se`, `auxerrois-iptv.se`, `avalonnais-iptv.se`, `aveyron-box.se`, `aveyron-iptv.se`, `aveyronnais-iptv.se`, `avignonnais-box.se`, `avignonnais-iptv.se`, `avis-box.se`, `avonais-iptv.se`, `axas-box.se`, `axas-iptv.se`, `azbox-box.se`, `azbox-iptv.se`, `azeri-iptv.se`, `backup-box.se`, `backup-iptv.se`, `bagnoletais-iptv.se`, `bambara-iptv.se`, `barato-iptv.se`, `barbizonnais-box.se`, `barbizonnais-iptv.se`, `barrois-iptv.se`, `basque-box.se`, `basque-iptv.se`, `basrhin-iptv.se`, `baugeois-iptv.se`, `bayern-box.se`, `bayern-iptv.se`, `bayonnais-iptv.se`, `bearnais-iptv.se`, `beaufortain-iptv.se`, `beaujolais-iptv.se`, `beaunois-box.se`, `beaunois-iptv.se`, `bedste-iptv.se`, `beelink-box.se`, `beelink-iptv.se`, `belfort-iptv.se`, `belfortain-box.se`, `belfortain-iptv.se`, `bellegardien-iptv.se`, `bellifontain-iptv.se`, `bengali-iptv.se`, `bergeracois-box.se`, `bergeracois-iptv.se`, `berrichon-iptv.se`, `beste-iptv.se`, `betuwe-iptv.se`, `bhojpuri-box.se`, `bhojpuri-iptv.se`, `biarrot-iptv.se`, `bidachais-iptv.se`, `biganais-iptv.se`, `bigourdan-iptv.se`, `billig-iptv.se`, `biscarrossais-iptv.se`, `bisontin-iptv.se`, `bitchois-iptv.se`, `biterrois-box.se`, `biterrois-iptv.se`, `blaisois-iptv.se`, `blancmesnilois-iptv.se`, `blandyen-iptv.se`, `bobignyen-box.se`, `bobignyen-iptv.se`, `boisleroyen-iptv.se`, `bollywood-box.se`, `bollywood-iptv.se`, `bondynois-iptv.se`, `bordelais-iptv.se`, `borlange-iptv.se`, `bosnian-iptv.se`, `bouquet-box.se`, `bouquet-iptv.se`, `bourguignon-iptv.se`, `boutignyen-box.se`, `boutignyen-iptv.se`, `box-abo.se`, `box-app.se`, `box-avis.se`, `box-compare.se`, `box-guide.se`, `box-iptv.se`, `boxing-iptv.se`, `brabant-box.se`, `brabant-iptv.se`, `brandenburg-box.se`, `brandenburg-iptv.se`, `brasil-iptv.se`, `brayetais-iptv.se`, `bressan-iptv.se`, `brestois-iptv.se`, `bretagne-box.se`, `bretagne-iptv.se`, `bretignyen-iptv.se`, `breton-box.se`, `breton-iptv.se`, `breuilletien-iptv.se`, `briecomtois-box.se`, `briecomtois-iptv.se`, `briochin-iptv.se`, `brivadois-iptv.se`, `brunoyen-iptv.se`, `bulgarian-iptv.se`, `bundesliga-box.se`, `bundesliga-iptv.se`, `bunonais-box.se`, `bunonais-iptv.se`, `buxogeorgien-box.se`, `buxogeorgien-iptv.se`, `cable-box.se`, `cable-iptv.se`, `cachenais-iptv.se`, `caennais-iptv.se`, `cafe-iptv.se`, `cahorsin-iptv.se`, `caladois-box.se`, `caladois-iptv.se`, `caledonie-iptv.se`, `calvados-iptv.se`, `camargue-iptv.se`, `cantal-iptv.se`, `cantalien-iptv.se`, `cantonese-box.se`, `cantonese-iptv.se`, `capbretonnais-iptv.se`, `carcanais-iptv.se`, `castelroussin-iptv.se`, `castillonnais-iptv.se`, `castrais-iptv.se`, `catala-iptv.se`, `catalan-box.se`, `catalan-iptv.se`, `catchup-box.se`, `catchup-guide.se`, `catchup-iptv.se`, `cergypontois-iptv.se`, `cesonais-iptv.se`, `cevennes-box.se`, `cevennes-iptv.se`, `cfl-iptv.se`, `chaillyen-iptv.se`, `chaines-iptv.se`, `challandais-iptv.se`, `chalois-iptv.se`, `chalonnais-iptv.se`, `chamberien-iptv.se`, `champagne-iptv.se`, `champagnolais-iptv.se`, `champenois-iptv.se`, `champignyen-iptv.se`, `champions-iptv.se`, `champmotteusien-iptv.se`, `charentais-iptv.se`, `charente-iptv.se`, `charentemaritime-iptv.se`, `charolais-iptv.se`, `chartrain-box.se`, `chartrain-iptv.se`, `chaumontais-iptv.se`, `cheap-box.se`, `cheap-iptv.se`, `cheap-player.se`, `chellessien-box.se`, `chellessien-iptv.se`, `chessyen-iptv.se`, `chewa-iptv.se`, `chinonais-box.se`, `chinonais-iptv.se`, `choisysien-iptv.se`, `cholletain-iptv.se`, `chromecast-box.se`, `chromecast-player.se`, `cibourien-iptv.se`, `cinema-box.se`, `cinema-iptv.se`, `clayesien-iptv.se`, `clermontois-iptv.se`, `clichois-box.se`, `clichois-iptv.se`, `clusien-iptv.se`, `codes-box.se`, `codes-player.se`, `colmarien-box.se`, `colmarien-iptv.se`, `combslais-iptv.se`, `comparar-iptv.se`, `comparateur-iptv.se`, `compare-box.se`, `compare-player.se`, `comparer-iptv.se`, `comtois-iptv.se`, `concarnois-iptv.se`, `config-box.se`, `config-iptv.se`, `confronta-iptv.se`, `copa-iptv.se`, `corbeilois-iptv.se`, `cordcut-iptv.se`, `cornish-box.se`, `cornish-iptv.se`, `correze-iptv.se`, `corse-iptv.se`, `corsican-iptv.se`, `cotedor-iptv.se`, `coulommierois-iptv.se`, `courancesien-iptv.se`, `courbevoisien-iptv.se`, `coutrasien-iptv.se`, `cree-iptv.se`, `creole-box.se`, `creole-iptv.se`, `creteilais-box.se`, `creteilais-iptv.se`, `creuse-box.se`, `creuse-iptv.se`, `cricket-box.se`, `cricket-iptv.se`, `croatian-iptv.se`, `cube-iptv.se`, `cycling-iptv.se`, `czech-iptv.se`, `dacquois-iptv.se`, `dagbani-iptv.se`, `dammariois-box.se`, `dammariois-iptv.se`, `dansk-box.se`, `dansk-iptv.se`, `dari-iptv.se`, `darts-box.se`, `darts-iptv.se`, `dauphinois-iptv.se`, `deals-iptv.se`, `decazevillois-iptv.se`, `decoder-iptv.se`, `desi-box.se`, `desi-iptv.se`, `deuxsevres-iptv.se`, `dijonnais-iptv.se`, `dinannais-iptv.se`, `diois-iptv.se`, `dionysien-iptv.se`, `dizierois-iptv.se`, `dns-box.se`, `dns-iptv.se`, `docu-iptv.se`, `dogri-iptv.se`, `dordogne-box.se`, `dordogne-iptv.se`, `douarneniste-iptv.se`, `doubs-box.se`, `doubs-iptv.se`, `dourdanais-iptv.se`, `downloader-iptv.se`, `drancyen-iptv.se`, `draveilois-iptv.se`, `dreambox-box.se`, `dreambox-iptv.se`, `drenthe-iptv.se`, `droidbox-iptv.se`, `drome-iptv.se`, `dromois-iptv.se`, `drouais-iptv.se`, `dsl-iptv.se`, `edision-box.se`, `edision-iptv.se`, `eifel-box.se`, `eifel-iptv.se`, `elbe-iptv.se`, `emilian-box.se`, `emilian-iptv.se`, `emilionais-iptv.se`, `emmental-box.se`, `emmental-iptv.se`, `engadin-box.se`, `engadin-iptv.se`, `enigma-iptv.se`, `epg-box.se`, `epg-iptv.se`, `eragnyen-iptv.se`, `eredivisie-box.se`, `eredivisie-iptv.se`, `ermontois-iptv.se`, `erzgebirge-iptv.se`, `essai-box.se`, `essai-iptv.se`, `essonne-iptv.se`, `estampois-iptv.se`, `estonian-iptv.se`, `etrechyen-box.se`, `etrechyen-iptv.se`, `eure-box.se`, `eure-iptv.se`, `eureetloir-box.se`, `eureetloir-iptv.se`, `euro-iptv.se`, `euskarien-iptv.se`, `evryen-box.se`, `evryen-iptv.se`, `ewe-iptv.se`, `falun-iptv.se`, `family-box.se`, `family-iptv.se`, `faroese-box.se`, `faroese-iptv.se`, `farsi-iptv.se`, `ferguson-box.se`, `ferguson-iptv.se`, `fiber-box.se`, `fiber-iptv.se`, `fibre-box.se`, `fibre-iptv.se`, `figeacois-iptv.se`, `filipino-iptv.se`, `film-box.se`, `film-guide.se`, `film-iptv.se`, `films-iptv.se`, `finistere-iptv.se`, `firecube-iptv.se`, `firestick-box.se`, `firestick-iptv.se`, `firetv-box.se`, `firetv-iptv.se`, `firetv-player.se`, `fitness-iptv.se`, `flamand-iptv.se`, `flemish-box.se`, `flemish-iptv.se`, `fleurantin-iptv.se`, `fleuryen-iptv.se`, `flevoland-box.se`, `flevoland-iptv.se`, `fontenaisien-iptv.se`, `foot-box.se`, `foot-iptv.se`, `football-iptv.se`, `forbachois-iptv.se`, `forezien-iptv.se`, `forfait-box.se`, `forfait-iptv.se`, `formula-box.se`, `formula-iptv.se`, `formuler-iptv.se`, `formuler-player.se`, `fougerais-iptv.se`, `franconvillois-box.se`, `franconvillois-iptv.se`, `francoprovencal-iptv.se`, `fribourgeois-iptv.se`, `friesland-iptv.se`, `frisian-box.se`, `frisian-iptv.se`, `friulian-iptv.se`, `fula-iptv.se`, `futuna-iptv.se`, `gaelic-iptv.se`, `gaillacois-iptv.se`, `galician-box.se`, `galician-iptv.se`, `gallivare-iptv.se`, `gallo-box.se`, `gallo-iptv.se`, `gannatois-iptv.se`, `gard-iptv.se`, `gardois-iptv.se`, `gargoisien-iptv.se`, `gascon-iptv.se`, `gavle-iptv.se`, `gelderland-iptv.se`, `genevois-iptv.se`, `georgian-iptv.se`, `gers-iptv.se`, `gexois-iptv.se`, `gids-iptv.se`, `giennois-box.se`, `giennois-iptv.se`, `gigabit-iptv.se`, `gigablue-box.se`, `gigablue-iptv.se`, `girondin-iptv.se`, `gironvillois-iptv.se`, `gitxsan-box.se`, `gitxsan-iptv.se`, `glarus-iptv.se`, `goedkope-iptv.se`, `golf-iptv.se`, `gontierien-iptv.se`, `googletv-iptv.se`, `goteborg-iptv.se`, `gotland-iptv.se`, `gourdonnais-box.se`, `gourdonnais-iptv.se`, `graubunden-iptv.se`, `graylois-iptv.se`, `grec-iptv.se`, `greenlandic-iptv.se`, `grenoblois-iptv.se`, `grezien-iptv.se`, `grignyen-iptv.se`, `gtmedia-box.se`, `gtmedia-iptv.se`, `guadeloupe-box.se`, `guadeloupe-iptv.se`, `guenstig-iptv.se`, `guerandais-box.se`, `guerandais-iptv.se`, `guia-iptv.se`, `guida-iptv.se`, `guide-box.se`, `guide-player.se`, `gujarati-iptv.se`, `guyane-iptv.se`, `h313-box.se`, `h313-iptv.se`, `h313e-iptv.se`, `h313k-iptv.se`, `h313p-iptv.se`, `h313r-iptv.se`, `h313s-iptv.se`, `h313t-iptv.se`, `h313u-iptv.se`, `h313v-iptv.se`, `h313w-iptv.se`, `h313y-iptv.se`, `h616-box.se`, `h616-iptv.se`, `h618-iptv.se`, `h618e-iptv.se`, `h618k-iptv.se`, `h618n-iptv.se`, `h618p-iptv.se`, `h618r-iptv.se`, `h618s-iptv.se`, `h618t-iptv.se`, `h618u-iptv.se`, `h618v-iptv.se`, `h618w-iptv.se`, `h713-iptv.se`, `h728-iptv.se`, `h728s-iptv.se`, `h96-iptv.se`, `h96max-iptv.se`, `h96mini-box.se`, `h96mini-iptv.se`, `h96pro-iptv.se`, `haguenovien-iptv.se`, `haida-iptv.se`, `halpa-iptv.se`, `handball-box.se`, `handball-iptv.se`, `haryanvi-iptv.se`, `harz-iptv.se`, `hasparrenais-box.se`, `hasparrenais-iptv.se`, `hausa-iptv.se`, `hautemarne-box.se`, `hautemarne-iptv.se`, `hautevienne-box.se`, `hautevienne-iptv.se`, `hautrhin-iptv.se`, `hautsaone-iptv.se`, `hautsdeseine-iptv.se`, `havel-iptv.se`, `havrais-iptv.se`, `hdmi-box.se`, `hdmi-iptv.se`, `hdr-box.se`, `hdr-iptv.se`, `helsingborg-iptv.se`, `hendayais-iptv.se`, `herault-box.se`, `herault-iptv.se`, `heraultais-box.se`, `heraultais-iptv.se`, `herblaysien-box.se`, `herblaysien-iptv.se`, `hessen-box.se`, `hessen-iptv.se`, `hevc-box.se`, `hevc-iptv.se`, `hindi-iptv.se`, `hisense-box.se`, `hisense-iptv.se`, `hk1max-iptv.se`, `hockey-box.se`, `hockey-iptv.se`, `holstein-box.se`, `holstein-iptv.se`, `homatics-box.se`, `homatics-iptv.se`, `home-iptv.se`, `hotel-iptv.se`, `houillois-iptv.se`, `hourtinais-iptv.se`, `hungarian-box.se`, `hungarian-iptv.se`, `icecrypt-iptv.se`, `icelandic-box.se`, `icelandic-iptv.se`, `igbo-iptv.se`, `indre-iptv.se`, `indreetloire-iptv.se`, `infomir-box.se`, `infomir-iptv.se`, `innu-box.se`, `innu-iptv.se`, `install-box.se`, `install-iptv.se`, `install-player.se`, `inuktitut-iptv.se`, `iptv-4k.se`, `iptv-aanbieder.se`, `iptv-abo.se`, `iptv-abonnement.se`, `iptv-adsl.se`, `iptv-anbieter.se`, `iptv-anime.se`, `iptv-arabe.se`, `iptv-backup.se`, `iptv-borlange.se`, `iptv-bouquet.se`, `iptv-catchup.se`, `iptv-cheap.se`, `iptv-cinema.se`, `iptv-codes.se`, `iptv-config.se`, `iptv-deals.se`, `iptv-decoder.se`, `iptv-deutschland.se`, `iptv-dns.se`, `iptv-epg.se`, `iptv-falun.se`, `iptv-fibre.se`, `iptv-film.se`, `iptv-foot.se`, `iptv-gallivare.se`, `iptv-gavle.se`, `iptv-gids.se`, `iptv-goteborg.se`, `iptv-hdmi.se`, `iptv-helsingborg.se`, `iptv-install.se`, `iptv-jokkmokk.se`, `iptv-jonkoping.se`, `iptv-kalix.se`, `iptv-karlstad.se`, `iptv-kids.se`, `iptv-kiruna.se`, `iptv-latino.se`, `iptv-legal.se`, `iptv-legale.se`, `iptv-line.se`, `iptv-linkoping.se`, `iptv-live.se`, `iptv-lulea.se`, `iptv-m3u.se`, `iptv-mac.se`, `iptv-mag.se`, `iptv-malmo.se`, `iptv-maroc.se`, `iptv-nederland.se`, `iptv-news.se`, `iptv-norrkoping.se`, `iptv-orebro.se`, `iptv-ostersund.se`, `iptv-ott.se`, `iptv-pack.se`, `iptv-panel.se`, `iptv-pitea.se`, `iptv-plans.se`, `iptv-playlist.se`, `iptv-portal.se`, `iptv-premium.se`, `iptv-pvr.se`, `iptv-quebec.se`, `iptv-radio.se`, `iptv-replay.se`, `iptv-reseller.se`, `iptv-review.se`, `iptv-series.se`, `iptv-server.se`, `iptv-setup.se`, `iptv-skelleftea.se`, `iptv-sport.se`, `iptv-stb.se`, `iptv-stick.se`, `iptv-stream.se`, `iptv-sundsvall.se`, `iptv-suomi.se`, `iptv-test.se`, `iptv-trial.se`, `iptv-umea.se`, `iptv-uppsala.se`, `iptv-usb.se`, `iptv-vasteras.se`, `iptv-visby.se`, `iptv-vod.se`, `iptv-watch.se`, `iptv-wifi.se`, `iptv-xtream.se`, `iptvbox.se`, `iptvcodes.se`, `iptvpanel.se`, `iptvplaylist.se`, `iptvportal.se`, `iptvreseller.se`, `iptvserver.se`, `iptvsetup.se`, `iptvtrial.se`, `isere-iptv.se`, `iserois-iptv.se`, `issoirien-iptv.se`, `ivryen-iptv.se`, `japanese-iptv.se`, `jokkmokk-iptv.se`, `jonkoping-iptv.se`, `jura-iptv.se`, `jurassien-iptv.se`, `juvisyen-box.se`, `juvisyen-iptv.se`, `jynxbox-iptv.se`, `k1plus-box.se`, `k1plus-iptv.se`, `kabyle-iptv.se`, `kalix-iptv.se`, `kanal-iptv.se`, `kannada-iptv.se`, `karaoke-iptv.se`, `karlstad-iptv.se`, `kashmiri-iptv.se`, `kaufen-iptv.se`, `kazakh-iptv.se`, `kdrama-iptv.se`, `kempen-box.se`, `kempen-iptv.se`, `khmer-box.se`, `khmer-iptv.se`, `kids-box.se`, `kids-iptv.se`, `kinyarwanda-iptv.se`, `kiruna-iptv.se`, `km9-iptv.se`, `kodi-iptv.se`, `konkani-iptv.se`, `korean-box.se`, `korean-iptv.se`, `krio-iptv.se`, `kurdish-iptv.se`, `kyrgyz-box.se`, `kyrgyz-iptv.se`, `ladin-iptv.se`, `ladino-iptv.se`, `lagnyen-iptv.se`, `laliga-box.se`, `laliga-iptv.se`, `landes-box.se`, `landes-iptv.se`, `langeaisien-iptv.se`, `langrois-iptv.se`, `languedoc-iptv.se`, `lannionais-box.se`, `lannionais-iptv.se`, `lao-iptv.se`, `lapland-iptv.se`, `latino-box.se`, `latino-iptv.se`, `latvian-iptv.se`, `lausitz-box.se`, `lausitz-iptv.se`, `lavallois-box.se`, `lavallois-iptv.se`, `lectourois-iptv.se`, `ledonien-iptv.se`, `legal-box.se`, `legal-guide.se`, `legal-iptv.se`, `legale-iptv.se`, `lepuysien-box.se`, `lepuysien-iptv.se`, `libournais-box.se`, `libournais-iptv.se`, `lieusaintais-iptv.se`, `ligue-iptv.se`, `ligue1-iptv.se`, `ligue2-iptv.se`, `ligurian-iptv.se`, `lillois-iptv.se`, `limburg-iptv.se`, `limougeaud-iptv.se`, `limousin-iptv.se`, `line-box.se`, `line-iptv.se`, `lingala-box.se`, `lingala-iptv.se`, `linkoping-iptv.se`, `lite-iptv.se`, `lithuanian-iptv.se`, `live-box.se`, `live-epg.se`, `live-guide.se`, `live-iptv.se`, `live-player.se`, `livryen-iptv.se`, `lochois-iptv.se`, `lognesien-iptv.se`, `loire-box.se`, `loire-iptv.se`, `loiret-iptv.se`, `loiretcher-iptv.se`, `longjumeaunais-iptv.se`, `lorientais-iptv.se`, `lorrain-iptv.se`, `lorraine-box.se`, `lorraine-iptv.se`, `lot-box.se`, `lot-iptv.se`, `lourdais-iptv.se`, `lozere-iptv.se`, `luconnais-iptv.se`, `luganda-box.se`, `luganda-iptv.se`, `lulea-iptv.se`, `lunevillois-iptv.se`, `lurien-iptv.se`, `luxembourgish-box.se`, `luxembourgish-iptv.se`, `luxovien-iptv.se`, `lyonnais-box.se`, `lyonnais-iptv.se`, `m3u-box.se`, `m3u-iptv.se`, `m3u-player.se`, `mac-box.se`, `mac-iptv.se`, `macedonian-iptv.se`, `maconnais-iptv.se`, `mag-box.se`, `mag-iptv.se`, `mag-player.se`, `mag-server.se`, `mag254-box.se`, `mag254-iptv.se`, `magbox.se`, `maghreb-iptv.se`, `maissien-iptv.se`, `maithili-box.se`, `maithili-iptv.se`, `malakoffois-iptv.se`, `malayalam-iptv.se`, `malmo-iptv.se`, `malouin-box.se`, `malouin-iptv.se`, `maltese-iptv.se`, `manche-iptv.se`, `mandarin-iptv.se`, `mantois-iptv.se`, `manx-iptv.se`, `marathi-box.se`, `marathi-iptv.se`, `marcellinois-iptv.se`, `maroc-box.se`, `maroc-iptv.se`, `marsanais-box.se`, `marsanais-iptv.se`, `marseillais-iptv.se`, `martinique-box.se`, `martinique-iptv.se`, `marvejolais-iptv.se`, `massyen-iptv.se`, `mauleonnais-iptv.se`, `mauriacois-iptv.se`, `max-iptv.se`, `maxytec-box.se`, `maxytec-iptv.se`, `mayennais-iptv.se`, `mayenne-iptv.se`, `mayotte-iptv.se`, `mazametain-iptv.se`, `mecklenburg-iptv.se`, `mecool-box.se`, `mecool-iptv.se`, `medocain-box.se`, `medocain-iptv.se`, `meilleur-iptv.se`, `meitei-iptv.se`, `mejor-iptv.se`, `meldois-iptv.se`, `melhor-iptv.se`, `melunais-box.se`, `melunais-iptv.se`, `mendois-iptv.se`, `mespuitsien-box.se`, `mespuitsien-iptv.se`, `messin-iptv.se`, `meudonnais-iptv.se`, `meurthe-iptv.se`, `meurtheetmoselle-box.se`, `meurtheetmoselle-iptv.se`, `meuse-iptv.se`, `miglior-iptv.se`, `migliore-iptv.se`, `mikmaq-box.se`, `mikmaq-iptv.se`, `millavois-box.se`, `millavois-iptv.se`, `millylaforetien-box.se`, `millylaforetien-iptv.se`, `mimizanais-iptv.se`, `mini-box.se`, `minix-iptv.se`, `miraclebox-box.se`, `miraclebox-iptv.se`, `mirandais-iptv.se`, `mitryen-iptv.se`, `mittelland-iptv.se`, `mlb-box.se`, `mlb-iptv.se`, `mls-iptv.se`, `mma-box.se`, `mma-iptv.se`, `mohawk-iptv.se`, `moignysien-iptv.se`, `moissyen-iptv.se`, `mongolian-iptv.se`, `monistrolien-iptv.se`, `montalbanais-iptv.se`, `montargois-iptv.se`, `montbeliardais-iptv.se`, `monterelais-iptv.se`, `montgeronnais-iptv.se`, `montilien-iptv.se`, `montluconnais-iptv.se`, `montmorenceen-iptv.se`, `montpellierain-iptv.se`, `montreuilais-iptv.se`, `montrougien-iptv.se`, `morbihan-box.se`, `morbihan-iptv.se`, `morcenais-iptv.se`, `moretain-iptv.se`, `morezien-iptv.se`, `morignyen-iptv.se`, `morlaisien-iptv.se`, `mosel-iptv.se`, `moselle-iptv.se`, `motogp-box.se`, `motogp-iptv.se`, `moulinois-iptv.se`, `moutierain-iptv.se`, `movie-box.se`, `movie-iptv.se`, `muensterland-iptv.se`, `mulhousien-iptv.se`, `multi-iptv.se`, `mutant-iptv.se`, `mxq-box.se`, `mxq-iptv.se`, `mxqpro-iptv.se`, `myanmar-iptv.se`, `najacois-iptv.se`, `nanceien-box.se`, `nanceien-iptv.se`, `nangissien-iptv.se`, `nantais-iptv.se`, `nanterrien-box.se`, `nanterrien-iptv.se`, `nantuen-iptv.se`, `narbonnais-iptv.se`, `nascar-iptv.se`, `nazairien-iptv.se`, `nba-box.se`, `nba-iptv.se`, `ncaa-box.se`, `ncaa-iptv.se`, `ndebele-box.se`, `ndebele-iptv.se`, `neapolitan-iptv.se`, `nemourien-iptv.se`, `nepali-iptv.se`, `neuchatel-box.se`, `neuchatel-iptv.se`, `neuchatelois-iptv.se`, `news-box.se`, `news-iptv.se`, `nfl-box.se`, `nfl-iptv.se`, `nhl-box.se`, `nhl-iptv.se`, `nicois-iptv.se`, `niederrhein-box.se`, `niederrhein-iptv.se`, `nievre-iptv.se`, `nimois-iptv.se`, `niortais-iptv.se`, `nisgaa-iptv.se`, `nissart-iptv.se`, `noisielois-iptv.se`, `noisysien-box.se`, `noisysien-iptv.se`, `nord-iptv.se`, `nordsee-iptv.se`, `normand-box.se`, `normand-iptv.se`, `normandie-box.se`, `normandie-iptv.se`, `norrkoping-iptv.se`, `norsk-box.se`, `norsk-iptv.se`, `nrw-box.se`, `nrw-iptv.se`, `nvidia-box.se`, `nvidia-iptv.se`, `nvidia-player.se`, `nyonsais-iptv.se`, `oberland-box.se`, `oberland-iptv.se`, `occitan-box.se`, `occitan-iptv.se`, `octagon-box.se`, `octagon-iptv.se`, `oder-iptv.se`, `odia-iptv.se`, `oise-iptv.se`, `ojibwe-iptv.se`, `oloronais-box.se`, `oloronais-iptv.se`, `olympics-iptv.se`, `oncyen-iptv.se`, `onn-box.se`, `onn-iptv.se`, `onn-player.se`, `openbox-box.se`, `openbox-iptv.se`, `opticum-box.se`, `opticum-iptv.se`, `orebro-iptv.se`, `orleanais-box.se`, `orleanais-iptv.se`, `orlyen-iptv.se`, `orne-iptv.se`, `oromo-box.se`, `oromo-iptv.se`, `orthezien-iptv.se`, `orvelois-iptv.se`, `osmio-box.se`, `osmio-iptv.se`, `osnysien-iptv.se`, `ostersund-iptv.se`, `ostfriesland-iptv.se`, `ostsee-box.se`, `ostsee-iptv.se`, `ott-box.se`, `ott-iptv.se`, `ott-player.se`, `overijssel-iptv.se`, `oyonnaxien-box.se`, `oyonnaxien-iptv.se`, `ozoirien-iptv.se`, `pack-box.se`, `pack-iptv.se`, `paimpolais-iptv.se`, `palaisien-box.se`, `palaisien-iptv.se`, `palois-iptv.se`, `panel-box.se`, `panel-iptv.se`, `panel-server.se`, `pantinois-box.se`, `pantinois-iptv.se`, `parabole-iptv.se`, `paras-iptv.se`, `parentissois-box.se`, `parentissois-iptv.se`, `pascher-iptv.se`, `pasdecalais-box.se`, `pasdecalais-iptv.se`, `pashto-iptv.se`, `paysbasque-box.se`, `paysbasque-iptv.se`, `paytv-iptv.se`, `peel-iptv.se`, `percheron-iptv.se`, `perigourdin-iptv.se`, `perpignanais-iptv.se`, `peyrehoradais-iptv.se`, `pfalz-box.se`, `pfalz-iptv.se`, `pga-iptv.se`, `philips-box.se`, `philips-iptv.se`, `picard-iptv.se`, `picardie-iptv.se`, `picks-iptv.se`, `piedmontese-box.se`, `piedmontese-iptv.se`, `pinoy-box.se`, `pinoy-iptv.se`, `pitea-iptv.se`, `pithiverien-iptv.se`, `plans-iptv.se`, `player-app.se`, `player-avis.se`, `player-box.se`, `player-compare.se`, `player-guide.se`, `player-iptv.se`, `playlist-iptv.se`, `playlist-player.se`, `plus-iptv.se`, `podcast-iptv.se`, `poissyen-iptv.se`, `poitevin-iptv.se`, `poitou-iptv.se`, `polonais-iptv.se`, `polynesie-iptv.se`, `pontacquais-iptv.se`, `pontaultien-iptv.se`, `pontissalien-box.se`, `pontissalien-iptv.se`, `pontivyen-iptv.se`, `pontoisien-iptv.se`, `pornicais-iptv.se`, `portal-box.se`, `premier-iptv.se`, `premium-iptv.se`, `privadois-box.se`, `privadois-iptv.se`, `pro-box.se`, `pro-player.se`, `proberen-iptv.se`, `protek-box.se`, `protek-iptv.se`, `prova-iptv.se`, `provencal-iptv.se`, `provence-iptv.se`, `provinois-iptv.se`, `prueba-iptv.se`, `prunayen-iptv.se`, `punjabi-box.se`, `punjabi-iptv.se`, `puteolien-iptv.se`, `puydedome-box.se`, `puydedome-iptv.se`, `pvr-box.se`, `pvr-iptv.se`, `pyreneen-iptv.se`, `pyrenees-box.se`, `pyrenees-iptv.se`, `quebec-iptv.se`, `quebecois-iptv.se`, `quimperois-box.se`, `quimperois-iptv.se`, `qviart-box.se`, `qviart-iptv.se`, `racing-iptv.se`, `radio-box.se`, `radio-iptv.se`, `rajasthani-iptv.se`, `rambolitain-iptv.se`, `rank-iptv.se`, `rating-box.se`, `rating-iptv.se`, `redonnais-iptv.se`, `reimois-iptv.se`, `rennais-box.se`, `rennais-iptv.se`, `replay-box.se`, `replay-iptv.se`, `reseller-box.se`, `reseller-iptv.se`, `reseller-panel.se`, `reunion-box.se`, `reunion-iptv.se`, `review-box.se`, `review-guide.se`, `review-iptv.se`, `rhein-iptv.se`, `rhodanien-iptv.se`, `rhone-iptv.se`, `riomois-iptv.se`, `rk3229-iptv.se`, `rk3229s-iptv.se`, `rk3288-iptv.se`, `rk3288s-iptv.se`, `rk3326-iptv.se`, `rk3326r-iptv.se`, `rk3326s-iptv.se`, `rk3328-iptv.se`, `rk3328s-iptv.se`, `rk3328t-iptv.se`, `rk3328u-iptv.se`, `rk3328v-iptv.se`, `rk3328w-iptv.se`, `rk3399-iptv.se`, `rk3399e-iptv.se`, `rk3399k-iptv.se`, `rk3399pro-iptv.se`, `rk3399s-iptv.se`, `rk3528-iptv.se`, `rk3528s-iptv.se`, `rk3562-iptv.se`, `rk3562p-iptv.se`, `rk3562s-iptv.se`, `rk3562t-iptv.se`, `rk3562v-iptv.se`, `rk3566-iptv.se`, `rk3566s-iptv.se`, `rk3568-box.se`, `rk3568-iptv.se`, `rk3568r-iptv.se`, `rk3568s-iptv.se`, `rk3568u-iptv.se`, `rk3568w-iptv.se`, `rk3576-iptv.se`, `rk3588-iptv.se`, `rk3588k-iptv.se`, `rk3588s-iptv.se`, `roannais-box.se`, `roannais-iptv.se`, `rochefortais-iptv.se`, `rochelais-box.se`, `rochelais-iptv.se`, `rockchip-iptv.se`, `roisseen-box.se`, `roisseen-iptv.se`, `roku-box.se`, `roku-iptv.se`, `roku-player.se`, `romagnol-iptv.se`, `romanais-iptv.se`, `romand-iptv.se`, `romandie-box.se`, `romandie-iptv.se`, `romani-iptv.se`, `romanian-box.se`, `romanian-iptv.se`, `romansh-iptv.se`, `rouennais-box.se`, `rouennais-iptv.se`, `roussillonnais-iptv.se`, `royannais-iptv.se`, `rugby-iptv.se`, `ruhr-box.se`, `ruhr-iptv.se`, `rumillien-iptv.se`, `ruthenois-iptv.se`, `s905d3-box.se`, `s905d3-iptv.se`, `s905l2-iptv.se`, `s905l3-box.se`, `s905l3-iptv.se`, `s905m2-iptv.se`, `s905w2-iptv.se`, `s905w2s-iptv.se`, `s905w4s-iptv.se`, `s905x2-box.se`, `s905x2-iptv.se`, `s905x3-iptv.se`, `s905x3s-iptv.se`, `s905x4-box.se`, `s905x4-iptv.se`, `s905x4s-iptv.se`, `s905x5-box.se`, `s905x5-iptv.se`, `s905x5s-iptv.se`, `s905x6s-iptv.se`, `s905x7s-iptv.se`, `s905y4-box.se`, `s905y4-iptv.se`, `s905y4s-iptv.se`, `s922x-box.se`, `s922x-iptv.se`, `saarland-box.se`, `saarland-iptv.se`, `sablais-box.se`, `sablais-iptv.se`, `sabolien-iptv.se`, `sachsen-iptv.se`, `saintaffricain-iptv.se`, `saintais-iptv.se`, `saintcheronais-iptv.se`, `saintfargeausien-box.se`, `saintfargeausien-iptv.se`, `saintpierre-iptv.se`, `salisien-iptv.se`, `sami-box.se`, `sami-iptv.se`, `sammenlign-iptv.se`, `samoisien-box.se`, `samoisien-iptv.se`, `samsung-box.se`, `samsung-iptv.se`, `sanflorain-box.se`, `sanflorain-iptv.se`, `santali-iptv.se`, `sarcellois-iptv.se`, `sardinian-iptv.se`, `sarladais-iptv.se`, `sarregueminois-iptv.se`, `sarthe-box.se`, `sarthe-iptv.se`, `satellite-box.se`, `satellite-iptv.se`, `sauerland-box.se`, `sauerland-iptv.se`, `saumurois-box.se`, `saumurois-iptv.se`, `savignyen-iptv.se`, `savignylemplois-iptv.se`, `savoie-iptv.se`, `savoyard-box.se`, `savoyard-iptv.se`, `schwarzwald-iptv.se`, `schwyz-iptv.se`, `scots-iptv.se`, `sedanais-iptv.se`, `seeland-box.se`, `seeland-iptv.se`, `segreen-iptv.se`, `seineetmarne-iptv.se`, `seinesaintdenis-iptv.se`, `selestatois-iptv.se`, `sender-iptv.se`, `serbian-iptv.se`, `seriea-iptv.se`, `series-box.se`, `series-iptv.se`, `serrisien-iptv.se`, `server-box.se`, `server-guide.se`, `server-iptv.se`, `server-panel.se`, `setup-app.se`, `setup-box.se`, `setup-iptv.se`, `setup-player.se`, `sevranois-iptv.se`, `shield-box.se`, `shield-iptv.se`, `shield-player.se`, `shona-iptv.se`, `sicilian-iptv.se`, `simmental-iptv.se`, `sindhi-iptv.se`, `sinhala-iptv.se`, `sixnations-iptv.se`, `skelleftea-iptv.se`, `ski-iptv.se`, `skybox-iptv.se`, `slovak-iptv.se`, `slovenian-box.se`, `slovenian-iptv.se`, `smart-box.se`, `smart-player.se`, `snooker-iptv.se`, `soccer-box.se`, `soccer-iptv.se`, `solognot-iptv.se`, `somali-box.se`, `somali-iptv.se`, `somme-box.se`, `somme-iptv.se`, `sony-iptv.se`, `sotho-box.se`, `sotho-iptv.se`, `souillagais-iptv.se`, `soulacais-iptv.se`, `sparnacien-box.se`, `sparnacien-iptv.se`, `spinalien-iptv.se`, `sport-box.se`, `sport-guide.se`, `sport-iptv.se`, `spree-box.se`, `spree-iptv.se`, `spreewald-iptv.se`, `starbox-box.se`, `starbox-iptv.se`, `stb-box.se`, `stb-iptv.se`, `stb-player.se`, `stephanois-iptv.se`, `stick-iptv.se`, `stockholm-iptv.se`, `strasbourgeois-iptv.se`, `stream-box.se`, `stream-iptv.se`, `stream-player.se`, `sundsvall-iptv.se`, `suresnois-iptv.se`, `suscripcion-iptv.se`, `swahili-iptv.se`, `swiss-box.se`, `swiss-iptv.se`, `t113-iptv.se`, `t527-iptv.se`, `t765-box.se`, `t765-iptv.se`, `t95-box.se`, `t95-iptv.se`, `t950e-box.se`, `t950e-iptv.se`, `t950k-box.se`, `t950k-iptv.se`, `t950m-box.se`, `t950m-iptv.se`, `t950n-box.se`, `t950n-iptv.se`, `t950p-box.se`, `t950p-iptv.se`, `t950r-box.se`, `t950r-iptv.se`, `t950s-box.se`, `t950s-iptv.se`, `t950t-box.se`, `t950t-iptv.se`, `t950u-box.se`, `t950u-iptv.se`, `t950v-box.se`, `t950v-iptv.se`, `t950w-box.se`, `t950w-iptv.se`, `t950x-box.se`, `t950x-iptv.se`, `t950y-box.se`, `t950y-iptv.se`, `t95k-iptv.se`, `t95max-iptv.se`, `t95mini-iptv.se`, `t95zplus-iptv.se`, `t962d-box.se`, `t962d-iptv.se`, `t962e-iptv.se`, `t962k-box.se`, `t962k-iptv.se`, `t962m-box.se`, `t962m-iptv.se`, `t962p-box.se`, `t962p-iptv.se`, `t962r-box.se`, `t962r-iptv.se`, `t962s-box.se`, `t962s-iptv.se`, `t962t-box.se`, `t962t-iptv.se`, `t962u-box.se`, `t962u-iptv.se`, `t962v-box.se`, `t962v-iptv.se`, `t962w-box.se`, `t962w-iptv.se`, `t962x-box.se`, `t962x-iptv.se`, `t962y-box.se`, `t962y-iptv.se`, `t963-box.se`, `t963-iptv.se`, `t963e-box.se`, `t963e-iptv.se`, `t963k-box.se`, `t963k-iptv.se`, `t963m-box.se`, `t963m-iptv.se`, `t963n-box.se`, `t963n-iptv.se`, `t963s-box.se`, `t963s-iptv.se`, `t963x-box.se`, `t963x-iptv.se`, `t965-box.se`, `t965-iptv.se`, `t965e-box.se`, `t965e-iptv.se`, `t965k-box.se`, `t965k-iptv.se`, `t965p-box.se`, `t965p-iptv.se`, `t965r-box.se`, `t965r-iptv.se`, `t965s-box.se`, `t965s-iptv.se`, `t965t-box.se`, `t965t-iptv.se`, `t965u-box.se`, `t965u-iptv.se`, `t965v-box.se`, `t965v-iptv.se`, `t965w-box.se`, `t965w-iptv.se`, `t966-iptv.se`, `t966s-box.se`, `t966s-iptv.se`, `t968-box.se`, `t968-iptv.se`, `t968k-box.se`, `t968k-iptv.se`, `t968m-box.se`, `t968m-iptv.se`, `t968p-box.se`, `t968p-iptv.se`, `t968r-box.se`, `t968r-iptv.se`, `t968s-box.se`, `t968s-iptv.se`, `t968t-box.se`, `t968t-iptv.se`, `t968u-box.se`, `t968u-iptv.se`, `t968v-box.se`, `t968v-iptv.se`, `t968w-box.se`, `t968w-iptv.se`, `t968x-box.se`, `t968x-iptv.se`, `t968y-box.se`, `t968y-iptv.se`, `t972-iptv.se`, `t972e-box.se`, `t972e-iptv.se`, `t972k-box.se`, `t972k-iptv.se`, `t972m-box.se`, `t972m-iptv.se`, `t972n-box.se`, `t972n-iptv.se`, `t972p-box.se`, `t972p-iptv.se`, `t972r-box.se`, `t972r-iptv.se`, `t972s-box.se`, `t972s-iptv.se`, `t972t-box.se`, `t972t-iptv.se`, `t972u-box.se`, `t972u-iptv.se`, `t972v-box.se`, `t972v-iptv.se`, `t972w-box.se`, `t972w-iptv.se`, `t982-box.se`, `t982-iptv.se`, `t982s-box.se`, `t982s-iptv.se`, `tahiti-iptv.se`, `tajik-iptv.se`, `tamil-box.se`, `tamil-iptv.se`, `tanix-box.se`, `tanix-iptv.se`, `tarbais-box.se`, `tarbais-iptv.se`, `tarn-box.se`, `tarn-iptv.se`, `tavernyen-iptv.se`, `tcl-box.se`, `tcl-iptv.se`, `telenovela-iptv.se`, `telugu-box.se`, `telugu-iptv.se`, `tennis-box.se`, `tennis-iptv.se`, `tessin-iptv.se`, `tessinois-box.se`, `tessinois-iptv.se`, `test-box.se`, `test-iptv.se`, `testerin-iptv.se`, `thai-iptv.se`, `thiernois-iptv.se`, `thionvillois-box.se`, `thionvillois-iptv.se`, `thomeryen-iptv.se`, `thueringen-iptv.se`, `thurgau-iptv.se`, `tibetan-box.se`, `tibetan-iptv.se`, `ticino-box.se`, `ticino-iptv.se`, `tigrinya-box.se`, `tigrinya-iptv.se`, `timeshift-iptv.se`, `tlingit-iptv.se`, `tnt-box.se`, `tnt-iptv.se`, `tonnerrois-iptv.se`, `torcyen-iptv.se`, `toulois-iptv.se`, `toulonnais-iptv.se`, `toulousain-iptv.se`, `tourangeau-iptv.se`, `tournonais-iptv.se`, `transpeed-box.se`, `transpeed-iptv.se`, `tregorrois-iptv.se`, `tremblaysien-iptv.se`, `trial-app.se`, `trial-box.se`, `trial-iptv.se`, `trial-player.se`, `troyen-box.se`, `troyen-iptv.se`, `tswana-iptv.se`, `tulu-box.se`, `tulu-iptv.se`, `tunisie-iptv.se`, `turc-iptv.se`, `turkmen-iptv.se`, `twente-box.se`, `twente-iptv.se`, `twi-iptv.se`, `tx3-iptv.se`, `tx6-box.se`, `tx6-iptv.se`, `uclan-box.se`, `uclan-iptv.se`, `ufc-iptv.se`, `ugoos-iptv.se`, `ukrainian-box.se`, `ukrainian-iptv.se`, `ultra-iptv.se`, `umea-iptv.se`, `uppsala-iptv.se`, `urdu-iptv.se`, `usb-box.se`, `usb-iptv.se`, `uzbek-iptv.se`, `vairesien-box.se`, `vairesien-iptv.se`, `valais-box.se`, `valais-iptv.se`, `valaisan-iptv.se`, `valdemarne-iptv.se`, `valdoise-iptv.se`, `valentinois-box.se`, `valentinois-iptv.se`, `valpuiseauxais-iptv.se`, `vannetais-box.se`, `vannetais-iptv.se`, `var-box.se`, `var-iptv.se`, `vasteras-iptv.se`, `vaucluse-box.se`, `vaucluse-iptv.se`, `vauclusien-iptv.se`, `vaud-iptv.se`, `vaudois-iptv.se`, `vellave-box.se`, `vellave-iptv.se`, `veluwe-box.se`, `veluwe-iptv.se`, `vendee-box.se`, `vendee-iptv.se`, `vendomois-box.se`, `vendomois-iptv.se`, `venetian-iptv.se`, `vergelijk-iptv.se`, `vergleich-iptv.se`, `versaillais-box.se`, `versaillais-iptv.se`, `vertaa-iptv.se`, `vertsaintdenisien-iptv.se`, `vestland-iptv.se`, `vesulien-box.se`, `vesulien-iptv.se`, `vichyssois-box.se`, `vichyssois-iptv.se`, `videllesien-iptv.se`, `vienne-iptv.se`, `viennois-iptv.se`, `vierzonnais-iptv.se`, `vietnamese-iptv.se`, `villefranchois-box.se`, `villefranchois-iptv.se`, `villeparisisien-box.se`, `villeparisisien-iptv.se`, `vincennois-iptv.se`, `viryen-iptv.se`, `visby-iptv.se`, `vitreen-iptv.se`, `vitryen-box.se`, `vitryen-iptv.se`, `vlaams-box.se`, `vlaams-iptv.se`, `vlc-iptv.se`, `vod-abo.se`, `vod-box.se`, `vod-guide.se`, `vod-iptv.se`, `vod-player.se`, `voironnais-box.se`, `voironnais-iptv.se`, `vontar-iptv.se`, `vosges-box.se`, `vosges-iptv.se`, `vosgien-iptv.se`, `vpn-box.se`, `vpn-iptv.se`, `vuduo-box.se`, `vuduo-iptv.se`, `vulcanien-iptv.se`, `vuplus-iptv.se`, `vusolo-box.se`, `vusolo-iptv.se`, `vustorm-box.se`, `vustorm-iptv.se`, `vuultimo-iptv.se`, `vuuno-box.se`, `vuuno-iptv.se`, `vuzero-iptv.se`, `wadden-iptv.se`, `wallis-iptv.se`, `wallon-iptv.se`, `wallonie-iptv.se`, `walloon-box.se`, `walloon-iptv.se`, `walser-iptv.se`, `watch-box.se`, `watch-guide.se`, `watch-iptv.se`, `welsh-iptv.se`, `weser-box.se`, `weser-iptv.se`, `westfalen-iptv.se`, `wetek-box.se`, `wetek-iptv.se`, `wifi-box.se`, `wifi-iptv.se`, `wnba-iptv.se`, `wolof-iptv.se`, `worldcup-iptv.se`, `wwe-box.se`, `wwe-iptv.se`, `x88pro-box.se`, `x88pro-iptv.se`, `x92-box.se`, `x92-iptv.se`, `x96-iptv.se`, `x96max-box.se`, `x96max-iptv.se`, `x96mini-iptv.se`, `x99-iptv.se`, `x99max-iptv.se`, `xhosa-iptv.se`, `xiaomi-box.se`, `xiaomi-iptv.se`, `xiaomi-player.se`, `xsarius-box.se`, `xsarius-iptv.se`, `xtream-box.se`, `xtream-iptv.se`, `xtream-player.se`, `yerrois-iptv.se`, `yiddish-iptv.se`, `yonne-box.se`, `yonne-iptv.se`, `yoruba-iptv.se`, `yssingelais-iptv.se`, `yvelines-box.se`, `yvelines-iptv.se`, `zeeland-box.se`, `zeeland-iptv.se`, `zgemma-iptv.se`, `zidoo-box.se`, `zidoo-iptv.se`, `zug-box.se`, `zug-iptv.se`, `zulu-iptv.se`
 
 
 ### .no — Norway
 
-**AVAILABLE (1791)** — native RDAP 404 + no DNS.
+**AVAILABLE (1799)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -19832,6 +19917,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `a133u-iptv.no` |
 | `a133v-iptv.no` |
 | `a133w-iptv.no` |
+| `a133y-iptv.no` |
 | `a311d-iptv.no` |
 | `a311ds-iptv.no` |
 | `aanbieder-iptv.no` |
@@ -20036,6 +20122,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `bretignyen-iptv.no` |
 | `breton-box.no` |
 | `breton-iptv.no` |
+| `breuilletien-iptv.no` |
 | `briecomtois-box.no` |
 | `briecomtois-iptv.no` |
 | `briochin-iptv.no` |
@@ -20231,6 +20318,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `essonne-iptv.no` |
 | `estampois-iptv.no` |
 | `estonian-iptv.no` |
+| `etrechyen-box.no` |
+| `etrechyen-iptv.no` |
 | `eure-box.no` |
 | `eure-iptv.no` |
 | `eureetloir-box.no` |
@@ -20791,6 +20880,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `morcenais-iptv.no` |
 | `moretain-iptv.no` |
 | `morezien-iptv.no` |
+| `morignyen-iptv.no` |
 | `morlaisien-iptv.no` |
 | `mosel-iptv.no` |
 | `moselle-iptv.no` |
@@ -21127,6 +21217,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `sachsen-iptv.no` |
 | `saintaffricain-iptv.no` |
 | `saintais-iptv.no` |
+| `saintcheronais-iptv.no` |
 | `saintfargeausien-box.no` |
 | `saintfargeausien-iptv.no` |
 | `saintpierre-iptv.no` |
@@ -21300,6 +21391,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `t962w-iptv.no` |
 | `t962x-box.no` |
 | `t962x-iptv.no` |
+| `t962y-box.no` |
+| `t962y-iptv.no` |
 | `t963-box.no` |
 | `t963-iptv.no` |
 | `t963e-box.no` |
@@ -21616,7 +21709,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .dk — Denmark
 
-**AVAILABLE (1787)** — native RDAP 404 + no DNS.
+**AVAILABLE (1795)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -21631,6 +21724,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `a133u-iptv.dk` |
 | `a133v-iptv.dk` |
 | `a133w-iptv.dk` |
+| `a133y-iptv.dk` |
 | `a311d-iptv.dk` |
 | `a311ds-iptv.dk` |
 | `aalborg-iptv.dk` |
@@ -21833,6 +21927,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `bretignyen-iptv.dk` |
 | `breton-box.dk` |
 | `breton-iptv.dk` |
+| `breuilletien-iptv.dk` |
 | `briecomtois-box.dk` |
 | `briecomtois-iptv.dk` |
 | `briochin-iptv.dk` |
@@ -22028,6 +22123,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `essonne-iptv.dk` |
 | `estampois-iptv.dk` |
 | `estonian-iptv.dk` |
+| `etrechyen-box.dk` |
+| `etrechyen-iptv.dk` |
 | `eure-box.dk` |
 | `eure-iptv.dk` |
 | `eureetloir-box.dk` |
@@ -22587,6 +22684,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `morcenais-iptv.dk` |
 | `moretain-iptv.dk` |
 | `morezien-iptv.dk` |
+| `morignyen-iptv.dk` |
 | `morlaisien-iptv.dk` |
 | `mosel-iptv.dk` |
 | `moselle-iptv.dk` |
@@ -22924,6 +23022,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `sachsen-iptv.dk` |
 | `saintaffricain-iptv.dk` |
 | `saintais-iptv.dk` |
+| `saintcheronais-iptv.dk` |
 | `saintfargeausien-box.dk` |
 | `saintfargeausien-iptv.dk` |
 | `saintpierre-iptv.dk` |
@@ -23097,6 +23196,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `t962w-iptv.dk` |
 | `t962x-box.dk` |
 | `t962x-iptv.dk` |
+| `t962y-box.dk` |
+| `t962y-iptv.dk` |
 | `t963-box.dk` |
 | `t963-iptv.dk` |
 | `t963e-box.dk` |
@@ -23411,7 +23512,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .fi — Finland
 
-**AVAILABLE (1789)** — native RDAP 404 + no DNS.
+**AVAILABLE (1797)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -23426,6 +23527,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `a133u-iptv.fi` |
 | `a133v-iptv.fi` |
 | `a133w-iptv.fi` |
+| `a133y-iptv.fi` |
 | `a311d-iptv.fi` |
 | `a311ds-iptv.fi` |
 | `aanbieder-iptv.fi` |
@@ -23626,6 +23728,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `bretignyen-iptv.fi` |
 | `breton-box.fi` |
 | `breton-iptv.fi` |
+| `breuilletien-iptv.fi` |
 | `briecomtois-box.fi` |
 | `briecomtois-iptv.fi` |
 | `briochin-iptv.fi` |
@@ -23820,6 +23923,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `essonne-iptv.fi` |
 | `estampois-iptv.fi` |
 | `estonian-iptv.fi` |
+| `etrechyen-box.fi` |
+| `etrechyen-iptv.fi` |
 | `eure-box.fi` |
 | `eure-iptv.fi` |
 | `eureetloir-box.fi` |
@@ -24382,6 +24487,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `morcenais-iptv.fi` |
 | `moretain-iptv.fi` |
 | `morezien-iptv.fi` |
+| `morignyen-iptv.fi` |
 | `morlaisien-iptv.fi` |
 | `mosel-iptv.fi` |
 | `moselle-iptv.fi` |
@@ -24720,6 +24826,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `sachsen-iptv.fi` |
 | `saintaffricain-iptv.fi` |
 | `saintais-iptv.fi` |
+| `saintcheronais-iptv.fi` |
 | `saintfargeausien-box.fi` |
 | `saintfargeausien-iptv.fi` |
 | `saintpierre-iptv.fi` |
@@ -24892,6 +24999,8 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `t962w-iptv.fi` |
 | `t962x-box.fi` |
 | `t962x-iptv.fi` |
+| `t962y-box.fi` |
+| `t962y-iptv.fi` |
 | `t963-box.fi` |
 | `t963-iptv.fi` |
 | `t963e-box.fi` |
@@ -25229,7 +25338,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (463)** — native RDAP 404 + no DNS.
+**AVAILABLE (466)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -25472,6 +25581,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `kinghorn-guide.co.uk` |
 | `kinglassie-guide.co.uk` |
 | `kinlochbervie-guide.co.uk` |
+| `kinlochrannoch-guide.co.uk` |
 | `kinross-guide.co.uk` |
 | `kippen-guide.co.uk` |
 | `kirkcaldy-guide.co.uk` |
@@ -25576,6 +25686,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `quantock-guide.co.uk` |
 | `racing-guide.co.uk` |
 | `radio-guide.co.uk` |
+| `rannochstation-guide.co.uk` |
 | `region-guide.co.uk` |
 | `renfrew-guide.co.uk` |
 | `renton-guide.co.uk` |
@@ -25667,6 +25778,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `troon-guide.co.uk` |
 | `trossachs-guide.co.uk` |
 | `tullibody-guide.co.uk` |
+| `tummelbridge-guide.co.uk` |
 | `tv-compare.co.uk` |
 | `tyne-guide.co.uk` |
 | `tyneside-guide.co.uk` |
