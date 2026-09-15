@@ -114,5 +114,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR city langs | `lyonnais iptv` / `marseillais iptv` / `nicois iptv` / `toulousain iptv` / `lillois iptv` / `nantais iptv` / `bordelais iptv` / `strasbourgeois iptv` | Gentilé commercial | AVAILABLE leftovers: `lyonnais-iptv.fr`, `marseillais-iptv.fr`, `nicois-iptv.fr`, `toulousain-iptv.fr`, `lillois-iptv.fr`, `nantais-iptv.fr`, `bordelais-iptv.fr`, `strasbourgeois-iptv.fr` |
 | Boxes | `transpeed iptv` / `hk1 max iptv` | Cheap Android boxes | AVAILABLE leftovers: `transpeed-iptv.fr`, `hk1max-iptv.fr` |
 | UK geo 2 | `falkirk guide` / `dunfermline guide` / `paisley guide` | Nominet no-iptv | AVAILABLE: `falkirk-guide.co.uk`, `dunfermline-guide.co.uk`, `paisley-guide.co.uk` (also `.uk`) |
+| FR city langs 2 | `rennais iptv` / `nimois iptv` / `dijonnais iptv` / `reimois iptv` / `grenoblois iptv` / `montpellierain iptv` / `clermontois iptv` / `briochin iptv` | Gentilé commercial | AVAILABLE leftovers: `rennais-iptv.fr`, `nimois-iptv.fr`, `dijonnais-iptv.fr`, `reimois-iptv.fr`, `grenoblois-iptv.fr`, `montpellierain-iptv.fr`, `clermontois-iptv.fr`, `briochin-iptv.fr` |
+| Boxes | `x88 pro iptv` / `t95z plus iptv` | Cheap Android boxes | AVAILABLE leftovers: `x88pro-iptv.fr`, `t95zplus-iptv.fr`. `t95zplus-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 3 | `kilmarnock guide` / `greenock guide` / `livingston guide` | Nominet no-iptv | AVAILABLE: `kilmarnock-guide.co.uk`, `greenock-guide.co.uk`, `livingston-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
