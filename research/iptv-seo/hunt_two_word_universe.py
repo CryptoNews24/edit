@@ -355,6 +355,19 @@ STEMS = (
     "family-box",
     "hotel-iptv",
     "cafe-iptv",
+    "fibre-iptv",
+    "iptv-fibre",
+    "tnt-iptv",
+    "parabole-iptv",
+    "satellite-iptv",
+    "cable-iptv",
+    "fibre-box",
+    "tnt-box",
+    "cable-box",
+    "satellite-box",
+    "romand-iptv",
+    "wallonie-iptv",
+    "tessin-iptv",
 )
 
 # Local cities × iptv on the matching country TLD (still two words).
@@ -526,6 +539,26 @@ def candidates() -> list[str]:
         for city in cities:
             _push(f"{city}-iptv{tld}", seen, out)
             _push(f"iptv-{city}{tld}", seen, out)
+    # Nominet: two-word names with NO "iptv" in the label.
+    for stem in (
+        "box-guide",
+        "stream-guide",
+        "watch-guide",
+        "tv-compare",
+        "box-compare",
+        "compare-box",
+        "player-guide",
+        "family-box",
+        "hotel-box",
+        "home-box",
+        "sport-guide",
+        "film-guide",
+        "live-guide",
+        "cord-cut",
+        "cut-cord",
+    ):
+        _push(f"{stem}.co.uk", seen, out)
+        _push(f"{stem}.uk", seen, out)
     return out
 
 

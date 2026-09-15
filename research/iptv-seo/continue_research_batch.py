@@ -35,6 +35,8 @@ RDAP = {
     "fi": "https://rdap.fi/rdap/domain/{d}",
     "nz": "https://rdap.nzrs.net.nz/rdap/domain/{d}",
     "us": "https://rdap.nic.us/domain/{d}",
+    "uk": "https://rdap.nominet.uk/uk/domain/{d}",
+    "co.uk": "https://rdap.nominet.uk/uk/domain/{d}",
 }
 
 UA = "Mozilla/5.0 (compatible; IPTV-SEO-research/1.0; +https://example.invalid)"
@@ -165,6 +167,8 @@ def tld_of(domain: str) -> str:
         return "com.au"
     if domain.endswith(".co.nz"):
         return "co.nz"
+    if domain.endswith(".co.uk"):
+        return "co.uk"
     return domain.rsplit(".", 1)[-1]
 
 
