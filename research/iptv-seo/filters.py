@@ -33,6 +33,14 @@ COUNTRY_TLD_LABELS = [
 _WORD_TOKENS = tuple(
     sorted(
         {
+            "kaufen",
+            "billig",
+            "prueba",
+            "prova",
+            "barato",
+            "vergelijk",
+            "halpa",
+            "miglior",
             "abonnement",
             "comparateur",
             "comparatif",

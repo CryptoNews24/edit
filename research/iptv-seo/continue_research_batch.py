@@ -34,7 +34,7 @@ RDAP = {
     "dk": "https://rdap.punktum.dk/rdap/domain/{d}",
     "fi": "https://rdap.fi/rdap/domain/{d}",
     "nz": "https://rdap.nzrs.net.nz/rdap/domain/{d}",
-    "us": "https://rdap.nic.us/rdap/domain/{d}",
+    "us": "https://rdap.nic.us/domain/{d}",
 }
 
 UA = "Mozilla/5.0 (compatible; IPTV-SEO-research/1.0; +https://example.invalid)"
@@ -201,6 +201,13 @@ def has_dns(domain: str) -> bool:
 
 def verdict(domain: str) -> tuple[int | None, bool, str]:
     code, _ = http_status(rdap_url(domain))
+    # nic.us returns HTTP 400 when the path is wrong or when it rate-limits.
+    if domain.endswith(".us") and code in {400, None}:
+        for _ in range(4):
+            time.sleep(0.35)
+            code, _ = http_status("https://rdap.nic.us/domain/" + domain)
+            if code in {200, 404}:
+                break
     dns = has_dns(domain)
     tld = tld_of(domain)
     confirm_tlds = {"be", "com.au", "nz", "es", "it", "pt"}

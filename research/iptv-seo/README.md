@@ -2,8 +2,8 @@
 
 Volumes are real only when taken from SEMrush. Nothing is purchased from this folder.
 
-**Keyword table:** `KEYWORDS.md` (AVAILABLE **two-word** domains, Semrush volume >= 500)  
-**Domain list:** `LIST.txt` (same filters; no 3+ word labels)
+**Keyword table:** `KEYWORDS.md` (AVAILABLE **two-word** domains, Semrush volume >= 500). Taken names only in the almost-expired table.  
+**Domain list:** `LIST.txt` (same filters; no 3+ word labels; no taken dumps)
 
 Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 
@@ -14,7 +14,7 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 | Noxtools / SEMrush | Site works for you. **This agent IP is blocked by Cloudflare** ("Just a moment..." challenge). Not a down account. |
 | Google Search / Trends | CAPTCHA on this cloud IP |
 | Registrars (GoDaddy / Namecheap / Dynadot) | CAPTCHA |
-| Registry RDAP + DNS | Used for availability — `KEYWORDS.md` §8 lists `.ca` / `.us` / Europe |
+| Registry RDAP + DNS | Used for availability — `KEYWORDS.md` lists AVAILABLE leftovers per TLD |
 | Bing SERP | Partial (later queries went generic and were dropped) |
 
 ## Files
@@ -22,7 +22,7 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 | File | Purpose |
 | --- | --- |
 | `KEYWORDS.md` | **Keyword tables** — verified Semrush, tracked keywords, SERP, domain picks |
-| `LIST.txt` | Domain dump — picks, available, confirm, taken, drop-watch |
+| `LIST.txt` | Domain dump — AVAILABLE + almost-expired only |
 | `AVAILABLE_LIST.txt` | Identical copy of `LIST.txt` |
 | `availability_recheck.csv` | Last RDAP + DNS verdict per domain |
 | `taken_not_available.csv` | Taken names — do not buy |

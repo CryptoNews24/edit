@@ -7,7 +7,12 @@ Domain,Country,Availability,Website,Expiry,Notes
 abo-france.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 abo-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 abo-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
+abonnement-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+abonnement-iptv.ch,Switzerland,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+abonnement-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+abonnement-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 abonnement-iptv.net,Global,TAKEN,DNS yes,,Not available. Do not list as a buy.
+abonnement-iptv.nl,Netherlands,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 abonnementiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 abonnementiptv.fr,France,TAKEN,HTTP 503,2027-03-06,Not available
 americaniptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -17,6 +22,7 @@ anbieteriptv.de,Germany,TAKEN,No DNS / offline-looking,,Not available. Do not li
 app-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 appletv-iptv.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 avisiptv.com,Global,TAKEN,DNS yes,,Not available. Do not list as a buy.
+beste-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 beste-iptv.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 bestiptv.ca,Canada,TAKEN,Online,,Not available
 bestiptv.us,Other,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -24,6 +30,7 @@ box-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 box-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 boxdeals.co.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 boxguide.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+brampton-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 canadianiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 chromecast-iptv.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 classementiptv.net,Global,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -61,14 +68,17 @@ iptv-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-box.nl,Netherlands,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 iptv-box.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-brampton.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+iptv-calgary.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-canada.ca,Canada,TAKEN,Offline (no DNS),2026-07-26,Already expired / possible redemption. Still taken.
 iptv-codes.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
+iptv-edmonton.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-guide.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-kaufen.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-live.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-live.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-m3u.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-m3u.nl,Netherlands,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+iptv-montreal.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-ontario.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-ott.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-panel.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -82,9 +92,11 @@ iptv-playlist.de,Germany,TAKEN,No DNS / offline-looking,,Not available. Do not l
 iptv-premium.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-premium.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-premium.fr,France,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+iptv-premium.us,United States,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 iptv-quebec.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 iptv-reseller.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-reseller.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
+iptv-reseller.us,United States,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 iptv-review.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-server.de,Germany,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 iptv-stream.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -94,6 +106,7 @@ iptv-stream.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-suisse.ch,Switzerland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-test.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-test.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
+iptv-toronto.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-usa.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-vergleich.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptv-vergleich.net,Global,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -177,6 +190,12 @@ iptvtrial.net,Global,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptvtrial.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 iptvusa.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 jamforiptv.se,Other,TAKEN,DNS yes,,Not available. Do not list as a buy.
+kaufen-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+legal-guide.ch,Switzerland,TAKEN,DNS yes,,Not available. Do not list as a buy.
+legal-guide.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+live-box.ch,Switzerland,TAKEN,DNS yes,,Not available. Do not list as a buy.
+live-box.de,Germany,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+live-box.fr,France,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 live-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 live-iptv.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 live-iptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -190,14 +209,17 @@ magbox.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 magbox.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 magbox.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 magbox.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+meilleur-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 meilleur-iptv.net,Global,TAKEN,DNS yes,,Not available. Do not list as a buy.
 meilleuriptv.fr,France,TAKEN,Online,,Not available
 mejor-iptv.es,Spain,TAKEN,DNS yes,,Not available. Do not list as a buy.
 montreal-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 ontario-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+ott-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 ott-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 panel-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 paras-iptv.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
+paris-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 playlist-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 playlist-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 premium-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -205,13 +227,23 @@ premium-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 premium-iptv.fr,France,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 premium-iptv.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 premium-iptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+quebec-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 quebeciptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 reseller-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 reseller-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 reseller-iptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+review-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+review-guide.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
+server-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+shield-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 smart-box.ch,Switzerland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 smart-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 smart-box.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
+smart-player.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+smart-player.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
+smart-player.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
+smart-player.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+stream-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 stream-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 streamguide.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 streamguide.co.uk,Other,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
@@ -221,14 +253,19 @@ test-box.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 test-iptv.ch,Switzerland,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 test-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 top-iptv.fr,France,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+toronto-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 tvcompare.co.uk,Other,TAKEN,DNS yes,,Not available. Do not list as a buy.
 ukstreamguide.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 usa-iptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 vergleich-anbieter.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+watch-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+watch-box.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
+watch-box.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 watchguide.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 xtream-iptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 xtream-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 xtream-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 xtream-iptv.nl,Netherlands,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 xtream-iptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+xtream-player.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 xtreamiptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.

@@ -119,22 +119,172 @@ STEMS = (
     "player-compare",
     "iptv-test",
     "test-iptv",
+    "avis-iptv",
+    "essai-iptv",
+    "forfait-iptv",
+    "meilleur-iptv",
+    "comparer-iptv",
+    "comparateur-iptv",
+    "pascher-iptv",
+    "abonnement-iptv",
+    "vergleich-iptv",
+    "beste-iptv",
+    "kaufen-iptv",
+    "guenstig-iptv",
+    "vergelijk-iptv",
+    "goedkope-iptv",
+    "mejor-iptv",
+    "barato-iptv",
+    "prueba-iptv",
+    "comparar-iptv",
+    "guia-iptv",
+    "migliore-iptv",
+    "miglior-iptv",
+    "prova-iptv",
+    "guida-iptv",
+    "confronta-iptv",
+    "melhor-iptv",
+    "basta-iptv",
+    "jamfor-iptv",
+    "bedste-iptv",
+    "billig-iptv",
+    "paras-iptv",
+    "vertaa-iptv",
+    "halpa-iptv",
+    "sammenlign-iptv",
+    "player-box",
+    "server-box",
+    "m3u-player",
+    "xtream-player",
+    "ott-player",
+    "ott-box",
+    "mag-player",
+    "mag-server",
+    "formuler-player",
+    "roku-box",
+    "roku-player",
+    "shield-box",
+    "firetv-box",
+    "android-player",
+    "smart-player",
+    "vod-box",
+    "vod-player",
+    "live-box",
+    "live-player",
+    "stream-box",
+    "stream-player",
+    "watch-box",
+    "watch-guide",
+    "legal-guide",
+    "review-box",
+    "review-guide",
+    "rating-box",
+    "rating-iptv",
+    "rank-iptv",
+    "picks-iptv",
+    "codes-player",
+    "playlist-player",
+    "panel-box",
+    "portal-box",
+    "trial-box",
+    "setup-box",
+    "setup-player",
 )
+
+# Local cities × iptv on the matching country TLD (still two words).
+CITY_BY_TLD = {
+    ".fr": (
+        "paris",
+        "lyon",
+        "marseille",
+        "toulouse",
+        "lille",
+        "nantes",
+        "bordeaux",
+        "nice",
+        "reims",
+        "dijon",
+        "angers",
+    ),
+    ".ca": (
+        "toronto",
+        "montreal",
+        "vancouver",
+        "calgary",
+        "ottawa",
+        "edmonton",
+        "winnipeg",
+        "halifax",
+        "hamilton",
+        "brampton",
+        "mississauga",
+        "quebec",
+        "ontario",
+        "alberta",
+    ),
+    ".us": (
+        "houston",
+        "dallas",
+        "miami",
+        "atlanta",
+        "seattle",
+        "denver",
+        "boston",
+        "detroit",
+        "austin",
+        "nashville",
+        "portland",
+        "charlotte",
+    ),
+    ".de": (
+        "berlin",
+        "hamburg",
+        "muenchen",
+        "frankfurt",
+        "stuttgart",
+        "koeln",
+        "duesseldorf",
+    ),
+    ".nl": (
+        "amsterdam",
+        "rotterdam",
+        "utrecht",
+        "eindhoven",
+        "denhaag",
+    ),
+    ".ch": (
+        "zurich",
+        "geneve",
+        "lausanne",
+        "bern",
+        "basel",
+    ),
+    ".no": ("oslo", "bergen"),
+    ".dk": ("kobenhavn", "aarhus"),
+    ".fi": ("helsinki", "tampere"),
+    ".se": (),
+}
+
+
+def _push(domain: str, seen: set[str], out: list[str]) -> None:
+    if domain in seen:
+        return
+    if skip_domain(domain) or not is_two_word_domain(domain):
+        return
+    seen.add(domain)
+    out.append(domain)
 
 
 def candidates() -> list[str]:
-    out = []
-    seen = set()
+    out: list[str] = []
+    seen: set[str] = set()
     for stem in STEMS:
         for tld in TLDS:
-            d = f"{stem}{tld}"
-            if skip_domain(d):
-                continue
-            if not is_two_word_domain(d):
-                continue
-            if d not in seen:
-                seen.add(d)
-                out.append(d)
+            _push(f"{stem}{tld}", seen, out)
+    for tld, cities in CITY_BY_TLD.items():
+        for city in cities:
+            _push(f"{city}-iptv{tld}", seen, out)
+            _push(f"iptv-{city}{tld}", seen, out)
     return out
 
 

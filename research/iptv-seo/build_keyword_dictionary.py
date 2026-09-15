@@ -316,7 +316,7 @@ def add(rows, seen, country, lang, kw, category, cluster):
         "iptvfrance.fr",
         "meilleuriptv.fr",
     }:
-        hint = f"TAKEN:{hint}"
+        hint, tld = "", ""
     status = "volume_verified" if kw.lower() in SEEDS_ALREADY else "queued"
     rows.append(
         {

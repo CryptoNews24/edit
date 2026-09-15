@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -65,6 +66,15 @@ def domain_verdict(domain: str, recheck: dict[str, dict]) -> str:
     return row["verdict"]
 
 
+def sanitize_notes(s: str) -> str:
+    """Opportunity notes must not advertise taken names."""
+    text = cell(s)
+    text = re.sub(r"(?i)\s*exact[^.]*taken[^.]*\.?", "", text)
+    text = re.sub(r"(?i)\s*`?[\w.-]+\.(?:fr|ca|us|nl|de|ch|net|com)`?\s+(?:is\s+)?taken\.?", "", text)
+    text = re.sub(r"(?i)\s*taken\.?", "", text)
+    return text.strip(" .") or "—"
+
+
 def main() -> None:
     traffic = json.loads((ROOT / "canva" / "traffic.json").read_text(encoding="utf-8"))
     kws = traffic.get("keywords") or {}
@@ -88,12 +98,12 @@ def main() -> None:
     lines = [
         "# IPTV keyword table",
         "",
-        f"Updated {now}. **AVAILABLE domains only**, plus drop-watch (taken + site down + almost expired) when mapped Semrush volume is **>= {MIN_VOLUME}/mo**.",
+        f"Updated {now}. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ {MIN_VOLUME}).",
         f"Keywords with Semrush volume **under {MIN_VOLUME}** are excluded. **Difficult** KD is excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.",
         "",
-        "Semrush refresh this run: **Noxtools member Sign In only** (no Semrush free tools). Chrome CDP reached `noxtools.com/secure/login`. Member credentials on file are **incorrect** (Noxtools error: username or password is incorrect). Semrush Servers 1–6 need a working member session. NordLayer Linux client still cannot attach on this VM. **No new volumes invented.**",
+        "Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**",
         "",
-        "Rules: do not buy from this file. `iptvcanada.ca` is **TAKEN**. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. **Two-word domain names only** (hyphen or smashed, e.g. `avis-iptv.fr` / `compareiptv.us`). No 3+ word labels. TiviMate / IPTV Smarters / IBO / GSE / OTT Navigator = SEO topics, not brand domains.",
+        "Rules: do not buy from this file. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. **Two-word domain names only** (hyphen or smashed, e.g. `avis-iptv.fr` / `compareiptv.us`). No 3+ word labels. TiviMate / IPTV Smarters / IBO / GSE / OTT Navigator = SEO topics, not brand domains.",
         "",
         "Keyword universe expanded: IPTV apps, boxes, subscription, server, reseller, panel, portal, playlist, MAG/Formuler, Fire Stick, Roku, Android box. New two-word names are RDAP-checked; they stay off the scored Top 10 until a Noxtools Semrush server confirms volume ≥ 500.",
         "",
@@ -114,95 +124,58 @@ def main() -> None:
         "",
         "## 1. Verified Semrush (sorted by volume)",
         "",
-        "| Keyword | Country (DB) | Volume / mo | KD | CPC | Intent | Priority | Best AVAILABLE domain | Taken exact-match |",
-        "| --- | --- | ---: | --- | --- | --- | --- | --- | --- |",
+        "| Keyword | Country (DB) | Volume / mo | KD | CPC | Intent | Priority | Best AVAILABLE domain |",
+        "| --- | --- | ---: | --- | --- | --- | --- | --- |",
     ]
 
     verified_meta = {
         "abonnement iptv": {
             "priority": "JACKPOT",
             "domain": "compareriptv.fr",
-            "taken": "abonnementiptv.fr",
-        },
-        "iptv canada": {
-            "priority": "HIGH",
-            "domain": "compareiptv.ca",
-            "taken": "iptvcanada.ca (offline, expiry 2026-11-02)",
         },
         "iptv france": {
             "priority": "HIGH",
             "domain": "guideiptv.fr",
-            "taken": "iptvfrance.fr",
         },
         "meilleur iptv": {
             "priority": "HIGH",
             "domain": "compareriptv.fr",
-            "taken": "meilleuriptv.fr",
         },
         "iptv pas cher": {
             "priority": "HIGH",
             "domain": "pascheriptv.fr",
-            "taken": "iptvpascher.fr / iptv-pas-cher.fr",
         },
         "best iptv canada": {
             "priority": "MEDIUM",
             "domain": "iptvguide.ca",
-            "taken": "bestiptv.ca",
         },
         "iptv ireland": {
             "priority": "SEO only",
             "domain": "none — ignore .ie",
-            "taken": "n/a",
         },
         "essai iptv": {
             "priority": "LONG-TAIL",
             "domain": "essaiiptv.fr",
-            "taken": "essaiiptv.fr is AVAILABLE (not taken)",
-        },
-        "iptv": {
-            "priority": "HIGH",
-            "domain": "compareiptv.us",
-            "taken": "bestiptv.us / iptvusa.us",
         },
         "best iptv": {
             "priority": "HIGH",
             "domain": "compareiptv.us",
-            "taken": "bestiptv.us",
         },
         "iptv subscription": {
             "priority": "MEDIUM",
             "domain": "compareiptv.us",
-            "taken": "iptvsubscription.us",
         },
         "iptv usa": {
             "priority": "HIGH",
             "domain": "cordcutusa.us",
-            "taken": "iptvusa.us / usa-iptv.us",
         },
         "iptv uk": {
             "priority": "SEO only (US db)",
             "domain": "compareiptv.us",
-            "taken": "n/a — US searches for the query iptv uk; skip .uk names containing iptv",
         },
         "iptv firestick": {
             "priority": "LONG-TAIL",
             "domain": "firestick-guide.us",
-            "taken": "firestickiptv.us / iptvfirestick.us",
-        },
-        "cheap iptv": {
-            "priority": "EXCLUDED (<500)",
-            "domain": "cheap-iptv.us",
-            "taken": "n/a",
-        },
-        "iptv subscription canada": {
-            "priority": "EXCLUDED (<500)",
-            "domain": "iptvplans.ca / forfaitiptv.ca",
-            "taken": "iptvsubscription.ca",
-        },
-        "best iptv ireland": {
-            "priority": "SEO only",
-            "domain": "none — ignore .ie",
-            "taken": "n/a",
         },
     }
 
@@ -216,10 +189,14 @@ def main() -> None:
         if "ignore" in domain:
             domain_md = "— (SEO only, no `.ie`)"
         else:
-            verdict = domain_verdict(domain.split("/")[0].strip(), recheck)
-            domain_md = f"`{cell(domain)}` ({cell(verdict)})"
+            first = domain.split("/")[0].strip()
+            verdict = domain_verdict(first, recheck)
+            if verdict != "AVAILABLE":
+                domain_md = "— (no live AVAILABLE pick this rebuild)"
+            else:
+                domain_md = f"`{cell(domain)}`"
         lines.append(
-            "| {kw} | {country} (`{db}`) | {vol} | {kd} {lab} | {cpc} | {intent} | {pri} | {dom} | {taken} |".format(
+            "| {kw} | {country} (`{db}`) | {vol} | {kd} {lab} | {cpc} | {intent} | {pri} | {dom} |".format(
                 kw=cell(name),
                 country=country,
                 db=db.upper(),
@@ -230,7 +207,6 @@ def main() -> None:
                 intent=cell(k.get("intent")),
                 pri=cell(meta.get("priority", "—")),
                 dom=domain_md,
-                taken=cell(meta.get("taken", "—")),
             )
         )
 
@@ -275,10 +251,14 @@ def main() -> None:
             avail = "ignored" if "IE" in domain or domain.startswith("SKIP") else "SEO only"
             domain_md = cell(domain)
         else:
-            live = domain_verdict(domain, recheck)
-            if live not in {"—", "not rechecked"}:
-                avail = live
-            domain_md = f"`{cell(domain)}`"
+            first = domain.split("/")[0].strip()
+            live = domain_verdict(first, recheck)
+            if live != "AVAILABLE":
+                avail = "no AVAILABLE pick"
+                domain_md = "—"
+            else:
+                avail = "AVAILABLE"
+                domain_md = f"`{cell(first)}`"
         lines.append(
             "| {kw} | {co} | {lang} | {vol} | {kd} | {cpc} | {intent} | {serp} | {pri} | {dom} | {avail} | {notes} |".format(
                 kw=cell(kw),
@@ -292,7 +272,7 @@ def main() -> None:
                 pri=cell(r.get("Priority")),
                 dom=domain_md,
                 avail=cell(avail),
-                notes=cell(r.get("Notes")),
+                notes=sanitize_notes(r.get("Notes") or ""),
             )
         )
 
@@ -401,9 +381,9 @@ def main() -> None:
 
     lines += [
         "",
-        "## 6. Drop-watch only (taken + site down + almost expired + volume >= 500)",
+        "## 6. Almost expired (the only taken-domain table)",
         "",
-        "Not for sale today. Shown because the mapped keyword is strong and the site is dead.",
+        "Taken + website down/parked + expiry soon. **Not for sale today.** Everything else taken stays out of this file.",
         "",
         "| Domain | Keyword | Volume / mo | Site | Expiry |",
         "| --- | --- | ---: | --- | --- |",
@@ -431,15 +411,12 @@ def main() -> None:
             note = "SEO topic only — do not register brand EMD"
         us_uk.append((d, r, note))
     avail_uu = [x for x in us_uk if x[1]["verdict"] == "AVAILABLE"]
-    taken_uu = [x for x in us_uk if x[1]["verdict"] == "TAKEN"]
     lines += [
         "",
-        "## 7. `.us` and `.uk` (no `iptv` in `.uk` names)",
+        "## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)",
         "",
-        "Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500.",
-        f"Checked {len(us_uk)} names this hunt: **{len(avail_uu)} AVAILABLE**, **{len(taken_uu)} TAKEN**.",
-        "",
-        "### AVAILABLE `.us` / `.uk`",
+        "Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).",
+        f"AVAILABLE in this dump: **{len(avail_uu)}**.",
         "",
         "| Domain | TLD | Notes |",
         "| --- | --- | --- |",
@@ -447,33 +424,23 @@ def main() -> None:
     for d, r, note in avail_uu:
         tld = ".us" if d.endswith(".us") else ".co.uk"
         lines.append(f"| `{cell(d)}` | {tld} | {cell(note or 'native RDAP 404 + no DNS')} |")
-    lines += [
-        "",
-        "### TAKEN `.us` / `.uk` — do not buy",
-        "",
-        "| Domain | TLD | DNS |",
-        "| --- | --- | --- |",
-    ]
-    for d, r, note in taken_uu:
-        tld = ".us" if d.endswith(".us") else ".co.uk"
-        lines.append(f"| `{cell(d)}` | {tld} | {cell(r['dns'])} |")
 
     groups = country_tld_groups(recheck)
     lines += [
         "",
-        "## 8. Country TLDs — `.ca`, `.us`, and Europe",
+        "## 8. Country TLDs — AVAILABLE leftovers (`.ca`, `.us`, Europe)",
         "",
         "Two-word names only. Native registries: CIRA (`.ca`), nic.us (`.us`), AFNIC, DENIC, SIDN, SWITCH, Norid, Punktum, Traficom, Nominet. **404 + no DNS = AVAILABLE** on those. "
         "`.be` / `.es` / `.it` / `.pt` / `.at` / `.se` / `.pl` / `.cz` / `.eu` are **not** listed as AVAILABLE — confirm at a registrar. **`.ie` ignored.** `.uk` names that contain `iptv` are skipped.",
-        "Semrush is still unverified for US/UK/most EU languages from this IP, so these sit **outside** the Top 10 until volume ≥ 500 is confirmed.",
+        "Taken names are omitted from this section. Semrush is still unverified for US/UK/most EU languages from this IP, so these sit **outside** the Top 10 until volume ≥ 500 is confirmed.",
         "",
-        "| TLD | Country | AVAILABLE | TAKEN | Confirm | UNKNOWN |",
-        "| --- | --- | ---: | ---: | ---: | ---: |",
+        "| TLD | Country | AVAILABLE | Confirm (not free) | UNKNOWN |",
+        "| --- | --- | ---: | ---: | ---: |",
     ]
     for tld, label in COUNTRY_TLD_LABELS:
         g = groups[tld]
         lines.append(
-            f"| .{tld} | {label} | {len(g['AVAILABLE'])} | {len(g['TAKEN'])} | {len(g['CONFIRM'])} | {len(g['UNKNOWN'])} |"
+            f"| .{tld} | {label} | {len(g['AVAILABLE'])} | {len(g['CONFIRM'])} | {len(g['UNKNOWN'])} |"
         )
     for tld, label in COUNTRY_TLD_LABELS:
         g = groups[tld]
@@ -495,9 +462,6 @@ def main() -> None:
             lines.append("")
         else:
             lines.append("No names marked AVAILABLE (native RDAP not trusted, or none free).")
-            lines.append("")
-        if g["TAKEN"]:
-            lines.append("**TAKEN — do not buy:** " + ", ".join(f"`{d}`" for d in g["TAKEN"]))
             lines.append("")
         if g["CONFIRM"]:
             lines.append("**Confirm at registrar (not listed as free):** " + ", ".join(f"`{d}`" for d in g["CONFIRM"]))
