@@ -126,5 +126,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR city langs 5 | `biterrois iptv` / `narbonnais iptv` / `perpignanais iptv` / `niortais iptv` / `angoumoisin iptv` / `charentais iptv` / `girondin iptv` / `bearnais iptv` | Gentilé commercial | AVAILABLE leftovers: `biterrois-iptv.fr`, `narbonnais-iptv.fr`, `perpignanais-iptv.fr`, `niortais-iptv.fr`, `angoumoisin-iptv.fr`, `charentais-iptv.fr`, `girondin-iptv.fr`, `bearnais-iptv.fr` |
 | Boxes | `s905x4 iptv` / `h618 iptv` | Cheap Android SoC/boxes | AVAILABLE leftovers: `s905x4-iptv.fr`, `h618-iptv.fr` |
 | UK geo 6 | `kirkcaldy guide` / `dumbarton guide` / `inverclyde guide` | Nominet no-iptv | AVAILABLE: `kirkcaldy-guide.co.uk`, `dumbarton-guide.co.uk`, `inverclyde-guide.co.uk` (also `.uk`) |
+| FR city langs 6 | `avignonnais iptv` / `arlesien iptv` / `albigeois iptv` / `castrais iptv` / `montalbanais iptv` / `agenais iptv` / `rhodanien iptv` / `ardechois iptv` | Gentilé commercial | AVAILABLE leftovers: `avignonnais-iptv.fr`, `arlesien-iptv.fr`, `albigeois-iptv.fr`, `castrais-iptv.fr`, `montalbanais-iptv.fr`, `agenais-iptv.fr`, `rhodanien-iptv.fr`, `ardechois-iptv.fr`. `albigeois-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `rk3566 iptv` / `rk3588 iptv` / `allwinner iptv` | Cheap Android SoC/boxes | AVAILABLE leftovers: `rk3566-iptv.fr`, `rk3588-iptv.fr`, `allwinner-iptv.fr` |
+| UK geo 7 | `peebles guide` / `galashiels guide` / `hawick guide` | Nominet no-iptv | AVAILABLE: `peebles-guide.co.uk`, `galashiels-guide.co.uk`, `hawick-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
