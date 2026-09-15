@@ -453,6 +453,9 @@ def main() -> None:
         ("Switzerland", "fr", "iptv romand", "geo_lang", "ch_fr"),
         ("Belgium", "fr", "iptv wallonie", "geo_lang", "be_fr"),
         ("United Kingdom", "en", "iptv box uk", "device", "uk_seo_only"),
+        ("France", "fr", "iptv wifi", "device", "fr_device"),
+        ("United States", "en", "hdmi iptv", "device", "us_device"),
+        ("Canada", "en", "iptv kitchener", "city", "ca_city"),
     ]
     for item in extra:
         add(rows, seen, *item)
