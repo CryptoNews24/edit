@@ -276,5 +276,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Eure-et-Loir | `chartrain iptv` / `drouais iptv` / `estampois iptv` / `rambolitain iptv` | Gentilé commercial | AVAILABLE leftovers: `chartrain-iptv.fr`, `drouais-iptv.fr`, `estampois-iptv.fr`, `rambolitain-iptv.fr` |
 | Boxes | `t968p iptv` / `h313p iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968p-iptv.fr`, `h313p-iptv.fr` |
 | UK geo 56 | `st monans guide` / `cellardyke guide` / `kilrenny guide` | Nominet no-iptv | AVAILABLE: `stmonans-guide.co.uk`, `cellardyke-guide.co.uk`, `kilrenny-guide.co.uk` (also `.uk`) |
+| FR Yvelines | `versaillais iptv` / `mantois iptv` / `poissyen iptv` / `houillois iptv` | Gentilé commercial | AVAILABLE leftovers: `versaillais-iptv.fr`, `mantois-iptv.fr`, `poissyen-iptv.fr`, `houillois-iptv.fr` |
+| Boxes | `t962p iptv` / `a133p iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962p-iptv.fr`, `a133p-iptv.fr` |
+| UK geo 57 | `cupar guide` / `ladybank guide` / `auchtermuchty guide` | Nominet no-iptv | AVAILABLE: `cupar-guide.co.uk`, `ladybank-guide.co.uk`, `auchtermuchty-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
