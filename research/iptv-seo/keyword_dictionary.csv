@@ -4954,3 +4954,8 @@ Date added,Country,Language,Keyword,Category,Cluster,SEMrush DB,Status,Domain po
 2026-09-15,Denmark,da,dansk iptv,local_language,dk_local,dk,queued,ok,danskiptv.dk,.dk
 2026-09-15,Belgium,nl,vlaams iptv,local_language,be_nl,be,queued,ok,vlaamsiptv.be,.be
 2026-09-15,Canada,fr,iptv quebecois,local_language,ca_fr,ca,queued,ok,iptvquebecois.ca,.ca
+2026-09-15,France,fr,iptv alsace,geo,fr_geo,fr,queued,ok,iptvalsace.fr,.fr
+2026-09-15,France,fr,iptv bretagne,geo,fr_geo,fr,queued,ok,iptvbretagne.fr,.fr
+2026-09-15,France,fr,iptv corse,geo,fr_geo,fr,queued,ok,iptvcorse.fr,.fr
+2026-09-15,Switzerland,fr,iptv valais,geo,ch_fr,ch,queued,ok,iptvvalais.ch,.ch
+2026-09-15,Switzerland,fr,iptv vaud,geo,ch_fr,ch,queued,ok,iptvvaud.ch,.ch
