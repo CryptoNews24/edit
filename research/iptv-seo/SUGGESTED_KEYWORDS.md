@@ -243,5 +243,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Vendée | `sablais iptv` / `fontenaisien iptv` / `luconnais iptv` / `challandais iptv` | Gentilé commercial | AVAILABLE leftovers: `sablais-iptv.fr`, `fontenaisien-iptv.fr`, `luconnais-iptv.fr`, `challandais-iptv.fr` |
 | Boxes | `t965e iptv` / `rk3288s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965e-iptv.fr`, `rk3288s-iptv.fr` |
 | UK geo 45 | `kilmun guide` / `strone guide` / `blairmore guide` | Nominet no-iptv | AVAILABLE: `kilmun-guide.co.uk`, `strone-guide.co.uk`, `blairmore-guide.co.uk` (also `.uk`) |
+| FR Loire-Atlantique | `guerandais iptv` / `pornicais iptv` / `nazairien iptv` / `ancenien iptv` | Gentilé commercial | AVAILABLE leftovers: `guerandais-iptv.fr`, `pornicais-iptv.fr`, `nazairien-iptv.fr`, `ancenien-iptv.fr`. `pornicais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t972k iptv` / `s905y4s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t972k-iptv.fr`, `s905y4s-iptv.fr` |
+| UK geo 46 | `garelochhead guide` / `kilcreggan guide` / `rosneath guide` | Nominet no-iptv | AVAILABLE: `garelochhead-guide.co.uk`, `kilcreggan-guide.co.uk`, `rosneath-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
