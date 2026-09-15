@@ -150,5 +150,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Allier | `vichyssois iptv` / `moulinois iptv` / `montluconnais iptv` / `gannatois iptv` | Gentilé commercial | AVAILABLE leftovers: `vichyssois-iptv.fr`, `moulinois-iptv.fr`, `montluconnais-iptv.fr`, `gannatois-iptv.fr` |
 | Boxes | `s905x2 iptv` / `rk3229 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905x2-iptv.fr`, `rk3229-iptv.fr`. `s905x2-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | UK geo 14 | `clydebank guide` / `milngavie guide` / `bearsden guide` | Nominet no-iptv | AVAILABLE: `clydebank-guide.co.uk`, `milngavie-guide.co.uk`, `bearsden-guide.co.uk` (also `.uk`) |
+| FR Loire | `roannais iptv` / `stephanois iptv` / `forezien iptv` / `charolais iptv` | Gentilé commercial | AVAILABLE leftovers: `roannais-iptv.fr`, `stephanois-iptv.fr`, `forezien-iptv.fr`, `charolais-iptv.fr` |
+| Boxes | `s905d3 iptv` / `rk3326 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905d3-iptv.fr`, `rk3326-iptv.fr` |
+| UK geo 15 | `johnstone guide` / `barrhead guide` / `renfrew guide` | Nominet no-iptv | AVAILABLE: `johnstone-guide.co.uk`, `barrhead-guide.co.uk`, `renfrew-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
