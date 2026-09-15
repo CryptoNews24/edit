@@ -213,5 +213,8 @@ Noxtools recheck (2026-09-15 21:00 UTC, egress `44.230.163.89`, Chrome 153): **n
 | FR Lot/Tarn | `gourdonnais iptv` / `souillagais iptv` / `gaillacois iptv` / `mazametain iptv` | Gentilé commercial | AVAILABLE leftovers: `gourdonnais-iptv.fr`, `souillagais-iptv.fr`, `gaillacois-iptv.fr`, `mazametain-iptv.fr` |
 | Boxes | `t950e iptv` / `rk3229s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950e-iptv.fr`, `rk3229s-iptv.fr` |
 | UK geo 35 | `eriskay guide` / `lochboisdale guide` / `daliburgh guide` | Nominet no-iptv | AVAILABLE: `eriskay-guide.co.uk`, `lochboisdale-guide.co.uk`, `daliburgh-guide.co.uk` (also `.uk`) |
+| FR Gers | `auscitain iptv` / `lectourois iptv` / `fleurantin iptv` / `mirandais iptv` | Gentilé commercial | AVAILABLE leftovers: `auscitain-iptv.fr`, `lectourois-iptv.fr`, `fleurantin-iptv.fr`, `mirandais-iptv.fr` |
+| Boxes | `t968x iptv` / `s905w2s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968x-iptv.fr`, `s905w2s-iptv.fr`. `s905w2s-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 36 | `castlebay guide` / `eoligarry guide` / `northbay guide` | Nominet no-iptv | AVAILABLE: `castlebay-guide.co.uk`, `eoligarry-guide.co.uk`, `northbay-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
