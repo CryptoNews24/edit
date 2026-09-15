@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this IP after one attempt (`iptv box` FR). Incognito also 429. **No new volumes invented.** Retry when the timer fires; do not use free Semrush.
+Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC hour (18:00 retry). STOP after two 429s. **No new volumes invented.** Do not use free Semrush.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -42,5 +42,7 @@ Member login works. Keyword Overview on servers **1–6 hit HTTP 429** from this
 | More boxes | `zidoo iptv` / `tanix iptv` | Android box setup | AVAILABLE leftovers: `zidoo-iptv.fr`, `tanix-iptv.us`. `zidoo-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Baltic | `ukrainian iptv` / `lithuanian iptv` / `latvian iptv` / `estonian iptv` | Diaspora commercial | AVAILABLE leftovers: `ukrainian-iptv.ca`, `lithuanian-iptv.de`, `latvian-iptv.fr`, `estonian-iptv.fr`. `kempen-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `homatics iptv` / `wetek iptv` | Android/OTT boxes | AVAILABLE leftovers: `homatics-iptv.us`, `wetek-iptv.fr`, `droidbox-iptv.us`, `sarthe-iptv.fr`, `lausitz-iptv.de`, `seeland-iptv.ch` |
+| Balkans | `albanian iptv` / `bosnian iptv` / `macedonian iptv` | Diaspora commercial | AVAILABLE leftovers: `albanian-iptv.fr`, `bosnian-iptv.de`, `macedonian-iptv.us`. `gtmedia-box.nl` UNKNOWN (SIDN 429) — not a buy |
+| Enigma boxes | `gtmedia iptv` / `octagon iptv` | Satellite/Android hybrid | AVAILABLE leftovers: `gtmedia-iptv.fr`, `octagon-iptv.de`, `morbihan-iptv.fr`, `finistere-iptv.fr`, `pfalz-iptv.de`, `rhein-iptv.de` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
