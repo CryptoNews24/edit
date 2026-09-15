@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Noxtools recheck (2026-09-15 23:19 UTC): same hour as 23:07 probe — **not HTTP 429**. Login Cloudflare 403; servers 1–2 session expired. No login POST this wave. No invented volumes. Paste `box avis` FR Overview to remap `box-avis.fr`.
+Noxtools recheck (2026-09-15 23:22 UTC): same hour as 23:07 probe — **not HTTP 429**. Login Cloudflare 403; servers 1–2 session expired. No login POST this wave. No invented volumes. Paste `box avis` FR Overview to remap `box-avis.fr`.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -348,5 +348,8 @@ Noxtools recheck (2026-09-15 23:19 UTC): same hour as 23:07 probe — **not HTTP
 | FR Seine-et-Marne 9 | `saintfargeausien iptv` / `moretain iptv` / `brayetais iptv` / `thomeryen iptv` | Gentilé commercial | AVAILABLE leftovers: `saintfargeausien-iptv.fr`, `moretain-iptv.fr`, `brayetais-iptv.fr`, `thomeryen-iptv.fr`. `brayetais-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
 | Boxes | `t950w iptv` / `rk3562v iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950w-iptv.fr`, `rk3562v-iptv.fr`. `.se` UNKNOWN — not a buy |
 | UK geo 80 | `rumbling bridge guide` / `yetts o cochil guide` / `glendevon guide` | Nominet no-iptv | AVAILABLE: `rumblingbridge-guide.co.uk`, `yettsocochil-guide.co.uk`, `glendevon-guide.co.uk` (also `.uk`) |
+| FR Seine-et-Marne 10 | `samoisien iptv` / `boisleroyen iptv` / `vulcanien iptv` / `avonais iptv` | Gentilé commercial | AVAILABLE leftovers: `samoisien-iptv.fr`, `boisleroyen-iptv.fr`, `vulcanien-iptv.fr`, `avonais-iptv.fr`. `.se` UNKNOWN — not a buy |
+| Boxes | `t968w iptv` / `h313w iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968w-iptv.fr`, `h313w-iptv.fr`. `.se` UNKNOWN — not a buy |
+| UK geo 81 | `muthill guide` / `braco guide` / `greenloaning guide` | Nominet no-iptv | AVAILABLE: `muthill-guide.co.uk`, `braco-guide.co.uk`, `greenloaning-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
