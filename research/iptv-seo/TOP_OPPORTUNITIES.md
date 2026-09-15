@@ -12,7 +12,7 @@ France cluster **~33.8K** verified (`abonnement iptv` 18.1K Easy + `iptv france`
 
 US head `iptv` (90.5K, KD **62 Difficult**) is **excluded**. Use `best iptv` (5.4K Easy) / `iptv usa` (2.4K Easy) instead (`compareiptv.us`, `avis-iptv.us`, `cordcutusa.us`).
 
-Noxtools member pages currently **HTTP 403** from this IP (Cloudflare). Semrush Servers 1–6 previously **429**. Volumes below are only what was already verified — not invented. New geos (BE/NL/DE/CH/AU/ES/IT) stay **N/A** until Server 6 works again.
+Noxtools recheck 2026-09-15 20:43 UTC from `44.239.53.183`: **not HTTP 429**. `noxtools.com` Cloudflare 403; Semrush.in HTTP 200 session expired. Volumes below are only what was already verified — not invented. New geos stay **N/A** until a dashboard session works.
 
 Provisional score = commercial intent + SERP weakness + cluster + domain (max 50).
 

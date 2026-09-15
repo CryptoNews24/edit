@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / `4.semrush.com.in` return HTTP 200 + `Session expired, access again from Dashboard` — **not HTTP 429**. `noxtools.com` login is a Cloudflare “Just a moment…” challenge (403), so this VM cannot open a dashboard session. User browser works. **No new volumes invented.** Do not use free Semrush.
+Noxtools recheck (2026-09-15 20:43 UTC, egress `44.239.53.183`, Chrome 153): **not HTTP 429**. `noxtools.com` = Cloudflare 403 “Just a moment…”. Servers `1–4.semrush.com.in` Keyword Overview = HTTP 200 body `Session expired, access again from Dashboard`. User browser can use the site; this VM has no dashboard cookie. **No new volumes invented.** Do not use free Semrush. Paste Overview numbers for `box avis` FR (or CA) to remap `box-avis.fr`.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -183,5 +183,11 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Doubs | `pontissalien iptv` / `morezien iptv` / `champagnolais iptv` / `arboisien iptv` | Gentilé commercial | AVAILABLE leftovers: `pontissalien-iptv.fr`, `morezien-iptv.fr`, `champagnolais-iptv.fr`, `arboisien-iptv.fr` |
 | Boxes | `t962x iptv` / `rk3399pro iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962x-iptv.fr`, `rk3399pro-iptv.fr` |
 | UK geo 25 | `lochinver guide` / `golspie guide` / `lairg guide` | Nominet no-iptv | AVAILABLE: `lochinver-guide.co.uk`, `golspie-guide.co.uk`, `lairg-guide.co.uk` (also `.uk`) |
+| FR Ain/Léman | `oyonnaxien iptv` / `nantuen iptv` / `bellegardien iptv` / `gexois iptv` | Gentilé commercial | AVAILABLE leftovers: `oyonnaxien-iptv.fr`, `nantuen-iptv.fr`, `bellegardien-iptv.fr`, `gexois-iptv.fr`. `bellegardien-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Boxes | `t963s iptv` / `h713 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t963s-iptv.fr`, `h713-iptv.fr`. `t963s-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| UK geo 26 | `thurso guide` / `durness guide` / `john o groats guide` | Nominet no-iptv | AVAILABLE: `thurso-guide.co.uk`, `durness-guide.co.uk`, `johnogroats-guide.co.uk` (also `.uk`) |
+| FR Haute-Savoie | `annecien iptv` / `chamberien iptv` / `annemassien iptv` / `clusien iptv` | Gentilé commercial | AVAILABLE leftovers: `annecien-iptv.fr`, `chamberien-iptv.fr`, `annemassien-iptv.fr`, `clusien-iptv.fr` |
+| Boxes | `t965 iptv` / `s905m2 iptv` | Cheap Android SoC | AVAILABLE leftovers: `t965-iptv.fr`, `s905m2-iptv.fr` |
+| UK geo 27 | `bettyhill guide` / `altnaharra guide` / `kinlochbervie guide` | Nominet no-iptv | AVAILABLE: `bettyhill-guide.co.uk`, `altnaharra-guide.co.uk`, `kinlochbervie-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
