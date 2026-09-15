@@ -135,5 +135,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR south langs | `heraultais iptv` / `audois iptv` / `pyreneen iptv` / `roussillonnais iptv` / `bigourdan iptv` / `palois iptv` | Gentilé commercial | AVAILABLE leftovers: `heraultais-iptv.fr`, `audois-iptv.fr`, `pyreneen-iptv.fr`, `roussillonnais-iptv.fr`, `bigourdan-iptv.fr`, `palois-iptv.fr` |
 | Boxes | `h313 iptv` / `t962e iptv` | Cheap Android SoC/boxes | AVAILABLE leftovers: `h313-iptv.fr`, `t962e-iptv.fr` |
 | UK geo 9 | `selkirk guide` / `langholm guide` / `moffat guide` / `lockerbie guide` | Nominet no-iptv | AVAILABLE: `selkirk-guide.co.uk`, `langholm-guide.co.uk`, `moffat-guide.co.uk`, `lockerbie-guide.co.uk` (also `.uk`) |
+| FR SW langs | `tarbais iptv` / `lourdais iptv` / `bayonnais iptv` / `biarrot iptv` / `dacquois iptv` / `euskarien iptv` | Gentilé commercial | AVAILABLE leftovers: `tarbais-iptv.fr`, `lourdais-iptv.fr`, `bayonnais-iptv.fr`, `biarrot-iptv.fr`, `dacquois-iptv.fr`, `euskarien-iptv.fr` |
+| Boxes | `s905w2 iptv` / `a311d iptv` / `rk3328 iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905w2-iptv.fr`, `a311d-iptv.fr`, `rk3328-iptv.fr` |
+| UK geo 10 | `stranraer guide` / `wigtown guide` / `newton stewart guide` | Nominet no-iptv | AVAILABLE: `stranraer-guide.co.uk`, `wigtown-guide.co.uk`, `newtonstewart-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
