@@ -180,5 +180,8 @@ Noxtools from this cloud IP (`34.215.42.124`): member URLs `2.semrush.com.in` / 
 | FR Haute-Saone | `vesulien iptv` / `luxovien iptv` / `graylois iptv` / `lurien iptv` | Gentilé commercial | AVAILABLE leftovers: `vesulien-iptv.fr`, `luxovien-iptv.fr`, `graylois-iptv.fr`, `lurien-iptv.fr` |
 | Boxes | `t765 iptv` / `rk3588s iptv` | Cheap Android SoC | AVAILABLE leftovers: `t765-iptv.fr`, `rk3588s-iptv.fr` |
 | UK geo 24 | `plockton guide` / `applecross guide` / `gairloch guide` | Nominet no-iptv | AVAILABLE: `plockton-guide.co.uk`, `applecross-guide.co.uk`, `gairloch-guide.co.uk` (also `.uk`) |
+| FR Doubs | `pontissalien iptv` / `morezien iptv` / `champagnolais iptv` / `arboisien iptv` | Gentilé commercial | AVAILABLE leftovers: `pontissalien-iptv.fr`, `morezien-iptv.fr`, `champagnolais-iptv.fr`, `arboisien-iptv.fr` |
+| Boxes | `t962x iptv` / `rk3399pro iptv` | Cheap Android SoC | AVAILABLE leftovers: `t962x-iptv.fr`, `rk3399pro-iptv.fr` |
+| UK geo 25 | `lochinver guide` / `golspie guide` / `lairg guide` | Nominet no-iptv | AVAILABLE: `lochinver-guide.co.uk`, `golspie-guide.co.uk`, `lairg-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
