@@ -63,5 +63,9 @@ Member login works. Keyword Overview on servers **1–2 hit HTTP 429** this UTC 
 | Africa langs | `tigrinya iptv` / `shona iptv` / `xhosa iptv` | Diaspora commercial | AVAILABLE leftovers: `tigrinya-iptv.fr`, `shona-iptv.fr`, `xhosa-iptv.fr` |
 | Linux 2 | `osmio iptv` / `vu solo iptv` | Enigma boxes | AVAILABLE leftovers: `osmio-iptv.fr`, `vusolo-iptv.fr`. `marathi-box.nl` UNKNOWN (SIDN 429) — not a buy |
 | Geo FR | `iptv dordogne` / `iptv allier` / `iptv nievre` | Departement commercial | AVAILABLE: `dordogne-iptv.fr`, `allier-iptv.fr`, `nievre-iptv.fr`, `dordogne-box.fr` |
+| Indic 3 | `bhojpuri iptv` / `sindhi iptv` / `kashmiri iptv` | Diaspora commercial | AVAILABLE leftovers: `bhojpuri-iptv.fr`, `sindhi-iptv.fr`, `kashmiri-iptv.fr`. `sindhi-iptv.ch` UNKNOWN — not a buy |
+| Africa 3 | `lingala iptv` / `kinyarwanda iptv` / `tswana iptv` | Diaspora commercial | AVAILABLE leftovers: `lingala-iptv.fr`, `kinyarwanda-iptv.fr`, `tswana-iptv.fr`. `tswana-iptv.nl` UNKNOWN (SIDN 429) — not a buy |
+| Vu+ line | `vu uno iptv` / `vu ultimo iptv` / `vu zero iptv` | Enigma boxes | AVAILABLE leftovers: `vuuno-iptv.fr`, `vuultimo-iptv.fr`, `vuzero-iptv.fr` |
+| Geo FR 2 | `iptv yonne` / `iptv loiret` / `iptv calvados` / `iptv manche` | Departement commercial | AVAILABLE: `yonne-iptv.fr`, `loiret-iptv.fr`, `calvados-iptv.fr`, `manche-iptv.fr` |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
