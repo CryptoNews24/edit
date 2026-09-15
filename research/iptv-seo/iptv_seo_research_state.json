@@ -226,8 +226,8 @@
     "logged_in": true,
     "semrush_preferred_servers": [1, 2, 3, 4],
     "semrush_fallback_servers": [5, 6],
-    "last_working_entry": "Server 2 Domain Overview via picker click",
-    "keyword_overview": "HTTP 429 on Keyword Overview even from sidebar; rotate 1 then 3 then 4; incognito does not bypass IP 429",
+    "last_working_entry": "Incognito + Server 1/2 Domain Overview landing via picker",
+    "keyword_overview": "HTTP 429 on Keyword Overview, Keyword Magic, and Organic Rankings even in incognito (same IP). Domain Overview search for comparateuriptv.com returned Semrush 'Something went wrong'. Policy: on site block (429/hang), switch to incognito then servers 1-4.",
     "note": "Do not store credentials in this file. Never use Semrush free tools."
   }
 }

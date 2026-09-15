@@ -154,7 +154,7 @@ No keyword met: verified high volume + Easy/VE/NA KD + weak SERP + available ccT
 
 ## Next research moves (Noxtools Semrush Servers **1 → 2 → 3 → 4**, then 5/6)
 
-Open Semrush from the member picker buttons. If a server 429s or hangs, switch to the next of 1/2/3/4. Incognito does not bypass IP 429. Do **not** use Semrush free tools.
+Open Semrush from the member picker buttons. If a server 429s, hangs, or shows a site block, **switch to incognito** and retry Servers **1 → 2 → 3 → 4**. Incognito still uses this VM IP, so Cloudflare 429 can persist. Do **not** use Semrush free tools.
 
 
 1. Keyword Overview + related: every IPTV **app** next to iptv/box/subscription/server (`tivimate iptv`, `smarters pro`, `ott navigator`, `ibo player`, `xciptv`, `televizo`, `ss iptv`, `gse smart iptv`).
