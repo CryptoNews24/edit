@@ -318,5 +318,8 @@ Noxtools recheck (2026-09-15 22:02 UTC, egress `34.215.42.124`): **not HTTP 429*
 | FR Essonne 3 | `juvisyen iptv` / `draveilois iptv` / `viryen iptv` / `bretignyen iptv` | Gentilé commercial | AVAILABLE leftovers: `juvisyen-iptv.fr`, `draveilois-iptv.fr`, `viryen-iptv.fr`, `bretignyen-iptv.fr` |
 | Boxes | `t950u iptv` / `rk3562t iptv` | Cheap Android SoC | AVAILABLE leftovers: `t950u-iptv.fr`, `rk3562t-iptv.fr` |
 | UK geo 70 | `kippen guide` / `thornhill guide` / `gartmore guide` | Nominet no-iptv | AVAILABLE: `kippen-guide.co.uk`, `thornhill-guide.co.uk`, `gartmore-guide.co.uk` (also `.uk`) |
+| FR Essonne 4 | `athisien iptv` / `grignyen iptv` / `brunoyen iptv` / `montgeronnais iptv` | Gentilé commercial | AVAILABLE leftovers: `athisien-iptv.fr`, `grignyen-iptv.fr`, `brunoyen-iptv.fr`, `montgeronnais-iptv.fr` |
+| Boxes | `t968u iptv` / `h313u iptv` | Cheap Android SoC | AVAILABLE leftovers: `t968u-iptv.fr`, `h313u-iptv.fr` |
+| UK geo 71 | `kinross guide` / `milnathort guide` / `abernethy guide` | Nominet no-iptv | AVAILABLE: `kinross-guide.co.uk`, `milnathort-guide.co.uk`, `abernethy-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
