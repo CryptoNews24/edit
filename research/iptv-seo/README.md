@@ -2,27 +2,27 @@
 
 Volumes are real only when taken from SEMrush. Nothing is purchased from this folder.
 
-**Keyword table:** `KEYWORDS.md` (AVAILABLE **two-word** domains, Semrush volume >= 500)  
-**Domain list:** `LIST.txt` (same filters; no 3+ word labels)
+**Ranked keywords (one table):** `RANKED_KEYWORDS.md`  
+**Domain list:** `LIST.txt` (same filters; no 3+ word labels; no taken dumps)
 
-Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
+Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py && python3 generate_ranked_keywords.py`
 
 ## Status (2026-09-14)
 
 | Source | Status |
 | --- | --- |
-| Noxtools / SEMrush | Site works for you. **This agent IP is blocked by Cloudflare** ("Just a moment..." challenge). Not a down account. |
+| Noxtools / SEMrush | Works in your browser. This VM: **not HTTP 429**. `noxtools.com` Cloudflare 403; Semrush.in HTTP 200 “Session expired”. |
 | Google Search / Trends | CAPTCHA on this cloud IP |
 | Registrars (GoDaddy / Namecheap / Dynadot) | CAPTCHA |
-| Registry RDAP + DNS | Used for availability — `KEYWORDS.md` §8 lists `.ca` / `.us` / Europe |
+| Registry RDAP + DNS | Used for availability — `KEYWORDS.md` lists AVAILABLE leftovers per TLD |
 | Bing SERP | Partial (later queries went generic and were dropped) |
 
 ## Files
 
 | File | Purpose |
 | --- | --- |
-| `KEYWORDS.md` | **Keyword tables** — verified Semrush, tracked keywords, SERP, domain picks |
-| `LIST.txt` | Domain dump — picks, available, confirm, taken, drop-watch |
+| `RANKED_KEYWORDS.md` | **One ranked keyword table** — verified Semrush then queued app/platform queries |
+| `LIST.txt` | Domain dump — AVAILABLE + almost-expired only |
 | `AVAILABLE_LIST.txt` | Identical copy of `LIST.txt` |
 | `availability_recheck.csv` | Last RDAP + DNS verdict per domain |
 | `taken_not_available.csv` | Taken names — do not buy |
@@ -49,4 +49,5 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 - Ignore `.ie` domains
 - Skip `.uk` names that contain `iptv`
 - Two-word domain names only (e.g. `avis-iptv.fr`, `compareiptv.us`). Do not hunt 3+ word labels
-- TiviMate / IPTV Smarters = SEO topics, not brand EMDs
+- Exclude Semrush `keyword - keyword` pair rows (Related / also-rank labels, not queries)
+- Ranked leftovers are smashed two-word labels (`compareiptv.us`), not hyphenated `word-word` names.

@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import domain_meets_volume, skip_domain
+from filters import EXPLICIT_DOMAIN_KEYWORD_MAP, domain_meets_volume, skip_domain, skip_keyword
 
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
@@ -112,55 +112,27 @@ def main() -> None:
             w.writerow(existing[k])
 
     traffic = json.loads((CANVA / "traffic.json").read_text(encoding="utf-8"))
-    kwmap = traffic.setdefault("domain_keyword_map", {})
-    for d, r in recheck.items():
-        if r["verdict"] != "AVAILABLE":
+    # Rebuild from scratch. Do not keep TLD-wide stamps (every .fr → 18.1K).
+    kwmap = {}
+    for d, kw in EXPLICIT_DOMAIN_KEYWORD_MAP.items():
+        row = recheck.get(d)
+        if not row or row.get("verdict") != "AVAILABLE":
             continue
         if skip_domain(d):
             continue
-        if d.endswith(".fr"):
-            if "essai" in d or "test" in d:
-                kwmap[d] = "essai iptv"
-            elif "pascher" in d or "pas-cher" in d or "cher" in d:
-                kwmap[d] = "iptv pas cher"
-            elif "guide" in d:
-                kwmap[d] = "iptv france"
-            else:
-                kwmap[d] = "abonnement iptv"
-        elif d.endswith(".ca"):
-            if any(x in d for x in ("plan", "forfait", "essai")):
-                kwmap[d] = "iptv subscription canada"
-            else:
-                kwmap[d] = "iptv canada"
-        elif d.endswith(".us"):
-            if "firestick" in d:
-                kwmap[d] = "iptv firestick"
-            elif "subscription" in d or "plans" in d:
-                kwmap[d] = "iptv subscription"
-            elif "usa" in d or "american" in d:
-                kwmap[d] = "iptv usa"
-            elif any(x in d for x in ("compare", "avis", "rank", "rating", "picks")):
-                kwmap[d] = "best iptv"
-            else:
-                kwmap[d] = "iptv"
-    for d in (
-        "iptvcanada.ca",
-        "iptv-canada.ca",
-        "iptvreviews.ca",
-        "livetvcanada.ca",
-        "iptvprovider.ca",
-    ):
-        kwmap[d] = "iptv canada"
-    kwmap["irishiptv.net"] = "iptv ireland"
-    kwmap["compareiptv.us"] = "iptv"
-    kwmap["compareriptv.us"] = "iptv"
-    kwmap["avis-iptv.us"] = "best iptv"
+        kwmap[d] = kw
+    kws = traffic.get("keywords") or {}
+    traffic["keywords"] = {n: k for n, k in kws.items() if not skip_keyword(n, {"keywords": kws})}
+    kwmap = {d: kw for d, kw in kwmap.items() if not skip_keyword(kw, {"keywords": kws})}
+    traffic["domain_keyword_map"] = kwmap
     traffic["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools still Cloudflare for curl; Chrome reached Sign In but no member password in this session. NordLayer Linux daemon cannot run here. Semrush free Keyword Volume Checker live JSON via Chrome CDP, 5 lookups per IP per day. US head terms pulled; EU/UK DBs blocked after quota. analytics/keywordoverview requires Semrush login (My Reports).",
+        "detail": "Stopped stamping FR abonnement iptv 18.1K onto leftover .fr hunt names. Volume only on EXPLICIT_DOMAIN_KEYWORD_MAP. Q-rows in RANKED_KEYWORDS.md are N/A (not Semrush). Hunt stopped. No invented volumes.",
         "min_volume": 500,
+        "exclude_kd": "Difficult",
+        "exclude_keyword_pairs": True,
     }
     (CANVA / "traffic.json").write_text(json.dumps(traffic, indent=2) + "\n", encoding="utf-8")
 
@@ -172,6 +144,12 @@ def main() -> None:
         w.writeheader()
         w.writerows(canva_rows)
     print(f"canva={len(canva_rows)} available_unfiltered={len(avail_rows)} taken={len(existing)}")
+
+    from generate_ranked_keywords import main as write_ranked
+    from generate_strong_keywords import main as write_strong
+
+    write_ranked()
+    write_strong()
 
 
 if __name__ == "__main__":

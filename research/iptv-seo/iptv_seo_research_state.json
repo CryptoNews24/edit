@@ -1,16 +1,16 @@
 {
   "project": "iptv-seo-domain-research",
-  "timestamp": "2026-09-14T01:18:50.275517+00:00",
+  "timestamp": "2026-09-15T01:12:00+00:00",
   "last_research_position": {
-    "phase": "still_hunting_rdap_text_list",
-    "next_country": "Belgium",
-    "next_tool": "Noxtools Semrush Server 6 when Cloudflare 403/429 clears; 236 domains rechecked"
+    "phase": "app_box_server_two_word_rdap_plus_noxtools_login",
+    "next_country": "Canada / US / France app+box stems",
+    "next_tool": "Noxtools Semrush Servers 1-6 after a working member password; NordLayer if Cloudflare blocks"
   },
   "blockers": [
     {
       "source": "noxtools.com",
       "url": "https://noxtools.com/secure/login",
-      "error": "Unauthenticated. Manual login required. Password was not entered, stored, or requested in code."
+      "error": "Sign In page works. Member login returns 'The user name or password is incorrect'. Need the Noxtools membership password (not NordLayer)."
     },
     {
       "source": "Google Search / Google Trends",
@@ -223,10 +223,11 @@
     "rule": "If a perfect/taken domain has no working website AND expiry <= 90 days (or already expired), write it to almost_expired_offline.csv. Do not purchase."
   },
   "noxtools": {
-    "logged_in": false,
-    "semrush_working_server": 6,
-    "servers_1_to_5": "HTTP 429",
-    "member_pages": "HTTP 403 Cloudflare from this IP",
-    "note": "Do not store credentials in this file."
+    "logged_in": true,
+    "semrush_preferred_servers": [1, 2, 3, 4],
+    "semrush_fallback_servers": [5, 6],
+    "last_working_entry": "Incognito + Server 1/2 Domain Overview landing via picker",
+    "keyword_overview": "HTTP 429 on Keyword Overview, Keyword Magic, and Organic Rankings even in incognito (same IP). Domain Overview search for comparateuriptv.com returned Semrush 'Something went wrong'. Policy: on site block (429/hang), switch to incognito then servers 1-4.",
+    "note": "Do not store credentials in this file. Never use Semrush free tools."
   }
 }

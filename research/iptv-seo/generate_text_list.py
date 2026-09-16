@@ -15,7 +15,7 @@ from filters import (
     domain_meets_volume,
     keyword_volume,
     mapped_keyword,
-    meets_volume,
+    meets_opportunity,
     rank_available_domains,
     skip_domain,
 )
@@ -76,7 +76,7 @@ def country_of(domain: str) -> str:
 
 
 def kw_line(domain: str, traffic: dict) -> str:
-    name = (traffic.get("domain_keyword_map") or {}).get(domain)
+    name = mapped_keyword(traffic, domain)
     kws = traffic.get("keywords") or {}
     if not name or name not in kws:
         return "volume N/A (not verified in Semrush yet)"
@@ -133,7 +133,7 @@ def main() -> None:
     with (ROOT / "almost_expired_offline.csv").open(encoding="utf-8") as f:
         for r in csv.DictReader(f):
             d = r["Domain"]
-            if skip_domain(d) or not domain_meets_volume(traffic, d):
+            if not domain_meets_volume(traffic, d):
                 continue
             drop.append(d)
             days = r.get("Days to expiry", "")
@@ -149,17 +149,17 @@ def main() -> None:
             )
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    kws = {n: k for n, k in (traffic.get("keywords") or {}).items() if meets_volume(traffic, n)}
+    kws = {n: k for n, k in (traffic.get("keywords") or {}).items() if meets_opportunity(traffic, n)}
 
     lines = [
-        "IPTV SEO domain hunt — AVAILABLE names (plus high-volume drop-watch)",
+        "IPTV SEO domain hunt — AVAILABLE names only",
         f"Updated {now}",
         "",
-        f"Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= {MIN_VOLUME}/mo (verified). Taken names excluded",
-        "except almost-expired + website down + mapped keyword volume >= 500.",
-        "Confirm-at-registrar and unverified (N/A) names are excluded until Semrush confirms >= 500.",
+        f"Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= {MIN_VOLUME}/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**",
+        "Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).",
+        "Confirm-at-registrar and unverified (N/A) names are not buyable.",
         "Do not purchase from this file. Recheck at a registrar cart before buying.",
-        "iptvcanada.ca is TAKEN (drop-watch only). Ignore .ie domains. Skip .uk names that contain iptv.",
+        "Ignore .ie domains. Skip .uk names that contain iptv.",
         "",
         "======== TOP 10 (high Semrush traffic × low KD) ========",
         "",
@@ -203,22 +203,10 @@ def main() -> None:
         and "iptv" not in d
         and r["verdict"] == "AVAILABLE"
     ]
-    us_taken = [
-        d for d, r in recheck.items()
-        if d.endswith(".us") and r["verdict"] == "TAKEN"
-    ]
-    uk_taken = [
-        d for d, r in recheck.items()
-        if (d.endswith(".co.uk") or d.endswith(".uk"))
-        and "iptv" not in d
-        and r["verdict"] == "TAKEN"
-    ]
     extra_us = {d: "native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet." for d in us_avail}
     extra_uk = {d: "Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet." for d in uk_avail}
-    extra_us_t = {d: "TAKEN — do not buy" for d in us_taken}
-    extra_uk_t = {d: "TAKEN — do not buy" for d in uk_taken}
     lines += block(
-        "======== DROP-WATCH (taken + site down + expiry <=90d + Semrush >= 500) — not for sale ========",
+        "======== ALMOST EXPIRED (only taken table: site down + expiry soon + Semrush >= 500) — not for sale ========",
         drop,
         traffic,
         extra=drop_extra,
@@ -230,37 +218,25 @@ def main() -> None:
         extra=extra_us,
     )
     lines += block(
-        "======== TAKEN .us — do not buy ========",
-        us_taken,
-        traffic,
-        extra=extra_us_t,
-    )
-    lines += block(
         "======== AVAILABLE .uk/.co.uk with NO iptv in the name (Nominet) ========",
         uk_avail,
         traffic,
         extra=extra_uk,
     )
-    lines += block(
-        "======== TAKEN .uk/.co.uk — do not buy ========",
-        uk_taken,
-        traffic,
-        extra=extra_uk_t,
-    )
     groups = country_tld_groups(recheck)
     lines += [
-        "======== COUNTRY TLDs (.ca .us Europe) — full RDAP hunt ========",
+        "======== COUNTRY TLDs (.ca .us Europe) — AVAILABLE leftovers ========",
         "",
         "AVAILABLE = native RDAP 404 + no DNS. Two-word names only. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.",
-        "US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.",
+        "Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.",
         "",
     ]
     for tld, label in COUNTRY_TLD_LABELS:
         g = groups[tld]
-        if not any(g.values()):
+        if not g["AVAILABLE"] and not g["CONFIRM"] and not g["UNKNOWN"]:
             continue
         lines.append(
-            f".{tld}  {label}  AVAILABLE={len(g['AVAILABLE'])}  TAKEN={len(g['TAKEN'])}  "
+            f".{tld}  {label}  AVAILABLE={len(g['AVAILABLE'])}  "
             f"confirm={len(g['CONFIRM'])}  unknown={len(g['UNKNOWN'])}"
         )
     lines.append("")
@@ -271,14 +247,9 @@ def main() -> None:
         lines.append(f"-------- .{tld} {label} AVAILABLE --------")
         if g["AVAILABLE"]:
             for d in g["AVAILABLE"]:
-                brand = ""
-                if "tivimate" in d or "smartersguide" in d or "smarters-" in d:
-                    brand = "  [SEO topic only — do not register brand EMD]"
-                lines.append(f"  {d}{brand}")
+                lines.append(f"  {d}")
         else:
             lines.append("  (none marked AVAILABLE)")
-        if g["TAKEN"]:
-            lines.append("  TAKEN: " + ", ".join(g["TAKEN"]))
         if g["CONFIRM"]:
             lines.append("  CONFIRM AT REGISTRAR: " + ", ".join(g["CONFIRM"]))
         if g["UNKNOWN"]:
