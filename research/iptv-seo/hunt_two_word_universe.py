@@ -3571,6 +3571,12 @@ APP_STEMS = (
     "flixvision-apk",
     "cinehd-apk",
     "s905x5z-box",
+    "teatv-apk",
+    "beetv-apk",
+    "cyberflix-apk",
+    "flixer-apk",
+    "cloudstream-apk",
+    "s905y2z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -5020,6 +5026,9 @@ def candidates() -> list[str]:
         "glenburgie-tivimate",
         "braeval-tivimate",
         "tormore-tivimate",
+        "tamnavulin-tivimate",
+        "glenspey-tivimate",
+        "balvenie-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

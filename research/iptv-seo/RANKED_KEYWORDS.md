@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 16:10 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 16:18 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -928,5 +928,11 @@ Updated 2026-09-16 16:10 UTC. **Only this file** is the keyword ranking. Real se
 | Q916 | `flix vision` | United States | N/A | N/A | — | FlixVision (Semrush pending) | `flixvision-apk.us` |
 | Q917 | `cine hd` | United States | N/A | N/A | — | Cine HD (Semrush pending) | `cinehd-apk.us` |
 | Q918 | `s905x5z box` | United States | N/A | N/A | — | S905X5Z chipset box (Semrush pending) | `s905x5z-box.us` |
+| Q919 | `tea tv` | United States | N/A | N/A | — | TeaTV (Semrush pending) | `teatv-apk.us` |
+| Q920 | `bee tv` | United States | N/A | N/A | — | BeeTV (Semrush pending) | `beetv-apk.ca` |
+| Q921 | `cyber flix` | United States | N/A | N/A | — | CyberFlix (Semrush pending) | `cyberflix-apk.us` |
+| Q922 | `flixer apk` | United States | N/A | N/A | — | Flixer APK (Semrush pending) | `flixer-apk.us` |
+| Q923 | `cloud stream` | United States | N/A | N/A | — | CloudStream (Semrush pending) | `cloudstream-apk.us` |
+| Q924 | `s905y2z box` | United States | N/A | N/A | — | S905Y2Z chipset box (Semrush pending) | `s905y2z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
