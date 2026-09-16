@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:49 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:52 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -415,5 +415,19 @@ Updated 2026-09-16 04:49 UTC. **Only this file** is the keyword ranking. Real se
 | Q403 | `sparkle lite` | United States | N/A | N/A | — | Sparkle Lite app (Semrush pending) | `sparkle-lite.us` |
 | Q404 | `t965e box` | United States | N/A | N/A | — | T965E chipset box (Semrush pending) | `t965e-box.us` |
 | Q405 | `rk3288s box` | United States | N/A | N/A | — | RK3288S chipset box (Semrush pending) | `rk3288s-box.us` |
+| Q406 | `xteve apk` | United States | N/A | N/A | — | xTeVe APK (Semrush pending) | `xteve-apk.us` |
+| Q407 | `threadfin apk` | United States | N/A | N/A | — | Threadfin APK (Semrush pending) | `threadfin-apk.us` |
+| Q408 | `tunarr apk` | United States | N/A | N/A | — | Tunarr APK (Semrush pending) | `tunarr-apk.us` |
+| Q409 | `dispatcharr apk` | United States | N/A | N/A | — | Dispatcharr APK (Semrush pending) | `dispatcharr-apk.us` |
+| Q410 | `ersatz tv apk` | United States | N/A | N/A | — | ErsatzTV APK (Semrush pending) | `ersatztv-apk.us` |
+| Q411 | `nebula apk` | United States | N/A | N/A | — | Nebula Player APK (Semrush pending) | `nebula-apk.us` |
+| Q412 | `aurora apk` | United States | N/A | N/A | — | Aurora Player APK (Semrush pending) | `aurora-apk.us` |
+| Q413 | `mag apk` | United States | N/A | N/A | — | MAG Player APK (Semrush pending) | `mag-apk.us` |
+| Q414 | `fire cube apk` | United States | N/A | N/A | — | Fire Cube APK (Semrush pending) | `firecube-apk.us` |
+| Q415 | `roku apk` | United States | N/A | N/A | — | Roku APK (Semrush pending) | `roku-apk.us` |
+| Q416 | `apple tv apk` | United States | N/A | N/A | — | Apple TV APK (Semrush pending) | `appletv-apk.us` |
+| Q417 | `onn apk` | United States | N/A | N/A | — | Onn box APK (Semrush pending) | `onn-apk.us` |
+| Q418 | `t972k box` | United States | N/A | N/A | — | T972K chipset box (Semrush pending) | `t972k-box.us` |
+| Q419 | `s905y4s box` | United States | N/A | N/A | — | S905Y4S chipset box (Semrush pending) | `s905y4s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
