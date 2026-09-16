@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:43 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:47 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -605,5 +605,13 @@ Updated 2026-09-16 05:43 UTC. **Only this file** is the keyword ranking. Real se
 | Q593 | `audiobookshelf apk` | United States | N/A | N/A | — | Audiobookshelf APK (Semrush pending) | `audiobookshelf-apk.us` |
 | Q594 | `t965r box` | United States | N/A | N/A | — | T965R chipset box (Semrush pending) | `t965r-box.us` |
 | Q595 | `h618r box` | United States | N/A | N/A | — | H618R chipset box (Semrush pending) | `h618r-box.us` |
+| Q596 | `navidrome apk` | United States | N/A | N/A | — | Navidrome APK (Semrush pending) | `navidrome-apk.us` |
+| Q597 | `funkwhale apk` | United States | N/A | N/A | — | Funkwhale APK (Semrush pending) | `funkwhale-apk.us` |
+| Q598 | `ampache apk` | United States | N/A | N/A | — | Ampache APK (Semrush pending) | `ampache-apk.us` |
+| Q599 | `subsonic apk` | United States | N/A | N/A | — | Subsonic APK (Semrush pending) | `subsonic-apk.us` |
+| Q600 | `airsonic apk` | United States | N/A | N/A | — | Airsonic APK (Semrush pending) | `airsonic-apk.us` |
+| Q601 | `gonic apk` | United States | N/A | N/A | — | Gonic APK (Semrush pending) | `gonic-apk.us` |
+| Q602 | `t972r box` | United States | N/A | N/A | — | T972R chipset box (Semrush pending) | `t972r-box.us` |
+| Q603 | `s905x7s box` | United States | N/A | N/A | — | S905X7S chipset box (Semrush pending) | `s905x7s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

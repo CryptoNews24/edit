@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T05:42:57Z",
+  "updated": "2026-09-16T05:46:52Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -8291,10 +8291,24 @@
     "letterboxd-apk.ca": "best iptv canada",
     "letterboxd-apk.us": "best iptv",
     "wizarr-apk.ca": "best iptv canada",
-    "wizarr-apk.us": "best iptv"
+    "wizarr-apk.us": "best iptv",
+    "airsonic-apk.ca": "best iptv canada",
+    "airsonic-apk.us": "best iptv",
+    "ampache-apk.ca": "best iptv canada",
+    "ampache-apk.us": "best iptv",
+    "funkwhale-apk.ca": "best iptv canada",
+    "funkwhale-apk.us": "best iptv",
+    "gonic-apk.ca": "best iptv canada",
+    "gonic-apk.us": "best iptv",
+    "navidrome-apk.ca": "best iptv canada",
+    "navidrome-apk.us": "best iptv",
+    "s905x7s-box.ca": "best iptv canada",
+    "s905x7s-box.us": "best iptv",
+    "subsonic-apk.ca": "best iptv canada",
+    "subsonic-apk.us": "best iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T05:42:57Z",
+    "attempted": "2026-09-16T05:46:52Z",
     "status": "partial",
     "detail": "Noxtools 05:xx UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour. Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
     "min_volume": 500,
