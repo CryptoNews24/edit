@@ -997,6 +997,12 @@ QUEUED = (
     ("stream flix", "us", "StreamFlix"),
     ("rdnet apk", "us", "RDNet APK"),
     ("s905l3z box", "us", "S905L3Z chipset box"),
+    ("kodi 19", "us", "Kodi 19"),
+    ("tivi plus", "us", "Tivi Plus"),
+    ("sparkle plus", "us", "Sparkle Plus"),
+    ("smarters plus", "us", "Smarters Plus"),
+    ("ibo plus", "us", "IBO Plus"),
+    ("rk3566z box", "us", "RK3566Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1968,6 +1974,12 @@ NEEDLES = {
     "stream flix": ("streamflix-apk",),
     "rdnet apk": ("rdnet-apk",),
     "s905l3z box": ("s905l3z-box",),
+    "kodi 19": ("kodi19-apk",),
+    "tivi plus": ("tiviplus-apk",),
+    "sparkle plus": ("sparkleplus-apk",),
+    "smarters plus": ("smartersplus-apk",),
+    "ibo plus": ("iboplus-apk",),
+    "rk3566z box": ("rk3566z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

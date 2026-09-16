@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 17:23 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 17:34 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -975,5 +975,11 @@ Updated 2026-09-16 17:23 UTC. **Only this file** is the keyword ranking. Space-s
 | Q963 | `stream flix` | United States | N/A | N/A | — | StreamFlix (Semrush pending) | `streamflix-apk.us` |
 | Q964 | `rdnet apk` | United States | N/A | N/A | — | RDNet APK (Semrush pending) | `rdnet-apk.us` |
 | Q965 | `s905l3z box` | United States | N/A | N/A | — | S905L3Z chipset box (Semrush pending) | `s905l3z-box.us` |
+| Q966 | `kodi 19` | United States | N/A | N/A | — | Kodi 19 (Semrush pending) | `kodi19-apk.us` |
+| Q967 | `tivi plus` | United States | N/A | N/A | — | Tivi Plus (Semrush pending) | `tiviplus-apk.us` |
+| Q968 | `sparkle plus` | United States | N/A | N/A | — | Sparkle Plus (Semrush pending) | `sparkleplus-apk.us` |
+| Q969 | `smarters plus` | United States | N/A | N/A | — | Smarters Plus (Semrush pending) | `smartersplus-apk.us` |
+| Q970 | `ibo plus` | United States | N/A | N/A | — | IBO Plus (Semrush pending) | `iboplus-apk.us` |
+| Q971 | `rk3566z box` | United States | N/A | N/A | — | RK3566Z chipset box (Semrush pending) | `rk3566z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.

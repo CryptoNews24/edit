@@ -3619,6 +3619,12 @@ APP_STEMS = (
     "streamflix-apk",
     "rdnet-apk",
     "s905l3z-box",
+    "kodi19-apk",
+    "tiviplus-apk",
+    "sparkleplus-apk",
+    "smartersplus-apk",
+    "iboplus-apk",
+    "rk3566z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -5092,6 +5098,9 @@ def candidates() -> list[str]:
         "dalmore-tivimate",
         "talisker-tivimate",
         "edradour-tivimate",
+        "glenmorangie-tivimate",
+        "ardmore-tivimate",
+        "lagavulin-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
