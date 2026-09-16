@@ -161,7 +161,7 @@ def main() -> None:
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools 04:00 UTC probe: login GET Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour. Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
+        "detail": "Noxtools this UTC hour: skip login POST after Cloudflare 403 (Just a moment, not HTTP 429). Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
         "min_volume": 500,
         "exclude_kd": "Difficult",
         "exclude_keyword_pairs": True,

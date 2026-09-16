@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:25 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:30 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -276,5 +276,22 @@ Updated 2026-09-16 04:25 UTC. **Only this file** is the keyword ranking. Real se
 | Q264 | `s905w2s box` | United States | N/A | N/A | — | S905W2S chipset box (Semrush pending) | `s905w2s-box.us` |
 | Q265 | `t968x box` | United States | N/A | N/A | — | T968X chipset box (Semrush pending) | `t968x-box.us` |
 | Q266 | `t950k box` | United States | N/A | N/A | — | T950K chipset box (Semrush pending) | `t950k-box.us` |
+| Q267 | `tivimate apk` | United States | N/A | N/A | — | TiviMate APK install (Semrush pending) | `tivimate-apk.us` |
+| Q268 | `rk3326s box` | United States | N/A | N/A | — | RK3326S chipset box (Semrush pending) | `rk3326s-box.us` |
+| Q269 | `h313 box` | United States | N/A | N/A | — | H313 chipset box (Semrush pending) | `h313-box.us` |
+| Q270 | `a133 box` | United States | N/A | N/A | — | A133 chipset box (Semrush pending) | `a133-box.us` |
+| Q271 | `openbh` | United States | N/A | N/A | — | OpenBH Enigma image (Semrush pending) | `openbh-box.us` |
+| Q272 | `opendroid` | United States | N/A | N/A | — | OpenDroid Enigma image (Semrush pending) | `opendroid-box.us` |
+| Q273 | `opennfr` | United States | N/A | N/A | — | OpenNFR Enigma image (Semrush pending) | `opennfr-box.us` |
+| Q274 | `teamblue` | United States | N/A | N/A | — | TeamBlue Enigma image (Semrush pending) | `teamblue-box.us` |
+| Q275 | `openvision` | United States | N/A | N/A | — | OpenVision Enigma image (Semrush pending) | `openvision-box.us` |
+| Q276 | `kodi piers` | United States | N/A | N/A | — | Kodi Piers setup (Semrush pending) | `kodi-piers.us` |
+| Q277 | `ott player` | United States | N/A | N/A | — | OTTPlayer app (Semrush pending) | `ottplayer-box.us` |
+| Q278 | `vti box` | United States | N/A | N/A | — | VTi Enigma image (Semrush pending) | `vti-box.us` |
+| Q279 | `satdreamgr` | United States | N/A | N/A | — | SatDreamGr Enigma image (Semrush pending) | `satdreamgr-box.us` |
+| Q280 | `sf8008` | United States | N/A | N/A | — | Octagon SF8008 box (Semrush pending) | `sf8008-box.us` |
+| Q281 | `beelink gt1` | United States | N/A | N/A | — | Beelink GT1 box (Semrush pending) | `beelink-gt1.us` |
+| Q282 | `wetek play` | United States | N/A | N/A | — | WeTek Play box (Semrush pending) | `wetek-play.us` |
+| Q283 | `vu solo` | United States | N/A | N/A | — | VU+ Solo box (Semrush pending) | `vu-solo.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
