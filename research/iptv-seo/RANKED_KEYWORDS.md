@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 16:57 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 17:10 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -964,5 +964,11 @@ Updated 2026-09-16 16:57 UTC. **Only this file** is the keyword ranking. Space-s
 | Q952 | `ghost tv` | United States | N/A | N/A | — | Ghost TV (Semrush pending) | `ghosttv-apk.us` |
 | Q953 | `cinema box` | United States | N/A | N/A | — | CinemaBox (Semrush pending) | `cinemabox-apk.us` |
 | Q954 | `t965x box` | United States | N/A | N/A | — | T965X chipset box (Semrush pending) | `t965x-box.us` |
+| Q955 | `easy news` | United States | N/A | N/A | — | Easynews (Semrush pending) | `easynews-apk.us` |
+| Q956 | `flix fire` | United States | N/A | N/A | — | FlixFire (Semrush pending) | `flixfire-apk.us` |
+| Q957 | `phantom tv` | United States | N/A | N/A | — | Phantom TV (Semrush pending) | `phantomtv-apk.us` |
+| Q958 | `debridav apk` | United States | N/A | N/A | — | Debridav APK (Semrush pending) | `debridav-apk.us` |
+| Q959 | `kodi 18` | United States | N/A | N/A | — | Kodi 18 (Semrush pending) | `kodi18-apk.us` |
+| Q960 | `s905x3z box` | United States | N/A | N/A | — | S905X3Z chipset box (Semrush pending) | `s905x3z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.

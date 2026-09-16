@@ -985,6 +985,12 @@ QUEUED = (
     ("ghost tv", "us", "Ghost TV"),
     ("cinema box", "us", "CinemaBox"),
     ("t965x box", "us", "T965X chipset box"),
+    ("easy news", "us", "Easynews"),
+    ("flix fire", "us", "FlixFire"),
+    ("phantom tv", "us", "Phantom TV"),
+    ("debridav apk", "us", "Debridav APK"),
+    ("kodi 18", "us", "Kodi 18"),
+    ("s905x3z box", "us", "S905X3Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1944,6 +1950,12 @@ NEEDLES = {
     "ghost tv": ("ghosttv-apk",),
     "cinema box": ("cinemabox-apk",),
     "t965x box": ("t965x-box",),
+    "easy news": ("easynews-apk",),
+    "flix fire": ("flixfire-apk",),
+    "phantom tv": ("phantomtv-apk",),
+    "debridav apk": ("debridav-apk",),
+    "kodi 18": ("kodi18-apk",),
+    "s905x3z box": ("s905x3z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
