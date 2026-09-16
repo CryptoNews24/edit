@@ -77,9 +77,9 @@ QUEUED = (
 NEEDLES = {
     "tivimate playlist": ("tivimate-playlist", "playlist-tivimate"),
     "tivimate setup": ("tivimate-setup",),
-    "smarters pro": ("smarters-pro", "smarters-box", "smarters-player", "smarters-guide"),
+    "smarters pro": ("smarters-pro", "smarters-box", "smarters-player", "smarters-guide", "smarters-tv"),
     "ibo player": ("ibo-player", "ibo-box"),
-    "ibo pro": ("ibo-pro", "ibopro-player"),
+    "ibo pro": ("ibo-pro", "ibopro-player", "ibo-smart"),
     "ott navigator": ("ott-navigator", "navigator-box"),
     "ott play": ("ott-play", "ottplay-box"),
     "gse smart iptv": ("gse-smart", "gse-player", "gse-box", "gse-guide"),

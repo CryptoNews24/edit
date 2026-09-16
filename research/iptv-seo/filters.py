@@ -350,6 +350,8 @@ _WORD_TOKENS = tuple(
             "schaffhausen",
             "locarno",
             "montreux",
+            "oakville",
+            "burlington",
             "bodo",
             "alesund",
             "drammen",

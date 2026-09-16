@@ -2710,6 +2710,8 @@ APP_STEMS = (
     "ibo-box",
     "ibo-guide",
     "ibo-pro",
+    "ibo-smart",
+    "smarters-tv",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3060,6 +3062,15 @@ def candidates() -> list[str]:
     _push("tivimate-alesund.no", seen, out)
     _push("tivimate-drammen.no", seen, out)
     _push("tivimate-viborg.dk", seen, out)
+    _push("tivimate-oakville.ca", seen, out)
+    _push("tivimate-burlington.ca", seen, out)
+    _push("tivimate-bodo.no", seen, out)
+    _push("tivimate-fredrikstad.no", seen, out)
+    _push("tivimate-sandnes.no", seen, out)
+    _push("tivimate-herning.dk", seen, out)
+    _push("tivimate-vejle.dk", seen, out)
+    _push("tivimate-kolding.dk", seen, out)
+    _push("tivimate-roskilde.dk", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3705,6 +3716,8 @@ def candidates() -> list[str]:
         "richmond-tivimate",
         "kitchener-tivimate",
         "niagara-tivimate",
+        "oakville-tivimate",
+        "burlington-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
