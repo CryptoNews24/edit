@@ -3431,6 +3431,13 @@ APP_STEMS = (
     "rclone-apk",
     "duplicacy-apk",
     "h618y-box",
+    "owncloud-apk",
+    "pcloud-apk",
+    "internxt-apk",
+    "protondrive-apk",
+    "mega-apk",
+    "t950z-box",
+    "rk3562y-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4811,6 +4818,9 @@ def candidates() -> list[str]:
         "trinafour-tivimate",
         "dalwhinnie-tivimate",
         "newtonmore-tivimate",
+        "kingussie-tivimate",
+        "aviemore-tivimate",
+        "carrbridge-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

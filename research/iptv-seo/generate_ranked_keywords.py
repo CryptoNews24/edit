@@ -809,6 +809,13 @@ QUEUED = (
     ("rclone apk", "us", "Rclone APK"),
     ("duplicacy apk", "us", "Duplicacy APK"),
     ("h618y box", "us", "H618Y chipset box"),
+    ("owncloud apk", "us", "ownCloud APK"),
+    ("pcloud apk", "us", "pCloud APK"),
+    ("internxt apk", "us", "Internxt APK"),
+    ("protondrive apk", "us", "Proton Drive APK"),
+    ("mega apk", "us", "MEGA APK"),
+    ("t950z box", "us", "T950Z chipset box"),
+    ("rk3562y box", "us", "RK3562Y chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1592,6 +1599,13 @@ NEEDLES = {
     "rclone apk": ("rclone-apk",),
     "duplicacy apk": ("duplicacy-apk",),
     "h618y box": ("h618y-box",),
+    "owncloud apk": ("owncloud-apk",),
+    "pcloud apk": ("pcloud-apk",),
+    "internxt apk": ("internxt-apk",),
+    "protondrive apk": ("protondrive-apk",),
+    "mega apk": ("mega-apk",),
+    "t950z box": ("t950z-box",),
+    "rk3562y box": ("rk3562y-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
