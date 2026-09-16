@@ -664,6 +664,13 @@ QUEUED = (
     ("mpcbe apk", "us", "MPC-BE APK"),
     ("t965t box", "us", "T965T chipset box"),
     ("rk3328t box", "us", "RK3328T chipset box"),
+    ("outplayer apk", "us", "OutPlayer APK"),
+    ("vidhub apk", "us", "VidHub APK"),
+    ("senplayer apk", "us", "SenPlayer APK"),
+    ("moonlight apk", "us", "Moonlight APK"),
+    ("sunshine apk", "us", "Sunshine APK"),
+    ("t972t box", "us", "T972T chipset box"),
+    ("h618t box", "us", "H618T chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1302,6 +1309,13 @@ NEEDLES = {
     "mpcbe apk": ("mpcbe-apk",),
     "t965t box": ("t965t-box",),
     "rk3328t box": ("rk3328t-box",),
+    "outplayer apk": ("outplayer-apk",),
+    "vidhub apk": ("vidhub-apk",),
+    "senplayer apk": ("senplayer-apk",),
+    "moonlight apk": ("moonlight-apk",),
+    "sunshine apk": ("sunshine-apk",),
+    "t972t box": ("t972t-box",),
+    "h618t box": ("h618t-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
