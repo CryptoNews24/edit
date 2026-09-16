@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:07 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:10 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -487,5 +487,17 @@ Updated 2026-09-16 05:07 UTC. **Only this file** is the keyword ranking. Real se
 | Q475 | `zgemma apk` | United States | N/A | N/A | — | Zgemma APK (Semrush pending) | `zgemma-apk.us` |
 | Q476 | `t965k box` | United States | N/A | N/A | — | T965K chipset box (Semrush pending) | `t965k-box.us` |
 | Q477 | `rk3399k box` | United States | N/A | N/A | — | RK3399K chipset box (Semrush pending) | `rk3399k-box.us` |
+| Q478 | `dreamlink apk` | United States | N/A | N/A | — | Dreamlink APK (Semrush pending) | `dreamlink-apk.us` |
+| Q479 | `buzz tv apk` | United States | N/A | N/A | — | BuzzTV APK (Semrush pending) | `buzztv-apk.us` |
+| Q480 | `infomir apk` | United States | N/A | N/A | — | Infomir APK (Semrush pending) | `infomir-apk.us` |
+| Q481 | `uclan apk` | United States | N/A | N/A | — | UCLAN APK (Semrush pending) | `uclan-apk.us` |
+| Q482 | `coreelec apk` | United States | N/A | N/A | — | CoreELEC APK (Semrush pending) | `coreelec-apk.us` |
+| Q483 | `libreelec apk` | United States | N/A | N/A | — | LibreELEC APK (Semrush pending) | `libreelec-apk.us` |
+| Q484 | `emuelec apk` | United States | N/A | N/A | — | EmuELEC APK (Semrush pending) | `emuelec-apk.us` |
+| Q485 | `openatv apk` | United States | N/A | N/A | — | OpenATV APK (Semrush pending) | `openatv-apk.us` |
+| Q486 | `openpli apk` | United States | N/A | N/A | — | OpenPLi APK (Semrush pending) | `openpli-apk.us` |
+| Q487 | `openvix apk` | United States | N/A | N/A | — | OpenViX APK (Semrush pending) | `openvix-apk.us` |
+| Q488 | `t972m box` | United States | N/A | N/A | — | T972M chipset box (Semrush pending) | `t972m-box.us` |
+| Q489 | `h618k box` | United States | N/A | N/A | — | H618K chipset box (Semrush pending) | `h618k-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
