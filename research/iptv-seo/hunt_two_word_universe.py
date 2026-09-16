@@ -2850,6 +2850,17 @@ APP_STEMS = (
     "osmc-box",
     "spmc-box",
     "synology-video",
+    "mythtv-box",
+    "hdhomerun-box",
+    "tablo-box",
+    "tautulli-box",
+    "overseerr-box",
+    "jellyfin-server",
+    "emby-server",
+    "plex-server",
+    "kodi-server",
+    "silicondust-box",
+    "minidlna-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4053,6 +4064,9 @@ def candidates() -> list[str]:
         "baltasound-tivimate",
         "hillswick-tivimate",
         "bressay-tivimate",
+        "fetlar-tivimate",
+        "kirkwall-tivimate",
+        "stromness-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

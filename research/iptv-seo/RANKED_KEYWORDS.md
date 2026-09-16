@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:07 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -204,5 +204,16 @@ Updated 2026-09-16 04:04 UTC. **Only this file** is the keyword ranking. Real se
 | Q192 | `osmc` | United States | N/A | N/A | — | OSMC media center (Semrush pending) | `osmc-box.us` |
 | Q193 | `spmc` | United States | N/A | N/A | — | SPMC Kodi fork (Semrush pending) | `spmc-box.us` |
 | Q194 | `synology video` | United States | N/A | N/A | — | Synology Video Station (Semrush pending) | `synology-video.us` |
+| Q195 | `mythtv` | United States | N/A | N/A | — | MythTV PVR (Semrush pending) | `mythtv-box.us` |
+| Q196 | `hdhomerun` | United States | N/A | N/A | — | HDHomeRun tuner (Semrush pending) | `hdhomerun-box.us` |
+| Q197 | `tablo tv` | United States | N/A | N/A | — | Tablo TV tuner (Semrush pending) | `tablo-box.us` |
+| Q198 | `tautulli` | United States | N/A | N/A | — | Tautulli Plex stats (Semrush pending) | `tautulli-box.us` |
+| Q199 | `overseerr` | United States | N/A | N/A | — | Overseerr requests (Semrush pending) | `overseerr-box.us` |
+| Q200 | `jellyfin server` | United States | N/A | N/A | — | Jellyfin server setup (Semrush pending) | `jellyfin-server.us` |
+| Q201 | `emby server` | United States | N/A | N/A | — | Emby server setup (Semrush pending) | `emby-server.ca` |
+| Q202 | `plex server` | United States | N/A | N/A | — | Plex server setup (Semrush pending) | `plex-server.us` |
+| Q203 | `kodi server` | United States | N/A | N/A | — | Kodi server setup (Semrush pending) | `kodi-server.us` |
+| Q204 | `silicondust` | United States | N/A | N/A | — | SiliconDust HDHomeRun (Semrush pending) | `silicondust-box.us` |
+| Q205 | `minidlna` | United States | N/A | N/A | — | ReadyMedia MiniDLNA (Semrush pending) | `minidlna-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
