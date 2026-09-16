@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:58 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:01 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -453,5 +453,16 @@ Updated 2026-09-16 04:58 UTC. **Only this file** is the keyword ranking. Real se
 | Q441 | `rk3328s box` | United States | N/A | N/A | — | RK3328S chipset box (Semrush pending) | `rk3328s-box.us` |
 | Q442 | `t950n box` | United States | N/A | N/A | — | T950N chipset box (Semrush pending) | `t950n-box.us` |
 | Q443 | `h313k box` | United States | N/A | N/A | — | H313K chipset box (Semrush pending) | `h313k-box.us` |
+| Q444 | `sharp apk` | United States | N/A | N/A | — | Sharp APK (Semrush pending) | `sharp-apk.us` |
+| Q445 | `toshiba apk` | United States | N/A | N/A | — | Toshiba APK (Semrush pending) | `toshiba-apk.us` |
+| Q446 | `realme apk` | United States | N/A | N/A | — | Realme APK (Semrush pending) | `realme-apk.us` |
+| Q447 | `oneplus apk` | United States | N/A | N/A | — | OnePlus APK (Semrush pending) | `oneplus-apk.us` |
+| Q448 | `nest apk` | United States | N/A | N/A | — | Nest Hub APK (Semrush pending) | `nest-apk.us` |
+| Q449 | `echo show apk` | United States | N/A | N/A | — | Echo Show APK (Semrush pending) | `echoshow-apk.us` |
+| Q450 | `legion apk` | United States | N/A | N/A | — | Legion Go APK (Semrush pending) | `legion-apk.us` |
+| Q451 | `m3u apk` | United States | N/A | N/A | — | M3U player APK (Semrush pending) | `m3u-apk.us` |
+| Q452 | `epg apk` | United States | N/A | N/A | — | EPG APK (Semrush pending) | `epg-apk.us` |
+| Q453 | `t968m box` | United States | N/A | N/A | — | T968M chipset box (Semrush pending) | `t968m-box.us` |
+| Q454 | `rk3562s box` | United States | N/A | N/A | — | RK3562S chipset box (Semrush pending) | `rk3562s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
