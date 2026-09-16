@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 11:51 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 12:06 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -809,5 +809,11 @@ Updated 2026-09-16 11:51 UTC. **Only this file** is the keyword ranking. Real se
 | Q797 | `1password apk` | United States | N/A | N/A | — | 1Password APK (Semrush pending) | `1password-apk.us` |
 | Q798 | `dashlane apk` | United States | N/A | N/A | — | Dashlane APK (Semrush pending) | `dashlane-apk.us` |
 | Q799 | `t962z box` | United States | N/A | N/A | — | T962Z chipset box (Semrush pending) | `t962z-box.us` |
+| Q800 | `lastpass apk` | United States | N/A | N/A | — | LastPass APK (Semrush pending) | `lastpass-apk.us` |
+| Q801 | `nordpass apk` | United States | N/A | N/A | — | NordPass APK (Semrush pending) | `nordpass-apk.us` |
+| Q802 | `keepassxc apk` | United States | N/A | N/A | — | KeePassXC APK (Semrush pending) | `keepassxc-apk.us` |
+| Q803 | `enpass apk` | United States | N/A | N/A | — | Enpass APK (Semrush pending) | `enpass-apk.us` |
+| Q804 | `keeper apk` | United States | N/A | N/A | — | Keeper APK (Semrush pending) | `keeper-apk.us` |
+| Q805 | `t965z box` | United States | N/A | N/A | — | T965Z chipset box (Semrush pending) | `t965z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
