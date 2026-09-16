@@ -188,4 +188,4 @@ High-intent **AVAILABLE** leftovers (do not buy from this list):
 
 Brand app names (TiviMate, Smarters, IBO, GSE, OTT Navigator) stay **SEO keywords only** — not EMD domains.
 
-Next Semrush queue: `SUGGESTED_KEYWORDS.md`.
+Keyword ranking (one table): `RANKED_KEYWORDS.md`.

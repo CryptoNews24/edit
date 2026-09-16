@@ -2,10 +2,10 @@
 
 Volumes are real only when taken from SEMrush. Nothing is purchased from this folder.
 
-**Suggested keywords (queued, no invented volume):** `SUGGESTED_KEYWORDS.md`  
+**Ranked keywords (one table):** `RANKED_KEYWORDS.md`  
 **Domain list:** `LIST.txt` (same filters; no 3+ word labels; no taken dumps)
 
-Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
+Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py && python3 generate_ranked_keywords.py`
 
 ## Status (2026-09-14)
 
@@ -21,7 +21,7 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 
 | File | Purpose |
 | --- | --- |
-| `KEYWORDS.md` | **Keyword tables** — verified Semrush, tracked keywords, SERP, domain picks |
+| `RANKED_KEYWORDS.md` | **One ranked keyword table** — verified Semrush then queued app/platform queries |
 | `LIST.txt` | Domain dump — AVAILABLE + almost-expired only |
 | `AVAILABLE_LIST.txt` | Identical copy of `LIST.txt` |
 | `availability_recheck.csv` | Last RDAP + DNS verdict per domain |
@@ -50,4 +50,4 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 - Skip `.uk` names that contain `iptv`
 - Two-word domain names only (e.g. `avis-iptv.fr`, `compareiptv.us`). Do not hunt 3+ word labels
 - Exclude Semrush `keyword - keyword` pair rows (Related / also-rank labels, not queries)
-- TiviMate / IPTV Smarters = SEO topics, not brand EMDs
+- Ranked keywords are participant queries (spaces). Skip Semrush `keyword - keyword` pair rows and hyphen-joined labels.

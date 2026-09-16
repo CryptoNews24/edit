@@ -2700,6 +2700,67 @@ CITY_BY_TLD = {
     ),
 }
 
+# Apps / platforms on CA US UK Nordics (not extra .fr). UK labels with "iptv" are dropped in _push.
+APP_STEMS = (
+    "smarters-box",
+    "smarters-player",
+    "smarters-guide",
+    "smarters-pro",
+    "ibo-player",
+    "ibo-box",
+    "ibo-guide",
+    "ibo-pro",
+    "ibopro-player",
+    "gse-player",
+    "gse-box",
+    "gse-smart",
+    "ott-navigator",
+    "ott-play",
+    "ottplay-box",
+    "navigator-box",
+    "navigator-player",
+    "xciptv-box",
+    "xciptv-player",
+    "xciptv-guide",
+    "televizo-box",
+    "televizo-player",
+    "ssiptv-box",
+    "ssiptv-player",
+    "xtream-guide",
+    "firestick-guide",
+    "formuler-box",
+    "formuler-guide",
+    "sparkle-player",
+    "sparkle-box",
+    "sparkle-tv",
+    "kodi-guide",
+    "kodi-player",
+    "kodi-box",
+    "perfect-player",
+    "lazy-player",
+    "lazyiptv-box",
+    "extreme-player",
+    "duplex-player",
+    "duplex-box",
+    "purple-player",
+    "purple-tv",
+    "flix-player",
+    "flixiptv-box",
+    "magis-tv",
+    "magis-box",
+    "xeplayer-box",
+    "smartiptv-box",
+    "setiptv-box",
+    "vlc-player",
+    "roku-guide",
+    "onn-box",
+    "onn-player",
+    "xiaomi-box",
+    "googletv-box",
+    "firecube-box",
+    "appletv-box",
+)
+
 
 def _push(domain: str, seen: set[str], out: list[str]) -> None:
     if domain in seen:
@@ -2933,6 +2994,33 @@ def candidates() -> list[str]:
     _push("tivimate-jonkoping.se", seen, out)
     _push("tivimate-lulea.se", seen, out)
     _push("tivimate-gavle.se", seen, out)
+    for stem in (
+        "tivimate-live",
+        "tivimate-watch",
+        "tivimate-stream",
+        "tivimate-compare",
+        "tivimate-cheap",
+        "tivimate-trial",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
+    _push("tivimate-reddeer.ca", seen, out)
+    _push("tivimate-lethbridge.ca", seen, out)
+    _push("tivimate-albuquerque.us", seen, out)
+    _push("tivimate-omaha.us", seen, out)
+    _push("tivimate-tulsa.us", seen, out)
+    for stem in APP_STEMS:
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
+    for stem in (
+        "basta-tivimate",
+        "basta-box",
+        "beste-box",
+        "bedste-box",
+        "paras-box",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3567,7 +3655,16 @@ def candidates() -> list[str]:
         "ipswich-tivimate",
         "halifax-tivimate",
         "tivimate-film",
+        "derby-tivimate",
+        "preston-tivimate",
+        "bournemouth-tivimate",
+        "tivimate-live",
+        "tivimate-watch",
+        "tivimate-compare",
     ):
+        _push(f"{stem}.co.uk", seen, out)
+        _push(f"{stem}.uk", seen, out)
+    for stem in APP_STEMS:
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
     return out

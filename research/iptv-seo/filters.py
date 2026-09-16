@@ -9,6 +9,8 @@ MIN_VOLUME = 500
 
 # Semrush Related / also-rank rows look like "abonnement iptv - france". Not queries.
 _KEYWORD_PAIR_RE = re.compile(r"\s+-\s+")
+# Ranked table is participant queries only (spaces). Hyphen-joined labels are not listed.
+_KEYWORD_HYPHEN_RE = re.compile(r"\S-\S")
 
 # Country-code hunt order: CA, US, then Europe. `.ie` is never listed.
 COUNTRY_TLD_LABELS = [
@@ -2276,6 +2278,21 @@ _WORD_TOKENS = tuple(
             "appletv",
             "smarters",
             "tivimate",
+            "smartiptv",
+            "setiptv",
+            "flixiptv",
+            "lazyiptv",
+            "ibopro",
+            "ottplay",
+            "perfect",
+            "lazy",
+            "flix",
+            "magis",
+            "purple",
+            "ibo",
+            "gse",
+            "ssiptv",
+            "sparkle",
             "apk",
             "addon",
             "formuler",
@@ -2435,6 +2452,9 @@ _WORD_TOKENS = tuple(
             "ipswich",
             "sanantonio",
             "sanjose",
+            "derby",
+            "preston",
+            "bournemouth",
             "alberta",
             "manitoba",
             "atlantic",
@@ -2657,10 +2677,11 @@ def keyword_volume(traffic: dict, name: str | None) -> int | None:
 
 
 def skip_keyword(name: str | None) -> bool:
-    """Exclude Semrush 'keyword - keyword' pair labels."""
+    """Exclude Semrush pair rows and hyphen-joined labels. Keep space-separated queries."""
     if not name or not str(name).strip():
         return True
-    return bool(_KEYWORD_PAIR_RE.search(str(name)))
+    s = str(name)
+    return bool(_KEYWORD_PAIR_RE.search(s) or _KEYWORD_HYPHEN_RE.search(s))
 
 
 def meets_volume(traffic: dict, name: str | None) -> bool:

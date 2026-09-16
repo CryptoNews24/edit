@@ -177,6 +177,10 @@ def main() -> None:
         w.writerows(canva_rows)
     print(f"canva={len(canva_rows)} available_unfiltered={len(avail_rows)} taken={len(existing)}")
 
+    from generate_ranked_keywords import main as write_ranked
+
+    write_ranked()
+
 
 if __name__ == "__main__":
     main()
