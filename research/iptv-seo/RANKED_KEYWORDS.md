@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 18:18 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 18:30 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -262,7 +262,7 @@ Updated 2026-09-16 18:18 UTC. **Only this file** is the keyword ranking. Space-s
 | Q250 | `tvip box` | United States | N/A | N/A | — | TVIP MAG box (Semrush pending) | `—` |
 | Q251 | `aurora player` | United States | N/A | N/A | — | Aurora IPTV player (Semrush pending) | `—` |
 | Q252 | `gplayer` | United States | N/A | N/A | — | GPlayer IPTV app (Semrush pending) | `—` |
-| Q253 | `xtream panel` | United States | N/A | N/A | — | Xtream Codes panel (Semrush pending) | `—` |
+| Q253 | `xtream panel` | United States | N/A | N/A | — | Xtream Codes panel (Semrush pending) | `xtreampanel.us` |
 | Q254 | `enigma2` | United States | N/A | N/A | — | Enigma2 image (Semrush pending) | `—` |
 | Q255 | `openatv` | United States | N/A | N/A | — | OpenATV Enigma image (Semrush pending) | `—` |
 | Q256 | `openpli` | United States | N/A | N/A | — | OpenPLi Enigma image (Semrush pending) | `—` |
