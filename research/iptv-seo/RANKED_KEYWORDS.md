@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:47 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:49 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -132,5 +132,20 @@ Updated 2026-09-16 03:47 UTC. **Only this file** is the keyword ranking. Real se
 | Q120 | `threadfin` | United States | N/A | N/A | — | Threadfin IPTV proxy (Semrush pending) | `threadfin-box.us` |
 | Q121 | `kodi omega` | United States | N/A | N/A | — | Kodi Omega setup (Semrush pending) | `kodi-omega.us` |
 | Q122 | `android tv` | United States | N/A | N/A | — | Android TV box setup (Semrush pending) | `android-tv.us` |
+| Q123 | `h96 mini` | United States | N/A | N/A | — | H96 Mini Android box (Semrush pending) | `h96mini-box.us` |
+| Q124 | `tx6 box` | United States | N/A | N/A | — | Tanix TX6 box (Semrush pending) | `tx6-box.us` |
+| Q125 | `t963x box` | United States | N/A | N/A | — | T963X chipset box (Semrush pending) | `t963x-box.us` |
+| Q126 | `t966s box` | United States | N/A | N/A | — | T966S chipset box (Semrush pending) | `t966s-box.us` |
+| Q127 | `km3 box` | United States | N/A | N/A | — | Mecool KM3 box (Semrush pending) | `km3-box.us` |
+| Q128 | `km6 box` | United States | N/A | N/A | — | Mecool KM6 box (Semrush pending) | `km6-box.us` |
+| Q129 | `km9 box` | United States | N/A | N/A | — | Mecool KM9 box (Semrush pending) | `km9-box.us` |
+| Q130 | `tx9 box` | United States | N/A | N/A | — | TX9 Android box (Semrush pending) | `tx9-box.us` |
+| Q131 | `t95z box` | United States | N/A | N/A | — | T95Z Android box (Semrush pending) | `t95z-box.us` |
+| Q132 | `mx10 box` | United States | N/A | N/A | — | MX10 Android box (Semrush pending) | `mx10-box.us` |
+| Q133 | `ersatz tv` | United States | N/A | N/A | — | ErsatzTV playlist (Semrush pending) | `ersatztv-box.us` |
+| Q134 | `tunarr` | United States | N/A | N/A | — | Tunarr IPTV proxy (Semrush pending) | `tunarr-box.us` |
+| Q135 | `kodi nexus` | United States | N/A | N/A | — | Kodi Nexus setup (Semrush pending) | `kodi-nexus.us` |
+| Q136 | `mag 322` | United States | N/A | N/A | — | MAG 322 box (Semrush pending) | `mag322-box.us` |
+| Q137 | `s905x5s box` | United States | N/A | N/A | — | S905X5S chipset box (Semrush pending) | `s905x5s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

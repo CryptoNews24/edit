@@ -2784,6 +2784,17 @@ APP_STEMS = (
     "threadfin-box",
     "kodi-omega",
     "android-tv",
+    "km3-box",
+    "km6-box",
+    "km9-box",
+    "tx9-box",
+    "t95z-box",
+    "mx10-box",
+    "ersatztv-box",
+    "tunarr-box",
+    "kodi-nexus",
+    "mag322-box",
+    "s905x5s-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3969,6 +3980,9 @@ def candidates() -> list[str]:
         "mallaig-tivimate",
         "portree-tivimate",
         "broadford-tivimate",
+        "fortwilliam-tivimate",
+        "plockton-tivimate",
+        "applecross-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
