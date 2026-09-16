@@ -1992,12 +1992,19 @@ NEEDLES = {
     "televizo plus": ("televizoplus-apk",),
     "xciptv plus": ("xciptvplus-apk",),
     "t982x box": ("t982x-box",),
-    "best iptv": ("compareiptv", "avis-iptv"),
-    "iptv usa": ("usa-tivimate", "tivimate-usa"),
-    "best iptv canada": ("compareiptv", "iptvguide"),
-    "iptv uk": ("british-box", "british-guide"),
-    "iptv firestick": ("firestick-guide", "tivimate-firestick"),
-    "iptv subscription": ("tivimate-premium",),
+    "best iptv": ("compareiptv", "topiptv", "bestiptv"),
+    "iptv usa": ("usaiptv", "iptvusa"),
+    "best iptv canada": ("compareiptv", "canadaiptv", "iptvguide"),
+    "iptv uk": ("britishbox", "britishguide", "britishplayer", "britishapp"),
+    "iptv firestick": ("firestickguide", "firestickapp", "firestickplayer"),
+    "iptv subscription": ("plusiptv", "iptvplus", "iptvpro", "premiumiptv", "subscriptioniptv"),
+    "smarters pro": ("smartersapp", "smartersplayer", "smarterspro"),
+    "ibo player": ("iboapp", "iboplayer"),
+    "ott navigator": ("ottnavigator",),
+    "ott play": ("ottplayapp",),
+    "tivimate playlist": ("tivimateplaylist",),
+    "tivimate setup": ("tivimatesetup",),
+    "ibo pro": ("iboproapp", "iboapp"),
 }
 
 
@@ -2025,22 +2032,28 @@ def available_focus(recheck: dict) -> list[str]:
             continue
         if skip_domain(d) or not focus_tld(d):
             continue
+        if "-" in domain_label(d):
+            continue
         out.append(d)
     return out
 
 
 def needle_in_domain(domain: str, needle: str) -> bool:
-    """Hyphen-bounded stem match so plex-box does not hit duplex-box."""
-    n = (needle or "").lower().strip()
+    """Exact smashed label (compareiptv.us), not a hyphen leftover."""
+    n = (needle or "").lower().strip().replace("-", "")
     if not n:
         return False
-    label = domain_label(domain)
-    return (
-        label == n
-        or label.startswith(n + "-")
-        or label.endswith("-" + n)
-        or f"-{n}-" in label
-    )
+    return domain_label(domain) == n
+
+
+def smash_needles(name: str) -> tuple[str, ...]:
+    smash = "".join(str(name).split())
+    out: list[str] = []
+    for n in (smash,) + NEEDLES.get(name, ()):
+        n = (n or "").replace("-", "").lower()
+        if n and n not in out:
+            out.append(n)
+    return tuple(out)
 
 
 def pick_leftover(needles: tuple[str, ...], pool: list[str], db: str = "") -> str:
@@ -2101,13 +2114,7 @@ def main() -> None:
             continue
         if db not in FOCUS_DB and name not in {"iptv uk"}:
             continue
-        needles = NEEDLES.get(name)
-        if not needles:
-            if "-" in name:
-                needles = (name, name.replace("-", ""))
-            else:
-                needles = (name.replace(" ", "-"),)
-        leftover = pick_leftover(needles, pool, db)
+        leftover = pick_leftover(smash_needles(name), pool, db)
         # Hyphen query: list only when a hyphen leftover is still AVAILABLE.
         if "-" in name and leftover == "—":
             continue
@@ -2130,7 +2137,7 @@ def main() -> None:
     for name, db, why in QUEUED:
         if skip_keyword(name) or name in seen:
             continue
-        leftover = pick_leftover(NEEDLES.get(name, (name.replace(" ", "-"),)), pool, db)
+        leftover = pick_leftover(smash_needles(name), pool, db)
         seen.add(name)
         queued.append(
             {
@@ -2149,7 +2156,7 @@ def main() -> None:
     lines = [
         "# Ranked keywords (one table)",
         "",
-        f"Updated {now}. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ {MIN_VOLUME} (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.",
+        f"Updated {now}. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ {MIN_VOLUME} (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.",
         "",
         "| Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |",
         "| ---: | --- | --- | ---: | --- | ---: | --- | --- |",
@@ -2169,7 +2176,7 @@ def main() -> None:
         qn += 1
     lines += [
         "",
-        "Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.",
+        "Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.",
         "",
     ]
     OUT.write_text("\n".join(lines), encoding="utf-8")

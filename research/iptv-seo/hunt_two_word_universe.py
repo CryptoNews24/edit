@@ -3689,6 +3689,92 @@ APP_STEMS = (
     "enigma-box",
 )
 
+# Strong two-word smashes only (no hyphen). Ranked leftovers prefer these.
+SMASH_STEMS = (
+    "cheapiptv",
+    "iptvcheap",
+    "premiumiptv",
+    "iptvpremium",
+    "usaiptv",
+    "iptvusa",
+    "canadaiptv",
+    "britishbox",
+    "britishguide",
+    "britishplayer",
+    "britishapp",
+    "smarterspro",
+    "smartersapp",
+    "smartersplayer",
+    "iboplayer",
+    "iboproapp",
+    "iboapp",
+    "ottnavigator",
+    "ottplayapp",
+    "ottplayerapp",
+    "xtreamcodes",
+    "xtreamapp",
+    "xciptvapp",
+    "xciptvplayer",
+    "televizoapp",
+    "televizoplayer",
+    "liveiptv",
+    "iptvlive",
+    "watchiptv",
+    "iptvwatch",
+    "streamiptv",
+    "iptvstream",
+    "iptvhub",
+    "iptvpro",
+    "proiptv",
+    "iptvplus",
+    "plusiptv",
+    "topiptv",
+    "iptvtop",
+    "buyiptv",
+    "iptvbuy",
+    "getiptv",
+    "iptvget",
+    "iptvstore",
+    "storeiptv",
+    "iptvdeal",
+    "dealiptv",
+    "iptvnow",
+    "nowiptv",
+    "firestickguide",
+    "firestickapp",
+    "firestickplayer",
+    "firetvbox",
+    "firetvapp",
+    "googletvbox",
+    "googletvapp",
+    "rokuapp",
+    "rokuguide",
+    "smartiptvapp",
+    "kodiapp",
+    "kodiplayer",
+    "kodiguide",
+    "vlcplayer",
+    "vlcapp",
+    "perfectplayer",
+    "lazyiptvapp",
+    "magistv",
+    "stremioapp",
+    "tivimateapp",
+    "tivimateplayer",
+    "tivimateguide",
+    "tivimatesetup",
+    "tivimateplaylist",
+    "tivimatepremium",
+    "subscriptioniptv",
+    "bedsteiptv",
+    "besteiptv",
+    "parasiptv",
+    "bastaiptv",
+    "billigiptv",
+    "comparebox",
+    "avisbox",
+)
+
 
 def _push(domain: str, seen: set[str], out: list[str]) -> None:
     if domain in seen:
@@ -5114,6 +5200,13 @@ def candidates() -> list[str]:
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
     for stem in APP_STEMS:
+        _push(f"{stem}.co.uk", seen, out)
+        _push(f"{stem}.uk", seen, out)
+    for stem in SMASH_STEMS:
+        if "-" in stem:
+            continue
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
     return out

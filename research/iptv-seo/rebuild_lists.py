@@ -161,7 +161,7 @@ def main() -> None:
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools 17:07 UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour (17:xx). Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair rows always excluded. Hyphen-joined keywords only with verified volume ≥ 500 and AVAILABLE hyphen leftover. Ranked table is RANKED_KEYWORDS.md only.",
+        "detail": "Noxtools 17:07 UTC GET login Cloudflare 403. No POST this hour. Hunt is smashed two-word domains only (compareiptv), not hyphen word-word. No invented volumes. Ranked leftovers smashed-only. Ranked table is RANKED_KEYWORDS.md only.",
         "min_volume": 500,
         "exclude_kd": "Difficult",
         "exclude_keyword_pairs": True,
