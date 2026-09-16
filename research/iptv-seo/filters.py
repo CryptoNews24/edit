@@ -2276,6 +2276,8 @@ _WORD_TOKENS = tuple(
             "appletv",
             "smarters",
             "tivimate",
+            "apk",
+            "addon",
             "formuler",
             "canadian",
             "canada",

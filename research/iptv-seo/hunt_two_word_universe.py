@@ -2752,6 +2752,31 @@ def candidates() -> list[str]:
     _push("basta-tivimate.se", seen, out)
     _push("tivimate-suomi.fi", seen, out)
     _push("paras-tivimate.fi", seen, out)
+    for stem in (
+        "tivimate-playlist",
+        "tivimate-epg",
+        "tivimate-m3u",
+        "tivimate-xtream",
+        "tivimate-vod",
+        "tivimate-kodi",
+        "tivimate-apk",
+        "playlist-tivimate",
+        "xtream-tivimate",
+        "kodi-tivimate",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
+    _push("tivimate-quebec.ca", seen, out)
+    _push("quebec-tivimate.ca", seen, out)
+    _push("tivimate-ontario.ca", seen, out)
+    _push("firetv-tivimate.ca", seen, out)
+    _push("firetv-tivimate.us", seen, out)
+    _push("googletv-tivimate.ca", seen, out)
+    _push("googletv-tivimate.us", seen, out)
+    _push("billig-tivimate.no", seen, out)
+    _push("billig-tivimate.dk", seen, out)
+    _push("billig-tivimate.se", seen, out)
+    _push("halpa-tivimate.fi", seen, out)
     # Nominet: two-word names with NO "iptv" in the label.
     for stem in (
         "box-guide",
@@ -3315,6 +3340,16 @@ def candidates() -> list[str]:
         "mate-player",
         "mate-guide",
         "playlist-guide",
+        "tivimate-playlist",
+        "tivimate-epg",
+        "tivimate-m3u",
+        "tivimate-xtream",
+        "tivimate-vod",
+        "tivimate-kodi",
+        "tivimate-apk",
+        "playlist-tivimate",
+        "xtream-tivimate",
+        "kodi-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
