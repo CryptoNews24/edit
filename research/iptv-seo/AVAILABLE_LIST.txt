@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-16 02:49 UTC
+Updated 2026-09-16 02:52 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
@@ -4216,6 +4216,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-install.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  tivimate-inuktitut.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-kamloops.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-kelowna.ca
@@ -4263,6 +4265,8 @@ Canada
   tivimate-niagara.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-oakville.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  tivimate-ojibwe.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-ontario.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -19116,6 +19120,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   bedford-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  bedford-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  bedford-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   belfast-tivimate.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   belfast-tivimate.uk
@@ -19139,6 +19147,10 @@ United Kingdom
   berkshire-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   berkshire-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  berkshire-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  berkshire-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   best-firestick.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -19297,6 +19309,10 @@ United Kingdom
   buckingham-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   buckingham-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  buckingham-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  buckingham-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   bunessan-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -20104,6 +20120,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   gwynedd-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gwynedd-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gwynedd-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   halifax-tivimate.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   halifax-tivimate.uk
@@ -20136,9 +20156,17 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   hereford-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hereford-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hereford-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   hertford-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   hertford-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hertford-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  hertford-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   highland-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21830,7 +21858,7 @@ United Kingdom
 AVAILABLE = native RDAP 404 + no DNS. Two-word names only. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.
 Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.
 
-.ca  Canada  AVAILABLE=2375  confirm=0  unknown=0
+.ca  Canada  AVAILABLE=2377  confirm=0  unknown=0
 .us  United States  AVAILABLE=2414  confirm=0  unknown=0
 .fr  France  AVAILABLE=2213  confirm=0  unknown=0
 .de  Germany  AVAILABLE=2080  confirm=0  unknown=0
@@ -21848,7 +21876,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
 .pl  Poland  AVAILABLE=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=750  confirm=0  unknown=7
+.co.uk  United Kingdom  AVAILABLE=756  confirm=0  unknown=7
 
 -------- .ca Canada AVAILABLE --------
   4k-box.ca
@@ -23944,6 +23972,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-hdr.ca
   tivimate-hevc.ca
   tivimate-install.ca
+  tivimate-inuktitut.ca
   tivimate-kamloops.ca
   tivimate-kelowna.ca
   tivimate-kids.ca
@@ -23968,6 +23997,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-news.ca
   tivimate-niagara.ca
   tivimate-oakville.ca
+  tivimate-ojibwe.ca
   tivimate-ontario.ca
   tivimate-oshawa.ca
   tivimate-ottawa.ca
@@ -41867,12 +41897,14 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   bay-guide.co.uk
   bearsden-guide.co.uk
   bedford-guide.co.uk
+  bedford-tivimate.co.uk
   belfast-tivimate.co.uk
   bennevis-guide.co.uk
   benriach-guide.co.uk
   benrinnes-guide.co.uk
   benromach-guide.co.uk
   berkshire-guide.co.uk
+  berkshire-tivimate.co.uk
   best-firestick.co.uk
   bettyhill-guide.co.uk
   birmingham-tivimate.co.uk
@@ -41914,6 +41946,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   buckhaven-guide.co.uk
   buckie-guide.co.uk
   buckingham-guide.co.uk
+  buckingham-tivimate.co.uk
   bunessan-guide.co.uk
   bunnahabhain-guide.co.uk
   burlington-tivimate.co.uk
@@ -42120,6 +42153,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gse-smart.co.uk
   gwent-guide.co.uk
   gwynedd-guide.co.uk
+  gwynedd-tivimate.co.uk
   halifax-tivimate.co.uk
   hampshire-guide.co.uk
   hampshire-tivimate.co.uk
@@ -42128,7 +42162,9 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   hebrides-guide.co.uk
   helensburgh-guide.co.uk
   hereford-guide.co.uk
+  hereford-tivimate.co.uk
   hertford-guide.co.uk
+  hertford-tivimate.co.uk
   highland-guide.co.uk
   hillswick-guide.co.uk
   hockey-guide.co.uk
