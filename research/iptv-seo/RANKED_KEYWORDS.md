@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:39 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:41 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -352,5 +352,23 @@ Updated 2026-09-16 04:39 UTC. **Only this file** is the keyword ranking. Real se
 | Q340 | `kodi covenant` | United States | N/A | N/A | — | Kodi Covenant addon (Semrush pending) | `kodi-covenant.us` |
 | Q341 | `t963k box` | United States | N/A | N/A | — | T963K chipset box (Semrush pending) | `t963k-box.us` |
 | Q342 | `rk3399e box` | United States | N/A | N/A | — | RK3399E chipset box (Semrush pending) | `rk3399e-box.us` |
+| Q343 | `flix apk` | United States | N/A | N/A | — | Flix IPTV APK (Semrush pending) | `flix-apk.us` |
+| Q344 | `lazy apk` | United States | N/A | N/A | — | Lazy IPTV APK (Semrush pending) | `lazy-apk.us` |
+| Q345 | `extreme apk` | United States | N/A | N/A | — | IPTV Extreme APK (Semrush pending) | `extreme-apk.us` |
+| Q346 | `duplex apk` | United States | N/A | N/A | — | Duplex IPTV APK (Semrush pending) | `duplex-apk.us` |
+| Q347 | `purple apk` | United States | N/A | N/A | — | Purple Player APK (Semrush pending) | `purple-apk.us` |
+| Q348 | `magis apk` | United States | N/A | N/A | — | Magis TV APK (Semrush pending) | `magis-apk.us` |
+| Q349 | `vlc apk` | United States | N/A | N/A | — | VLC APK (Semrush pending) | `vlc-apk.us` |
+| Q350 | `mx apk` | United States | N/A | N/A | — | MX Player APK (Semrush pending) | `mx-apk.us` |
+| Q351 | `nova apk` | United States | N/A | N/A | — | Nova Player APK (Semrush pending) | `nova-apk.us` |
+| Q352 | `perfect apk` | United States | N/A | N/A | — | Perfect Player APK (Semrush pending) | `perfect-apk.us` |
+| Q353 | `xe player apk` | United States | N/A | N/A | — | XE Player APK (Semrush pending) | `xeplayer-apk.us` |
+| Q354 | `hypnotix apk` | United States | N/A | N/A | — | Hypnotix APK (Semrush pending) | `hypnotix-apk.us` |
+| Q355 | `ibo pro apk` | United States | N/A | N/A | — | IBO Pro APK (Semrush pending) | `ibopro-apk.us` |
+| Q356 | `ott play apk` | United States | N/A | N/A | — | OTTplay APK (Semrush pending) | `ottplay-apk.us` |
+| Q357 | `readarr` | United States | N/A | N/A | — | Readarr PVR (Semrush pending) | `readarr-box.us` |
+| Q358 | `whisparr` | United States | N/A | N/A | — | Whisparr PVR (Semrush pending) | `whisparr-box.us` |
+| Q359 | `t950m box` | United States | N/A | N/A | — | T950M chipset box (Semrush pending) | `t950m-box.us` |
+| Q360 | `s905x4s box` | United States | N/A | N/A | — | S905X4S chipset box (Semrush pending) | `s905x4s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
