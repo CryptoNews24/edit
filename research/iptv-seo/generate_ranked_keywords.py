@@ -2029,6 +2029,21 @@ NEEDLES = {
     "kodi omega": ("kodiomega",),
     "buzz tv": ("buzztv",),
     "vu plus": ("vuplus",),
+    "kodi nexus": ("kodinexus",),
+    "kodi matrix": ("kodimatrix",),
+    "kodi addons": ("kodiaddons",),
+    "kodi jarvis": ("kodijarvis",),
+    "firestick 4k": ("firestick4k",),
+    "onn 4k": ("onn4k",),
+    "google streamer": ("googlestreamer",),
+    "dispatcharr": ("dispatcharriptv", "dispatcharrapp"),
+    "mytvonline": ("mytvonlineapp", "mytvonlinebox"),
+    "magis pro": ("magispro",),
+    "smarters plus": ("smartersplus",),
+    "ibo plus": ("iboplus",),
+    "ott plus": ("ottplus",),
+    "gse plus": ("gseplus",),
+    "sparkle plus": ("sparkleplus",),
 }
 
 
