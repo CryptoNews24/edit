@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 10:11 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 10:30 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -755,5 +755,12 @@ Updated 2026-09-16 10:11 UTC. **Only this file** is the keyword ranking. Real se
 | Q743 | `conversations apk` | United States | N/A | N/A | — | Conversations APK (Semrush pending) | `conversations-apk.us` |
 | Q744 | `h618w box` | United States | N/A | N/A | — | H618W chipset box (Semrush pending) | `h618w-box.us` |
 | Q745 | `rk3568w box` | United States | N/A | N/A | — | RK3568W chipset box (Semrush pending) | `rk3568w-box.us` |
+| Q746 | `quassel apk` | United States | N/A | N/A | — | Quassel APK (Semrush pending) | `quassel-apk.us` |
+| Q747 | `weechat apk` | United States | N/A | N/A | — | WeeChat APK (Semrush pending) | `weechat-apk.us` |
+| Q748 | `hexchat apk` | United States | N/A | N/A | — | HexChat APK (Semrush pending) | `hexchat-apk.us` |
+| Q749 | `pidgin apk` | United States | N/A | N/A | — | Pidgin APK (Semrush pending) | `pidgin-apk.us` |
+| Q750 | `irssi apk` | United States | N/A | N/A | — | Irssi APK (Semrush pending) | `irssi-apk.us` |
+| Q751 | `t950y box` | United States | N/A | N/A | — | T950Y chipset box (Semrush pending) | `t950y-box.us` |
+| Q752 | `h313y box` | United States | N/A | N/A | — | H313Y chipset box (Semrush pending) | `h313y-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
