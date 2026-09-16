@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 09:42 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 09:54 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -741,5 +741,12 @@ Updated 2026-09-16 09:42 UTC. **Only this file** is the keyword ranking. Real se
 | Q729 | `syphon apk` | United States | N/A | N/A | — | Syphon APK (Semrush pending) | `syphon-apk.us` |
 | Q730 | `a133w box` | United States | N/A | N/A | — | A133W chipset box (Semrush pending) | `a133w-box.us` |
 | Q731 | `t965w box` | United States | N/A | N/A | — | T965W chipset box (Semrush pending) | `t965w-box.us` |
+| Q732 | `session apk` | United States | N/A | N/A | — | Session APK (Semrush pending) | `session-apk.us` |
+| Q733 | `briar apk` | United States | N/A | N/A | — | Briar APK (Semrush pending) | `briar-apk.us` |
+| Q734 | `cwtch apk` | United States | N/A | N/A | — | Cwtch APK (Semrush pending) | `cwtch-apk.us` |
+| Q735 | `jami apk` | United States | N/A | N/A | — | Jami APK (Semrush pending) | `jami-apk.us` |
+| Q736 | `linphone apk` | United States | N/A | N/A | — | Linphone APK (Semrush pending) | `linphone-apk.us` |
+| Q737 | `rk3328w box` | United States | N/A | N/A | — | RK3328W chipset box (Semrush pending) | `rk3328w-box.us` |
+| Q738 | `t972w box` | United States | N/A | N/A | — | T972W chipset box (Semrush pending) | `t972w-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
