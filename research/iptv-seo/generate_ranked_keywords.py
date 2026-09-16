@@ -1066,7 +1066,9 @@ NEEDLES = {
     "iptv downloader": ("downloaderiptv", "iptvdownloader"),
     "mag 254": ("mag254box", "magbox"),
     "infomir": ("infomirbox", "infomirplayer"),
-    "star box": ("starbox",),
+    "star box": ("startv", "starapp", "starplayer", "starbox"),
+    "h96 max": ("h96max",),
+    "transpeed box": ("transpeedbox",),
     "uclan iptv": ("uclanbox", "uclanapp", "uclanguide"),
     "vontar box": ("vontarbox", "vontariptv"),
     "h96 max": ("h96max-box",),
@@ -2024,6 +2026,9 @@ NEEDLES = {
     "tv guide": ("guidetv", "tvguide"),
     "stremio": ("stremioiptv", "stremioapp"),
     "android tv": ("androidtvbox", "androidtviptv"),
+    "kodi omega": ("kodiomega",),
+    "buzz tv": ("buzztv",),
+    "vu plus": ("vuplus",),
 }
 
 
