@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T06:06:40Z",
+  "updated": "2026-09-16T06:15:10Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -8333,10 +8333,24 @@
     "shairport-apk.ca": "best iptv canada",
     "shairport-apk.us": "best iptv",
     "snapcast-apk.ca": "best iptv canada",
-    "snapcast-apk.us": "best iptv"
+    "snapcast-apk.us": "best iptv",
+    "a133t-box.ca": "best iptv canada",
+    "a133t-box.us": "best iptv",
+    "clementine-apk.ca": "best iptv canada",
+    "clementine-apk.us": "best iptv",
+    "deadbeef-apk.ca": "best iptv canada",
+    "deadbeef-apk.us": "best iptv",
+    "foobar-apk.ca": "best iptv canada",
+    "foobar-apk.us": "best iptv",
+    "lollypop-apk.ca": "best iptv canada",
+    "lollypop-apk.us": "best iptv",
+    "rhythmbox-apk.ca": "best iptv canada",
+    "rhythmbox-apk.us": "best iptv",
+    "strawberry-apk.ca": "best iptv canada",
+    "strawberry-apk.us": "best iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T06:06:40Z",
+    "attempted": "2026-09-16T06:15:10Z",
     "status": "partial",
     "detail": "Noxtools 06:05 UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour. Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
     "min_volume": 500,
