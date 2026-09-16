@@ -2839,6 +2839,17 @@ APP_STEMS = (
     "emby-theater",
     "mx-player",
     "nova-player",
+    "iptvnator-box",
+    "hypnotix-box",
+    "jellyfin-theater",
+    "potplayer-box",
+    "kmplayer-box",
+    "mpv-player",
+    "iina-player",
+    "xbmc-box",
+    "osmc-box",
+    "spmc-box",
+    "synology-video",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4039,6 +4050,9 @@ def candidates() -> list[str]:
         "kinlochbervie-tivimate",
         "lerwick-tivimate",
         "scalloway-tivimate",
+        "baltasound-tivimate",
+        "hillswick-tivimate",
+        "bressay-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

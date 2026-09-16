@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:01 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -193,5 +193,16 @@ Updated 2026-09-16 04:01 UTC. **Only this file** is the keyword ranking. Real se
 | Q181 | `emby theater` | United States | N/A | N/A | — | Emby Theater app (Semrush pending) | `emby-theater.us` |
 | Q182 | `mx player` | United States | N/A | N/A | — | MX Player app (Semrush pending) | `mx-player.us` |
 | Q183 | `nova player` | United States | N/A | N/A | — | Nova Player app (Semrush pending) | `nova-player.us` |
+| Q184 | `iptvnator` | United States | N/A | N/A | — | IPTVnator playlist app (Semrush pending) | `iptvnator-box.us` |
+| Q185 | `hypnotix` | United States | N/A | N/A | — | Hypnotix IPTV app (Semrush pending) | `hypnotix-box.us` |
+| Q186 | `jellyfin theater` | United States | N/A | N/A | — | Jellyfin Theater app (Semrush pending) | `jellyfin-theater.us` |
+| Q187 | `potplayer` | United States | N/A | N/A | — | PotPlayer app (Semrush pending) | `potplayer-box.us` |
+| Q188 | `kmplayer` | United States | N/A | N/A | — | KMPlayer app (Semrush pending) | `kmplayer-box.us` |
+| Q189 | `mpv player` | United States | N/A | N/A | — | mpv player (Semrush pending) | `mpv-player.us` |
+| Q190 | `iina player` | United States | N/A | N/A | — | IINA player (Semrush pending) | `iina-player.us` |
+| Q191 | `xbmc` | United States | N/A | N/A | — | XBMC media center (Semrush pending) | `xbmc-box.us` |
+| Q192 | `osmc` | United States | N/A | N/A | — | OSMC media center (Semrush pending) | `osmc-box.us` |
+| Q193 | `spmc` | United States | N/A | N/A | — | SPMC Kodi fork (Semrush pending) | `spmc-box.us` |
+| Q194 | `synology video` | United States | N/A | N/A | — | Synology Video Station (Semrush pending) | `synology-video.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
