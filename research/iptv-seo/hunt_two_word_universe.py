@@ -3559,6 +3559,12 @@ APP_STEMS = (
     "seal-apk",
     "ytdlnis-apk",
     "a523z-box",
+    "mpvkt-apk",
+    "exoplayer-apk",
+    "ijkplayer-apk",
+    "libmpv-apk",
+    "nextplayer-apk",
+    "a733z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -5002,6 +5008,9 @@ def candidates() -> list[str]:
         "auchroisk-tivimate",
         "glenglassaugh-tivimate",
         "mannochmore-tivimate",
+        "glenkeith-tivimate",
+        "balmenach-tivimate",
+        "alltabhainne-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

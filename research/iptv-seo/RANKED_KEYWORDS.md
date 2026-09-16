@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 15:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 16:02 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -916,5 +916,11 @@ Updated 2026-09-16 15:55 UTC. **Only this file** is the keyword ranking. Real se
 | Q904 | `seal apk` | United States | N/A | N/A | — | Seal APK (Semrush pending) | `seal-apk.us` |
 | Q905 | `ytdlnis apk` | United States | N/A | N/A | — | YTDLnis APK (Semrush pending) | `ytdlnis-apk.us` |
 | Q906 | `a523z box` | United States | N/A | N/A | — | A523Z chipset box (Semrush pending) | `a523z-box.us` |
+| Q907 | `mpvkt apk` | United States | N/A | N/A | — | mpvKt APK (Semrush pending) | `mpvkt-apk.us` |
+| Q908 | `exo player` | United States | N/A | N/A | — | ExoPlayer (Semrush pending) | `exoplayer-apk.us` |
+| Q909 | `ijk player` | United States | N/A | N/A | — | IJKPlayer (Semrush pending) | `ijkplayer-apk.us` |
+| Q910 | `libmpv apk` | United States | N/A | N/A | — | libmpv APK (Semrush pending) | `libmpv-apk.us` |
+| Q911 | `next player` | United States | N/A | N/A | — | Next Player (Semrush pending) | `nextplayer-apk.us` |
+| Q912 | `a733z box` | United States | N/A | N/A | — | A733Z chipset box (Semrush pending) | `a733z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

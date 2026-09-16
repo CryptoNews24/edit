@@ -937,6 +937,12 @@ QUEUED = (
     ("seal apk", "us", "Seal APK"),
     ("ytdlnis apk", "us", "YTDLnis APK"),
     ("a523z box", "us", "A523Z chipset box"),
+    ("mpvkt apk", "us", "mpvKt APK"),
+    ("exo player", "us", "ExoPlayer"),
+    ("ijk player", "us", "IJKPlayer"),
+    ("libmpv apk", "us", "libmpv APK"),
+    ("next player", "us", "Next Player"),
+    ("a733z box", "us", "A733Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1848,6 +1854,12 @@ NEEDLES = {
     "seal apk": ("seal-apk",),
     "ytdlnis apk": ("ytdlnis-apk",),
     "a523z box": ("a523z-box",),
+    "mpvkt apk": ("mpvkt-apk",),
+    "exo player": ("exoplayer-apk",),
+    "ijk player": ("ijkplayer-apk",),
+    "libmpv apk": ("libmpv-apk",),
+    "next player": ("nextplayer-apk",),
+    "a733z box": ("a733z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
