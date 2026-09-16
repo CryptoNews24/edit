@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:13 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:16 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -511,5 +511,16 @@ Updated 2026-09-16 05:13 UTC. **Only this file** is the keyword ranking. Real se
 | Q499 | `lakka apk` | United States | N/A | N/A | — | Lakka APK (Semrush pending) | `lakka-apk.us` |
 | Q500 | `t963n box` | United States | N/A | N/A | — | T963N chipset box (Semrush pending) | `t963n-box.us` |
 | Q501 | `rk3588k box` | United States | N/A | N/A | — | RK3588K chipset box (Semrush pending) | `rk3588k-box.us` |
+| Q502 | `mag 254 apk` | United States | N/A | N/A | — | MAG 254 APK (Semrush pending) | `mag254-apk.us` |
+| Q503 | `stbemu apk` | United States | N/A | N/A | — | STB Emu APK (Semrush pending) | `stbemu-apk.us` |
+| Q504 | `mytvonline apk` | United States | N/A | N/A | — | MyTVOnline APK (Semrush pending) | `mytvonline-apk.us` |
+| Q505 | `stalker apk` | United States | N/A | N/A | — | Stalker APK (Semrush pending) | `stalker-apk.us` |
+| Q506 | `ministra apk` | United States | N/A | N/A | — | Ministra APK (Semrush pending) | `ministra-apk.us` |
+| Q507 | `xtream apk` | United States | N/A | N/A | — | Xtream APK (Semrush pending) | `xtream-apk.us` |
+| Q508 | `enigma2 apk` | United States | N/A | N/A | — | Enigma2 APK (Semrush pending) | `enigma2-apk.us` |
+| Q509 | `oscam apk` | United States | N/A | N/A | — | OSCam APK (Semrush pending) | `oscam-apk.us` |
+| Q510 | `cccam apk` | United States | N/A | N/A | — | CCcam APK (Semrush pending) | `cccam-apk.us` |
+| Q511 | `t972n box` | United States | N/A | N/A | — | T972N chipset box (Semrush pending) | `t972n-box.us` |
+| Q512 | `h618n box` | United States | N/A | N/A | — | H618N chipset box (Semrush pending) | `h618n-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
