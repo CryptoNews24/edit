@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 06:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 06:06 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -621,5 +621,13 @@ Updated 2026-09-16 06:04 UTC. **Only this file** is the keyword ranking. Real se
 | Q609 | `audirvana apk` | United States | N/A | N/A | — | Audirvana APK (Semrush pending) | `audirvana-apk.us` |
 | Q610 | `t950t box` | United States | N/A | N/A | — | T950T chipset box (Semrush pending) | `t950t-box.us` |
 | Q611 | `rk3568r box` | United States | N/A | N/A | — | RK3568R chipset box (Semrush pending) | `rk3568r-box.us` |
+| Q612 | `snapcast apk` | United States | N/A | N/A | — | Snapcast APK (Semrush pending) | `snapcast-apk.us` |
+| Q613 | `shairport apk` | United States | N/A | N/A | — | Shairport APK (Semrush pending) | `shairport-apk.us` |
+| Q614 | `beets apk` | United States | N/A | N/A | — | Beets APK (Semrush pending) | `beets-apk.us` |
+| Q615 | `musicbrainz apk` | United States | N/A | N/A | — | MusicBrainz APK (Semrush pending) | `musicbrainz-apk.us` |
+| Q616 | `camilladsp apk` | United States | N/A | N/A | — | CamillaDSP APK (Semrush pending) | `camilladsp-apk.us` |
+| Q617 | `mopidy apk` | United States | N/A | N/A | — | Mopidy APK (Semrush pending) | `mopidy-apk.us` |
+| Q618 | `t968t box` | United States | N/A | N/A | — | T968T chipset box (Semrush pending) | `t968t-box.us` |
+| Q619 | `h313t box` | United States | N/A | N/A | — | H313T chipset box (Semrush pending) | `h313t-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
