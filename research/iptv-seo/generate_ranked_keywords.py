@@ -693,6 +693,12 @@ QUEUED = (
     ("magisk apk", "us", "Magisk APK"),
     ("t962u box", "us", "T962U chipset box"),
     ("a133u box", "us", "A133U chipset box"),
+    ("kernelsu apk", "us", "KernelSU APK"),
+    ("lsposed apk", "us", "LSPosed APK"),
+    ("zygisk apk", "us", "Zygisk APK"),
+    ("shamiko apk", "us", "Shamiko APK"),
+    ("t965u box", "us", "T965U chipset box"),
+    ("rk3328u box", "us", "RK3328U chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1360,6 +1366,12 @@ NEEDLES = {
     "magisk apk": ("magisk-apk",),
     "t962u box": ("t962u-box",),
     "a133u box": ("a133u-box",),
+    "kernelsu apk": ("kernelsu-apk",),
+    "lsposed apk": ("lsposed-apk",),
+    "zygisk apk": ("zygisk-apk",),
+    "shamiko apk": ("shamiko-apk",),
+    "t965u box": ("t965u-box",),
+    "rk3328u box": ("rk3328u-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
