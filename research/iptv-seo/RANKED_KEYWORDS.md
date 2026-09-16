@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 20:56 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 21:01 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -147,7 +147,7 @@ Updated 2026-09-16 20:56 UTC. **Only this file** is the keyword ranking. Space-s
 | Q135 | `kodi nexus` | United States | N/A | N/A | — | Kodi Nexus setup (Semrush pending) | `kodinexus.us` |
 | Q136 | `mag 322` | United States | N/A | N/A | — | MAG 322 box (Semrush pending) | `—` |
 | Q137 | `s905x5s box` | United States | N/A | N/A | — | S905X5S chipset box (Semrush pending) | `—` |
-| Q138 | `fire tv` | United States | N/A | N/A | — | Fire TV box setup (Semrush pending) | `firetvbox.us` |
+| Q138 | `fire tv` | United States | N/A | N/A | — | Fire TV box setup (Semrush pending) | `firetv.dk` |
 | Q139 | `km7 box` | United States | N/A | N/A | — | Mecool KM7 box (Semrush pending) | `—` |
 | Q140 | `mag 256` | United States | N/A | N/A | — | MAG 256 box (Semrush pending) | `—` |
 | Q141 | `mag 420` | United States | N/A | N/A | — | MAG 420 box (Semrush pending) | `—` |
@@ -1062,5 +1062,22 @@ Updated 2026-09-16 20:56 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1050 | `pay tv` | United States | N/A | N/A | — | Pay TV smash (Semrush pending) | `paytv.us` |
 | Q1051 | `bbc sport` | United Kingdom | N/A | N/A | — | BBC Sport smash (Semrush pending) | `bbcsport.ca` |
 | Q1052 | `vip tv` | United States | N/A | N/A | — | VIP TV smash (Semrush pending) | `viptv.dk` |
+| Q1053 | `gold tv` | United States | N/A | N/A | — | Gold TV smash (Semrush pending) | `goldtv.us` |
+| Q1054 | `trial tv` | United States | N/A | N/A | — | Trial TV smash (Semrush pending) | `trialtv.us` |
+| Q1055 | `virgin tv` | United Kingdom | N/A | N/A | — | Virgin TV smash (Semrush pending) | `virgintv.uk` |
+| Q1056 | `sky glass` | United Kingdom | N/A | N/A | — | Sky Glass smash (Semrush pending) | `skyglass.dk` |
+| Q1057 | `tivo tv` | United States | N/A | N/A | — | TiVo TV smash (Semrush pending) | `tivotv.us` |
+| Q1058 | `xtream tv` | United States | N/A | N/A | — | Xtream TV smash (Semrush pending) | `xtreamtv.us` |
+| Q1059 | `tivimate tv` | United States | N/A | N/A | — | TiviMate TV smash (Semrush pending) | `tivimatetv.us` |
+| Q1060 | `m3u player` | United States | N/A | N/A | — | M3U player smash (Semrush pending) | `m3uplayer.us` |
+| Q1061 | `crave tv` | Canada | N/A | N/A | — | Crave TV smash (Semrush pending) | `cravetv.us` |
+| Q1062 | `rogers tv` | Canada | N/A | N/A | — | Rogers TV smash (Semrush pending) | `rogerstv.us` |
+| Q1063 | `youview tv` | United Kingdom | N/A | N/A | — | YouView smash (Semrush pending) | `youviewtv.co.uk` |
+| Q1064 | `hbo nordic` | Norway | N/A | N/A | — | HBO Nordic smash (Semrush pending) | `hbonordic.ca` |
+| Q1065 | `tv3 play` | Norway | N/A | N/A | — | TV3 Play smash (Semrush pending) | `tv3play.ca` |
+| Q1066 | `club tv` | United States | N/A | N/A | — | Club TV smash (Semrush pending) | `clubtv.ca` |
+| Q1067 | `live player` | United States | N/A | N/A | — | Live player smash (Semrush pending) | `liveplayer.us` |
+| Q1068 | `enigma tv` | United States | N/A | N/A | — | Enigma TV smash (Semrush pending) | `enigmatv.us` |
+| Q1069 | `dish tv` | United States | N/A | N/A | — | Dish TV smash (Semrush pending) | `dishtv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
