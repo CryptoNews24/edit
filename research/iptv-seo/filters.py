@@ -2281,6 +2281,7 @@ _WORD_TOKENS = tuple(
             "formuler",
             "canadian",
             "canada",
+            "british",
             "quebec",
             "ontario",
             "france",

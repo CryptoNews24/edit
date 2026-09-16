@@ -2797,6 +2797,17 @@ def candidates() -> list[str]:
     _push("tivimate-ottawa.ca", seen, out)
     _push("tivimate-montreal.ca", seen, out)
     _push("tivimate-edmonton.ca", seen, out)
+    for stem in (
+        "british-iptv",
+        "british-box",
+        "british-player",
+        "british-tv",
+        "british-stream",
+        "british-watch",
+        "british-tivimate",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
     # Nominet: two-word names with NO "iptv" in the label.
     for stem in (
         "box-guide",
@@ -3378,6 +3389,14 @@ def candidates() -> list[str]:
         "appletv-tivimate",
         "chromecast-tivimate",
         "shield-tivimate",
+        "british-box",
+        "british-guide",
+        "british-player",
+        "british-tv",
+        "british-stream",
+        "british-watch",
+        "british-live",
+        "british-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
