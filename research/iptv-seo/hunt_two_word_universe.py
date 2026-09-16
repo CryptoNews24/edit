@@ -2861,6 +2861,17 @@ APP_STEMS = (
     "kodi-server",
     "silicondust-box",
     "minidlna-box",
+    "tizen-tv",
+    "webos-tv",
+    "samsung-tv",
+    "bravia-tv",
+    "hisense-tv",
+    "vizio-tv",
+    "vidaa-tv",
+    "roku-tv",
+    "jellyseerr-box",
+    "plexamp-box",
+    "wetek-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4067,6 +4078,9 @@ def candidates() -> list[str]:
         "fetlar-tivimate",
         "kirkwall-tivimate",
         "stromness-tivimate",
+        "rousay-tivimate",
+        "westray-tivimate",
+        "stronsay-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:07 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:10 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -215,5 +215,16 @@ Updated 2026-09-16 04:07 UTC. **Only this file** is the keyword ranking. Real se
 | Q203 | `kodi server` | United States | N/A | N/A | — | Kodi server setup (Semrush pending) | `kodi-server.us` |
 | Q204 | `silicondust` | United States | N/A | N/A | — | SiliconDust HDHomeRun (Semrush pending) | `silicondust-box.us` |
 | Q205 | `minidlna` | United States | N/A | N/A | — | ReadyMedia MiniDLNA (Semrush pending) | `minidlna-box.us` |
+| Q206 | `tizen tv` | United States | N/A | N/A | — | Samsung Tizen TV (Semrush pending) | `tizen-tv.us` |
+| Q207 | `webos tv` | United States | N/A | N/A | — | LG webOS TV (Semrush pending) | `webos-tv.us` |
+| Q208 | `samsung tv` | United States | N/A | N/A | — | Samsung TV IPTV (Semrush pending) | `samsung-tv.us` |
+| Q209 | `bravia tv` | United States | N/A | N/A | — | Sony Bravia TV (Semrush pending) | `bravia-tv.us` |
+| Q210 | `hisense tv` | United States | N/A | N/A | — | Hisense VIDAA TV (Semrush pending) | `hisense-tv.us` |
+| Q211 | `vizio tv` | United States | N/A | N/A | — | Vizio SmartCast TV (Semrush pending) | `vizio-tv.us` |
+| Q212 | `vidaa tv` | United States | N/A | N/A | — | VIDAA smart TV (Semrush pending) | `vidaa-tv.us` |
+| Q213 | `roku tv` | United States | N/A | N/A | — | Roku TV setup (Semrush pending) | `roku-tv.us` |
+| Q214 | `jellyseerr` | United States | N/A | N/A | — | Jellyseerr requests (Semrush pending) | `jellyseerr-box.us` |
+| Q215 | `plexamp` | United States | N/A | N/A | — | Plexamp app (Semrush pending) | `plexamp-box.us` |
+| Q216 | `wetek box` | United States | N/A | N/A | — | WeTek Android box (Semrush pending) | `wetek-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
