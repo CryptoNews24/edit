@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 20:40 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 20:45 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -1023,5 +1023,10 @@ Updated 2026-09-16 20:40 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1011 | `chinese iptv` | United States | N/A | N/A | — | Chinese IPTV smash (Semrush pending) | `chineseiptv.us` |
 | Q1012 | `russian iptv` | United States | N/A | N/A | — | Russian IPTV smash (Semrush pending) | `russianiptv.us` |
 | Q1013 | `malayalam iptv` | United States | N/A | N/A | — | Malayalam IPTV smash (Semrush pending) | `malayalamiptv.us` |
+| Q1014 | `african iptv` | United States | N/A | N/A | — | African IPTV smash (Semrush pending) | `africaniptv.us` |
+| Q1015 | `asian iptv` | United States | N/A | N/A | — | Asian IPTV smash (Semrush pending) | `asianiptv.us` |
+| Q1016 | `caribbean iptv` | United States | N/A | N/A | — | Caribbean IPTV smash (Semrush pending) | `caribbeaniptv.us` |
+| Q1017 | `hotel iptv` | United States | N/A | N/A | — | Hotel IPTV smash (Semrush pending) | `hoteliptv.us` |
+| Q1018 | `christian iptv` | United States | N/A | N/A | — | Christian IPTV smash (Semrush pending) | `christianiptv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
