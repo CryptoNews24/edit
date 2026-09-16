@@ -3309,6 +3309,13 @@ APP_STEMS = (
     "scrcpy-apk",
     "t968u-box",
     "h313u-box",
+    "lineageos-apk",
+    "grapheneos-apk",
+    "calyxos-apk",
+    "microg-apk",
+    "magisk-apk",
+    "t962u-box",
+    "a133u-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4635,6 +4642,9 @@ def candidates() -> list[str]:
         "kippen-tivimate",
         "thornhill-tivimate",
         "gartmore-tivimate",
+        "kinross-tivimate",
+        "milnathort-tivimate",
+        "abernethy-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

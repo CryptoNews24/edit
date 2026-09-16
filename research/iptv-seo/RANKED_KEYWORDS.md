@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 07:11 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 07:28 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -666,5 +666,12 @@ Updated 2026-09-16 07:11 UTC. **Only this file** is the keyword ranking. Real se
 | Q654 | `scrcpy apk` | United States | N/A | N/A | — | scrcpy APK (Semrush pending) | `scrcpy-apk.us` |
 | Q655 | `t968u box` | United States | N/A | N/A | — | T968U chipset box (Semrush pending) | `t968u-box.us` |
 | Q656 | `h313u box` | United States | N/A | N/A | — | H313U chipset box (Semrush pending) | `h313u-box.us` |
+| Q657 | `lineageos apk` | United States | N/A | N/A | — | LineageOS APK (Semrush pending) | `lineageos-apk.us` |
+| Q658 | `grapheneos apk` | United States | N/A | N/A | — | GrapheneOS APK (Semrush pending) | `grapheneos-apk.us` |
+| Q659 | `calyxos apk` | United States | N/A | N/A | — | CalyxOS APK (Semrush pending) | `calyxos-apk.us` |
+| Q660 | `microg apk` | United States | N/A | N/A | — | microG APK (Semrush pending) | `microg-apk.us` |
+| Q661 | `magisk apk` | United States | N/A | N/A | — | Magisk APK (Semrush pending) | `magisk-apk.us` |
+| Q662 | `t962u box` | United States | N/A | N/A | — | T962U chipset box (Semrush pending) | `t962u-box.us` |
+| Q663 | `a133u box` | United States | N/A | N/A | — | A133U chipset box (Semrush pending) | `a133u-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
