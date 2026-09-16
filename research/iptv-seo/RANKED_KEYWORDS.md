@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 11:34 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 11:48 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -796,5 +796,12 @@ Updated 2026-09-16 11:34 UTC. **Only this file** is the keyword ranking. Real se
 | Q784 | `mega apk` | United States | N/A | N/A | — | MEGA APK (Semrush pending) | `mega-apk.us` |
 | Q785 | `t950z box` | United States | N/A | N/A | — | T950Z chipset box (Semrush pending) | `t950z-box.us` |
 | Q786 | `rk3562y box` | United States | N/A | N/A | — | RK3562Y chipset box (Semrush pending) | `rk3562y-box.us` |
+| Q787 | `filen apk` | United States | N/A | N/A | — | Filen APK (Semrush pending) | `filen-apk.us` |
+| Q788 | `tresorit apk` | United States | N/A | N/A | — | Tresorit APK (Semrush pending) | `tresorit-apk.us` |
+| Q789 | `icedrive apk` | United States | N/A | N/A | — | Icedrive APK (Semrush pending) | `icedrive-apk.us` |
+| Q790 | `koofr apk` | United States | N/A | N/A | — | Koofr APK (Semrush pending) | `koofr-apk.us` |
+| Q791 | `synccom apk` | United States | N/A | N/A | — | Sync.com APK (Semrush pending) | `synccom-apk.us` |
+| Q792 | `t968z box` | United States | N/A | N/A | — | T968Z chipset box (Semrush pending) | `t968z-box.us` |
+| Q793 | `h313z box` | United States | N/A | N/A | — | H313Z chipset box (Semrush pending) | `h313z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
