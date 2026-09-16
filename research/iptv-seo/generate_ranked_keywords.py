@@ -1070,6 +1070,23 @@ QUEUED = (
     ("cord cutter", "us", "Cord cutter smash"),
     ("sportsnet", "ca", "Sportsnet smash"),
     ("irish box", "uk", "Irish box smash"),
+    ("nfl tv", "us", "NFL TV smash"),
+    ("nba tv", "us", "NBA TV smash"),
+    ("nhl tv", "us", "NHL TV smash"),
+    ("mlb tv", "us", "MLB TV smash"),
+    ("sports tv", "us", "Sports TV smash"),
+    ("4k tv", "us", "4K TV smash"),
+    ("sky sports", "uk", "Sky Sports smash"),
+    ("stv player", "uk", "STV Player smash"),
+    ("tv2 play", "dk", "TV 2 Play smash"),
+    ("discovery plus", "us", "Discovery Plus smash"),
+    ("plex tv", "us", "Plex TV smash"),
+    ("stremio tv", "us", "Stremio TV smash"),
+    ("pay tv", "us", "Pay TV smash"),
+    ("bbc sport", "uk", "BBC Sport smash"),
+    ("vip tv", "us", "VIP TV smash"),
+    ("hisense tv", "us", "Hisense TV smash"),
+    ("sony tv", "us", "Sony TV smash"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -2164,6 +2181,8 @@ def pick_leftover(needles: tuple[str, ...], pool: list[str], db: str = "") -> st
         pri = 0
         if prefer and d.endswith(prefer):
             pri = 10
+        elif db == "uk" and d.endswith(".us"):
+            pri = 4
         elif d.endswith(".ca"):
             pri = 3
         elif d.endswith(".us"):

@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 20:50 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 20:56 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -219,8 +219,8 @@ Updated 2026-09-16 20:50 UTC. **Only this file** is the keyword ranking. Space-s
 | Q207 | `webos tv` | United States | N/A | N/A | — | LG webOS TV (Semrush pending) | `webostv.us` |
 | Q208 | `samsung tv` | United States | N/A | N/A | — | Samsung TV IPTV (Semrush pending) | `samsungtv.us` |
 | Q209 | `bravia tv` | United States | N/A | N/A | — | Sony Bravia TV (Semrush pending) | `—` |
-| Q210 | `hisense tv` | United States | N/A | N/A | — | Hisense VIDAA TV (Semrush pending) | `—` |
-| Q211 | `vizio tv` | United States | N/A | N/A | — | Vizio SmartCast TV (Semrush pending) | `—` |
+| Q210 | `hisense tv` | United States | N/A | N/A | — | Hisense VIDAA TV (Semrush pending) | `hisensetv.us` |
+| Q211 | `vizio tv` | United States | N/A | N/A | — | Vizio SmartCast TV (Semrush pending) | `viziotv.us` |
 | Q212 | `vidaa tv` | United States | N/A | N/A | — | VIDAA smart TV (Semrush pending) | `—` |
 | Q213 | `roku tv` | United States | N/A | N/A | — | Roku TV setup (Semrush pending) | `rokutv.fi` |
 | Q214 | `jellyseerr` | United States | N/A | N/A | — | Jellyseerr requests (Semrush pending) | `—` |
@@ -231,7 +231,7 @@ Updated 2026-09-16 20:50 UTC. **Only this file** is the keyword ranking. Space-s
 | Q219 | `panasonic tv` | United States | N/A | N/A | — | Panasonic smart TV (Semrush pending) | `—` |
 | Q220 | `toshiba tv` | United States | N/A | N/A | — | Toshiba smart TV (Semrush pending) | `—` |
 | Q221 | `sharp tv` | United States | N/A | N/A | — | Sharp smart TV (Semrush pending) | `—` |
-| Q222 | `tcl tv` | United States | N/A | N/A | — | TCL Google TV (Semrush pending) | `—` |
+| Q222 | `tcl tv` | United States | N/A | N/A | — | TCL Google TV (Semrush pending) | `tcltv.us` |
 | Q223 | `realme tv` | United States | N/A | N/A | — | Realme smart TV (Semrush pending) | `—` |
 | Q224 | `oneplus tv` | United States | N/A | N/A | — | OnePlus TV (Semrush pending) | `—` |
 | Q225 | `xiaomi tv` | United States | N/A | N/A | — | Xiaomi smart TV (Semrush pending) | `xiaomitv.us` |
@@ -239,7 +239,7 @@ Updated 2026-09-16 20:50 UTC. **Only this file** is the keyword ranking. Space-s
 | Q227 | `xe player` | United States | N/A | N/A | — | XE Player app (Semrush pending) | `—` |
 | Q228 | `firestick lite` | United States | N/A | N/A | — | Fire Stick Lite (Semrush pending) | `—` |
 | Q229 | `firestick max` | United States | N/A | N/A | — | Fire Stick Max (Semrush pending) | `—` |
-| Q230 | `chromecast tv` | United States | N/A | N/A | — | Chromecast with Google TV (Semrush pending) | `—` |
+| Q230 | `chromecast tv` | United States | N/A | N/A | — | Chromecast with Google TV (Semrush pending) | `chromecasttv.us` |
 | Q231 | `nest hub` | United States | N/A | N/A | — | Google Nest Hub (Semrush pending) | `—` |
 | Q232 | `echo show` | United States | N/A | N/A | — | Amazon Echo Show (Semrush pending) | `—` |
 | Q233 | `playstation tv` | United States | N/A | N/A | — | PlayStation IPTV (Semrush pending) | `—` |
@@ -256,7 +256,7 @@ Updated 2026-09-16 20:50 UTC. **Only this file** is the keyword ranking. Space-s
 | Q244 | `m3u playlist` | United States | N/A | N/A | — | M3U playlist setup (Semrush pending) | `—` |
 | Q245 | `xmltv guide` | United States | N/A | N/A | — | XMLTV EPG guide (Semrush pending) | `xmltvguide.us` |
 | Q246 | `playlist editor` | United States | N/A | N/A | — | Playlist editor app (Semrush pending) | `playlisteditor.us` |
-| Q247 | `mag portal` | United States | N/A | N/A | — | MAG portal setup (Semrush pending) | `—` |
+| Q247 | `mag portal` | United States | N/A | N/A | — | MAG portal setup (Semrush pending) | `magportal.us` |
 | Q248 | `dragon player` | United States | N/A | N/A | — | Dragon Player app (Semrush pending) | `—` |
 | Q249 | `t982s box` | United States | N/A | N/A | — | T982S chipset box (Semrush pending) | `—` |
 | Q250 | `tvip box` | United States | N/A | N/A | — | TVIP MAG box (Semrush pending) | `—` |
@@ -1042,10 +1042,25 @@ Updated 2026-09-16 20:50 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1030 | `epl iptv` | United States | N/A | N/A | — | EPL IPTV smash (Semrush pending) | `epliptv.us` |
 | Q1031 | `syncler iptv` | United States | N/A | N/A | — | Syncler IPTV smash (Semrush pending) | `syncleriptv.us` |
 | Q1032 | `sideload iptv` | United States | N/A | N/A | — | Sideload IPTV smash (Semrush pending) | `sideloadiptv.us` |
-| Q1033 | `bbc iplayer` | United Kingdom | N/A | N/A | — | BBC iPlayer smash (Semrush pending) | `bbciplayer.ca` |
+| Q1033 | `bbc iplayer` | United Kingdom | N/A | N/A | — | BBC iPlayer smash (Semrush pending) | `bbciplayer.us` |
 | Q1034 | `sky go` | United Kingdom | N/A | N/A | — | Sky Go smash (Semrush pending) | `skygo.dk` |
 | Q1035 | `cord cutter` | United States | N/A | N/A | — | Cord cutter smash (Semrush pending) | `cordcutter.us` |
 | Q1036 | `sportsnet` | Canada | N/A | N/A | — | Sportsnet smash (Semrush pending) | `sportsnet.uk` |
 | Q1037 | `irish box` | United Kingdom | N/A | N/A | — | Irish box smash (Semrush pending) | `irishbox.co.uk` |
+| Q1038 | `nfl tv` | United States | N/A | N/A | — | NFL TV smash (Semrush pending) | `nfltv.us` |
+| Q1039 | `nba tv` | United States | N/A | N/A | — | NBA TV smash (Semrush pending) | `nbatv.ca` |
+| Q1040 | `nhl tv` | United States | N/A | N/A | — | NHL TV smash (Semrush pending) | `nhltv.us` |
+| Q1041 | `mlb tv` | United States | N/A | N/A | — | MLB TV smash (Semrush pending) | `mlbtv.dk` |
+| Q1042 | `sports tv` | United States | N/A | N/A | — | Sports TV smash (Semrush pending) | `sportstv.dk` |
+| Q1043 | `4k tv` | United States | N/A | N/A | — | 4K TV smash (Semrush pending) | `4ktv.uk` |
+| Q1044 | `sky sports` | United Kingdom | N/A | N/A | — | Sky Sports smash (Semrush pending) | `skysports.dk` |
+| Q1045 | `stv player` | United Kingdom | N/A | N/A | — | STV Player smash (Semrush pending) | `stvplayer.us` |
+| Q1046 | `tv2 play` | Denmark | N/A | N/A | — | TV 2 Play smash (Semrush pending) | `tv2play.ca` |
+| Q1047 | `discovery plus` | United States | N/A | N/A | — | Discovery Plus smash (Semrush pending) | `—` |
+| Q1048 | `plex tv` | United States | N/A | N/A | — | Plex TV smash (Semrush pending) | `plextv.co.uk` |
+| Q1049 | `stremio tv` | United States | N/A | N/A | — | Stremio TV smash (Semrush pending) | `stremiotv.us` |
+| Q1050 | `pay tv` | United States | N/A | N/A | — | Pay TV smash (Semrush pending) | `paytv.us` |
+| Q1051 | `bbc sport` | United Kingdom | N/A | N/A | — | BBC Sport smash (Semrush pending) | `bbcsport.ca` |
+| Q1052 | `vip tv` | United States | N/A | N/A | — | VIP TV smash (Semrush pending) | `viptv.dk` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.

@@ -7,6 +7,10 @@ Domain,Country,Availability,Website,Expiry,Notes
 4k-player.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 4kiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 4kiptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+4ktv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+4ktv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+4ktv.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
+4ktv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 abbonamento-iptv.ch,Switzerland,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 abo-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 abo-france.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -55,7 +59,14 @@ backup-box.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 bayern-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 bbciplayer.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 bbciplayer.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+bbcnews.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+bbcnews.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+bbcnews.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+bbcnews.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 bbcplayer.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+bbcsport.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+bbcsport.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+bbcsport.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 bedsteapp.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
 bedstebox.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
 beetv-apk.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -205,11 +216,22 @@ cornwall-guide.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as
 cutthecord.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 cutthecord.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 danskbox.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
+davetv.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+davetv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+davetv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 desi-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 desiiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 desitv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 desitv.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 desitv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+discoveryplus.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+discoveryplus.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+discoveryplus.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
+discoveryplus.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
+discoveryplus.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
+discoveryplus.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
+discoveryplus.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+discoveryplus.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 disneyplus.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 disneyplus.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 disneyplus.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -235,6 +257,9 @@ easytv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 eifel-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 eliteiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 eliteiptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+elitetv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+elitetv.no,Norway,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+elitetv.us,United States,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 emby-server.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 englishtv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 epg-guide.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -717,6 +742,10 @@ maxtv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 maxtv.us,United States,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 maxuk.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 maxuk.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+megatv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+megatv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+megatv.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+megatv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 meilleur-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 meilleur-iptv.net,Global,TAKEN,DNS yes,,Not available. Do not list as a buy.
 meilleuriptv.fr,France,TAKEN,Online,,Not available
@@ -732,6 +761,10 @@ mini-box.ch,Switzerland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 mini-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 mini-box.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 mini-box.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
+mlbtv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+mlbtv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+mlbtv.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+mlbtv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 mobiletv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 mobiletv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 mobiletv.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -743,6 +776,7 @@ movie-box.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
 movietv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 movietv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 movietv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+nbatv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 netiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 netiptv.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 netiptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -810,6 +844,10 @@ paramountplus.us,United States,TAKEN,DNS yes,,Not available. Do not list as a bu
 paras-iptv.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 parasiptv.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 paris-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
+paytv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+paytv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+paytv.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
+paytv.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 peacocktv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 peacocktv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 peacocktv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -846,6 +884,10 @@ playtv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 playtv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 plex-box.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 plex-server.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+plextv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+plextv.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
+plextv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+plextv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 plusbox.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 plusbox.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 plusbox.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -972,12 +1014,20 @@ skygo.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 skygo.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 skygo.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 skygo.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+skysports.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+skysports.co.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+skysports.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
+skysports.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+skysports.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 skytv.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 skytv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 skytv.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
 skytv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 skytv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 skyuk.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+slingbox.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+slingbox.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+slingbox.us,United States,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 slingtv.us,United States,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 smart-box.ch,Switzerland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 smart-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1042,6 +1092,11 @@ sportsnet.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a bu
 sportsnet.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
 sportsnet.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 sportsnet.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+sportstv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+sportstv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+sportstv.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
+sportstv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+sportstv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 sporttv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 sporttv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 sporttv.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1103,6 +1158,9 @@ streamtv.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not
 streamtv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 streamuk.co.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 streamuk.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+stvplay.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
+stvplayer.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+stvplayer.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 subscriptioniptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 subscriptioniptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 suomibox.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1123,6 +1181,7 @@ swiss-box.de,Germany,TAKEN,No DNS / offline-looking,,Not available. Do not list 
 swiss-box.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 swiss-iptv.ch,Switzerland,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 tablotv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tcltv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 tennis-box.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 test-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 test-box.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1169,6 +1228,15 @@ tubitv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 tubitv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 turkishtv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 turkishtv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv2play.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv2play.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv2play.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv2sport.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv2sport.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv4play.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv4play.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv4play.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
+tv4play.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 tvapp.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 tvapp.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
 tvapp.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1214,6 +1282,7 @@ tvwatch.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 tvwatch.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 twitchtv.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 twitchtv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+uhdtv.no,Norway,TAKEN,DNS yes,,Not available. Do not list as a buy.
 uk4k.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 ukbest.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 ukbest.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1259,6 +1328,8 @@ ultrabox.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy
 ultrabox.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 ultraiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 ultraiptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+ultratv.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+ultratv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 usa-iptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 usabox.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
 usabox.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1271,6 +1342,11 @@ viaplaytv.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
 viaplaytv.no,Norway,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 vipiptv.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 vipiptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+viptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+viptv.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
+viptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+viziotv.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+viziotv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 vodbox.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 vodiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 vodtv.dk,Denmark,TAKEN,DNS yes,,Not available. Do not list as a buy.
