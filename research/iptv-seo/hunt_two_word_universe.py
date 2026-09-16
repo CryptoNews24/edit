@@ -2738,6 +2738,8 @@ APP_STEMS = (
     "rk3399-box",
     "s905x2-box",
     "rk3229-box",
+    "s905l3-box",
+    "rk3288-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3899,6 +3901,12 @@ def candidates() -> list[str]:
         "bearsden-tivimate",
         "johnstone-tivimate",
         "renfrew-tivimate",
+        "barrhead-tivimate",
+        "erskine-tivimate",
+        "linwood-tivimate",
+        "bishopton-tivimate",
+        "cardross-tivimate",
+        "balloch-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
