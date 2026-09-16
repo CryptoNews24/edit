@@ -768,6 +768,13 @@ QUEUED = (
     ("linphone apk", "us", "Linphone APK"),
     ("rk3328w box", "us", "RK3328W chipset box"),
     ("t972w box", "us", "T972W chipset box"),
+    ("simplex apk", "us", "SimpleX APK"),
+    ("threema apk", "us", "Threema APK"),
+    ("wire app", "us", "Wire app APK"),
+    ("delta chat", "us", "Delta Chat APK"),
+    ("conversations apk", "us", "Conversations APK"),
+    ("h618w box", "us", "H618W chipset box"),
+    ("rk3568w box", "us", "RK3568W chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1510,6 +1517,13 @@ NEEDLES = {
     "linphone apk": ("linphone-apk",),
     "rk3328w box": ("rk3328w-box",),
     "t972w box": ("t972w-box",),
+    "simplex apk": ("simplex-apk",),
+    "threema apk": ("threema-apk",),
+    "wire app": ("wireapp-apk",),
+    "delta chat": ("deltachat-apk",),
+    "conversations apk": ("conversations-apk",),
+    "h618w box": ("h618w-box",),
+    "rk3568w box": ("rk3568w-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

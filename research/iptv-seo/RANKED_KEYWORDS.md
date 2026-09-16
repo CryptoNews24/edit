@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 09:54 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 10:11 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -748,5 +748,12 @@ Updated 2026-09-16 09:54 UTC. **Only this file** is the keyword ranking. Real se
 | Q736 | `linphone apk` | United States | N/A | N/A | — | Linphone APK (Semrush pending) | `linphone-apk.us` |
 | Q737 | `rk3328w box` | United States | N/A | N/A | — | RK3328W chipset box (Semrush pending) | `rk3328w-box.us` |
 | Q738 | `t972w box` | United States | N/A | N/A | — | T972W chipset box (Semrush pending) | `t972w-box.us` |
+| Q739 | `simplex apk` | United States | N/A | N/A | — | SimpleX APK (Semrush pending) | `simplex-apk.us` |
+| Q740 | `threema apk` | United States | N/A | N/A | — | Threema APK (Semrush pending) | `threema-apk.us` |
+| Q741 | `wire app` | United States | N/A | N/A | — | Wire app APK (Semrush pending) | `wireapp-apk.us` |
+| Q742 | `delta chat` | United States | N/A | N/A | — | Delta Chat APK (Semrush pending) | `deltachat-apk.us` |
+| Q743 | `conversations apk` | United States | N/A | N/A | — | Conversations APK (Semrush pending) | `conversations-apk.us` |
+| Q744 | `h618w box` | United States | N/A | N/A | — | H618W chipset box (Semrush pending) | `h618w-box.us` |
+| Q745 | `rk3568w box` | United States | N/A | N/A | — | RK3568W chipset box (Semrush pending) | `rk3568w-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
