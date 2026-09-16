@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 21:06 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 21:15 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -227,9 +227,9 @@ Updated 2026-09-16 21:06 UTC. **Only this file** is the keyword ranking. Space-s
 | Q215 | `plexamp` | United States | N/A | N/A | — | Plexamp app (Semrush pending) | `—` |
 | Q216 | `wetek box` | United States | N/A | N/A | — | WeTek Android box (Semrush pending) | `—` |
 | Q217 | `skyworth box` | United States | N/A | N/A | — | Skyworth Android box (Semrush pending) | `—` |
-| Q218 | `philips tv` | United States | N/A | N/A | — | Philips smart TV (Semrush pending) | `—` |
-| Q219 | `panasonic tv` | United States | N/A | N/A | — | Panasonic smart TV (Semrush pending) | `—` |
-| Q220 | `toshiba tv` | United States | N/A | N/A | — | Toshiba smart TV (Semrush pending) | `—` |
+| Q218 | `philips tv` | United States | N/A | N/A | — | Philips smart TV (Semrush pending) | `philipstv.us` |
+| Q219 | `panasonic tv` | United States | N/A | N/A | — | Panasonic smart TV (Semrush pending) | `panasonictv.us` |
+| Q220 | `toshiba tv` | United States | N/A | N/A | — | Toshiba smart TV (Semrush pending) | `toshibatv.us` |
 | Q221 | `sharp tv` | United States | N/A | N/A | — | Sharp smart TV (Semrush pending) | `—` |
 | Q222 | `tcl tv` | United States | N/A | N/A | — | TCL Google TV (Semrush pending) | `tcltv.us` |
 | Q223 | `realme tv` | United States | N/A | N/A | — | Realme smart TV (Semrush pending) | `—` |
@@ -1098,5 +1098,21 @@ Updated 2026-09-16 21:06 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1086 | `ontario tv` | Canada | N/A | N/A | — | Ontario TV smash (Semrush pending) | `ontariotv.ca` |
 | Q1087 | `match tv` | United States | N/A | N/A | — | Match TV smash (Semrush pending) | `matchtv.us` |
 | Q1088 | `playoff tv` | United States | N/A | N/A | — | Playoff TV smash (Semrush pending) | `playofftv.us` |
+| Q1089 | `sky stream` | United Kingdom | N/A | N/A | — | Sky Stream smash (Semrush pending) | `skystream.dk` |
+| Q1090 | `drama tv` | United Kingdom | N/A | N/A | — | Drama TV smash (Semrush pending) | `dramatv.uk` |
+| Q1091 | `food tv` | United States | N/A | N/A | — | Food TV smash (Semrush pending) | `foodtv.uk` |
+| Q1092 | `history tv` | United States | N/A | N/A | — | History TV smash (Semrush pending) | `historytv.us` |
+| Q1093 | `music tv` | United States | N/A | N/A | — | Music TV smash (Semrush pending) | `musictv.dk` |
+| Q1094 | `game tv` | United States | N/A | N/A | — | Game TV smash (Semrush pending) | `gametv.us` |
+| Q1095 | `esports tv` | United States | N/A | N/A | — | Esports TV smash (Semrush pending) | `esportstv.ca` |
+| Q1096 | `home theater` | United States | N/A | N/A | — | Home theater smash (Semrush pending) | `hometheater.dk` |
+| Q1097 | `kodi hub` | United States | N/A | N/A | — | Kodi hub smash (Semrush pending) | `kodihub.us` |
+| Q1098 | `infuse tv` | United States | N/A | N/A | — | Infuse TV smash (Semrush pending) | `infusetv.us` |
+| Q1099 | `discovery tv` | United States | N/A | N/A | — | Discovery TV smash (Semrush pending) | `discoverytv.ca` |
+| Q1100 | `food network` | United States | N/A | N/A | — | Food Network smash (Semrush pending) | `foodnetwork.fi` |
+| Q1101 | `usa network` | United States | N/A | N/A | — | USA Network smash (Semrush pending) | `usanetwork.uk` |
+| Q1102 | `animal planet` | United States | N/A | N/A | — | Animal Planet smash (Semrush pending) | `animalplanet.dk` |
+| Q1103 | `videotron tv` | Canada | N/A | N/A | — | Videotron TV smash (Semrush pending) | `videotrontv.ca` |
+| Q1104 | `tva tv` | Canada | N/A | N/A | — | TVA TV smash (Semrush pending) | `tvatv.ca` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.

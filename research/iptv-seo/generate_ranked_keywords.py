@@ -1124,6 +1124,23 @@ QUEUED = (
     ("ontario tv", "ca", "Ontario TV smash"),
     ("match tv", "us", "Match TV smash"),
     ("playoff tv", "us", "Playoff TV smash"),
+    ("philips tv", "us", "Philips TV smash"),
+    ("sky stream", "uk", "Sky Stream smash"),
+    ("drama tv", "uk", "Drama TV smash"),
+    ("food tv", "us", "Food TV smash"),
+    ("history tv", "us", "History TV smash"),
+    ("music tv", "us", "Music TV smash"),
+    ("game tv", "us", "Game TV smash"),
+    ("esports tv", "us", "Esports TV smash"),
+    ("home theater", "us", "Home theater smash"),
+    ("kodi hub", "us", "Kodi hub smash"),
+    ("infuse tv", "us", "Infuse TV smash"),
+    ("discovery tv", "us", "Discovery TV smash"),
+    ("food network", "us", "Food Network smash"),
+    ("usa network", "us", "USA Network smash"),
+    ("animal planet", "us", "Animal Planet smash"),
+    ("videotron tv", "ca", "Videotron TV smash"),
+    ("tva tv", "ca", "TVA TV smash"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
