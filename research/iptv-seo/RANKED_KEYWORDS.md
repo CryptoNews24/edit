@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:58 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -441,5 +441,17 @@ Updated 2026-09-16 04:55 UTC. **Only this file** is the keyword ranking. Real se
 | Q429 | `dragon apk` | United States | N/A | N/A | — | Dragon Player APK (Semrush pending) | `dragon-apk.us` |
 | Q430 | `xmltv apk` | United States | N/A | N/A | — | XMLTV APK (Semrush pending) | `xmltv-apk.us` |
 | Q431 | `t963m box` | United States | N/A | N/A | — | T963M chipset box (Semrush pending) | `t963m-box.us` |
+| Q432 | `vizio apk` | United States | N/A | N/A | — | Vizio APK (Semrush pending) | `vizio-apk.us` |
+| Q433 | `tcl apk` | United States | N/A | N/A | — | TCL APK (Semrush pending) | `tcl-apk.us` |
+| Q434 | `philips apk` | United States | N/A | N/A | — | Philips APK (Semrush pending) | `philips-apk.us` |
+| Q435 | `panasonic apk` | United States | N/A | N/A | — | Panasonic APK (Semrush pending) | `panasonic-apk.us` |
+| Q436 | `sony apk` | United States | N/A | N/A | — | Sony APK (Semrush pending) | `sony-apk.us` |
+| Q437 | `xiaomi apk` | United States | N/A | N/A | — | Xiaomi APK (Semrush pending) | `xiaomi-apk.us` |
+| Q438 | `playstation apk` | United States | N/A | N/A | — | PlayStation APK (Semrush pending) | `playstation-apk.us` |
+| Q439 | `xbox apk` | United States | N/A | N/A | — | Xbox APK (Semrush pending) | `xbox-apk.us` |
+| Q440 | `steam deck apk` | United States | N/A | N/A | — | Steam Deck APK (Semrush pending) | `steamdeck-apk.us` |
+| Q441 | `rk3328s box` | United States | N/A | N/A | — | RK3328S chipset box (Semrush pending) | `rk3328s-box.us` |
+| Q442 | `t950n box` | United States | N/A | N/A | — | T950N chipset box (Semrush pending) | `t950n-box.us` |
+| Q443 | `h313k box` | United States | N/A | N/A | — | H313K chipset box (Semrush pending) | `h313k-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
