@@ -2715,6 +2715,8 @@ APP_STEMS = (
     "mag254-box",
     "infomir-box",
     "infomir-player",
+    "starbox-guide",
+    "uclan-guide",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3107,6 +3109,7 @@ def candidates() -> list[str]:
     _push("tivimate-innu.ca", seen, out)
     _push("tivimate-faroese.dk", seen, out)
     _push("tivimate-greenlandic.dk", seen, out)
+    _push("tivimate-haida.ca", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3800,6 +3803,14 @@ def candidates() -> list[str]:
         "tyneside-tivimate",
         "welsh-tivimate",
         "scots-tivimate",
+        "cornish-tivimate",
+        "gaelic-tivimate",
+        "rutland-tivimate",
+        "lakes-tivimate",
+        "peak-tivimate",
+        "uclan-tivimate",
+        "starbox-guide",
+        "uclan-guide",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

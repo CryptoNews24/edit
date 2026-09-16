@@ -73,6 +73,8 @@ QUEUED = (
     ("iptv downloader", "us", "Downloader + Fire Stick"),
     ("mag 254", "us", "MAG 254 box"),
     ("infomir", "us", "Infomir MAG boxes"),
+    ("star box", "us", "StarBox Android box"),
+    ("uclan iptv", "uk", "UCLAN box setup"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -120,6 +122,8 @@ NEEDLES = {
     "iptv downloader": ("downloader-box",),
     "mag 254": ("mag254-box",),
     "infomir": ("infomir-box", "infomir-player"),
+    "star box": ("starbox-guide",),
+    "uclan iptv": ("uclan-guide", "uclan-tivimate"),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
