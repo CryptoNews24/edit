@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:30 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:33 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -293,5 +293,23 @@ Updated 2026-09-16 04:30 UTC. **Only this file** is the keyword ranking. Real se
 | Q281 | `beelink gt1` | United States | N/A | N/A | — | Beelink GT1 box (Semrush pending) | `beelink-gt1.us` |
 | Q282 | `wetek play` | United States | N/A | N/A | — | WeTek Play box (Semrush pending) | `wetek-play.us` |
 | Q283 | `vu solo` | United States | N/A | N/A | — | VU+ Solo box (Semrush pending) | `vu-solo.us` |
+| Q284 | `rk3568s box` | United States | N/A | N/A | — | RK3568S chipset box (Semrush pending) | `rk3568s-box.us` |
+| Q285 | `t962s box` | United States | N/A | N/A | — | T962S chipset box (Semrush pending) | `t962s-box.us` |
+| Q286 | `t965s box` | United States | N/A | N/A | — | T965S chipset box (Semrush pending) | `t965s-box.us` |
+| Q287 | `h313e box` | United States | N/A | N/A | — | H313E chipset box (Semrush pending) | `h313e-box.us` |
+| Q288 | `openspa` | United States | N/A | N/A | — | OpenSPA Enigma image (Semrush pending) | `openspa-box.us` |
+| Q289 | `openhdf` | United States | N/A | N/A | — | OpenHDF Enigma image (Semrush pending) | `openhdf-box.us` |
+| Q290 | `oscam` | United States | N/A | N/A | — | OSCam card client (Semrush pending) | `oscam-box.us` |
+| Q291 | `cccam` | United States | N/A | N/A | — | CCcam card client (Semrush pending) | `cccam-box.us` |
+| Q292 | `multics` | United States | N/A | N/A | — | Multics card client (Semrush pending) | `multics-box.us` |
+| Q293 | `ncam` | United States | N/A | N/A | — | NCam card client (Semrush pending) | `ncam-box.us` |
+| Q294 | `torrentio` | United States | N/A | N/A | — | Torrentio Stremio addon (Semrush pending) | `torrentio-box.us` |
+| Q295 | `stremio addon` | United States | N/A | N/A | — | Stremio addon setup (Semrush pending) | `stremio-addon.us` |
+| Q296 | `tivimate beta` | United States | N/A | N/A | — | TiviMate beta app (Semrush pending) | `tivimate-beta.us` |
+| Q297 | `tivimate download` | United States | N/A | N/A | — | TiviMate download (Semrush pending) | `tivimate-download.us` |
+| Q298 | `kodi seren` | United States | N/A | N/A | — | Kodi Seren addon (Semrush pending) | `kodi-seren.us` |
+| Q299 | `kodi umbrella` | United States | N/A | N/A | — | Kodi Umbrella addon (Semrush pending) | `kodi-umbrella.us` |
+| Q300 | `m3u8 player` | United States | N/A | N/A | — | M3U8 playlist player (Semrush pending) | `m3u8-player.us` |
+| Q301 | `hls player` | United States | N/A | N/A | — | HLS stream player (Semrush pending) | `hls-player.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
