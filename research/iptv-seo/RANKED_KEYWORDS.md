@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:16 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:23 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -522,5 +522,25 @@ Updated 2026-09-16 05:16 UTC. **Only this file** is the keyword ranking. Real se
 | Q510 | `cccam apk` | United States | N/A | N/A | — | CCcam APK (Semrush pending) | `cccam-apk.us` |
 | Q511 | `t972n box` | United States | N/A | N/A | — | T972N chipset box (Semrush pending) | `t972n-box.us` |
 | Q512 | `h618n box` | United States | N/A | N/A | — | H618N chipset box (Semrush pending) | `h618n-box.us` |
+| Q513 | `ncam apk` | United States | N/A | N/A | — | NCam APK (Semrush pending) | `ncam-apk.us` |
+| Q514 | `multics apk` | United States | N/A | N/A | — | Multics APK (Semrush pending) | `multics-apk.us` |
+| Q515 | `torrentio apk` | United States | N/A | N/A | — | Torrentio APK (Semrush pending) | `torrentio-apk.us` |
+| Q516 | `pureneos apk` | United States | N/A | N/A | — | PureNEXUS APK (Semrush pending) | `pureneos-apk.us` |
+| Q517 | `satdreamgr apk` | United States | N/A | N/A | — | SatDreamGr APK (Semrush pending) | `satdreamgr-apk.us` |
+| Q518 | `vti apk` | United States | N/A | N/A | — | VTi APK (Semrush pending) | `vti-apk.us` |
+| Q519 | `bouquet apk` | United States | N/A | N/A | — | Bouquet editor APK (Semrush pending) | `bouquet-apk.us` |
+| Q520 | `t950p box` | United States | N/A | N/A | — | T950P chipset box (Semrush pending) | `t950p-box.us` |
+| Q521 | `s905x6s box` | United States | N/A | N/A | — | S905X6S chipset box (Semrush pending) | `s905x6s-box.us` |
+| Q522 | `dvbviewer apk` | United States | N/A | N/A | — | DVBViewer APK (Semrush pending) | `dvbviewer-apk.us` |
+| Q523 | `mediaportal apk` | United States | N/A | N/A | — | MediaPortal APK (Semrush pending) | `mediaportal-apk.us` |
+| Q524 | `openwebif apk` | United States | N/A | N/A | — | OpenWebif APK (Semrush pending) | `openwebif-apk.us` |
+| Q525 | `t968p box` | United States | N/A | N/A | — | T968P chipset box (Semrush pending) | `t968p-box.us` |
+| Q526 | `h313p box` | United States | N/A | N/A | — | H313P chipset box (Semrush pending) | `h313p-box.us` |
+| Q527 | `syncler apk` | United States | N/A | N/A | — | Syncler APK (Semrush pending) | `syncler-apk.us` |
+| Q528 | `iptvnator apk` | United States | N/A | N/A | — | IPTVnator APK (Semrush pending) | `iptvnator-apk.us` |
+| Q529 | `cineplus apk` | United States | N/A | N/A | — | CinePlus APK (Semrush pending) | `cineplus-apk.us` |
+| Q530 | `m3u4u apk` | United States | N/A | N/A | — | M3U4U APK (Semrush pending) | `m3u4u-apk.us` |
+| Q531 | `iptvboss apk` | United States | N/A | N/A | — | IPTV Boss APK (Semrush pending) | `iptvboss-apk.us` |
+| Q532 | `superflix apk` | United States | N/A | N/A | — | Superflix APK (Semrush pending) | `superflix-apk.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
