@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:13 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:16 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -236,5 +236,16 @@ Updated 2026-09-16 04:13 UTC. **Only this file** is the keyword ranking. Real se
 | Q224 | `oneplus tv` | United States | N/A | N/A | — | OnePlus TV (Semrush pending) | `oneplus-tv.us` |
 | Q225 | `xiaomi tv` | United States | N/A | N/A | — | Xiaomi smart TV (Semrush pending) | `xiaomi-tv.us` |
 | Q226 | `sony tv` | United States | N/A | N/A | — | Sony smart TV (Semrush pending) | `sony-tv.us` |
+| Q227 | `xe player` | United States | N/A | N/A | — | XE Player app (Semrush pending) | `xeplayer-box.us` |
+| Q228 | `firestick lite` | United States | N/A | N/A | — | Fire Stick Lite (Semrush pending) | `firestick-lite.us` |
+| Q229 | `firestick max` | United States | N/A | N/A | — | Fire Stick Max (Semrush pending) | `firestick-max.us` |
+| Q230 | `chromecast tv` | United States | N/A | N/A | — | Chromecast with Google TV (Semrush pending) | `chromecast-tv.us` |
+| Q231 | `nest hub` | United States | N/A | N/A | — | Google Nest Hub (Semrush pending) | `nest-hub.us` |
+| Q232 | `echo show` | United States | N/A | N/A | — | Amazon Echo Show (Semrush pending) | `echoshow-box.us` |
+| Q233 | `playstation tv` | United States | N/A | N/A | — | PlayStation IPTV (Semrush pending) | `playstation-tv.us` |
+| Q234 | `xbox tv` | United States | N/A | N/A | — | Xbox IPTV apps (Semrush pending) | `xbox-tv.us` |
+| Q235 | `steam deck` | United States | N/A | N/A | — | Steam Deck media (Semrush pending) | `steamdeck-box.us` |
+| Q236 | `legion go` | United States | N/A | N/A | — | Legion Go handheld (Semrush pending) | `legion-go.us` |
+| Q237 | `my iptv` | United States | N/A | N/A | — | MyIPTV player app (Semrush pending) | `myiptv-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

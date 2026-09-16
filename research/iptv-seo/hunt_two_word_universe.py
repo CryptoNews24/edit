@@ -2882,6 +2882,16 @@ APP_STEMS = (
     "oneplus-tv",
     "xiaomi-tv",
     "sony-tv",
+    "firestick-lite",
+    "firestick-max",
+    "chromecast-tv",
+    "nest-hub",
+    "echoshow-box",
+    "playstation-tv",
+    "xbox-tv",
+    "steamdeck-box",
+    "legion-go",
+    "myiptv-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4094,6 +4104,9 @@ def candidates() -> list[str]:
         "egilsay-tivimate",
         "shapinsay-tivimate",
         "flotta-tivimate",
+        "southronaldsay-tivimate",
+        "callanish-tivimate",
+        "breasclete-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
