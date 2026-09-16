@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:33 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:36 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -311,5 +311,27 @@ Updated 2026-09-16 04:33 UTC. **Only this file** is the keyword ranking. Real se
 | Q299 | `kodi umbrella` | United States | N/A | N/A | — | Kodi Umbrella addon (Semrush pending) | `kodi-umbrella.us` |
 | Q300 | `m3u8 player` | United States | N/A | N/A | — | M3U8 playlist player (Semrush pending) | `m3u8-player.us` |
 | Q301 | `hls player` | United States | N/A | N/A | — | HLS stream player (Semrush pending) | `hls-player.us` |
+| Q302 | `s905x4 box` | United States | N/A | N/A | — | S905X4 chipset box (Semrush pending) | `s905x4-box.us` |
+| Q303 | `s905y4 box` | United States | N/A | N/A | — | S905Y4 chipset box (Semrush pending) | `s905y4-box.us` |
+| Q304 | `t972e box` | United States | N/A | N/A | — | T972E chipset box (Semrush pending) | `t972e-box.us` |
+| Q305 | `a311ds box` | United States | N/A | N/A | — | A311DS chipset box (Semrush pending) | `a311ds-box.us` |
+| Q306 | `real debrid` | United States | N/A | N/A | — | Real-Debrid Stremio (Semrush pending) | `realdebrid-box.us` |
+| Q307 | `alldebrid` | United States | N/A | N/A | — | AllDebrid Stremio (Semrush pending) | `alldebrid-box.us` |
+| Q308 | `premiumize` | United States | N/A | N/A | — | Premiumize Stremio (Semrush pending) | `premiumize-box.us` |
+| Q309 | `mediafusion` | United States | N/A | N/A | — | MediaFusion addon (Semrush pending) | `mediafusion-box.us` |
+| Q310 | `kometa` | United States | N/A | N/A | — | Kometa Plex overlay (Semrush pending) | `kometa-box.us` |
+| Q311 | `xtream ui` | United States | N/A | N/A | — | Xtream UI panel (Semrush pending) | `xtream-ui.us` |
+| Q312 | `xui one` | United States | N/A | N/A | — | XUI One panel (Semrush pending) | `xui-one.us` |
+| Q313 | `sparkle apk` | United States | N/A | N/A | — | Sparkle TV APK (Semrush pending) | `sparkle-apk.us` |
+| Q314 | `smarters apk` | United States | N/A | N/A | — | Smarters Pro APK (Semrush pending) | `smarters-apk.us` |
+| Q315 | `ibo apk` | United States | N/A | N/A | — | IBO Player APK (Semrush pending) | `ibo-apk.us` |
+| Q316 | `kodi crew` | United States | N/A | N/A | — | Kodi Crew addon (Semrush pending) | `kodi-crew.us` |
+| Q317 | `kodi exodus` | United States | N/A | N/A | — | Kodi Exodus addon (Semrush pending) | `kodi-exodus.us` |
+| Q318 | `kodi fen` | United States | N/A | N/A | — | Kodi Fen addon (Semrush pending) | `kodi-fen.us` |
+| Q319 | `kodi gaia` | United States | N/A | N/A | — | Kodi Gaia addon (Semrush pending) | `kodi-gaia.us` |
+| Q320 | `kodi venom` | United States | N/A | N/A | — | Kodi Venom addon (Semrush pending) | `kodi-venom.us` |
+| Q321 | `playlist manager` | United States | N/A | N/A | — | Playlist manager app (Semrush pending) | `playlist-manager.us` |
+| Q322 | `sonarr` | United States | N/A | N/A | — | Sonarr PVR (Semrush pending) | `sonarr-box.us` |
+| Q323 | `radarr` | United States | N/A | N/A | — | Radarr PVR (Semrush pending) | `radarr-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
