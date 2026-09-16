@@ -3499,6 +3499,12 @@ APP_STEMS = (
     "headscale-apk",
     "nebula-apk",
     "s905x8s-box",
+    "anydesk-apk",
+    "teamviewer-apk",
+    "splashtop-apk",
+    "todesk-apk",
+    "dwservice-apk",
+    "rk3326z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4912,6 +4918,9 @@ def candidates() -> list[str]:
         "tomintoul-tivimate",
         "ballindalloch-tivimate",
         "archiestown-tivimate",
+        "marypark-tivimate",
+        "mortlach-tivimate",
+        "glenfarclas-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

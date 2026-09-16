@@ -877,6 +877,12 @@ QUEUED = (
     ("headscale apk", "us", "Headscale APK"),
     ("nebula apk", "us", "Nebula APK"),
     ("s905x8s box", "us", "S905X8S chipset box"),
+    ("anydesk apk", "us", "AnyDesk APK"),
+    ("teamviewer apk", "us", "TeamViewer APK"),
+    ("splashtop apk", "us", "Splashtop APK"),
+    ("todesk apk", "us", "ToDesk APK"),
+    ("dwservice apk", "us", "DWService APK"),
+    ("rk3326z box", "us", "RK3326Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1728,6 +1734,12 @@ NEEDLES = {
     "headscale apk": ("headscale-apk",),
     "nebula apk": ("nebula-apk",),
     "s905x8s box": ("s905x8s-box",),
+    "anydesk apk": ("anydesk-apk",),
+    "teamviewer apk": ("teamviewer-apk",),
+    "splashtop apk": ("splashtop-apk",),
+    "todesk apk": ("todesk-apk",),
+    "dwservice apk": ("dwservice-apk",),
+    "rk3326z box": ("rk3326z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
