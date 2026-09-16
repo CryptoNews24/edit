@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:19 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:22 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -67,5 +67,6 @@ Updated 2026-09-16 03:19 UTC. **Only this file** is the keyword ranking. Real se
 | Q55 | `allwinner box` | United States | N/A | N/A | — | Allwinner chipset box (Semrush pending) | `allwinner-box.us` |
 | Q56 | `amlogic box` | United States | N/A | N/A | — | Amlogic chipset box (Semrush pending) | `amlogic-box.us` |
 | Q57 | `rockchip box` | United States | N/A | N/A | — | Rockchip chipset box (Semrush pending) | `rockchip-box.us` |
+| Q58 | `s905x3 box` | United States | N/A | N/A | — | S905X3 chipset box (Semrush pending) | `s905x3-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
