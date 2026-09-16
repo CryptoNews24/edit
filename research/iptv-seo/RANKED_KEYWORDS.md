@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 13:21 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 13:33 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -851,5 +851,10 @@ Updated 2026-09-16 13:21 UTC. **Only this file** is the keyword ranking. Real se
 | Q839 | `wireguard apk` | United States | N/A | N/A | — | WireGuard APK (Semrush pending) | `wireguard-apk.us` |
 | Q840 | `tailscale apk` | United States | N/A | N/A | — | Tailscale APK (Semrush pending) | `tailscale-apk.us` |
 | Q841 | `rk3568z box` | United States | N/A | N/A | — | RK3568Z chipset box (Semrush pending) | `rk3568z-box.us` |
+| Q842 | `cloudflared apk` | United States | N/A | N/A | — | cloudflared APK (Semrush pending) | `cloudflared-apk.us` |
+| Q843 | `zerotier apk` | United States | N/A | N/A | — | ZeroTier APK (Semrush pending) | `zerotier-apk.us` |
+| Q844 | `netbird apk` | United States | N/A | N/A | — | NetBird APK (Semrush pending) | `netbird-apk.us` |
+| Q845 | `headscale apk` | United States | N/A | N/A | — | Headscale APK (Semrush pending) | `headscale-apk.us` |
+| Q846 | `s905x8s box` | United States | N/A | N/A | — | S905X8S chipset box (Semrush pending) | `s905x8s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

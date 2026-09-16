@@ -3493,6 +3493,12 @@ APP_STEMS = (
     "wireguard-apk",
     "tailscale-apk",
     "rk3568z-box",
+    "cloudflared-apk",
+    "zerotier-apk",
+    "netbird-apk",
+    "headscale-apk",
+    "nebula-apk",
+    "s905x8s-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4903,6 +4909,9 @@ def candidates() -> list[str]:
         "dufftown-tivimate",
         "knockando-tivimate",
         "glenlivet-tivimate",
+        "tomintoul-tivimate",
+        "ballindalloch-tivimate",
+        "archiestown-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

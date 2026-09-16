@@ -871,6 +871,12 @@ QUEUED = (
     ("wireguard apk", "us", "WireGuard APK"),
     ("tailscale apk", "us", "Tailscale APK"),
     ("rk3568z box", "us", "RK3568Z chipset box"),
+    ("cloudflared apk", "us", "cloudflared APK"),
+    ("zerotier apk", "us", "ZeroTier APK"),
+    ("netbird apk", "us", "NetBird APK"),
+    ("headscale apk", "us", "Headscale APK"),
+    ("nebula apk", "us", "Nebula APK"),
+    ("s905x8s box", "us", "S905X8S chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1716,6 +1722,12 @@ NEEDLES = {
     "wireguard apk": ("wireguard-apk",),
     "tailscale apk": ("tailscale-apk",),
     "rk3568z box": ("rk3568z-box",),
+    "cloudflared apk": ("cloudflared-apk",),
+    "zerotier apk": ("zerotier-apk",),
+    "netbird apk": ("netbird-apk",),
+    "headscale apk": ("headscale-apk",),
+    "nebula apk": ("nebula-apk",),
+    "s905x8s box": ("s905x8s-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
