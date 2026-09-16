@@ -2892,6 +2892,25 @@ def candidates() -> list[str]:
     _push("tivimate-umea.se", seen, out)
     _push("tivimate-orebro.se", seen, out)
     for stem in (
+        "tivimate-news",
+        "tivimate-movie",
+        "tivimate-pack",
+        "tivimate-bouquet",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
+    _push("tivimate-sherbrooke.ca", seen, out)
+    _push("tivimate-saguenay.ca", seen, out)
+    _push("tivimate-richmond.ca", seen, out)
+    _push("tivimate-jacksonville.us", seen, out)
+    _push("tivimate-indianapolis.us", seen, out)
+    _push("tivimate-louisville.us", seen, out)
+    _push("tivimate-norfolk.us", seen, out)
+    _push("tivimate-jyvaskyla.fi", seen, out)
+    _push("tivimate-linkoping.se", seen, out)
+    _push("tivimate-norrkoping.se", seen, out)
+    _push("tivimate-helsingborg.se", seen, out)
+    for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
         "tivimate-timeshift",
@@ -3514,6 +3533,12 @@ def candidates() -> list[str]:
         "dundee-tivimate",
         "tivimate-install",
         "tivimate-sport",
+        "coventry-tivimate",
+        "plymouth-tivimate",
+        "norwich-tivimate",
+        "exeter-tivimate",
+        "tivimate-news",
+        "tivimate-movie",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
