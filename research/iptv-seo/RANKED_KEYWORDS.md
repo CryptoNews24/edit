@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 12:18 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 12:28 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -821,5 +821,11 @@ Updated 2026-09-16 12:18 UTC. **Only this file** is the keyword ranking. Real se
 | Q809 | `andotp apk` | United States | N/A | N/A | — | andOTP APK (Semrush pending) | `andotp-apk.us` |
 | Q810 | `raivo apk` | United States | N/A | N/A | — | Raivo APK (Semrush pending) | `raivo-apk.us` |
 | Q811 | `a133z box` | United States | N/A | N/A | — | A133Z chipset box (Semrush pending) | `a133z-box.us` |
+| Q812 | `freeotp apk` | United States | N/A | N/A | — | FreeOTP APK (Semrush pending) | `freeotp-apk.us` |
+| Q813 | `duo apk` | United States | N/A | N/A | — | Duo APK (Semrush pending) | `duo-apk.us` |
+| Q814 | `okta apk` | United States | N/A | N/A | — | Okta APK (Semrush pending) | `okta-apk.us` |
+| Q815 | `msauth apk` | United States | N/A | N/A | — | Microsoft Authenticator APK (Semrush pending) | `msauth-apk.us` |
+| Q816 | `gauth apk` | United States | N/A | N/A | — | Google Authenticator APK (Semrush pending) | `gauth-apk.us` |
+| Q817 | `t972z box` | United States | N/A | N/A | — | T972Z chipset box (Semrush pending) | `t972z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

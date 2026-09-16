@@ -841,6 +841,12 @@ QUEUED = (
     ("andotp apk", "us", "andOTP APK"),
     ("raivo apk", "us", "Raivo APK"),
     ("a133z box", "us", "A133Z chipset box"),
+    ("freeotp apk", "us", "FreeOTP APK"),
+    ("duo apk", "us", "Duo APK"),
+    ("okta apk", "us", "Okta APK"),
+    ("msauth apk", "us", "Microsoft Authenticator APK"),
+    ("gauth apk", "us", "Google Authenticator APK"),
+    ("t972z box", "us", "T972Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1656,6 +1662,12 @@ NEEDLES = {
     "andotp apk": ("andotp-apk",),
     "raivo apk": ("raivo-apk",),
     "a133z box": ("a133z-box",),
+    "freeotp apk": ("freeotp-apk",),
+    "duo apk": ("duo-apk",),
+    "okta apk": ("okta-apk",),
+    "msauth apk": ("msauth-apk",),
+    "gauth apk": ("gauth-apk",),
+    "t972z box": ("t972z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
