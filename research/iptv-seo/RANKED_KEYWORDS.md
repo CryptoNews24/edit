@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 20:05 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 20:16 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -1008,5 +1008,10 @@ Updated 2026-09-16 20:05 UTC. **Only this file** is the keyword ranking. Space-s
 | Q996 | `telegram iptv` | United States | N/A | N/A | — | Telegram IPTV smash (Semrush pending) | `telegramiptv.us` |
 | Q997 | `order iptv` | United States | N/A | N/A | — | Order IPTV commercial smash (Semrush pending) | `orderiptv.us` |
 | Q998 | `join iptv` | United States | N/A | N/A | — | Join IPTV commercial smash (Semrush pending) | `joiniptv.us` |
+| Q999 | `f1 iptv` | United States | N/A | N/A | — | F1 IPTV sports smash (Semrush pending) | `f1iptv.us` |
+| Q1000 | `ufc iptv` | United States | N/A | N/A | — | UFC IPTV sports smash (Semrush pending) | `ufciptv.us` |
+| Q1001 | `phone iptv` | United States | N/A | N/A | — | Phone IPTV smash (Semrush pending) | `phoneiptv.us` |
+| Q1002 | `svt play` | United States | N/A | N/A | — | SVT Play smash (Semrush pending) | `svtplay.us` |
+| Q1003 | `nrk tv` | Norway | N/A | N/A | — | NRK TV smash (Semrush pending) | `nrktv.ca` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
