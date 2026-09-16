@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:07 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -55,5 +55,7 @@ Updated 2026-09-16 03:04 UTC. **Only this file** is the keyword ranking. Real se
 | Q43 | `infomir` | United States | N/A | N/A | — | Infomir MAG boxes (Semrush pending) | `infomir-box.us` |
 | Q44 | `star box` | United States | N/A | N/A | — | StarBox Android box (Semrush pending) | `starbox-guide.us` |
 | Q45 | `uclan iptv` | United Kingdom | N/A | N/A | — | UCLAN box setup (Semrush pending) | `uclan-guide.co.uk` |
+| Q46 | `vontar box` | United States | N/A | N/A | — | Vontar Android box (Semrush pending) | `vontar-box.us` |
+| Q47 | `h96 max` | United States | N/A | N/A | — | H96 Max box (Semrush pending) | `h96max-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
