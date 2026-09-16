@@ -161,7 +161,7 @@ def main() -> None:
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools login is Cloudflare 403 from this VM (not HTTP 429). Servers 1-2 return HTTP 200 Session expired. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works. Semrush keyword - keyword pair rows are excluded.",
+        "detail": "Noxtools 01:02 UTC probe: login Cloudflare 403 (not HTTP 429). Servers 1-2 HTTP 200 Session expired. No login POST this hour. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works. Semrush keyword - keyword pair rows are excluded.",
         "min_volume": 500,
         "exclude_kd": "Difficult",
         "exclude_keyword_pairs": True,
