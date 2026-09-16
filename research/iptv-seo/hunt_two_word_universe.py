@@ -2817,6 +2817,17 @@ APP_STEMS = (
     "tivimate-companion",
     "m3u4u-box",
     "iptvboss-box",
+    "stremio-box",
+    "infuse-box",
+    "nplayer-box",
+    "cineplus-box",
+    "kodi-addons",
+    "firestick-4k",
+    "kodi-jarvis",
+    "kodi-helix",
+    "kodi-isengard",
+    "kodi-gotham",
+    "shield-tv",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4011,6 +4022,9 @@ def candidates() -> list[str]:
         "lairg-tivimate",
         "thurso-tivimate",
         "durness-tivimate",
+        "johnogroats-tivimate",
+        "bettyhill-tivimate",
+        "altnaharra-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

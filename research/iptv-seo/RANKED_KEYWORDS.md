@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:58 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -171,5 +171,16 @@ Updated 2026-09-16 03:55 UTC. **Only this file** is the keyword ranking. Real se
 | Q159 | `tivimate companion` | United States | N/A | N/A | — | TiviMate Companion app (Semrush pending) | `tivimate-companion.us` |
 | Q160 | `m3u4u` | United States | N/A | N/A | — | M3U4U playlist host (Semrush pending) | `m3u4u-box.us` |
 | Q161 | `iptv boss` | United States | N/A | N/A | — | IPTV Boss panel (Semrush pending) | `iptvboss-box.us` |
+| Q162 | `stremio` | United States | N/A | N/A | — | Stremio app (Semrush pending) | `stremio-box.us` |
+| Q163 | `infuse` | United States | N/A | N/A | — | Infuse player (Semrush pending) | `infuse-box.us` |
+| Q164 | `nplayer` | United States | N/A | N/A | — | nPlayer app (Semrush pending) | `nplayer-box.us` |
+| Q165 | `cineplus` | United States | N/A | N/A | — | Cineplus app (Semrush pending) | `cineplus-box.us` |
+| Q166 | `kodi addons` | United States | N/A | N/A | — | Kodi addons setup (Semrush pending) | `kodi-addons.us` |
+| Q167 | `firestick 4k` | United States | N/A | N/A | — | Fire Stick 4K setup (Semrush pending) | `firestick-4k.us` |
+| Q168 | `kodi jarvis` | United States | N/A | N/A | — | Kodi Jarvis setup (Semrush pending) | `kodi-jarvis.us` |
+| Q169 | `kodi helix` | United States | N/A | N/A | — | Kodi Helix setup (Semrush pending) | `kodi-helix.us` |
+| Q170 | `kodi isengard` | United States | N/A | N/A | — | Kodi Isengard setup (Semrush pending) | `kodi-isengard.us` |
+| Q171 | `kodi gotham` | United States | N/A | N/A | — | Kodi Gotham setup (Semrush pending) | `kodi-gotham.us` |
+| Q172 | `shield tv` | United States | N/A | N/A | — | Shield TV box (Semrush pending) | `shield-tv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
