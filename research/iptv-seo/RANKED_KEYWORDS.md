@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:52 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -159,5 +159,17 @@ Updated 2026-09-16 03:52 UTC. **Only this file** is the keyword ranking. Real se
 | Q147 | `onn 4k` | United States | N/A | N/A | — | Onn 4K box (Semrush pending) | `onn-4k.us` |
 | Q148 | `m3u editor` | United States | N/A | N/A | — | M3U playlist editor (Semrush pending) | `m3u-editor.us` |
 | Q149 | `rk3399s box` | United States | N/A | N/A | — | RK3399S chipset box (Semrush pending) | `rk3399s-box.us` |
+| Q150 | `t950e box` | United States | N/A | N/A | — | T950E chipset box (Semrush pending) | `t950e-box.us` |
+| Q151 | `formuler z11` | United States | N/A | N/A | — | Formuler Z11 box (Semrush pending) | `formuler-z11.us` |
+| Q152 | `mag 324` | United States | N/A | N/A | — | MAG 324 box (Semrush pending) | `mag324-box.us` |
+| Q153 | `t95q box` | United States | N/A | N/A | — | T95Q Android box (Semrush pending) | `t95q-box.us` |
+| Q154 | `tx92 box` | United States | N/A | N/A | — | TX92 Android box (Semrush pending) | `tx92-box.us` |
+| Q155 | `a133s box` | United States | N/A | N/A | — | A133S chipset box (Semrush pending) | `a133s-box.us` |
+| Q156 | `kodi leia` | United States | N/A | N/A | — | Kodi Leia setup (Semrush pending) | `kodi-leia.us` |
+| Q157 | `kodi krypton` | United States | N/A | N/A | — | Kodi Krypton setup (Semrush pending) | `kodi-krypton.us` |
+| Q158 | `superflix` | United States | N/A | N/A | — | SuperFlix app (Semrush pending) | `superflix-box.us` |
+| Q159 | `tivimate companion` | United States | N/A | N/A | — | TiviMate Companion app (Semrush pending) | `tivimate-companion.us` |
+| Q160 | `m3u4u` | United States | N/A | N/A | — | M3U4U playlist host (Semrush pending) | `m3u4u-box.us` |
+| Q161 | `iptv boss` | United States | N/A | N/A | — | IPTV Boss panel (Semrush pending) | `iptvboss-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

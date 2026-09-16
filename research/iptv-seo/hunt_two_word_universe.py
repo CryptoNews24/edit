@@ -2806,6 +2806,17 @@ APP_STEMS = (
     "onn-4k",
     "m3u-editor",
     "rk3399s-box",
+    "formuler-z11",
+    "mag324-box",
+    "t95q-box",
+    "tx92-box",
+    "a133s-box",
+    "kodi-leia",
+    "kodi-krypton",
+    "superflix-box",
+    "tivimate-companion",
+    "m3u4u-box",
+    "iptvboss-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3997,6 +4008,9 @@ def candidates() -> list[str]:
         "gairloch-tivimate",
         "lochinver-tivimate",
         "golspie-tivimate",
+        "lairg-tivimate",
+        "thurso-tivimate",
+        "durness-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
