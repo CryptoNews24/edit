@@ -1040,6 +1040,11 @@ QUEUED = (
     ("hindi iptv", "us", "Hindi IPTV smash"),
     ("arabic iptv", "us", "Arabic IPTV smash"),
     ("latino iptv", "us", "Latino IPTV smash"),
+    ("tamil iptv", "us", "Tamil IPTV smash"),
+    ("bengali iptv", "us", "Bengali IPTV smash"),
+    ("chinese iptv", "us", "Chinese IPTV smash"),
+    ("russian iptv", "us", "Russian IPTV smash"),
+    ("malayalam iptv", "us", "Malayalam IPTV smash"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).

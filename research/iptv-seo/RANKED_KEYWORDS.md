@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 20:34 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 20:40 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -1018,5 +1018,10 @@ Updated 2026-09-16 20:34 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1006 | `hindi iptv` | United States | N/A | N/A | — | Hindi IPTV smash (Semrush pending) | `hindiiptv.us` |
 | Q1007 | `arabic iptv` | United States | N/A | N/A | — | Arabic IPTV smash (Semrush pending) | `arabiciptv.ca` |
 | Q1008 | `latino iptv` | United States | N/A | N/A | — | Latino IPTV smash (Semrush pending) | `latinoiptv.ca` |
+| Q1009 | `tamil iptv` | United States | N/A | N/A | — | Tamil IPTV smash (Semrush pending) | `tamiliptv.us` |
+| Q1010 | `bengali iptv` | United States | N/A | N/A | — | Bengali IPTV smash (Semrush pending) | `bengaliiptv.us` |
+| Q1011 | `chinese iptv` | United States | N/A | N/A | — | Chinese IPTV smash (Semrush pending) | `chineseiptv.us` |
+| Q1012 | `russian iptv` | United States | N/A | N/A | — | Russian IPTV smash (Semrush pending) | `russianiptv.us` |
+| Q1013 | `malayalam iptv` | United States | N/A | N/A | — | Malayalam IPTV smash (Semrush pending) | `malayalamiptv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
