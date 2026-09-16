@@ -2720,6 +2720,38 @@ def candidates() -> list[str]:
         for city in cities:
             _push(f"{city}-iptv{tld}", seen, out)
             _push(f"iptv-{city}{tld}", seen, out)
+    # TiviMate-related two-word names: CA / US / Scandinavia (UK below, no iptv).
+    for stem in (
+        "tivimate-box",
+        "tivimate-player",
+        "tivimate-guide",
+        "tivimate-setup",
+        "tivimate-premium",
+        "tivimate-android",
+        "tivimate-iptv",
+        "tivi-mate",
+        "tivi-player",
+        "tivi-box",
+        "tivi-guide",
+        "mate-player",
+        "mate-guide",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
+    _push("tivimate-firestick.ca", seen, out)
+    _push("tivimate-firestick.us", seen, out)
+    _push("tivimate-canada.ca", seen, out)
+    _push("canada-tivimate.ca", seen, out)
+    _push("tivimate-usa.us", seen, out)
+    _push("usa-tivimate.us", seen, out)
+    _push("tivimate-norge.no", seen, out)
+    _push("beste-tivimate.no", seen, out)
+    _push("tivimate-danmark.dk", seen, out)
+    _push("bedste-tivimate.dk", seen, out)
+    _push("tivimate-sverige.se", seen, out)
+    _push("basta-tivimate.se", seen, out)
+    _push("tivimate-suomi.fi", seen, out)
+    _push("paras-tivimate.fi", seen, out)
     # Nominet: two-word names with NO "iptv" in the label.
     for stem in (
         "box-guide",
@@ -3270,6 +3302,19 @@ def candidates() -> list[str]:
         "glenscotia-guide",
         "springbank-guide",
         "longrow-guide",
+        "tivimate-guide",
+        "tivimate-box",
+        "tivimate-player",
+        "tivimate-setup",
+        "tivimate-premium",
+        "tivimate-android",
+        "tivi-mate",
+        "tivi-player",
+        "tivi-box",
+        "tivi-guide",
+        "mate-player",
+        "mate-guide",
+        "playlist-guide",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

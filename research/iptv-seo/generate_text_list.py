@@ -247,10 +247,7 @@ def main() -> None:
         lines.append(f"-------- .{tld} {label} AVAILABLE --------")
         if g["AVAILABLE"]:
             for d in g["AVAILABLE"]:
-                brand = ""
-                if "tivimate" in d or "smartersguide" in d or "smarters-" in d:
-                    brand = "  [SEO topic only — do not register brand EMD]"
-                lines.append(f"  {d}{brand}")
+                lines.append(f"  {d}")
         else:
             lines.append("  (none marked AVAILABLE)")
         if g["CONFIRM"]:

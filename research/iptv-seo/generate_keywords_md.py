@@ -402,17 +402,13 @@ def main() -> None:
                 f"| `{cell(d)}` | {cell(kw_name)} | {cell(k['volume_display'])} | {cell(r.get('Website status'))} | {cell(r.get('Expiry date'))} |"
             )
 
-    brand_skip = ("tivimate", "smartersguide", "smarters-")
     us_uk = []
     for d, r in sorted(recheck.items()):
         if not (d.endswith(".us") or d.endswith(".co.uk") or (d.endswith(".uk") and not d.endswith(".co.uk"))):
             continue
         if "iptv" in d and (d.endswith(".uk") or d.endswith(".co.uk")):
             continue
-        note = ""
-        if "tivimate" in d or "smartersguide" in d or "smarters-" in d:
-            note = "SEO topic only — do not register brand EMD"
-        us_uk.append((d, r, note))
+        us_uk.append((d, r, ""))
     avail_uu = [x for x in us_uk if x[1]["verdict"] == "AVAILABLE"]
     lines += [
         "",
@@ -458,10 +454,7 @@ def main() -> None:
                 "| --- |",
             ]
             for d in g["AVAILABLE"]:
-                note = ""
-                if "tivimate" in d or "smartersguide" in d or "smarters-" in d:
-                    note = " — SEO topic only, do not register brand EMD"
-                lines.append(f"| `{cell(d)}`{note} |")
+                lines.append(f"| `{cell(d)}` |")
             lines.append("")
         else:
             lines.append("No names marked AVAILABLE (native RDAP not trusted, or none free).")

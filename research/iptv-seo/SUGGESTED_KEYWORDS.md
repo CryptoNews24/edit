@@ -22,7 +22,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 | All | `iptv vpn` / `xtream line` / `mac iptv` / `bouquet iptv` | Setup + reseller-line intent | `vpn-iptv.fr`, `bouquet-iptv.fr`, `mac-iptv.fr`, `iptv-line.us` |
 | FR-MAGHREB / LATAM | `iptv arabe` / `iptv maroc` / `iptv latino` | Diaspora + language commercial | `arabe-iptv.fr`, `maroc-iptv.fr`, `maghreb-iptv.fr`, `latino-iptv.us` |
 | Diaspora EN | `pinoy iptv` / `desi iptv` / `hindi iptv` / `iptv grec` | Language communities on trusted TLDs | `pinoy-iptv.us`, `desi-iptv.us`, `hindi-iptv.ca`, `grec-iptv.fr` |
-| Apps (SEO only) | `tivimate playlist`, `ott navigator`, `ibo player`, `smarters pro`, `gse smart iptv` | High intent setup queries | **No brand EMD** — write guides on a comparison domain |
+| Apps | `tivimate playlist` / `tivimate box` / `tivimate setup` / `tivi mate` | App commercial — hunt CA/US/UK/Nordics | RDAP this wave: `tivimate-box.ca`, `tivimate-iptv.us`, `tivimate-guide.co.uk`, `tivimate-norge.no` |
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
@@ -480,6 +480,7 @@ Noxtools recheck (2026-09-16 01:04 UTC): same hour as 01:02 probe — **not HTTP
 | FR Yvelines 11 | `montignyen iptv` / `voisinois iptv` / `clayesois iptv` / `aubergenvillois iptv` | Gentilé commercial | AVAILABLE leftovers: `montignyen-iptv.fr`, `voisinois-iptv.fr`, `clayesois-iptv.fr`, `aubergenvillois-iptv.fr`. `.se` UNKNOWN — not a buy |
 | Boxes | `a523l iptv` / `s905y4l iptv` | Cheap Android SoC | AVAILABLE leftovers: `a523l-iptv.fr`, `s905y4l-iptv.fr`. `.se` UNKNOWN — not a buy |
 | UK geo 124 | `glen scotia guide` / `springbank guide` / `longrow guide` | Nominet no-iptv | AVAILABLE: `glenscotia-guide.co.uk`, `springbank-guide.co.uk`, `longrow-guide.co.uk` (also `.uk`) |
+| TiviMate CA/US/UK/Nordic | `tivimate box` / `tivimate playlist` / `tivimate setup` / `beste tivimate` | App + geo two-word | AVAILABLE leftovers: `tivimate-box.ca`, `tivimate-guide.ca`, `tivimate-canada.ca`, `tivimate-box.us`, `tivimate-guide.co.uk`, `tivimate-norge.no`, `tivimate-danmark.dk`, `tivimate-suomi.fi`. TAKEN: `tivimate-iptv.ca`, `tivimate-iptv.us`, `tivi-mate.ca`, `tivi-mate.us`. `.se` UNKNOWN — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Exclude Semrush `keyword - keyword` pair rows.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
