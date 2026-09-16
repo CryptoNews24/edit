@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 18:44 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 19:03 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -12,50 +12,50 @@ Updated 2026-09-16 18:44 UTC. **Only this file** is the keyword ranking. Space-s
 | 6 | `iptv firestick` | United States | 590 | 38 Possible | 366 | Informational / Commercial | `firestickguide.us` |
 | Q1 | `tivimate playlist` | United States | N/A | N/A | — | TiviMate playlist commercial (Semrush pending) | `tivimateplaylist.ca` |
 | Q2 | `tivimate setup` | United States | N/A | N/A | — | TiviMate install commercial (Semrush pending) | `tivimatesetup.us` |
-| Q3 | `smarters pro` | United States | N/A | N/A | — | IPTV Smarters Pro app (Semrush pending) | `smartersapp.us` |
-| Q4 | `ibo player` | United States | N/A | N/A | — | IBO Player app (Semrush pending) | `iboapp.us` |
-| Q5 | `ibo pro` | United States | N/A | N/A | — | IBO Pro app (Semrush pending) | `iboproapp.us` |
+| Q3 | `smarters pro` | United States | N/A | N/A | — | IPTV Smarters Pro app (Semrush pending) | `smarterspro.uk` |
+| Q4 | `ibo player` | United States | N/A | N/A | — | IBO Player app (Semrush pending) | `iboplayer.dk` |
+| Q5 | `ibo pro` | United States | N/A | N/A | — | IBO Pro app (Semrush pending) | `ibopro.ca` |
 | Q6 | `ott navigator` | United States | N/A | N/A | — | OTT Navigator app (Semrush pending) | `ottnavigator.ca` |
-| Q7 | `ott play` | United States | N/A | N/A | — | OTTplay app (Semrush pending) | `ottplayapp.us` |
-| Q8 | `gse smart iptv` | United States | N/A | N/A | — | GSE Smart IPTV app (Semrush pending) | `—` |
+| Q7 | `ott play` | United States | N/A | N/A | — | OTTplay app (Semrush pending) | `ottplay.us` |
+| Q8 | `gse smart iptv` | United States | N/A | N/A | — | GSE Smart IPTV app (Semrush pending) | `gseiptv.us` |
 | Q9 | `xtream codes` | United States | N/A | N/A | — | Panel / playlist commercial (Semrush pending) | `xtreamcodes.us` |
 | Q10 | `xciptv` | United States | N/A | N/A | — | XCIPTV app (Semrush pending) | `xciptvplayer.ca` |
 | Q11 | `televizo` | United States | N/A | N/A | — | Televizo app (Semrush pending) | `televizoplayer.us` |
-| Q12 | `ss iptv` | United States | N/A | N/A | — | SS IPTV app (Semrush pending) | `—` |
-| Q13 | `smart iptv` | United States | N/A | N/A | — | Smart IPTV app (Semrush pending) | `—` |
+| Q12 | `ss iptv` | United States | N/A | N/A | — | SS IPTV app (Semrush pending) | `ssiptvapp.us` |
+| Q13 | `smart iptv` | United States | N/A | N/A | — | Smart IPTV app (Semrush pending) | `smartiptv.dk` |
 | Q14 | `kodi iptv` | United States | N/A | N/A | — | Kodi + IPTV setup (Semrush pending) | `kodiiptv.us` |
 | Q15 | `perfect player` | United States | N/A | N/A | — | Perfect Player app (Semrush pending) | `perfectplayer.us` |
-| Q16 | `lazy iptv` | United States | N/A | N/A | — | Lazy IPTV app (Semrush pending) | `—` |
-| Q17 | `iptv extreme` | United States | N/A | N/A | — | IPTV Extreme app (Semrush pending) | `—` |
-| Q18 | `duplex iptv` | United States | N/A | N/A | — | Duplex IPTV app (Semrush pending) | `—` |
-| Q19 | `purple player` | United States | N/A | N/A | — | Purple Player app (Semrush pending) | `—` |
-| Q20 | `flix iptv` | United States | N/A | N/A | — | Flix IPTV app (Semrush pending) | `—` |
+| Q16 | `lazy iptv` | United States | N/A | N/A | — | Lazy IPTV app (Semrush pending) | `lazyiptv.us` |
+| Q17 | `iptv extreme` | United States | N/A | N/A | — | IPTV Extreme app (Semrush pending) | `iptvextreme.ca` |
+| Q18 | `duplex iptv` | United States | N/A | N/A | — | Duplex IPTV app (Semrush pending) | `duplexiptv.us` |
+| Q19 | `purple player` | United States | N/A | N/A | — | Purple Player app (Semrush pending) | `purpleplayer.us` |
+| Q20 | `flix iptv` | United States | N/A | N/A | — | Flix IPTV app (Semrush pending) | `flixiptv.ca` |
 | Q21 | `magis tv` | United States | N/A | N/A | — | Magis TV app (Semrush pending) | `magistv.ca` |
 | Q22 | `google tv iptv` | United States | N/A | N/A | — | Google TV box commercial (Semrush pending) | `googletviptv.us` |
-| Q23 | `onn box` | United States | N/A | N/A | — | Walmart Onn box (Semrush pending) | `—` |
-| Q24 | `xiaomi iptv` | United States | N/A | N/A | — | Cheap Android box (Semrush pending) | `—` |
+| Q23 | `onn box` | United States | N/A | N/A | — | Walmart Onn box (Semrush pending) | `onnbox.us` |
+| Q24 | `xiaomi iptv` | United States | N/A | N/A | — | Cheap Android box (Semrush pending) | `xiaomiiptv.us` |
 | Q25 | `roku iptv` | United States | N/A | N/A | — | Roku + IPTV setup (Semrush pending) | `rokuiptv.us` |
 | Q26 | `vlc iptv` | United States | N/A | N/A | — | VLC + playlist setup (Semrush pending) | `vlcplayer.us` |
 | Q27 | `apple tv iptv` | United States | N/A | N/A | — | Apple TV + IPTV (Semrush pending) | `appletvbox.us` |
-| Q28 | `fire cube iptv` | United States | N/A | N/A | — | Fire TV Cube + IPTV (Semrush pending) | `—` |
+| Q28 | `fire cube iptv` | United States | N/A | N/A | — | Fire TV Cube + IPTV (Semrush pending) | `firecubeiptv.us` |
 | Q29 | `british iptv` | United Kingdom | N/A | N/A | — | UK geo commercial — not .irish (Semrush pending) | `britishbox.uk` |
 | Q30 | `beste iptv` | Norway | N/A | N/A | — | Norwegian best IPTV (Semrush pending) | `besteiptv.no` |
 | Q31 | `bedste iptv` | Denmark | N/A | N/A | — | Danish best IPTV (Semrush pending) | `bedsteiptv.dk` |
 | Q32 | `basta iptv` | Sweden | N/A | N/A | — | Swedish best IPTV (Semrush pending) | `bastaiptv.ca` |
-| Q33 | `paras iptv` | Finland | N/A | N/A | — | Finnish best IPTV (Semrush pending) | `parasbox.fi` |
-| Q34 | `tivimate canada` | Canada | N/A | N/A | — | TiviMate + CA geo (Semrush pending) | `—` |
+| Q33 | `paras iptv` | Finland | N/A | N/A | — | Finnish best IPTV (Semrush pending) | `parasiptv.ca` |
+| Q34 | `tivimate canada` | Canada | N/A | N/A | — | TiviMate + CA geo (Semrush pending) | `tivimatecanada.ca` |
 | Q35 | `tivimate firestick` | United States | N/A | N/A | — | App + Fire Stick (Semrush pending) | `firestickguide.us` |
 | Q36 | `formuler iptv` | United States | N/A | N/A | — | Formuler box (Semrush pending) | `formulerbox.us` |
-| Q37 | `sparkle iptv` | United States | N/A | N/A | — | Sparkle TV app (Semrush pending) | `—` |
-| Q38 | `set iptv` | United States | N/A | N/A | — | SetIPTV app (Semrush pending) | `—` |
-| Q39 | `net iptv` | United States | N/A | N/A | — | Net IPTV app (Semrush pending) | `—` |
-| Q40 | `enigma iptv` | United States | N/A | N/A | — | Enigma box setup (Semrush pending) | `—` |
-| Q41 | `iptv downloader` | United States | N/A | N/A | — | Downloader + Fire Stick (Semrush pending) | `—` |
-| Q42 | `mag 254` | United States | N/A | N/A | — | MAG 254 box (Semrush pending) | `—` |
-| Q43 | `infomir` | United States | N/A | N/A | — | Infomir MAG boxes (Semrush pending) | `—` |
+| Q37 | `sparkle iptv` | United States | N/A | N/A | — | Sparkle TV app (Semrush pending) | `sparkleiptv.us` |
+| Q38 | `set iptv` | United States | N/A | N/A | — | SetIPTV app (Semrush pending) | `setiptv.us` |
+| Q39 | `net iptv` | United States | N/A | N/A | — | Net IPTV app (Semrush pending) | `netiptv.dk` |
+| Q40 | `enigma iptv` | United States | N/A | N/A | — | Enigma box setup (Semrush pending) | `enigmaiptv.us` |
+| Q41 | `iptv downloader` | United States | N/A | N/A | — | Downloader + Fire Stick (Semrush pending) | `iptvdownloader.us` |
+| Q42 | `mag 254` | United States | N/A | N/A | — | MAG 254 box (Semrush pending) | `mag254box.us` |
+| Q43 | `infomir` | United States | N/A | N/A | — | Infomir MAG boxes (Semrush pending) | `infomirbox.us` |
 | Q44 | `star box` | United States | N/A | N/A | — | StarBox Android box (Semrush pending) | `—` |
-| Q45 | `uclan iptv` | United Kingdom | N/A | N/A | — | UCLAN box setup (Semrush pending) | `—` |
-| Q46 | `vontar box` | United States | N/A | N/A | — | Vontar Android box (Semrush pending) | `—` |
+| Q45 | `uclan iptv` | United Kingdom | N/A | N/A | — | UCLAN box setup (Semrush pending) | `uclanbox.co.uk` |
+| Q46 | `vontar box` | United States | N/A | N/A | — | Vontar Android box (Semrush pending) | `vontarbox.us` |
 | Q47 | `h96 max` | United States | N/A | N/A | — | H96 Max box (Semrush pending) | `—` |
 | Q48 | `transpeed box` | United States | N/A | N/A | — | Transpeed Android box (Semrush pending) | `—` |
 | Q49 | `hk1 max` | United States | N/A | N/A | — | HK1 Max box (Semrush pending) | `—` |
@@ -286,7 +286,7 @@ Updated 2026-09-16 18:44 UTC. **Only this file** is the keyword ranking. Space-s
 | Q274 | `teamblue` | United States | N/A | N/A | — | TeamBlue Enigma image (Semrush pending) | `—` |
 | Q275 | `openvision` | United States | N/A | N/A | — | OpenVision Enigma image (Semrush pending) | `—` |
 | Q276 | `kodi piers` | United States | N/A | N/A | — | Kodi Piers setup (Semrush pending) | `—` |
-| Q277 | `ott player` | United States | N/A | N/A | — | OTTPlayer app (Semrush pending) | `—` |
+| Q277 | `ott player` | United States | N/A | N/A | — | OTTPlayer app (Semrush pending) | `ottplayer.us` |
 | Q278 | `vti box` | United States | N/A | N/A | — | VTi Enigma image (Semrush pending) | `—` |
 | Q279 | `satdreamgr` | United States | N/A | N/A | — | SatDreamGr Enigma image (Semrush pending) | `—` |
 | Q280 | `sf8008` | United States | N/A | N/A | — | Octagon SF8008 box (Semrush pending) | `—` |
@@ -987,5 +987,10 @@ Updated 2026-09-16 18:44 UTC. **Only this file** is the keyword ranking. Space-s
 | Q975 | `televizo plus` | United States | N/A | N/A | — | Televizo Plus (Semrush pending) | `—` |
 | Q976 | `xciptv plus` | United States | N/A | N/A | — | XCIPTV Plus (Semrush pending) | `—` |
 | Q977 | `t982x box` | United States | N/A | N/A | — | T982X chipset box (Semrush pending) | `—` |
+| Q978 | `iptv guide` | United States | N/A | N/A | — | IPTV guide commercial smash (Semrush pending) | `iptvguide.ca` |
+| Q979 | `iptv trial` | United States | N/A | N/A | — | IPTV trial commercial smash (Semrush pending) | `iptvtrial.dk` |
+| Q980 | `iptv player` | United States | N/A | N/A | — | IPTV player commercial smash (Semrush pending) | `iptvplayer.fi` |
+| Q981 | `android box` | United States | N/A | N/A | — | Android box commercial smash (Semrush pending) | `androidbox.uk` |
+| Q982 | `iptv 4k` | United States | N/A | N/A | — | 4K IPTV commercial smash (Semrush pending) | `iptv4k.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
