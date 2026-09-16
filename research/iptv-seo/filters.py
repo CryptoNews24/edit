@@ -3528,19 +3528,12 @@ def domain_meets_volume(traffic: dict, domain: str) -> bool:
 
 
 PREFERRED_DOMAINS = (
-    "compareriptv.fr",
-    "avis-iptv.fr",
-    "comparateur-iptv.fr",
-    "pascheriptv.fr",
-    "essaiiptv.fr",
-    "guideiptv.fr",
     "compareiptv.ca",
     "iptvguide.ca",
     "iptvcompare.ca",
     "compareriptv.ca",
     "avis-iptv.ca",
     "guideiptv.ca",
-    "compareiptv.fr",
     "compareiptv.us",
     "avis-iptv.us",
     "firestick-guide.us",
@@ -3548,11 +3541,48 @@ PREFERRED_DOMAINS = (
     "iptvbox.ca",
     "iptv-box.ca",
     "iptv-player.ca",
-    "box-avis.fr",
-    "iptv-server.fr",
     "firestick-iptv.us",
     "android-iptv.us",
+    "plusiptv.us",
+    "iptvbest.us",
+    "iptvusa.ca",
+    "britishbox.us",
+    "firestickguide.us",
 )
+
+# A leftover domain may inherit Semrush volume only if it is this exact name.
+# Never stamp FR `abonnement iptv` 18.1K onto leftover hunt labels (.fr chipsets, cities, APKs).
+EXPLICIT_DOMAIN_KEYWORD_MAP = {
+    "compareiptv.us": "best iptv",
+    "compareriptv.us": "best iptv",
+    "avis-iptv.us": "best iptv",
+    "iptvbest.us": "best iptv",
+    "plusiptv.us": "iptv subscription",
+    "iptv-plans.us": "iptv subscription",
+    "cordcutusa.us": "iptv usa",
+    "iptvusa.ca": "iptv usa",
+    "usatv.us": "iptv usa",
+    "compareiptv.ca": "best iptv canada",
+    "iptvguide.ca": "best iptv canada",
+    "iptvcompare.ca": "best iptv canada",
+    "compareriptv.ca": "best iptv canada",
+    "avis-iptv.ca": "best iptv canada",
+    "guideiptv.ca": "best iptv canada",
+    "iptvcanada.ca": "best iptv canada",
+    "iptv-canada.ca": "best iptv canada",
+    "iptvreviews.ca": "best iptv canada",
+    "livetvcanada.ca": "best iptv canada",
+    "iptvprovider.ca": "best iptv canada",
+    "iptv-box.ca": "best iptv canada",
+    "britishbox.us": "iptv uk",
+    "firestick-guide.us": "iptv firestick",
+    "firestickguide.us": "iptv firestick",
+    "firestick-iptv.us": "iptv firestick",
+    "irishiptv.net": "iptv ireland",
+}
+
+# Hunt leftovers on these TLDs must not inherit FR/IE head-term volume.
+OUT_OF_SCOPE_KEYWORD_DB = frozenset({"fr", "ie"})
 
 
 def rank_available_domains(traffic: dict, recheck: dict, limit: int = 10, per_keyword: int = 3) -> list[dict]:
@@ -3564,10 +3594,14 @@ def rank_available_domains(traffic: dict, recheck: dict, limit: int = 10, per_ke
             continue
         if skip_domain(domain):
             continue
+        if domain.endswith(".fr") or domain.endswith(".ie"):
+            continue
         kw = mapped_keyword(traffic, domain)
         if not meets_opportunity(traffic, kw):
             continue
         k = kws[kw]
+        if (k.get("db") or "").lower() in OUT_OF_SCOPE_KEYWORD_DB:
+            continue
         vol = int(k["volume"])
         kd = int(k["kd"])
         scored.append(

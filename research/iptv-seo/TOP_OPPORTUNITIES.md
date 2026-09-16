@@ -2,11 +2,11 @@
 
 Keyword tables: **`KEYWORDS.md`** — **AVAILABLE only** (volume >= 500, **KD not Difficult**). Domain dump: **`LIST.txt`**. Taken names appear **only** in the almost-expired table.
 
-🔥 **JACKPOT (keyword):** `abonnement iptv` — FR **18.1K**/mo, KD **25 Easy**, CPC $0.69. AVAILABLE leftovers: `compareriptv.fr` / `avis-iptv.fr` / `comparateur-iptv.fr` / `box-avis.fr` (live RDAP 404 + no DNS — recheck registrar cart).
+**Not a jackpot.** `abonnement iptv` **18.1K** is Semrush **France database** for that exact query only. It was wrongly copied onto leftover `.fr` hunt names (`h618k-iptv.fr` etc.). That stamp is removed. **Do not buy `.fr` from this hunt.** Hunt focus: CA / US / UK / Nordics.
 
 Ireland keywords stay in the dictionary for SEO only. **Ignore all `.ie` domains**.
 
-France cluster **~33.8K** verified (`abonnement iptv` 18.1K Easy + `iptv france` 8.1K + `meilleur iptv` 5.4K + `iptv pas cher` 1.6K Easy + `essai iptv` 590 Very easy). AVAILABLE: `essaiiptv.fr`, `essai-iptv.fr`, `pascheriptv.fr`, `guideiptv.fr`.
+France FR-db cluster stays in `canva/traffic.json` as historical Overview rows only. Leftover `.fr` names are **not** 18K traffic.
 
 🟢 **HIGH:** `best iptv canada` — CA **1.9K**/mo, KD **32 Possible**. AVAILABLE: **`compareiptv.ca` / `iptvguide.ca` / `compareriptv.ca`**. Head term `iptv canada` (14.8K, KD **52 Difficult**) is **excluded**.
 
@@ -37,24 +37,9 @@ Provisional score = commercial intent + SERP weakness + cluster + domain (max 50
 | Trademark | Low on generic “iptv ireland”; do not use TiviMate/Smarters in the domain |
 | Why | Weakest country SERP observed + unused `.ie` review-style names. Volume still unknown — could collapse if SEMrush shows <500. |
 
-## 2. France — `abonnement iptv` / `iptv france`
+## 2. France — out of hunt
 
-| Field | Value |
-| --- | --- |
-| Country | France |
-| Language | French |
-| Keywords | abonnement iptv; iptv france |
-| Volume / KD / CPC | N/A |
-| Intent | Commercial (abonnement = subscribe) |
-| SERP | Telecom/news explainers (Selectra, magazines), not a wall of strong IPTV publishers (DDG) |
-| Cluster | meilleur iptv, abo iptv, iptv box, device modifiers |
-| Provisional score | **41 / 50** |
-| Priority | 🟢 HIGH (provisional) |
-| Best domain candidate | `compareriptv.fr` or `avis-iptv.fr` |
-| Country TLD | AVAILABLE leftovers: `compareriptv.fr`, `avis-iptv.fr`, `box-avis.fr` (AFNIC RDAP 404 + no DNS) |
-| .co / .net | Not listed as buyable here |
-| Trademark | Low for generic French phrases |
-| Why | Local-language commercial head term + weak specialist SERP + leftover comparison domains. Confirm demand in SEMrush database FR. |
+FR Semrush Overview for `abonnement iptv` (18.1K, KD 25 Easy) is **one query in db=fr**. It is **not** volume for leftover French domains, chipset names, or app leftovers. User rule: do not chase extra `.fr`. Confirm any FR buy yourself in Semrush FR; this table does not recommend one.
 
 ## 3. Canada — comparison/guide cluster (exact-match `.ca` exhausted)
 

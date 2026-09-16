@@ -106,11 +106,11 @@ def main() -> None:
         "",
         "Rules: do not buy from this file. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. **Two-word domain names only** (hyphen or smashed, e.g. `avis-iptv.fr` / `compareiptv.us`). No 3+ word labels. TiviMate / IPTV Smarters / IBO / GSE / OTT Navigator = SEO topics, not brand domains.",
         "",
-        "Keyword ranking (one table, participant queries only): `RANKED_KEYWORDS.md`. Apps/platforms hunted on CA/US/UK/Nordics, not extra `.fr`. New two-word names are RDAP-checked; they stay off scored lists until Noxtools Semrush confirms volume ≥ 500.",
+        "Keyword ranking (one table, participant queries only): `RANKED_KEYWORDS.md`. Apps/platforms hunted on CA/US/UK/Nordics, **not `.fr`**. A leftover domain does **not** inherit a country head-term volume (no more `h618k-iptv.fr` = 18.1K). New two-word names stay off scored lists until Noxtools Semrush confirms volume ≥ 500.",
         "",
         "## Top 10 AVAILABLE (high traffic, low competition)",
         "",
-        "Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with verified volume ≥ 500 and KD not Difficult. At most 3 domains per keyword so the list is not ten copies of the same French head term.",
+        "Score = Semrush volume × (100 − KD) / 100. Higher is better. Only AVAILABLE names with **explicit** Semrush map, volume ≥ 500, KD not Difficult, **not France/Ireland**. `.fr` leftovers are not scored.",
         "",
         "| Rank | Domain | Keyword | Volume / mo | KD | Score |",
         "| ---: | --- | --- | ---: | --- | ---: |",
@@ -131,52 +131,52 @@ def main() -> None:
 
     verified_meta = {
         "abonnement iptv": {
-            "priority": "JACKPOT",
-            "domain": "compareriptv.fr",
+            "priority": "OUT OF HUNT (FR db only)",
+            "domain": "none — ignore .fr",
         },
         "iptv france": {
-            "priority": "HIGH",
-            "domain": "guideiptv.fr",
+            "priority": "OUT OF HUNT (FR db only)",
+            "domain": "none — ignore .fr",
         },
         "meilleur iptv": {
-            "priority": "HIGH",
-            "domain": "compareriptv.fr",
+            "priority": "OUT OF HUNT (FR db only)",
+            "domain": "none — ignore .fr",
         },
         "iptv pas cher": {
-            "priority": "HIGH",
-            "domain": "pascheriptv.fr",
+            "priority": "OUT OF HUNT (FR db only)",
+            "domain": "none — ignore .fr",
         },
         "best iptv canada": {
             "priority": "MEDIUM",
-            "domain": "iptvguide.ca",
+            "domain": "compareiptv.ca",
         },
         "iptv ireland": {
             "priority": "SEO only",
             "domain": "none — ignore .ie",
         },
         "essai iptv": {
-            "priority": "LONG-TAIL",
-            "domain": "essaiiptv.fr",
+            "priority": "OUT OF HUNT (FR db only)",
+            "domain": "none — ignore .fr",
         },
         "best iptv": {
             "priority": "HIGH",
-            "domain": "compareiptv.us",
+            "domain": "iptvbest.us",
         },
         "iptv subscription": {
             "priority": "MEDIUM",
-            "domain": "compareiptv.us",
+            "domain": "plusiptv.us",
         },
         "iptv usa": {
             "priority": "HIGH",
-            "domain": "cordcutusa.us",
+            "domain": "iptvusa.ca",
         },
         "iptv uk": {
             "priority": "SEO only (US db)",
-            "domain": "compareiptv.us",
+            "domain": "britishbox.us",
         },
         "iptv firestick": {
             "priority": "LONG-TAIL",
-            "domain": "firestick-guide.us",
+            "domain": "firestickguide.us",
         },
     }
 
@@ -188,7 +188,7 @@ def main() -> None:
         country = DB_COUNTRY.get(db, db.upper())
         domain = meta.get("domain", "—")
         if "ignore" in domain:
-            domain_md = "— (SEO only, no `.ie`)"
+            domain_md = "— (out of hunt)"
         else:
             first = domain.split("/")[0].strip()
             verdict = domain_verdict(first, recheck)
@@ -213,7 +213,7 @@ def main() -> None:
 
     lines += [
         "",
-        "France verified cluster ≈ **33.8K**/mo (`abonnement iptv` + `iptv france` + `meilleur iptv` + `iptv pas cher` + `essai iptv`).",
+        "France Semrush FR-db figures (`abonnement iptv` 18.1K etc.) stay in `canva/traffic.json` as historical Overview rows. **They are not buy signals and are not copied onto leftover `.fr` names.** Hunt focus is CA/US/UK/Nordics.",
         "Canada verified cluster ≈ **1.9K**/mo (`best iptv canada`). Head term `iptv canada` (14.8K, KD 52 Difficult) is **excluded**. `iptv subscription canada` (390) is excluded (<500).",
         "",
         "## 2. Tracked keywords (Semrush volume >= 500 only)",
@@ -243,6 +243,8 @@ def main() -> None:
             continue
         kw = r["Keyword"]
         if skip_keyword(kw):
+            continue
+        if (r.get("Country") or "").lower() in {"france", "ireland"}:
             continue
         serp = r.get("SERP Difficulty") or "N/A"
         insp = insp_by_kw.get(kw.lower())
@@ -286,7 +288,12 @@ def main() -> None:
         "| Keyword | Market | SERP | Top domains | Related searches |",
         "| --- | --- | --- | --- | --- |",
     ]
-    keep_kw = {n.lower() for n in kws if meets_opportunity({"keywords": kws}, n)}
+    keep_kw = {
+        n.lower()
+        for n, k in kws.items()
+        if meets_opportunity({"keywords": kws}, n)
+        and (k.get("db") or "").lower() not in {"fr", "ie"}
+    }
     for r in inspections:
         if r["Keyword"].lower() not in keep_kw:
             continue
@@ -301,17 +308,17 @@ def main() -> None:
         )
 
     picks = [
-        ("compareriptv.fr", "abonnement iptv"),
-        ("avis-iptv.fr", "abonnement iptv"),
-        ("comparateur-iptv.fr", "abonnement iptv"),
-        ("pascheriptv.fr", "iptv pas cher"),
-        ("essaiiptv.fr", "essai iptv"),
-        ("guideiptv.fr", "iptv france"),
+        ("iptvbest.us", "best iptv"),
+        ("plusiptv.us", "iptv subscription"),
+        ("iptvusa.ca", "iptv usa"),
         ("compareiptv.ca", "best iptv canada"),
-        ("iptvguide.ca", "best iptv canada"),
-        ("compareriptv.ca", "best iptv canada"),
+        ("britishbox.us", "iptv uk"),
+        ("firestickguide.us", "iptv firestick"),
         ("compareiptv.us", "best iptv"),
         ("avis-iptv.us", "best iptv"),
+        ("iptvguide.ca", "best iptv canada"),
+        ("compareriptv.ca", "best iptv canada"),
+        ("firestick-guide.us", "iptv firestick"),
     ]
     lines += [
         "",
