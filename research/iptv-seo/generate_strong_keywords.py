@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Keyword-only ranking from Semrush Overview. No leftover domains."""
+"""Keyword-only ranking from Semrush Overview. No leftover domains. No FR. No hyphens."""
 
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -13,12 +14,13 @@ ROOT = Path(__file__).resolve().parent
 TRAFFIC = ROOT / "canva" / "traffic.json"
 OUT = ROOT / "STRONG_KEYWORDS.md"
 
+# Hunt markets only. No France, no Ireland.
+KEEP_DB = frozenset({"us", "ca"})
+HYPHEN = re.compile(r"-")
+
 DB_LABEL = {
     "us": "United States",
     "ca": "Canada",
-    "uk": "United Kingdom",
-    "fr": "France",
-    "ie": "Ireland",
 }
 
 
@@ -28,11 +30,15 @@ def main() -> None:
     for name, k in (traffic.get("keywords") or {}).items():
         if skip_keyword(name, traffic):
             continue
+        if HYPHEN.search(name):
+            continue
         try:
             vol = int(k["volume"])
         except (KeyError, TypeError, ValueError):
             continue
         db = (k.get("db") or "").lower()
+        if db not in KEEP_DB:
+            continue
         kd = int(k.get("kd") or 0)
         rows.append(
             {
@@ -50,53 +56,45 @@ def main() -> None:
     rows.sort(key=lambda r: (-r["vol"], r["keyword"]))
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    usable = [r for r in rows if r["vol"] >= 500 and "difficult" not in r["kd_label"].lower()]
+    heads = [r for r in rows if "difficult" in r["kd_label"].lower()]
+    weak = [r for r in rows if r["vol"] < 500]
+
     lines = [
         "# Strong keywords (Semrush only)",
         "",
-        f"Updated {now}. **This file is the keyword list.** Queries only. No leftover domains. No invented volumes. Source: Noxtools / stored Semrush Keyword Overview in `canva/traffic.json`.",
+        f"Updated {now}. Space-separated queries only. **No France / `.fr`. No hyphen keywords. No leftover domains.** Hunt stopped. No invented volumes.",
         "",
-        "A leftover domain is not a keyword. `RANKED_KEYWORDS.md` Q-rows are leftover hunt names and are **not** ranked by traffic.",
+        "## Strongest → weakest",
         "",
-        "## All verified queries (strongest volume → weakest)",
-        "",
-        "| Rank | Keyword | Semrush DB | Vol / mo | KD | CPC | Intent |",
+        "| Rank | Keyword | Market | Vol / mo | KD | CPC | Intent |",
         "| ---: | --- | --- | ---: | ---: | --- | --- |",
     ]
     for i, r in enumerate(rows, start=1):
         lines.append(
-            f"| {i} | `{r['keyword']}` | {r['market']} (`{r['db']}`) | {r['vol_d']} | {r['kd']} {r['kd_label']} | {r['cpc']} | {r['intent']} |"
+            f"| {i} | `{r['keyword']}` | {r['market']} | {r['vol_d']} | {r['kd']} {r['kd_label']} | {r['cpc']} | {r['intent']} |"
         )
 
-    focus = [r for r in rows if r["db"] in {"us", "ca"}]
-    fr = [r for r in rows if r["db"] == "fr"]
-    usable = [r for r in focus if r["vol"] >= 500 and "difficult" not in r["kd_label"].lower()]
-    heads = [r for r in focus if "difficult" in r["kd_label"].lower()]
-    weak = [r for r in focus if r["vol"] < 500]
-
     def bullets(items: list) -> list[str]:
+        if not items:
+            return ["- —"]
         return [f"- `{r['keyword']}` — {r['vol_d']}/mo · KD {r['kd']} {r['kd_label']} · {r['market']}" for r in items]
 
     lines += [
         "",
-        "## Use these first (US / CA, volume ≥ 500, KD not Difficult)",
+        "## Use first (volume ≥ 500, KD not Difficult)",
         "",
         *bullets(usable),
         "",
-        "## High volume, hard to rank (still real keywords)",
+        "## High volume, Difficult KD",
         "",
         *bullets(heads),
         "",
-        "## Weak verified (under 500/mo)",
+        "## Weak (under 500/mo)",
         "",
         *bullets(weak),
         "",
-        "## France DB only (real queries — not leftover `.fr` names)",
-        "",
-        *bullets(fr),
-        "",
-        "Ireland `iptv ireland` 1.9K is in the full table (SEO copy only; no `.ie` domain).",
-        "",
-        "Nothing else in this repo has Semrush volume. App/chipset leftover names were never Overview-checked.",
+        "This is the full Semrush set for US/CA after dropping FR and hyphen queries. Hunt is stopped.",
         "",
     ]
     OUT.write_text("\n".join(lines), encoding="utf-8")
