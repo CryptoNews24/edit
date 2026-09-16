@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:40 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:43 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -94,5 +94,17 @@ Updated 2026-09-16 03:40 UTC. **Only this file** is the keyword ranking. Real se
 | Q82 | `stbemu` | United States | N/A | N/A | — | STB Emu MAG clone (Semrush pending) | `stbemu-box.us` |
 | Q83 | `mytvonline` | United States | N/A | N/A | — | MyTVOnline Formuler app (Semrush pending) | `mytvonline-box.us` |
 | Q84 | `libreelec box` | United States | N/A | N/A | — | LibreELEC firmware box (Semrush pending) | `libreelec-box.us` |
+| Q85 | `emuelec box` | United States | N/A | N/A | — | EmuELEC firmware box (Semrush pending) | `emuelec-box.us` |
+| Q86 | `plex iptv` | United States | N/A | N/A | — | Plex + IPTV playlist (Semrush pending) | `plex-box.us` |
+| Q87 | `jellyfin iptv` | United States | N/A | N/A | — | Jellyfin + Live TV (Semrush pending) | `jellyfin-box.us` |
+| Q88 | `emby iptv` | United States | N/A | N/A | — | Emby Live TV (Semrush pending) | `emby-box.us` |
+| Q89 | `avov box` | United States | N/A | N/A | — | Avov TVOnline box (Semrush pending) | `avov-box.us` |
+| Q90 | `dreambox` | United States | N/A | N/A | — | DreamBox Enigma (Semrush pending) | `dreambox-box.us` |
+| Q91 | `gigablue box` | United States | N/A | N/A | — | GigaBlue Enigma box (Semrush pending) | `gigablue-box.us` |
+| Q92 | `octagon box` | United States | N/A | N/A | — | Octagon Enigma box (Semrush pending) | `octagon-box.us` |
+| Q93 | `h728 box` | United States | N/A | N/A | — | H728 chipset box (Semrush pending) | `h728-box.us` |
+| Q94 | `rk3576 box` | United States | N/A | N/A | — | RK3576 chipset box (Semrush pending) | `rk3576-box.us` |
+| Q95 | `t968 box` | United States | N/A | N/A | — | T968 chipset box (Semrush pending) | `t968-box.us` |
+| Q96 | `rk3588s box` | United States | N/A | N/A | — | RK3588S chipset box (Semrush pending) | `rk3588s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

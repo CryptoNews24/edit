@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import MIN_VOLUME, kd_is_excluded, skip_domain, skip_keyword
+from filters import MIN_VOLUME, domain_label, kd_is_excluded, skip_domain, skip_keyword
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "RANKED_KEYWORDS.md"
@@ -114,6 +114,18 @@ QUEUED = (
     ("stbemu", "us", "STB Emu MAG clone"),
     ("mytvonline", "us", "MyTVOnline Formuler app"),
     ("libreelec box", "us", "LibreELEC firmware box"),
+    ("emuelec box", "us", "EmuELEC firmware box"),
+    ("plex iptv", "us", "Plex + IPTV playlist"),
+    ("jellyfin iptv", "us", "Jellyfin + Live TV"),
+    ("emby iptv", "us", "Emby Live TV"),
+    ("avov box", "us", "Avov TVOnline box"),
+    ("dreambox", "us", "DreamBox Enigma"),
+    ("gigablue box", "us", "GigaBlue Enigma box"),
+    ("octagon box", "us", "Octagon Enigma box"),
+    ("h728 box", "us", "H728 chipset box"),
+    ("rk3576 box", "us", "RK3576 chipset box"),
+    ("t968 box", "us", "T968 chipset box"),
+    ("rk3588s box", "us", "RK3588S chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -202,6 +214,18 @@ NEEDLES = {
     "stbemu": ("stbemu-box",),
     "mytvonline": ("mytvonline-box",),
     "libreelec box": ("libreelec-box",),
+    "emuelec box": ("emuelec-box",),
+    "plex iptv": ("plex-box",),
+    "jellyfin iptv": ("jellyfin-box",),
+    "emby iptv": ("emby-box",),
+    "avov box": ("avov-box",),
+    "dreambox": ("dreambox-box",),
+    "gigablue box": ("gigablue-box",),
+    "octagon box": ("octagon-box",),
+    "h728 box": ("h728-box",),
+    "rk3576 box": ("rk3576-box",),
+    "t968 box": ("t968-box",),
+    "rk3588s box": ("rk3588s-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
@@ -239,11 +263,25 @@ def available_focus(recheck: dict) -> list[str]:
     return out
 
 
+def needle_in_domain(domain: str, needle: str) -> bool:
+    """Hyphen-bounded stem match so plex-box does not hit duplex-box."""
+    n = (needle or "").lower().strip()
+    if not n:
+        return False
+    label = domain_label(domain)
+    return (
+        label == n
+        or label.startswith(n + "-")
+        or label.endswith("-" + n)
+        or f"-{n}-" in label
+    )
+
+
 def pick_leftover(needles: tuple[str, ...], pool: list[str], db: str = "") -> str:
     hits = []
     prefer = MARKET_ENDS.get(db, ())
     for d in pool:
-        needle_i = next((i for i, n in enumerate(needles) if n in d), None)
+        needle_i = next((i for i, n in enumerate(needles) if needle_in_domain(d, n)), None)
         if needle_i is None:
             continue
         pri = 0

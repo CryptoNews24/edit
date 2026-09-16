@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:39:59Z",
+  "updated": "2026-09-16T03:42:25Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -7370,12 +7370,28 @@
     "ugoos-box.ca": "best iptv canada",
     "ugoos-box.us": "best iptv",
     "zgemma-box.ca": "best iptv canada",
-    "zgemma-box.us": "best iptv"
+    "zgemma-box.us": "best iptv",
+    "avov-box.ca": "best iptv canada",
+    "avov-box.us": "best iptv",
+    "emby-box.ca": "best iptv canada",
+    "emby-box.us": "best iptv",
+    "emuelec-box.ca": "best iptv canada",
+    "emuelec-box.us": "best iptv",
+    "h728-box.ca": "best iptv canada",
+    "h728-box.us": "best iptv",
+    "jellyfin-box.ca": "best iptv canada",
+    "jellyfin-box.us": "best iptv",
+    "plex-box.ca": "best iptv canada",
+    "plex-box.us": "best iptv",
+    "rk3576-box.ca": "best iptv canada",
+    "rk3576-box.us": "best iptv",
+    "rk3588s-box.ca": "best iptv canada",
+    "rk3588s-box.us": "best iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T03:39:59Z",
+    "attempted": "2026-09-16T03:42:25Z",
     "status": "partial",
-    "detail": "Noxtools still 03:xx UTC: skip login POST after 03:00 Cloudflare 403 / session expired (not HTTP 429). Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended on CA/US/UK/Nordics (not extra .fr). Semrush keyword - keyword pair rows and hyphen-joined labels excluded. Ranked table is RANKED_KEYWORDS.md only.",
+    "detail": "Noxtools still 03:xx UTC: skip login POST after 03:00 Cloudflare 403 / session expired (not HTTP 429, not two 429s). Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended on CA/US/UK/Nordics (not extra .fr). Semrush keyword - keyword pair rows and hyphen-joined labels excluded. Ranked table is RANKED_KEYWORDS.md only.",
     "min_volume": 500,
     "exclude_kd": "Difficult",
     "exclude_keyword_pairs": true
