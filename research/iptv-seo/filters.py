@@ -9,7 +9,7 @@ MIN_VOLUME = 500
 
 # Semrush Related / also-rank rows look like "abonnement iptv - france". Not queries.
 _KEYWORD_PAIR_RE = re.compile(r"\s+-\s+")
-# Ranked table is participant queries only (spaces). Hyphen-joined labels are not listed.
+# Hyphen-joined labels stay out unless Overview volume is high (see skip_keyword).
 _KEYWORD_HYPHEN_RE = re.compile(r"\S-\S")
 
 # Country-code hunt order: CA, US, then Europe. `.ie` is never listed.
@@ -1571,6 +1571,16 @@ _WORD_TOKENS = tuple(
             "cyberflix",
             "flixer",
             "cloudstream",
+            "popcorntime",
+            "showbox",
+            "filmplus",
+            "terrariumtv",
+            "typhoontv",
+            "mobdro",
+            "titaniumtv",
+            "phoenixtv",
+            "novatv",
+            "livenetv",
             "seren",
             "umbrella",
             "covenant",
@@ -3135,12 +3145,25 @@ def keyword_volume(traffic: dict, name: str | None) -> int | None:
         return None
 
 
-def skip_keyword(name: str | None) -> bool:
-    """Exclude Semrush pair rows and hyphen-joined labels. Keep space-separated queries."""
+def skip_keyword(name: str | None, traffic: dict | None = None) -> bool:
+    """Drop Semrush pair rows always. Drop hyphen-joined labels unless Overview volume is high."""
     if not name or not str(name).strip():
         return True
     s = str(name)
-    return bool(_KEYWORD_PAIR_RE.search(s) or _KEYWORD_HYPHEN_RE.search(s))
+    if _KEYWORD_PAIR_RE.search(s):
+        return True
+    if not _KEYWORD_HYPHEN_RE.search(s):
+        return False
+    if traffic is None:
+        return True
+    k = (traffic.get("keywords") or {}).get(s)
+    if not k or kd_is_excluded(k):
+        return True
+    try:
+        vol = int(k["volume"])
+    except (KeyError, TypeError, ValueError):
+        return True
+    return vol < MIN_VOLUME
 
 
 def meets_volume(traffic: dict, name: str | None) -> bool:
@@ -3150,7 +3173,7 @@ def meets_volume(traffic: dict, name: str | None) -> bool:
 
 def meets_opportunity(traffic: dict, name: str | None) -> bool:
     """Volume >= 500 and KD is not Difficult. Pairs like 'iptv - box' are out."""
-    if skip_keyword(name):
+    if skip_keyword(name, traffic):
         return False
     if not meets_volume(traffic, name):
         return False
@@ -3160,7 +3183,7 @@ def meets_opportunity(traffic: dict, name: str | None) -> bool:
 
 def mapped_keyword(traffic: dict, domain: str) -> str | None:
     kw = (traffic.get("domain_keyword_map") or {}).get(domain)
-    if not kw or skip_keyword(kw):
+    if not kw or skip_keyword(kw, traffic):
         return None
     kws = traffic.get("keywords") or {}
     if kd_is_excluded(kws.get(kw)):

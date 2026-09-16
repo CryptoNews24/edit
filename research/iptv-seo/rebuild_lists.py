@@ -154,14 +154,14 @@ def main() -> None:
     kwmap["compareriptv.us"] = "best iptv"
     kwmap["avis-iptv.us"] = "best iptv"
     kws = traffic.get("keywords") or {}
-    traffic["keywords"] = {n: k for n, k in kws.items() if not skip_keyword(n)}
-    kwmap = {d: kw for d, kw in kwmap.items() if not skip_keyword(kw)}
+    traffic["keywords"] = {n: k for n, k in kws.items() if not skip_keyword(n, {"keywords": kws})}
+    kwmap = {d: kw for d, kw in kwmap.items() if not skip_keyword(kw, {"keywords": kws})}
     traffic["domain_keyword_map"] = kwmap
     traffic["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools 16:00 UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour (16:xx). Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
+        "detail": "Noxtools 16:00 UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour (16:xx). Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair rows always excluded. Hyphen-joined keywords only with verified volume ≥ 500 and AVAILABLE hyphen leftover. Ranked table is RANKED_KEYWORDS.md only.",
         "min_volume": 500,
         "exclude_kd": "Difficult",
         "exclude_keyword_pairs": True,

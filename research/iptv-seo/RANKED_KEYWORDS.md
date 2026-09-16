@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 16:18 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 16:30 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -934,5 +934,17 @@ Updated 2026-09-16 16:18 UTC. **Only this file** is the keyword ranking. Real se
 | Q922 | `flixer apk` | United States | N/A | N/A | — | Flixer APK (Semrush pending) | `flixer-apk.us` |
 | Q923 | `cloud stream` | United States | N/A | N/A | — | CloudStream (Semrush pending) | `cloudstream-apk.us` |
 | Q924 | `s905y2z box` | United States | N/A | N/A | — | S905Y2Z chipset box (Semrush pending) | `s905y2z-box.us` |
+| Q925 | `popcorn time` | United States | N/A | N/A | — | Popcorn Time (Semrush pending) | `popcorntime-apk.us` |
+| Q926 | `show box` | United States | N/A | N/A | — | Showbox (Semrush pending) | `showbox-apk.us` |
+| Q927 | `film plus` | United States | N/A | N/A | — | FilmPlus (Semrush pending) | `filmplus-apk.us` |
+| Q928 | `terrarium tv` | United States | N/A | N/A | — | Terrarium TV (Semrush pending) | `terrariumtv-apk.us` |
+| Q929 | `typhoon tv` | United States | N/A | N/A | — | Typhoon TV (Semrush pending) | `typhoontv-apk.us` |
+| Q930 | `s905l2z box` | United States | N/A | N/A | — | S905L2Z chipset box (Semrush pending) | `s905l2z-box.us` |
+| Q931 | `mobdro apk` | United States | N/A | N/A | — | Mobdro APK (Semrush pending) | `mobdro-apk.us` |
+| Q932 | `titanium tv` | United States | N/A | N/A | — | Titanium TV (Semrush pending) | `titaniumtv-apk.us` |
+| Q933 | `phoenix tv` | United States | N/A | N/A | — | Phoenix TV (Semrush pending) | `phoenixtv-apk.us` |
+| Q934 | `nova tv` | United States | N/A | N/A | — | Nova TV (Semrush pending) | `novatv-apk.us` |
+| Q935 | `live netv` | United States | N/A | N/A | — | Live NetV (Semrush pending) | `livenetv-apk.us` |
+| Q936 | `t310w box` | United States | N/A | N/A | — | T310W chipset box (Semrush pending) | `t310w-box.us` |
 
-Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
+Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.

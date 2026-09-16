@@ -50,4 +50,4 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py && python3 g
 - Skip `.uk` names that contain `iptv`
 - Two-word domain names only (e.g. `avis-iptv.fr`, `compareiptv.us`). Do not hunt 3+ word labels
 - Exclude Semrush `keyword - keyword` pair rows (Related / also-rank labels, not queries)
-- Ranked keywords are participant queries (spaces). Skip Semrush `keyword - keyword` pair rows and hyphen-joined labels.
+- Ranked keywords are participant queries (spaces). Skip Semrush `keyword - keyword` pair rows. Hyphen-joined queries only when Semrush Overview volume is high and a hyphen leftover is AVAILABLE.

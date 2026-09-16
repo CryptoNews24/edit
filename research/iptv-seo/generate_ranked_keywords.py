@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""One ranked keyword table. Real queries only (no Semrush 'a - b' pair rows). No invented volumes."""
+"""One ranked keyword table. Space queries by default; hyphen queries only if Overview volume is high. No invented volumes."""
 
 from __future__ import annotations
 
@@ -955,6 +955,18 @@ QUEUED = (
     ("flixer apk", "us", "Flixer APK"),
     ("cloud stream", "us", "CloudStream"),
     ("s905y2z box", "us", "S905Y2Z chipset box"),
+    ("popcorn time", "us", "Popcorn Time"),
+    ("show box", "us", "Showbox"),
+    ("film plus", "us", "FilmPlus"),
+    ("terrarium tv", "us", "Terrarium TV"),
+    ("typhoon tv", "us", "Typhoon TV"),
+    ("s905l2z box", "us", "S905L2Z chipset box"),
+    ("mobdro apk", "us", "Mobdro APK"),
+    ("titanium tv", "us", "Titanium TV"),
+    ("phoenix tv", "us", "Phoenix TV"),
+    ("nova tv", "us", "Nova TV"),
+    ("live netv", "us", "Live NetV"),
+    ("t310w box", "us", "T310W chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1884,6 +1896,18 @@ NEEDLES = {
     "flixer apk": ("flixer-apk",),
     "cloud stream": ("cloudstream-apk",),
     "s905y2z box": ("s905y2z-box",),
+    "popcorn time": ("popcorntime-apk",),
+    "show box": ("showbox-apk",),
+    "film plus": ("filmplus-apk",),
+    "terrarium tv": ("terrariumtv-apk",),
+    "typhoon tv": ("typhoontv-apk",),
+    "s905l2z box": ("s905l2z-box",),
+    "mobdro apk": ("mobdro-apk",),
+    "titanium tv": ("titaniumtv-apk",),
+    "phoenix tv": ("phoenixtv-apk",),
+    "nova tv": ("novatv-apk",),
+    "live netv": ("livenetv-apk",),
+    "t310w box": ("t310w-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
@@ -1978,7 +2002,7 @@ def main() -> None:
 
     verified = []
     for name, k in (traffic.get("keywords") or {}).items():
-        if skip_keyword(name):
+        if skip_keyword(name, traffic):
             continue
         if kd_is_excluded(k):
             continue
@@ -1993,7 +2017,16 @@ def main() -> None:
             continue
         if db not in FOCUS_DB and name not in {"iptv uk"}:
             continue
-        leftover = pick_leftover(NEEDLES.get(name, (name.replace(" ", "-"),)), pool, db)
+        needles = NEEDLES.get(name)
+        if not needles:
+            if "-" in name:
+                needles = (name, name.replace("-", ""))
+            else:
+                needles = (name.replace(" ", "-"),)
+        leftover = pick_leftover(needles, pool, db)
+        # Hyphen query: list only when a hyphen leftover is still AVAILABLE.
+        if "-" in name and leftover == "—":
+            continue
         verified.append(
             {
                 "keyword": name,
@@ -2032,7 +2065,7 @@ def main() -> None:
     lines = [
         "# Ranked keywords (one table)",
         "",
-        f"Updated {now}. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < {MIN_VOLUME} are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.",
+        f"Updated {now}. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ {MIN_VOLUME} (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.",
         "",
         "| Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |",
         "| ---: | --- | --- | ---: | --- | ---: | --- | --- |",
@@ -2052,7 +2085,7 @@ def main() -> None:
         qn += 1
     lines += [
         "",
-        "Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.",
+        "Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.",
         "",
     ]
     OUT.write_text("\n".join(lines), encoding="utf-8")
