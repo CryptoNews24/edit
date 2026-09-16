@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:49 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:52 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -147,5 +147,17 @@ Updated 2026-09-16 03:49 UTC. **Only this file** is the keyword ranking. Real se
 | Q135 | `kodi nexus` | United States | N/A | N/A | — | Kodi Nexus setup (Semrush pending) | `kodi-nexus.us` |
 | Q136 | `mag 322` | United States | N/A | N/A | — | MAG 322 box (Semrush pending) | `mag322-box.us` |
 | Q137 | `s905x5s box` | United States | N/A | N/A | — | S905X5S chipset box (Semrush pending) | `s905x5s-box.us` |
+| Q138 | `fire tv` | United States | N/A | N/A | — | Fire TV box setup (Semrush pending) | `firetv-box.us` |
+| Q139 | `km7 box` | United States | N/A | N/A | — | Mecool KM7 box (Semrush pending) | `km7-box.us` |
+| Q140 | `mag 256` | United States | N/A | N/A | — | MAG 256 box (Semrush pending) | `mag256-box.us` |
+| Q141 | `mag 420` | United States | N/A | N/A | — | MAG 420 box (Semrush pending) | `mag420-box.us` |
+| Q142 | `dispatcharr` | United States | N/A | N/A | — | Dispatcharr IPTV proxy (Semrush pending) | `dispatcharr-box.us` |
+| Q143 | `formuler z8` | United States | N/A | N/A | — | Formuler Z8 box (Semrush pending) | `formuler-z8.us` |
+| Q144 | `formuler z10` | United States | N/A | N/A | — | Formuler Z10 box (Semrush pending) | `formuler-z10.us` |
+| Q145 | `kodi matrix` | United States | N/A | N/A | — | Kodi Matrix setup (Semrush pending) | `kodi-matrix.us` |
+| Q146 | `google streamer` | United States | N/A | N/A | — | Google TV Streamer (Semrush pending) | `google-streamer.us` |
+| Q147 | `onn 4k` | United States | N/A | N/A | — | Onn 4K box (Semrush pending) | `onn-4k.us` |
+| Q148 | `m3u editor` | United States | N/A | N/A | — | M3U playlist editor (Semrush pending) | `m3u-editor.us` |
+| Q149 | `rk3399s box` | United States | N/A | N/A | — | RK3399S chipset box (Semrush pending) | `rk3399s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
