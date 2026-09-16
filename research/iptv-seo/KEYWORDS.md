@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-16 02:52 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-16 02:55 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -6777,6 +6777,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-hamilton.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-hdr.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-hevc.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tivimate-innu.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-install.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-inuktitut.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-kamloops.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -6794,8 +6795,10 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-mac.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-markham.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-medicinehat.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tivimate-mikmaq.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-milton.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-mississauga.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tivimate-mohawk.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-moncton.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-montreal.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-movie.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -7101,7 +7104,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **3935**.
+AVAILABLE in this dump: **3947**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -9233,6 +9236,8 @@ AVAILABLE in this dump: **3935**.
 | `mersey-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `merseyside-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `merseyside-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `merseyside-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `merseyside-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `mespuitsien-box.us` | .us | native RDAP 404 + no DNS |
 | `mespuitsien-iptv.us` | .us | native RDAP 404 + no DNS |
 | `messin-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -9446,6 +9451,8 @@ AVAILABLE in this dump: **3935**.
 | `norsk-iptv.us` | .us | native RDAP 404 + no DNS |
 | `northampton-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `northampton-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `northampton-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `northampton-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `northbay-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `northbay-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `northumberland-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10025,6 +10032,8 @@ AVAILABLE in this dump: **3935**.
 | `scotland-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `scotland-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `scots-iptv.us` | .us | native RDAP 404 + no DNS |
+| `scots-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `scots-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `seattle-iptv.us` | .us | native RDAP 404 + no DNS |
 | `sedanais-iptv.us` | .us | native RDAP 404 + no DNS |
 | `seeland-box.us` | .us | native RDAP 404 + no DNS |
@@ -10786,6 +10795,8 @@ AVAILABLE in this dump: **3935**.
 | `tyne-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tyneside-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tyneside-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `tyneside-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `tyneside-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `uclan-box.us` | .us | native RDAP 404 + no DNS |
 | `uclan-iptv.us` | .us | native RDAP 404 + no DNS |
 | `ufc-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -10923,6 +10934,8 @@ AVAILABLE in this dump: **3935**.
 | `walser-iptv.us` | .us | native RDAP 404 + no DNS |
 | `warwickshire-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `warwickshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `warwickshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `warwickshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `watch-box.us` | .us | native RDAP 404 + no DNS |
 | `watch-compare.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `watch-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10941,6 +10954,8 @@ AVAILABLE in this dump: **3935**.
 | `weem-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `weem-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `welsh-iptv.us` | .us | native RDAP 404 + no DNS |
+| `welsh-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `welsh-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `weser-box.us` | .us | native RDAP 404 + no DNS |
 | `weser-iptv.us` | .us | native RDAP 404 + no DNS |
 | `wessex-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -11048,7 +11063,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 | TLD | Country | AVAILABLE | Confirm (not free) | UNKNOWN |
 | --- | --- | ---: | ---: | ---: |
-| .ca | Canada | 2377 | 0 | 0 |
+| .ca | Canada | 2380 | 0 | 0 |
 | .us | United States | 2414 | 0 | 0 |
 | .fr | France | 2213 | 0 | 0 |
 | .de | Germany | 2080 | 0 | 0 |
@@ -11061,16 +11076,16 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | .pt | Portugal | 0 | 9 | 0 |
 | .se | Sweden | 1 | 7 | 2217 |
 | .no | Norway | 2241 | 0 | 0 |
-| .dk | Denmark | 2238 | 0 | 0 |
+| .dk | Denmark | 2240 | 0 | 0 |
 | .fi | Finland | 2242 | 0 | 0 |
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 756 | 0 | 7 |
+| .co.uk | United Kingdom | 762 | 0 | 7 |
 
 ### .ca — Canada
 
-**AVAILABLE (2377)** — native RDAP 404 + no DNS.
+**AVAILABLE (2380)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -13166,6 +13181,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-hamilton.ca` |
 | `tivimate-hdr.ca` |
 | `tivimate-hevc.ca` |
+| `tivimate-innu.ca` |
 | `tivimate-install.ca` |
 | `tivimate-inuktitut.ca` |
 | `tivimate-kamloops.ca` |
@@ -13183,8 +13199,10 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-mac.ca` |
 | `tivimate-markham.ca` |
 | `tivimate-medicinehat.ca` |
+| `tivimate-mikmaq.ca` |
 | `tivimate-milton.ca` |
 | `tivimate-mississauga.ca` |
+| `tivimate-mohawk.ca` |
 | `tivimate-moncton.ca` |
 | `tivimate-montreal.ca` |
 | `tivimate-movie.ca` |
@@ -26603,7 +26621,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .dk — Denmark
 
-**AVAILABLE (2238)** — native RDAP 404 + no DNS.
+**AVAILABLE (2240)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -28595,8 +28613,10 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-dns.dk` |
 | `tivimate-epg.dk` |
 | `tivimate-esbjerg.dk` |
+| `tivimate-faroese.dk` |
 | `tivimate-film.dk` |
 | `tivimate-films.dk` |
+| `tivimate-greenlandic.dk` |
 | `tivimate-guide.dk` |
 | `tivimate-hdr.dk` |
 | `tivimate-herning.dk` |
@@ -31120,7 +31140,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (756)** — native RDAP 404 + no DNS.
+**AVAILABLE (762)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -31578,6 +31598,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `menstrie-guide.co.uk` |
 | `mersey-guide.co.uk` |
 | `merseyside-guide.co.uk` |
+| `merseyside-tivimate.co.uk` |
 | `methil-guide.co.uk` |
 | `methven-guide.co.uk` |
 | `midlands-guide.co.uk` |
@@ -31613,6 +31634,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `nordic-guide.co.uk` |
 | `norfolk-tivimate.co.uk` |
 | `northampton-guide.co.uk` |
+| `northampton-tivimate.co.uk` |
 | `northbay-guide.co.uk` |
 | `northumberland-guide.co.uk` |
 | `northumberland-tivimate.co.uk` |
@@ -31695,6 +31717,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `scilly-guide.co.uk` |
 | `scone-guide.co.uk` |
 | `scotland-tivimate.co.uk` |
+| `scots-tivimate.co.uk` |
 | `selkirk-guide.co.uk` |
 | `severn-guide.co.uk` |
 | `shapinsay-guide.co.uk` |
@@ -31841,6 +31864,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tv-compare.co.uk` |
 | `tyne-guide.co.uk` |
 | `tyneside-guide.co.uk` |
+| `tyneside-tivimate.co.uk` |
 | `uk-tivimate.co.uk` |
 | `ullapool-guide.co.uk` |
 | `ulster-guide.co.uk` |
@@ -31850,6 +31874,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `vlc-player.co.uk` |
 | `wales-tivimate.co.uk` |
 | `warwickshire-guide.co.uk` |
+| `warwickshire-tivimate.co.uk` |
 | `watch-compare.co.uk` |
 | `watch-guide.co.uk` |
 | `watchcompare.co.uk` |
@@ -31857,6 +31882,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `waterloo-tivimate.co.uk` |
 | `weald-guide.co.uk` |
 | `weem-guide.co.uk` |
+| `welsh-tivimate.co.uk` |
 | `wessex-guide.co.uk` |
 | `westmorland-guide.co.uk` |
 | `westray-guide.co.uk` |

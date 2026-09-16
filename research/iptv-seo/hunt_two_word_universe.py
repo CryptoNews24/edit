@@ -3102,6 +3102,11 @@ def candidates() -> list[str]:
     _push("tivimate-seinajoki.fi", seen, out)
     _push("tivimate-inuktitut.ca", seen, out)
     _push("tivimate-ojibwe.ca", seen, out)
+    _push("tivimate-mikmaq.ca", seen, out)
+    _push("tivimate-mohawk.ca", seen, out)
+    _push("tivimate-innu.ca", seen, out)
+    _push("tivimate-faroese.dk", seen, out)
+    _push("tivimate-greenlandic.dk", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3789,6 +3794,12 @@ def candidates() -> list[str]:
         "hertford-tivimate",
         "berkshire-tivimate",
         "buckingham-tivimate",
+        "northampton-tivimate",
+        "warwickshire-tivimate",
+        "merseyside-tivimate",
+        "tyneside-tivimate",
+        "welsh-tivimate",
+        "scots-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
