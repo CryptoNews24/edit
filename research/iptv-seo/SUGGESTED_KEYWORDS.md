@@ -489,6 +489,7 @@ Noxtools recheck (2026-09-16 01:04 UTC): same hour as 01:02 probe — **not HTTP
 | TiviMate cities 3 | `tivimate lasvegas` / `tivimate windsor` / `tivimate belfast` / `tivimate oulu` | More geo + addon/dns | AVAILABLE leftovers: `tivimate-windsor.ca`, `tivimate-lasvegas.us`, `belfast-tivimate.co.uk`, `tivimate-oulu.fi`, `tivimate-addon.ca`. `.se` UNKNOWN — not a buy |
 | TiviMate install/sport | `tivimate install` / `tivimate sport` / `tivimate oxford` / `tivimate laval` | Setup + more geo | AVAILABLE leftovers: `tivimate-install.ca`, `tivimate-sport.us`, `tivimate-laval.ca`, `oxford-tivimate.co.uk`, `tivimate-espoo.fi`. `.se` UNKNOWN — not a buy |
 | TiviMate news/movie | `tivimate news` / `tivimate movie` / `tivimate sherbrooke` / `tivimate coventry` | Content + more geo | AVAILABLE leftovers: `tivimate-news.ca`, `tivimate-movie.us`, `tivimate-sherbrooke.ca`, `coventry-tivimate.co.uk`, `tivimate-jyvaskyla.fi`. `.se` UNKNOWN — not a buy |
+| TiviMate film/BC | `tivimate film` / `tivimate surrey` / `tivimate hull` / `tivimate tucson` | Film + more geo | AVAILABLE leftovers: `tivimate-film.ca`, `tivimate-surrey.ca`, `tivimate-tucson.us`, `hull-tivimate.co.uk`, `halifax-tivimate.co.uk`. `.se` UNKNOWN — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Exclude Semrush `keyword - keyword` pair rows.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).

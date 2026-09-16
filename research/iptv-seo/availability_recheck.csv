@@ -2297,6 +2297,8 @@ biterrois-iptv.se,,no,UNKNOWN
 biterrois-iptv.us,404,no,AVAILABLE
 blackford-guide.co.uk,404,no,AVAILABLE
 blackford-guide.uk,404,no,AVAILABLE
+blackpool-tivimate.co.uk,404,no,AVAILABLE
+blackpool-tivimate.uk,404,no,AVAILABLE
 blairatholl-guide.co.uk,404,no,AVAILABLE
 blairatholl-guide.uk,404,no,AVAILABLE
 blairgowrie-guide.co.uk,404,no,AVAILABLE
@@ -7575,6 +7577,8 @@ haida-iptv.no,404,no,AVAILABLE
 haida-iptv.se,,no,UNKNOWN
 haida-iptv.us,404,no,AVAILABLE
 halifax-iptv.ca,404,no,AVAILABLE
+halifax-tivimate.co.uk,404,no,AVAILABLE
+halifax-tivimate.uk,404,no,AVAILABLE
 halle-iptv.de,404,no,AVAILABLE
 halpa-iptv.ca,404,no,AVAILABLE
 halpa-iptv.ch,404,no,AVAILABLE
@@ -8131,6 +8135,8 @@ hourtinais-iptv.no,404,no,AVAILABLE
 hourtinais-iptv.se,,no,UNKNOWN
 hourtinais-iptv.us,404,no,AVAILABLE
 houston-iptv.us,404,no,AVAILABLE
+hull-tivimate.co.uk,404,no,AVAILABLE
+hull-tivimate.uk,404,no,AVAILABLE
 humber-guide.co.uk,404,no,AVAILABLE
 humber-guide.uk,404,no,AVAILABLE
 humberside-guide.co.uk,404,no,AVAILABLE
@@ -8314,6 +8320,8 @@ inverkeithing-guide.co.uk,404,no,AVAILABLE
 inverkeithing-guide.uk,404,no,AVAILABLE
 inverness-guide.co.uk,404,no,AVAILABLE
 inverness-guide.uk,404,no,AVAILABLE
+ipswich-tivimate.co.uk,404,no,AVAILABLE
+ipswich-tivimate.uk,404,no,AVAILABLE
 iptv-4k-france.fr,200,yes,TAKEN
 iptv-4k.ca,200,yes,TAKEN
 iptv-4k.ch,404,no,AVAILABLE
@@ -21194,6 +21202,7 @@ tivimate-4k.uk,404,no,AVAILABLE
 tivimate-4k.us,404,no,AVAILABLE
 tivimate-aalborg.dk,404,no,AVAILABLE
 tivimate-aarhus.dk,404,no,AVAILABLE
+tivimate-abbotsford.ca,404,no,AVAILABLE
 tivimate-addon.ca,404,no,AVAILABLE
 tivimate-addon.co.uk,404,no,AVAILABLE
 tivimate-addon.dk,404,no,AVAILABLE
@@ -21244,6 +21253,7 @@ tivimate-box.se,,no,UNKNOWN
 tivimate-box.uk,404,no,AVAILABLE
 tivimate-box.us,404,no,AVAILABLE
 tivimate-brampton.ca,404,no,AVAILABLE
+tivimate-burnaby.ca,404,no,AVAILABLE
 tivimate-calgary.ca,404,no,AVAILABLE
 tivimate-canada.ca,404,no,AVAILABLE
 tivimate-catchup.ca,404,no,AVAILABLE
@@ -21275,6 +21285,7 @@ tivimate-dns.no,404,no,AVAILABLE
 tivimate-dns.se,,no,UNKNOWN
 tivimate-dns.us,404,no,AVAILABLE
 tivimate-edmonton.ca,404,no,AVAILABLE
+tivimate-elpaso.us,404,no,AVAILABLE
 tivimate-epg.ca,404,no,AVAILABLE
 tivimate-epg.co.uk,404,no,AVAILABLE
 tivimate-epg.dk,404,no,AVAILABLE
@@ -21285,9 +21296,25 @@ tivimate-epg.uk,404,no,AVAILABLE
 tivimate-epg.us,404,no,AVAILABLE
 tivimate-esbjerg.dk,404,no,AVAILABLE
 tivimate-espoo.fi,404,no,AVAILABLE
+tivimate-film.ca,404,no,AVAILABLE
+tivimate-film.co.uk,404,no,AVAILABLE
+tivimate-film.dk,404,no,AVAILABLE
+tivimate-film.fi,404,no,AVAILABLE
+tivimate-film.no,404,no,AVAILABLE
+tivimate-film.se,,no,UNKNOWN
+tivimate-film.uk,404,no,AVAILABLE
+tivimate-film.us,404,no,AVAILABLE
+tivimate-films.ca,404,no,AVAILABLE
+tivimate-films.dk,404,no,AVAILABLE
+tivimate-films.fi,404,no,AVAILABLE
+tivimate-films.no,404,no,AVAILABLE
+tivimate-films.se,,no,UNKNOWN
+tivimate-films.us,404,no,AVAILABLE
 tivimate-firestick.ca,404,no,AVAILABLE
 tivimate-firestick.us,404,no,AVAILABLE
+tivimate-fresno.us,404,no,AVAILABLE
 tivimate-gatineau.ca,404,no,AVAILABLE
+tivimate-gavle.se,,no,UNKNOWN
 tivimate-goteborg.se,,no,UNKNOWN
 tivimate-guide.ca,404,no,AVAILABLE
 tivimate-guide.co.uk,404,no,AVAILABLE
@@ -21334,7 +21361,9 @@ tivimate-iptv.no,404,no,AVAILABLE
 tivimate-iptv.se,,no,UNKNOWN
 tivimate-iptv.us,200,yes,TAKEN
 tivimate-jacksonville.us,404,no,AVAILABLE
+tivimate-jonkoping.se,,no,UNKNOWN
 tivimate-jyvaskyla.fi,404,no,AVAILABLE
+tivimate-kamloops.ca,404,no,AVAILABLE
 tivimate-kelowna.ca,404,no,AVAILABLE
 tivimate-kids.ca,404,no,AVAILABLE
 tivimate-kids.dk,404,no,AVAILABLE
@@ -21367,6 +21396,7 @@ tivimate-linkoping.se,,no,UNKNOWN
 tivimate-london.co.uk,404,no,AVAILABLE
 tivimate-london.uk,404,no,AVAILABLE
 tivimate-louisville.us,404,no,AVAILABLE
+tivimate-lulea.se,,no,UNKNOWN
 tivimate-m3u.ca,404,no,AVAILABLE
 tivimate-m3u.co.uk,404,no,AVAILABLE
 tivimate-m3u.dk,404,no,AVAILABLE
@@ -21382,6 +21412,7 @@ tivimate-mac.no,404,no,AVAILABLE
 tivimate-mac.se,,no,UNKNOWN
 tivimate-mac.us,404,no,AVAILABLE
 tivimate-malmo.se,,no,UNKNOWN
+tivimate-markham.ca,404,no,AVAILABLE
 tivimate-memphis.us,404,no,AVAILABLE
 tivimate-miami.us,404,no,AVAILABLE
 tivimate-milwaukee.us,404,no,AVAILABLE
@@ -21397,6 +21428,7 @@ tivimate-movie.no,404,no,AVAILABLE
 tivimate-movie.se,,no,UNKNOWN
 tivimate-movie.uk,404,no,AVAILABLE
 tivimate-movie.us,404,no,AVAILABLE
+tivimate-nanaimo.ca,404,no,AVAILABLE
 tivimate-nashville.us,404,no,AVAILABLE
 tivimate-news.ca,404,no,AVAILABLE
 tivimate-news.co.uk,404,no,AVAILABLE
@@ -21471,6 +21503,8 @@ tivimate-replay.us,404,no,AVAILABLE
 tivimate-richmond.ca,404,no,AVAILABLE
 tivimate-sacramento.us,404,no,AVAILABLE
 tivimate-saguenay.ca,404,no,AVAILABLE
+tivimate-sanantonio.us,404,no,AVAILABLE
+tivimate-sanjose.us,404,no,AVAILABLE
 tivimate-saskatoon.ca,404,no,AVAILABLE
 tivimate-seattle.us,404,no,AVAILABLE
 tivimate-setup.ca,404,no,AVAILABLE
@@ -21494,6 +21528,7 @@ tivimate-stavanger.no,404,no,AVAILABLE
 tivimate-stockholm.se,,no,UNKNOWN
 tivimate-sudbury.ca,404,no,AVAILABLE
 tivimate-suomi.fi,404,no,AVAILABLE
+tivimate-surrey.ca,404,no,AVAILABLE
 tivimate-sverige.se,,no,UNKNOWN
 tivimate-tampa.us,404,no,AVAILABLE
 tivimate-tampere.fi,404,no,AVAILABLE
@@ -21506,11 +21541,14 @@ tivimate-timeshift.us,404,no,AVAILABLE
 tivimate-toronto.ca,404,no,AVAILABLE
 tivimate-tromso.no,404,no,AVAILABLE
 tivimate-trondheim.no,404,no,AVAILABLE
+tivimate-tucson.us,404,no,AVAILABLE
 tivimate-turku.fi,404,no,AVAILABLE
 tivimate-umea.se,,no,UNKNOWN
 tivimate-uppsala.se,,no,UNKNOWN
 tivimate-usa.us,404,no,AVAILABLE
 tivimate-vancouver.ca,404,no,AVAILABLE
+tivimate-vasteras.se,,no,UNKNOWN
+tivimate-vaughan.ca,404,no,AVAILABLE
 tivimate-victoria.ca,404,no,AVAILABLE
 tivimate-vod.ca,404,no,AVAILABLE
 tivimate-vod.co.uk,404,no,AVAILABLE
@@ -21528,6 +21566,7 @@ tivimate-vpn.no,404,no,AVAILABLE
 tivimate-vpn.se,,no,UNKNOWN
 tivimate-vpn.uk,404,no,AVAILABLE
 tivimate-vpn.us,404,no,AVAILABLE
+tivimate-wichita.us,404,no,AVAILABLE
 tivimate-windsor.ca,404,no,AVAILABLE
 tivimate-winnipeg.ca,404,no,AVAILABLE
 tivimate-xtream.ca,404,no,AVAILABLE
