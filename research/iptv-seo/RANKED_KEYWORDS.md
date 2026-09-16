@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 21:15 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 21:26 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -1114,5 +1114,22 @@ Updated 2026-09-16 21:15 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1102 | `animal planet` | United States | N/A | N/A | — | Animal Planet smash (Semrush pending) | `animalplanet.dk` |
 | Q1103 | `videotron tv` | Canada | N/A | N/A | — | Videotron TV smash (Semrush pending) | `videotrontv.ca` |
 | Q1104 | `tva tv` | Canada | N/A | N/A | — | TVA TV smash (Semrush pending) | `tvatv.ca` |
+| Q1105 | `pinoy tv` | United States | N/A | N/A | — | Pinoy TV smash (Semrush pending) | `pinoytv.ca` |
+| Q1106 | `arab tv` | United States | N/A | N/A | — | Arab TV smash (Semrush pending) | `arabtv.us` |
+| Q1107 | `telugu tv` | United States | N/A | N/A | — | Telugu TV smash (Semrush pending) | `telugutv.us` |
+| Q1108 | `punjabi tv` | United States | N/A | N/A | — | Punjabi TV smash (Semrush pending) | `punjabitv.us` |
+| Q1109 | `univision tv` | United States | N/A | N/A | — | Univision TV smash (Semrush pending) | `univisiontv.uk` |
+| Q1110 | `telemundo tv` | United States | N/A | N/A | — | Telemundo TV smash (Semrush pending) | `telemundotv.us` |
+| Q1111 | `sky news` | United Kingdom | N/A | N/A | — | Sky News smash (Semrush pending) | `skynews.dk` |
+| Q1112 | `sky atlantic` | United Kingdom | N/A | N/A | — | Sky Atlantic smash (Semrush pending) | `skyatlantic.us` |
+| Q1113 | `premier sports` | United Kingdom | N/A | N/A | — | Premier Sports smash (Semrush pending) | `premiersports.dk` |
+| Q1114 | `review tv` | United States | N/A | N/A | — | Review TV smash (Semrush pending) | `reviewtv.us` |
+| Q1115 | `tesla tv` | United States | N/A | N/A | — | Tesla TV smash (Semrush pending) | `teslatv.us` |
+| Q1116 | `radio tv` | United States | N/A | N/A | — | Radio TV smash (Semrush pending) | `radiotv.ca` |
+| Q1117 | `podcast tv` | United States | N/A | N/A | — | Podcast TV smash (Semrush pending) | `podcasttv.us` |
+| Q1118 | `film4 tv` | United Kingdom | N/A | N/A | — | Film4 TV smash (Semrush pending) | `film4tv.co.uk` |
+| Q1119 | `box tv` | United States | N/A | N/A | — | Box TV smash (Semrush pending) | `boxtv.us` |
+| Q1120 | `mag tv` | United States | N/A | N/A | — | MAG TV smash (Semrush pending) | `magtv.us` |
+| Q1121 | `linux tv` | United States | N/A | N/A | — | Linux TV smash (Semrush pending) | `linuxtv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
