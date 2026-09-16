@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:40 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:43 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -596,5 +596,14 @@ Updated 2026-09-16 05:40 UTC. **Only this file** is the keyword ranking. Real se
 | Q584 | `knightcrawler apk` | United States | N/A | N/A | — | KnightCrawler APK (Semrush pending) | `knightcrawler-apk.us` |
 | Q585 | `t962r box` | United States | N/A | N/A | — | T962R chipset box (Semrush pending) | `t962r-box.us` |
 | Q586 | `rk3326r box` | United States | N/A | N/A | — | RK3326R chipset box (Semrush pending) | `rk3326r-box.us` |
+| Q587 | `kitsu apk` | United States | N/A | N/A | — | Kitsu APK (Semrush pending) | `kitsu-apk.us` |
+| Q588 | `anilist apk` | United States | N/A | N/A | — | AniList APK (Semrush pending) | `anilist-apk.us` |
+| Q589 | `letterboxd apk` | United States | N/A | N/A | — | Letterboxd APK (Semrush pending) | `letterboxd-apk.us` |
+| Q590 | `wizarr apk` | United States | N/A | N/A | — | Wizarr APK (Semrush pending) | `wizarr-apk.us` |
+| Q591 | `homarr apk` | United States | N/A | N/A | — | Homarr APK (Semrush pending) | `homarr-apk.us` |
+| Q592 | `kavita apk` | United States | N/A | N/A | — | Kavita APK (Semrush pending) | `kavita-apk.us` |
+| Q593 | `audiobookshelf apk` | United States | N/A | N/A | — | Audiobookshelf APK (Semrush pending) | `audiobookshelf-apk.us` |
+| Q594 | `t965r box` | United States | N/A | N/A | — | T965R chipset box (Semrush pending) | `t965r-box.us` |
+| Q595 | `h618r box` | United States | N/A | N/A | — | H618R chipset box (Semrush pending) | `h618r-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
