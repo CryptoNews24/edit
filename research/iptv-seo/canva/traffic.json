@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T02:26:00Z",
+  "updated": "2026-09-16T02:28:12Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -7267,10 +7267,19 @@
     "tivimate-oshawa.ca": "best iptv canada",
     "tivimate-peterborough.ca": "best iptv canada",
     "tivimate-richmondva.us": "best iptv",
-    "tivimate-saltlake.us": "best iptv"
+    "tivimate-saltlake.us": "best iptv",
+    "gse-guide.ca": "best iptv canada",
+    "gse-guide.us": "best iptv",
+    "televizo-guide.ca": "best iptv canada",
+    "televizo-guide.us": "best iptv",
+    "tivimate-anchorage.us": "best iptv",
+    "tivimate-honolulu.us": "best iptv",
+    "tivimate-kitchener.ca": "best iptv canada",
+    "tivimate-london.ca": "best iptv canada",
+    "tivimate-niagara.ca": "best iptv canada"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T02:26:00Z",
+    "attempted": "2026-09-16T02:28:12Z",
     "status": "partial",
     "detail": "Noxtools 02:23 UTC probe: login Cloudflare 403 (not HTTP 429). Servers 1-2 HTTP 200 Session expired. No login POST this hour. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works. Semrush keyword - keyword pair rows are excluded. Ranked table is RANKED_KEYWORDS.md only (CA/US/UK/Nordics leftover focus).",
     "min_volume": 500,

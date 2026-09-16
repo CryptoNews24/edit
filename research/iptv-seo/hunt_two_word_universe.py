@@ -2714,6 +2714,8 @@ APP_STEMS = (
     "gse-player",
     "gse-box",
     "gse-smart",
+    "gse-guide",
+    "televizo-guide",
     "ott-navigator",
     "ott-play",
     "ottplay-box",
@@ -3050,6 +3052,14 @@ def candidates() -> list[str]:
     _push("tivimate-pori.fi", seen, out)
     _push("tivimate-rovaniemi.fi", seen, out)
     _push("tivimate-lappeenranta.fi", seen, out)
+    _push("tivimate-kitchener.ca", seen, out)
+    _push("tivimate-niagara.ca", seen, out)
+    _push("tivimate-london.ca", seen, out)
+    _push("tivimate-honolulu.us", seen, out)
+    _push("tivimate-anchorage.us", seen, out)
+    _push("tivimate-alesund.no", seen, out)
+    _push("tivimate-drammen.no", seen, out)
+    _push("tivimate-viborg.dk", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3693,6 +3703,8 @@ def candidates() -> list[str]:
         "waterloo-tivimate",
         "peterborough-tivimate",
         "richmond-tivimate",
+        "kitchener-tivimate",
+        "niagara-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
