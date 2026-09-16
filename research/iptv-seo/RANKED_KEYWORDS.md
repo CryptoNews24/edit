@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 15:41 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 15:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -910,5 +910,11 @@ Updated 2026-09-16 15:41 UTC. **Only this file** is the keyword ranking. Real se
 | Q898 | `piped apk` | United States | N/A | N/A | — | Piped APK (Semrush pending) | `piped-apk.us` |
 | Q899 | `invidious apk` | United States | N/A | N/A | — | Invidious APK (Semrush pending) | `invidious-apk.us` |
 | Q900 | `rk3588z box` | United States | N/A | N/A | — | RK3588Z chipset box (Semrush pending) | `rk3588z-box.us` |
+| Q901 | `skytube apk` | United States | N/A | N/A | — | SkyTube APK (Semrush pending) | `skytube-apk.us` |
+| Q902 | `sponsor block` | United States | N/A | N/A | — | SponsorBlock (Semrush pending) | `sponsorblock-apk.us` |
+| Q903 | `clipious apk` | United States | N/A | N/A | — | Clipious APK (Semrush pending) | `clipious-apk.us` |
+| Q904 | `seal apk` | United States | N/A | N/A | — | Seal APK (Semrush pending) | `seal-apk.us` |
+| Q905 | `ytdlnis apk` | United States | N/A | N/A | — | YTDLnis APK (Semrush pending) | `ytdlnis-apk.us` |
+| Q906 | `a523z box` | United States | N/A | N/A | — | A523Z chipset box (Semrush pending) | `a523z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
