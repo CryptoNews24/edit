@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-16 02:37 UTC
+Updated 2026-09-16 02:40 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
@@ -19618,6 +19618,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   devon-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  devon-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  devon-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   dollar-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   dollar-guide.uk
@@ -19691,6 +19695,10 @@ United Kingdom
   durham-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   durham-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  durham-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  durham-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   durness-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -20597,6 +20605,10 @@ United Kingdom
   midlands-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   midlands-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  midlands-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  midlands-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   millburn-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21568,6 +21580,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   ulster-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  ulster-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  ulster-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   valley-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   valley-guide.uk
@@ -21581,6 +21597,10 @@ United Kingdom
   vlc-player.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   wales-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  wales-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  wales-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   warwickshire-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21711,12 +21731,12 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
 .pt  Portugal  AVAILABLE=0  confirm=9  unknown=0
 .se  Sweden  AVAILABLE=1  confirm=7  unknown=2217
 .no  Norway  AVAILABLE=2241  confirm=0  unknown=0
-.dk  Denmark  AVAILABLE=2236  confirm=0  unknown=0
-.fi  Finland  AVAILABLE=2240  confirm=0  unknown=0
+.dk  Denmark  AVAILABLE=2238  confirm=0  unknown=0
+.fi  Finland  AVAILABLE=2241  confirm=0  unknown=0
 .pl  Poland  AVAILABLE=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=721  confirm=0  unknown=7
+.co.uk  United Kingdom  AVAILABLE=726  confirm=0  unknown=7
 
 -------- .ca Canada AVAILABLE --------
   4k-box.ca
@@ -39172,6 +39192,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-hdr.dk
   tivimate-herning.dk
   tivimate-hevc.dk
+  tivimate-holstebro.dk
   tivimate-horsens.dk
   tivimate-install.dk
   tivimate-iptv.dk
@@ -39184,6 +39205,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-m3u.dk
   tivimate-mac.dk
   tivimate-movie.dk
+  tivimate-naestved.dk
   tivimate-news.dk
   tivimate-odense.dk
   tivimate-pack.dk
@@ -41405,6 +41427,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-film.fi
   tivimate-films.fi
   tivimate-guide.fi
+  tivimate-hameenlinna.fi
   tivimate-hdr.fi
   tivimate-helsinki.fi
   tivimate-hevc.fi
@@ -41859,6 +41882,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   derby-tivimate.co.uk
   derbyshire-guide.co.uk
   devon-guide.co.uk
+  devon-tivimate.co.uk
   dollar-guide.co.uk
   dorset-guide.co.uk
   doune-guide.co.uk
@@ -41877,6 +41901,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   dunning-guide.co.uk
   dunoon-guide.co.uk
   durham-guide.co.uk
+  durham-tivimate.co.uk
   durness-guide.co.uk
   dyfed-guide.co.uk
   dysart-guide.co.uk
@@ -42108,6 +42133,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   methil-guide.co.uk
   methven-guide.co.uk
   midlands-guide.co.uk
+  midlands-tivimate.co.uk
   millburn-guide.co.uk
   millport-guide.co.uk
   milnathort-guide.co.uk
@@ -42359,9 +42385,11 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   uk-tivimate.co.uk
   ullapool-guide.co.uk
   ulster-guide.co.uk
+  ulster-tivimate.co.uk
   valley-guide.co.uk
   village-guide.co.uk
   vlc-player.co.uk
+  wales-tivimate.co.uk
   warwickshire-guide.co.uk
   watch-compare.co.uk
   watch-guide.co.uk
