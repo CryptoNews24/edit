@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:22 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:25 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -268,5 +268,13 @@ Updated 2026-09-16 04:22 UTC. **Only this file** is the keyword ranking. Real se
 | Q256 | `openpli` | United States | N/A | N/A | — | OpenPLi Enigma image (Semrush pending) | `openpli-box.us` |
 | Q257 | `rk3229s box` | United States | N/A | N/A | — | RK3229S chipset box (Semrush pending) | `rk3229s-box.us` |
 | Q258 | `bouquet editor` | United States | N/A | N/A | — | Enigma bouquet editor (Semrush pending) | `bouquet-editor.us` |
+| Q259 | `openvix` | United States | N/A | N/A | — | OpenViX Enigma image (Semrush pending) | `openvix-box.us` |
+| Q260 | `pureneos` | United States | N/A | N/A | — | PureNEXUS image (Semrush pending) | `pureneos-box.us` |
+| Q261 | `egami` | United States | N/A | N/A | — | EGAMI Enigma image (Semrush pending) | `egami-box.us` |
+| Q262 | `openelec` | United States | N/A | N/A | — | OpenELEC media center (Semrush pending) | `openelec-box.us` |
+| Q263 | `lakka` | United States | N/A | N/A | — | Lakka retro OS (Semrush pending) | `lakka-box.us` |
+| Q264 | `s905w2s box` | United States | N/A | N/A | — | S905W2S chipset box (Semrush pending) | `s905w2s-box.us` |
+| Q265 | `t968x box` | United States | N/A | N/A | — | T968X chipset box (Semrush pending) | `t968x-box.us` |
+| Q266 | `t950k box` | United States | N/A | N/A | — | T950K chipset box (Semrush pending) | `t950k-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
