@@ -6283,6 +6283,7 @@ formuler-iptv.se,,no,UNKNOWN
 formuler-iptv.us,404,no,AVAILABLE
 formuler-player.ca,404,no,AVAILABLE
 formuler-player.ch,404,no,AVAILABLE
+formuler-player.co.uk,404,no,AVAILABLE
 formuler-player.de,404,no,AVAILABLE
 formuler-player.dk,404,no,AVAILABLE
 formuler-player.fi,404,no,AVAILABLE
@@ -6290,6 +6291,7 @@ formuler-player.fr,404,no,AVAILABLE
 formuler-player.nl,404,no,AVAILABLE
 formuler-player.no,404,no,AVAILABLE
 formuler-player.se,,no,UNKNOWN
+formuler-player.uk,404,no,AVAILABLE
 formuler-player.us,404,no,AVAILABLE
 forres-guide.co.uk,404,no,AVAILABLE
 forres-guide.uk,404,no,AVAILABLE
@@ -14891,6 +14893,8 @@ perreuxien-iptv.us,404,no,AVAILABLE
 perthshire-guide.co.uk,404,no,AVAILABLE
 perthshire-guide.uk,404,no,AVAILABLE
 peterborough-iptv.ca,404,no,AVAILABLE
+peterborough-tivimate.co.uk,404,no,AVAILABLE
+peterborough-tivimate.uk,404,no,AVAILABLE
 peyrehoradais-iptv.ca,404,no,AVAILABLE
 peyrehoradais-iptv.ch,404,no,AVAILABLE
 peyrehoradais-iptv.de,404,no,AVAILABLE
@@ -16031,6 +16035,8 @@ rhone-iptv.no,404,no,AVAILABLE
 rhone-iptv.se,,no,UNKNOWN
 rhone-iptv.us,404,no,AVAILABLE
 richmond-iptv.ca,404,no,AVAILABLE
+richmond-tivimate.co.uk,404,no,AVAILABLE
+richmond-tivimate.uk,404,no,AVAILABLE
 richmondva-iptv.us,404,no,AVAILABLE
 ringsted-iptv.dk,404,no,AVAILABLE
 riomois-iptv.ca,404,no,AVAILABLE
@@ -18819,6 +18825,14 @@ sparkle-box.no,404,no,AVAILABLE
 sparkle-box.se,,no,UNKNOWN
 sparkle-box.uk,404,no,AVAILABLE
 sparkle-box.us,404,no,AVAILABLE
+sparkle-guide.ca,404,no,AVAILABLE
+sparkle-guide.co.uk,404,no,AVAILABLE
+sparkle-guide.dk,404,no,AVAILABLE
+sparkle-guide.fi,404,no,AVAILABLE
+sparkle-guide.no,404,no,AVAILABLE
+sparkle-guide.se,,no,UNKNOWN
+sparkle-guide.uk,404,no,AVAILABLE
+sparkle-guide.us,404,no,AVAILABLE
 sparkle-player.ca,404,no,AVAILABLE
 sparkle-player.co.uk,404,no,AVAILABLE
 sparkle-player.dk,404,no,AVAILABLE
@@ -21794,6 +21808,7 @@ tivimate-iptv.no,404,no,AVAILABLE
 tivimate-iptv.se,,no,UNKNOWN
 tivimate-iptv.us,200,yes,TAKEN
 tivimate-jacksonville.us,404,no,AVAILABLE
+tivimate-joensuu.fi,404,no,AVAILABLE
 tivimate-jonkoping.se,,no,UNKNOWN
 tivimate-jyvaskyla.fi,404,no,AVAILABLE
 tivimate-kamloops.ca,404,no,AVAILABLE
@@ -21817,6 +21832,7 @@ tivimate-kodi.us,404,no,AVAILABLE
 tivimate-kristiansand.no,404,no,AVAILABLE
 tivimate-kuopio.fi,404,no,AVAILABLE
 tivimate-lahti.fi,404,no,AVAILABLE
+tivimate-lappeenranta.fi,404,no,AVAILABLE
 tivimate-lasvegas.us,404,no,AVAILABLE
 tivimate-laval.ca,404,no,AVAILABLE
 tivimate-lethbridge.ca,404,no,AVAILABLE
@@ -21853,6 +21869,7 @@ tivimate-mac.fi,404,no,AVAILABLE
 tivimate-mac.no,404,no,AVAILABLE
 tivimate-mac.se,,no,UNKNOWN
 tivimate-mac.us,404,no,AVAILABLE
+tivimate-madison.us,404,no,AVAILABLE
 tivimate-malmo.se,,no,UNKNOWN
 tivimate-markham.ca,404,no,AVAILABLE
 tivimate-medicinehat.ca,404,no,AVAILABLE
@@ -21889,6 +21906,7 @@ tivimate-omaha.us,404,no,AVAILABLE
 tivimate-ontario.ca,404,no,AVAILABLE
 tivimate-orebro.se,,no,UNKNOWN
 tivimate-orlando.us,404,no,AVAILABLE
+tivimate-oshawa.ca,404,no,AVAILABLE
 tivimate-oslo.no,404,no,AVAILABLE
 tivimate-ottawa.ca,404,no,AVAILABLE
 tivimate-oulu.fi,404,no,AVAILABLE
@@ -21898,6 +21916,7 @@ tivimate-pack.fi,404,no,AVAILABLE
 tivimate-pack.no,404,no,AVAILABLE
 tivimate-pack.se,,no,UNKNOWN
 tivimate-pack.us,404,no,AVAILABLE
+tivimate-peterborough.ca,404,no,AVAILABLE
 tivimate-phoenix.us,404,no,AVAILABLE
 tivimate-pittsburgh.us,404,no,AVAILABLE
 tivimate-player.ca,404,no,AVAILABLE
@@ -21916,6 +21935,7 @@ tivimate-playlist.no,404,no,AVAILABLE
 tivimate-playlist.se,,no,UNKNOWN
 tivimate-playlist.uk,404,no,AVAILABLE
 tivimate-playlist.us,404,no,AVAILABLE
+tivimate-pori.fi,404,no,AVAILABLE
 tivimate-portland.us,404,no,AVAILABLE
 tivimate-premium.ca,404,no,AVAILABLE
 tivimate-premium.co.uk,404,no,AVAILABLE
@@ -21948,8 +21968,11 @@ tivimate-replay.se,,no,UNKNOWN
 tivimate-replay.uk,404,no,AVAILABLE
 tivimate-replay.us,404,no,AVAILABLE
 tivimate-richmond.ca,404,no,AVAILABLE
+tivimate-richmondva.us,404,no,AVAILABLE
+tivimate-rovaniemi.fi,404,no,AVAILABLE
 tivimate-sacramento.us,404,no,AVAILABLE
 tivimate-saguenay.ca,404,no,AVAILABLE
+tivimate-saltlake.us,404,no,AVAILABLE
 tivimate-sanantonio.us,404,no,AVAILABLE
 tivimate-sanjose.us,404,no,AVAILABLE
 tivimate-saskatoon.ca,404,no,AVAILABLE
@@ -22009,6 +22032,7 @@ tivimate-turku.fi,404,no,AVAILABLE
 tivimate-umea.se,,no,UNKNOWN
 tivimate-uppsala.se,,no,UNKNOWN
 tivimate-usa.us,404,no,AVAILABLE
+tivimate-vaasa.fi,404,no,AVAILABLE
 tivimate-vancouver.ca,404,no,AVAILABLE
 tivimate-vasteras.se,,no,UNKNOWN
 tivimate-vaughan.ca,404,no,AVAILABLE

@@ -2733,6 +2733,8 @@ APP_STEMS = (
     "sparkle-player",
     "sparkle-box",
     "sparkle-tv",
+    "sparkle-guide",
+    "formuler-player",
     "kodi-guide",
     "kodi-player",
     "kodi-box",
@@ -3038,6 +3040,16 @@ def candidates() -> list[str]:
     _push("tivimate-desmoines.us", seen, out)
     _push("tivimate-visby.se", seen, out)
     _push("tivimate-randers.dk", seen, out)
+    _push("tivimate-oshawa.ca", seen, out)
+    _push("tivimate-peterborough.ca", seen, out)
+    _push("tivimate-madison.us", seen, out)
+    _push("tivimate-saltlake.us", seen, out)
+    _push("tivimate-richmondva.us", seen, out)
+    _push("tivimate-vaasa.fi", seen, out)
+    _push("tivimate-joensuu.fi", seen, out)
+    _push("tivimate-pori.fi", seen, out)
+    _push("tivimate-rovaniemi.fi", seen, out)
+    _push("tivimate-lappeenranta.fi", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3679,6 +3691,8 @@ def candidates() -> list[str]:
         "tivimate-watch",
         "tivimate-compare",
         "waterloo-tivimate",
+        "peterborough-tivimate",
+        "richmond-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
