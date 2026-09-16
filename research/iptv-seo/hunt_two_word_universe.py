@@ -3377,6 +3377,13 @@ APP_STEMS = (
     "molly-apk",
     "t962w-box",
     "t968w-box",
+    "schildi-apk",
+    "fluffychat-apk",
+    "nheko-apk",
+    "cinny-apk",
+    "syphon-apk",
+    "a133w-box",
+    "t965w-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4733,6 +4740,9 @@ def candidates() -> list[str]:
         "rumblingbridge-tivimate",
         "yettsocochil-tivimate",
         "glendevon-tivimate",
+        "muthill-tivimate",
+        "braco-tivimate",
+        "greenloaning-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

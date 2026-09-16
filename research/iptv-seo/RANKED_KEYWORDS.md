@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 09:33 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 09:42 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -734,5 +734,12 @@ Updated 2026-09-16 09:33 UTC. **Only this file** is the keyword ranking. Real se
 | Q722 | `molly apk` | United States | N/A | N/A | — | Molly APK (Semrush pending) | `molly-apk.us` |
 | Q723 | `t962w box` | United States | N/A | N/A | — | T962W chipset box (Semrush pending) | `t962w-box.us` |
 | Q724 | `t968w box` | United States | N/A | N/A | — | T968W chipset box (Semrush pending) | `t968w-box.us` |
+| Q725 | `schildi apk` | United States | N/A | N/A | — | SchildiChat APK (Semrush pending) | `schildi-apk.us` |
+| Q726 | `fluffychat apk` | United States | N/A | N/A | — | FluffyChat APK (Semrush pending) | `fluffychat-apk.us` |
+| Q727 | `nheko apk` | United States | N/A | N/A | — | Nheko APK (Semrush pending) | `nheko-apk.us` |
+| Q728 | `cinny apk` | United States | N/A | N/A | — | Cinny APK (Semrush pending) | `cinny-apk.us` |
+| Q729 | `syphon apk` | United States | N/A | N/A | — | Syphon APK (Semrush pending) | `syphon-apk.us` |
+| Q730 | `a133w box` | United States | N/A | N/A | — | A133W chipset box (Semrush pending) | `a133w-box.us` |
+| Q731 | `t965w box` | United States | N/A | N/A | — | T965W chipset box (Semrush pending) | `t965w-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
