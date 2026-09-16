@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Noxtools recheck (2026-09-16 00:10 UTC): same hour as 00:00 probe — **not HTTP 429**. Login Cloudflare 403; servers 1–2 session expired. No login POST this wave. No invented volumes. Paste `box avis` FR Overview to remap `box-avis.fr`.
+Noxtools recheck (2026-09-16 00:11 UTC): same hour as 00:00 probe — **not HTTP 429**. Login Cloudflare 403; servers 1–2 session expired. No login POST this wave. No invented volumes. Paste `box avis` FR Overview to remap `box-avis.fr`.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -399,5 +399,8 @@ Noxtools recheck (2026-09-16 00:10 UTC): same hour as 00:00 probe — **not HTTP
 | FR Val-de-Marne 5 | `ormesonais iptv` / `villiermarnais iptv` / `chennevierois iptv` / `saintmaurien iptv` | Gentilé commercial | AVAILABLE leftovers: `ormesonais-iptv.fr`, `villiermarnais-iptv.fr`, `chennevierois-iptv.fr`, `saintmaurien-iptv.fr`. `.se` UNKNOWN — not a buy |
 | Boxes | `t966z iptv` / `h728z iptv` | Cheap Android SoC | AVAILABLE leftovers: `t966z-iptv.fr`, `h728z-iptv.fr`. `.se` UNKNOWN — not a buy |
 | UK geo 97 | `aberlour guide` / `craigellachie guide` / `rothes guide` | Nominet no-iptv | AVAILABLE: `aberlour-guide.co.uk`, `craigellachie-guide.co.uk`, `rothes-guide.co.uk` (also `.uk`) |
+| FR Val-de-Marne 6 | `joinvillais iptv` / `maisonalfortais iptv` / `alfortvillois iptv` / `saintmandeen iptv` | Gentilé commercial | AVAILABLE leftovers: `joinvillais-iptv.fr`, `maisonalfortais-iptv.fr`, `alfortvillois-iptv.fr`, `saintmandeen-iptv.fr`. `.se` UNKNOWN — not a buy |
+| Boxes | `t967z iptv` / `a523z iptv` | Cheap Android SoC | AVAILABLE leftovers: `t967z-iptv.fr`, `a523z-iptv.fr`. `.se` UNKNOWN — not a buy |
+| UK geo 98 | `dufftown guide` / `knockando guide` / `glenlivet guide` | Nominet no-iptv | AVAILABLE: `dufftown-guide.co.uk`, `knockando-guide.co.uk`, `glenlivet-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
