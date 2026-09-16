@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:10 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:13 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -499,5 +499,17 @@ Updated 2026-09-16 05:10 UTC. **Only this file** is the keyword ranking. Real se
 | Q487 | `openvix apk` | United States | N/A | N/A | — | OpenViX APK (Semrush pending) | `openvix-apk.us` |
 | Q488 | `t972m box` | United States | N/A | N/A | — | T972M chipset box (Semrush pending) | `t972m-box.us` |
 | Q489 | `h618k box` | United States | N/A | N/A | — | H618K chipset box (Semrush pending) | `h618k-box.us` |
+| Q490 | `openspa apk` | United States | N/A | N/A | — | OpenSPA APK (Semrush pending) | `openspa-apk.us` |
+| Q491 | `openhdf apk` | United States | N/A | N/A | — | OpenHDF APK (Semrush pending) | `openhdf-apk.us` |
+| Q492 | `openbh apk` | United States | N/A | N/A | — | OpenBH APK (Semrush pending) | `openbh-apk.us` |
+| Q493 | `opendroid apk` | United States | N/A | N/A | — | OpenDroid APK (Semrush pending) | `opendroid-apk.us` |
+| Q494 | `opennfr apk` | United States | N/A | N/A | — | OpenNFR APK (Semrush pending) | `opennfr-apk.us` |
+| Q495 | `teamblue apk` | United States | N/A | N/A | — | TeamBlue APK (Semrush pending) | `teamblue-apk.us` |
+| Q496 | `openvision apk` | United States | N/A | N/A | — | OpenVision APK (Semrush pending) | `openvision-apk.us` |
+| Q497 | `egami apk` | United States | N/A | N/A | — | EGAMI APK (Semrush pending) | `egami-apk.us` |
+| Q498 | `openelec apk` | United States | N/A | N/A | — | OpenELEC APK (Semrush pending) | `openelec-apk.us` |
+| Q499 | `lakka apk` | United States | N/A | N/A | — | Lakka APK (Semrush pending) | `lakka-apk.us` |
+| Q500 | `t963n box` | United States | N/A | N/A | — | T963N chipset box (Semrush pending) | `t963n-box.us` |
+| Q501 | `rk3588k box` | United States | N/A | N/A | — | RK3588K chipset box (Semrush pending) | `rk3588k-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

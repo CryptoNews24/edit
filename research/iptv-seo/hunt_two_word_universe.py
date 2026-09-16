@@ -3142,6 +3142,18 @@ APP_STEMS = (
     "openvix-apk",
     "t972m-box",
     "h618k-box",
+    "openspa-apk",
+    "openhdf-apk",
+    "openbh-apk",
+    "opendroid-apk",
+    "opennfr-apk",
+    "teamblue-apk",
+    "openvision-apk",
+    "egami-apk",
+    "openelec-apk",
+    "lakka-apk",
+    "t963n-box",
+    "rk3588k-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4411,6 +4423,9 @@ def candidates() -> list[str]:
         "aberfeldy-tivimate",
         "blairgowrie-tivimate",
         "alyth-tivimate",
+        "kirriemuir-tivimate",
+        "forfar-tivimate",
+        "brechin-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
