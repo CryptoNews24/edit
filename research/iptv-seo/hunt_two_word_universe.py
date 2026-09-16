@@ -2827,6 +2827,28 @@ def candidates() -> list[str]:
     _push("tivimate-helsinki.fi", seen, out)
     _push("helsinki-tivimate.fi", seen, out)
     _push("tivimate-stockholm.se", seen, out)
+    _push("tivimate-hamilton.ca", seen, out)
+    _push("tivimate-victoria.ca", seen, out)
+    _push("tivimate-saskatoon.ca", seen, out)
+    _push("tivimate-regina.ca", seen, out)
+    _push("tivimate-kelowna.ca", seen, out)
+    _push("tivimate-mississauga.ca", seen, out)
+    _push("tivimate-brampton.ca", seen, out)
+    _push("tivimate-atlanta.us", seen, out)
+    _push("tivimate-detroit.us", seen, out)
+    _push("tivimate-nashville.us", seen, out)
+    _push("tivimate-tampa.us", seen, out)
+    _push("tivimate-orlando.us", seen, out)
+    _push("charlotte-tivimate.us", seen, out)
+    _push("tivimate-portland.us", seen, out)
+    _push("tivimate-minneapolis.us", seen, out)
+    _push("tivimate-turku.fi", seen, out)
+    _push("tivimate-tampere.fi", seen, out)
+    _push("tivimate-aarhus.dk", seen, out)
+    _push("tivimate-trondheim.no", seen, out)
+    _push("tivimate-stavanger.no", seen, out)
+    _push("tivimate-malmo.se", seen, out)
+    _push("tivimate-goteborg.se", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3432,6 +3454,11 @@ def candidates() -> list[str]:
         "leeds-tivimate",
         "tivimate-hdr",
         "tivimate-pvr",
+        "liverpool-tivimate",
+        "bristol-tivimate",
+        "sheffield-tivimate",
+        "edinburgh-tivimate",
+        "cardiff-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
