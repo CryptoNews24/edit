@@ -991,6 +991,12 @@ QUEUED = (
     ("debridav apk", "us", "Debridav APK"),
     ("kodi 18", "us", "Kodi 18"),
     ("s905x3z box", "us", "S905X3Z chipset box"),
+    ("syncler plus", "us", "Syncler Plus"),
+    ("xtream ui", "us", "Xtream UI"),
+    ("magis pro", "us", "Magis Pro"),
+    ("stream flix", "us", "StreamFlix"),
+    ("rdnet apk", "us", "RDNet APK"),
+    ("s905l3z box", "us", "S905L3Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1956,6 +1962,12 @@ NEEDLES = {
     "debridav apk": ("debridav-apk",),
     "kodi 18": ("kodi18-apk",),
     "s905x3z box": ("s905x3z-box",),
+    "syncler plus": ("synclerplus-apk",),
+    "xtream ui": ("xtreamui-apk",),
+    "magis pro": ("magispro-apk",),
+    "stream flix": ("streamflix-apk",),
+    "rdnet apk": ("rdnet-apk",),
+    "s905l3z box": ("s905l3z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

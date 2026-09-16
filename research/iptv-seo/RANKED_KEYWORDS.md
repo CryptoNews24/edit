@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 17:10 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 17:23 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -320,7 +320,7 @@ Updated 2026-09-16 17:10 UTC. **Only this file** is the keyword ranking. Space-s
 | Q308 | `premiumize` | United States | N/A | N/A | — | Premiumize Stremio (Semrush pending) | `premiumize-box.us` |
 | Q309 | `mediafusion` | United States | N/A | N/A | — | MediaFusion addon (Semrush pending) | `mediafusion-box.us` |
 | Q310 | `kometa` | United States | N/A | N/A | — | Kometa Plex overlay (Semrush pending) | `kometa-box.us` |
-| Q311 | `xtream ui` | United States | N/A | N/A | — | Xtream UI panel (Semrush pending) | `xtream-ui.us` |
+| Q311 | `xtream ui` | United States | N/A | N/A | — | Xtream UI panel (Semrush pending) | `xtreamui-apk.us` |
 | Q312 | `xui one` | United States | N/A | N/A | — | XUI One panel (Semrush pending) | `xui-one.us` |
 | Q313 | `sparkle apk` | United States | N/A | N/A | — | Sparkle TV APK (Semrush pending) | `sparkle-apk.us` |
 | Q314 | `smarters apk` | United States | N/A | N/A | — | Smarters Pro APK (Semrush pending) | `smarters-apk.us` |
@@ -970,5 +970,10 @@ Updated 2026-09-16 17:10 UTC. **Only this file** is the keyword ranking. Space-s
 | Q958 | `debridav apk` | United States | N/A | N/A | — | Debridav APK (Semrush pending) | `debridav-apk.us` |
 | Q959 | `kodi 18` | United States | N/A | N/A | — | Kodi 18 (Semrush pending) | `kodi18-apk.us` |
 | Q960 | `s905x3z box` | United States | N/A | N/A | — | S905X3Z chipset box (Semrush pending) | `s905x3z-box.us` |
+| Q961 | `syncler plus` | United States | N/A | N/A | — | Syncler Plus (Semrush pending) | `synclerplus-apk.us` |
+| Q962 | `magis pro` | United States | N/A | N/A | — | Magis Pro (Semrush pending) | `magispro-apk.us` |
+| Q963 | `stream flix` | United States | N/A | N/A | — | StreamFlix (Semrush pending) | `streamflix-apk.us` |
+| Q964 | `rdnet apk` | United States | N/A | N/A | — | RDNet APK (Semrush pending) | `rdnet-apk.us` |
+| Q965 | `s905l3z box` | United States | N/A | N/A | — | S905L3Z chipset box (Semrush pending) | `s905l3z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.
