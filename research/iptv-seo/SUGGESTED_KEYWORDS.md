@@ -482,6 +482,7 @@ Noxtools recheck (2026-09-16 01:04 UTC): same hour as 01:02 probe — **not HTTP
 | UK geo 124 | `glen scotia guide` / `springbank guide` / `longrow guide` | Nominet no-iptv | AVAILABLE: `glenscotia-guide.co.uk`, `springbank-guide.co.uk`, `longrow-guide.co.uk` (also `.uk`) |
 | TiviMate CA/US/UK/Nordic | `tivimate box` / `tivimate playlist` / `tivimate setup` / `beste tivimate` | App + geo two-word | AVAILABLE leftovers: `tivimate-box.ca`, `tivimate-guide.ca`, `tivimate-canada.ca`, `tivimate-box.us`, `tivimate-guide.co.uk`, `tivimate-norge.no`, `tivimate-danmark.dk`, `tivimate-suomi.fi`. TAKEN: `tivimate-iptv.ca`, `tivimate-iptv.us`, `tivi-mate.ca`, `tivi-mate.us`. `.se` UNKNOWN — not a buy |
 | TiviMate playlist/EPG | `tivimate playlist` / `tivimate m3u` / `tivimate xtream` / `tivimate kodi` | Playlist + player commercial | AVAILABLE leftovers: `tivimate-playlist.ca`, `tivimate-m3u.us`, `tivimate-xtream.ca`, `tivimate-playlist.co.uk`, `tivimate-quebec.ca`, `billig-tivimate.no`, `halpa-tivimate.fi`. `.se` UNKNOWN — not a buy |
+| TiviMate 4K/VPN/cities | `tivimate 4k` / `tivimate vpn` / `tivimate toronto` / `apple tv tivimate` | Device + CA geo | AVAILABLE leftovers: `tivimate-4k.ca`, `tivimate-vpn.us`, `tivimate-toronto.ca`, `tivimate-4k.co.uk`, `appletv-tivimate.ca`. `.se` UNKNOWN — not a buy |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Exclude Semrush `keyword - keyword` pair rows.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).

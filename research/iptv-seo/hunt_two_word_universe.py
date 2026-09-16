@@ -2777,6 +2777,26 @@ def candidates() -> list[str]:
     _push("billig-tivimate.dk", seen, out)
     _push("billig-tivimate.se", seen, out)
     _push("halpa-tivimate.fi", seen, out)
+    for stem in (
+        "tivimate-vpn",
+        "tivimate-4k",
+        "tivimate-catchup",
+        "tivimate-replay",
+        "tivimate-hevc",
+        "tivimate-line",
+        "tivimate-mac",
+        "appletv-tivimate",
+        "chromecast-tivimate",
+        "shield-tivimate",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
+    _push("tivimate-toronto.ca", seen, out)
+    _push("tivimate-vancouver.ca", seen, out)
+    _push("tivimate-calgary.ca", seen, out)
+    _push("tivimate-ottawa.ca", seen, out)
+    _push("tivimate-montreal.ca", seen, out)
+    _push("tivimate-edmonton.ca", seen, out)
     # Nominet: two-word names with NO "iptv" in the label.
     for stem in (
         "box-guide",
@@ -3350,6 +3370,14 @@ def candidates() -> list[str]:
         "playlist-tivimate",
         "xtream-tivimate",
         "kodi-tivimate",
+        "tivimate-vpn",
+        "tivimate-4k",
+        "tivimate-catchup",
+        "tivimate-replay",
+        "tivimate-hevc",
+        "appletv-tivimate",
+        "chromecast-tivimate",
+        "shield-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
