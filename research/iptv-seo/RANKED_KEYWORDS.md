@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 19:38 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 19:48 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -997,5 +997,11 @@ Updated 2026-09-16 19:38 UTC. **Only this file** is the keyword ranking. Space-s
 | Q985 | `ott box` | United States | N/A | N/A | — | OTT box commercial smash (Semrush pending) | `ottbox.us` |
 | Q986 | `rank iptv` | United States | N/A | N/A | — | Rank IPTV commercial smash (Semrush pending) | `rankiptv.us` |
 | Q987 | `tv guide` | United States | N/A | N/A | — | TV guide commercial smash (Semrush pending) | `tvguide.fi` |
+| Q988 | `web iptv` | United States | N/A | N/A | — | Web IPTV commercial smash (Semrush pending) | `webiptv.us` |
+| Q989 | `vpn iptv` | United States | N/A | N/A | — | VPN IPTV commercial smash (Semrush pending) | `vpniptv.us` |
+| Q990 | `apk iptv` | United States | N/A | N/A | — | APK IPTV commercial smash (Semrush pending) | `apkiptv.us` |
+| Q991 | `ios iptv` | United States | N/A | N/A | — | iOS IPTV commercial smash (Semrush pending) | `iosiptv.us` |
+| Q992 | `mobile iptv` | United States | N/A | N/A | — | Mobile IPTV commercial smash (Semrush pending) | `mobileiptv.us` |
+| Q993 | `itv hub` | United Kingdom | N/A | N/A | — | ITV Hub smash (Semrush pending) | `itvhub.uk` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
