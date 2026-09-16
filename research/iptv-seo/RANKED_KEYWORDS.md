@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 13:00 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 13:12 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -839,5 +839,11 @@ Updated 2026-09-16 13:00 UTC. **Only this file** is the keyword ranking. Real se
 | Q827 | `pia apk` | United States | N/A | N/A | — | PIA APK (Semrush pending) | `pia-apk.us` |
 | Q828 | `vyprvpn apk` | United States | N/A | N/A | — | VyprVPN APK (Semrush pending) | `vyprvpn-apk.us` |
 | Q829 | `t982z box` | United States | N/A | N/A | — | T982Z chipset box (Semrush pending) | `t982z-box.us` |
+| Q830 | `hideme apk` | United States | N/A | N/A | — | hide.me APK (Semrush pending) | `hideme-apk.us` |
+| Q831 | `tunnelbear apk` | United States | N/A | N/A | — | TunnelBear APK (Semrush pending) | `tunnelbear-apk.us` |
+| Q832 | `atlasvpn apk` | United States | N/A | N/A | — | Atlas VPN APK (Semrush pending) | `atlasvpn-apk.us` |
+| Q833 | `ipvanish apk` | United States | N/A | N/A | — | IPVanish APK (Semrush pending) | `ipvanish-apk.us` |
+| Q834 | `purevpn apk` | United States | N/A | N/A | — | PureVPN APK (Semrush pending) | `purevpn-apk.us` |
+| Q835 | `h618z box` | United States | N/A | N/A | — | H618Z chipset box (Semrush pending) | `h618z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

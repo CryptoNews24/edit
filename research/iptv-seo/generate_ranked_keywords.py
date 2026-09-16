@@ -859,6 +859,12 @@ QUEUED = (
     ("pia apk", "us", "PIA APK"),
     ("vyprvpn apk", "us", "VyprVPN APK"),
     ("t982z box", "us", "T982Z chipset box"),
+    ("hideme apk", "us", "hide.me APK"),
+    ("tunnelbear apk", "us", "TunnelBear APK"),
+    ("atlasvpn apk", "us", "Atlas VPN APK"),
+    ("ipvanish apk", "us", "IPVanish APK"),
+    ("purevpn apk", "us", "PureVPN APK"),
+    ("h618z box", "us", "H618Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1692,6 +1698,12 @@ NEEDLES = {
     "pia apk": ("pia-apk",),
     "vyprvpn apk": ("vyprvpn-apk",),
     "t982z box": ("t982z-box",),
+    "hideme apk": ("hideme-apk",),
+    "tunnelbear apk": ("tunnelbear-apk",),
+    "atlasvpn apk": ("atlasvpn-apk",),
+    "ipvanish apk": ("ipvanish-apk",),
+    "purevpn apk": ("purevpn-apk",),
+    "h618z box": ("h618z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
