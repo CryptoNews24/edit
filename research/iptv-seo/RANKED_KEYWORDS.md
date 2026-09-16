@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:43 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:47 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -387,5 +387,19 @@ Updated 2026-09-16 04:43 UTC. **Only this file** is the keyword ranking. Real se
 | Q375 | `potplayer apk` | United States | N/A | N/A | — | PotPlayer APK (Semrush pending) | `potplayer-apk.us` |
 | Q376 | `t968k box` | United States | N/A | N/A | — | T968K chipset box (Semrush pending) | `t968k-box.us` |
 | Q377 | `rk3528s box` | United States | N/A | N/A | — | RK3528S chipset box (Semrush pending) | `rk3528s-box.us` |
+| Q378 | `grayjay apk` | United States | N/A | N/A | — | Grayjay APK (Semrush pending) | `grayjay-apk.us` |
+| Q379 | `freetube apk` | United States | N/A | N/A | — | FreeTube APK (Semrush pending) | `freetube-apk.us` |
+| Q380 | `libretube apk` | United States | N/A | N/A | — | LibreTube APK (Semrush pending) | `libretube-apk.us` |
+| Q381 | `firestick apk` | United States | N/A | N/A | — | Fire Stick APK (Semrush pending) | `firestick-apk.us` |
+| Q382 | `kmplayer apk` | United States | N/A | N/A | — | KMPlayer APK (Semrush pending) | `kmplayer-apk.us` |
+| Q383 | `mpv apk` | United States | N/A | N/A | — | mpv APK (Semrush pending) | `mpv-apk.us` |
+| Q384 | `tautulli apk` | United States | N/A | N/A | — | Tautulli APK (Semrush pending) | `tautulli-apk.us` |
+| Q385 | `tvheadend apk` | United States | N/A | N/A | — | Tvheadend APK (Semrush pending) | `tvheadend-apk.us` |
+| Q386 | `nextpvr apk` | United States | N/A | N/A | — | NextPVR APK (Semrush pending) | `nextpvr-apk.us` |
+| Q387 | `kodi numbers` | United States | N/A | N/A | — | Kodi Numbers addon (Semrush pending) | `kodi-numbers.us` |
+| Q388 | `kodi dradis` | United States | N/A | N/A | — | Kodi Dradis addon (Semrush pending) | `kodi-dradis.us` |
+| Q389 | `chromecast apk` | United States | N/A | N/A | — | Chromecast APK (Semrush pending) | `chromecast-apk.us` |
+| Q390 | `t962k box` | United States | N/A | N/A | — | T962K chipset box (Semrush pending) | `t962k-box.us` |
+| Q391 | `h618e box` | United States | N/A | N/A | — | H618E chipset box (Semrush pending) | `h618e-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
