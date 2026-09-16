@@ -1186,6 +1186,19 @@ QUEUED = (
     ("king tv", "us", "King TV smash"),
     ("tv2 news", "dk", "TV 2 News smash"),
     ("odroid tv", "us", "Odroid TV smash"),
+    ("nord vpn", "us", "NordVPN smash"),
+    ("express vpn", "us", "ExpressVPN smash"),
+    ("proton vpn", "us", "Proton VPN smash"),
+    ("surf shark", "us", "Surfshark smash"),
+    ("tivimate plus", "us", "TiviMate Plus smash"),
+    ("stremio plus", "us", "Stremio Plus smash"),
+    ("xfinity tv", "us", "Xfinity TV smash"),
+    ("spectrum tv", "us", "Spectrum TV smash"),
+    ("verizon tv", "us", "Verizon TV smash"),
+    ("sky witness", "uk", "Sky Witness smash"),
+    ("channel5 tv", "uk", "Channel 5 smash"),
+    ("pihole tv", "us", "Pi-hole TV smash"),
+    ("iptv nator", "us", "IPTV Nator smash"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).

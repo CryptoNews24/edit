@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 21:49 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 22:03 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -193,7 +193,7 @@ Updated 2026-09-16 21:49 UTC. **Only this file** is the keyword ranking. Space-s
 | Q181 | `emby theater` | United States | N/A | N/A | — | Emby Theater app (Semrush pending) | `—` |
 | Q182 | `mx player` | United States | N/A | N/A | — | MX Player app (Semrush pending) | `—` |
 | Q183 | `nova player` | United States | N/A | N/A | — | Nova Player app (Semrush pending) | `novaplayer.us` |
-| Q184 | `iptvnator` | United States | N/A | N/A | — | IPTVnator playlist app (Semrush pending) | `—` |
+| Q184 | `iptvnator` | United States | N/A | N/A | — | IPTVnator playlist app (Semrush pending) | `iptvnator.ca` |
 | Q185 | `hypnotix` | United States | N/A | N/A | — | Hypnotix IPTV app (Semrush pending) | `—` |
 | Q186 | `jellyfin theater` | United States | N/A | N/A | — | Jellyfin Theater app (Semrush pending) | `—` |
 | Q187 | `potplayer` | United States | N/A | N/A | — | PotPlayer app (Semrush pending) | `—` |
@@ -1159,5 +1159,18 @@ Updated 2026-09-16 21:49 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1147 | `king tv` | United States | N/A | N/A | — | King TV smash (Semrush pending) | `kingtv.dk` |
 | Q1148 | `tv2 news` | Denmark | N/A | N/A | — | TV 2 News smash (Semrush pending) | `tv2news.ca` |
 | Q1149 | `odroid tv` | United States | N/A | N/A | — | Odroid TV smash (Semrush pending) | `odroidtv.us` |
+| Q1150 | `nord vpn` | United States | N/A | N/A | — | NordVPN smash (Semrush pending) | `—` |
+| Q1151 | `express vpn` | United States | N/A | N/A | — | ExpressVPN smash (Semrush pending) | `expressvpn.dk` |
+| Q1152 | `proton vpn` | United States | N/A | N/A | — | Proton VPN smash (Semrush pending) | `protonvpn.ca` |
+| Q1153 | `surf shark` | United States | N/A | N/A | — | Surfshark smash (Semrush pending) | `—` |
+| Q1154 | `tivimate plus` | United States | N/A | N/A | — | TiviMate Plus smash (Semrush pending) | `tivimateplus.us` |
+| Q1155 | `stremio plus` | United States | N/A | N/A | — | Stremio Plus smash (Semrush pending) | `stremioplus.us` |
+| Q1156 | `xfinity tv` | United States | N/A | N/A | — | Xfinity TV smash (Semrush pending) | `xfinitytv.ca` |
+| Q1157 | `spectrum tv` | United States | N/A | N/A | — | Spectrum TV smash (Semrush pending) | `spectrumtv.us` |
+| Q1158 | `verizon tv` | United States | N/A | N/A | — | Verizon TV smash (Semrush pending) | `verizontv.us` |
+| Q1159 | `sky witness` | United Kingdom | N/A | N/A | — | Sky Witness smash (Semrush pending) | `skywitness.uk` |
+| Q1160 | `channel5 tv` | United Kingdom | N/A | N/A | — | Channel 5 smash (Semrush pending) | `channel5tv.co.uk` |
+| Q1161 | `pihole tv` | United States | N/A | N/A | — | Pi-hole TV smash (Semrush pending) | `piholetv.us` |
+| Q1162 | `iptv nator` | United States | N/A | N/A | — | IPTV Nator smash (Semrush pending) | `iptvnator.ca` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
