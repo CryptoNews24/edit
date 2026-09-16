@@ -4373,6 +4373,8 @@ cornish-iptv.us,404,no,AVAILABLE
 cornwall-guide.co.uk,200,yes,TAKEN
 cornwall-guide.uk,404,no,AVAILABLE
 cornwall-iptv.ca,404,no,AVAILABLE
+cornwall-tivimate.co.uk,404,no,AVAILABLE
+cornwall-tivimate.uk,404,no,AVAILABLE
 correze-iptv.ca,404,no,AVAILABLE
 correze-iptv.ch,404,no,AVAILABLE
 correze-iptv.de,404,no,AVAILABLE
@@ -10409,6 +10411,8 @@ kenora-iptv.ca,404,no,AVAILABLE
 kenosha-iptv.us,404,no,AVAILABLE
 kent-guide.co.uk,404,no,AVAILABLE
 kent-guide.uk,404,no,AVAILABLE
+kent-tivimate.co.uk,404,no,AVAILABLE
+kent-tivimate.uk,404,no,AVAILABLE
 kerkrade-iptv.nl,404,no,AVAILABLE
 khmer-box.ca,404,no,AVAILABLE
 khmer-box.ch,404,no,AVAILABLE
@@ -18198,6 +18202,8 @@ scone-guide.co.uk,404,no,AVAILABLE
 scone-guide.uk,404,no,AVAILABLE
 scotland-guide.co.uk,200,yes,TAKEN
 scotland-guide.uk,404,no,AVAILABLE
+scotland-tivimate.co.uk,404,no,AVAILABLE
+scotland-tivimate.uk,404,no,AVAILABLE
 scots-iptv.ca,404,no,AVAILABLE
 scots-iptv.ch,404,no,AVAILABLE
 scots-iptv.de,404,no,AVAILABLE
@@ -21790,6 +21796,7 @@ tivimate-dns.no,404,no,AVAILABLE
 tivimate-dns.se,,no,UNKNOWN
 tivimate-dns.us,404,no,AVAILABLE
 tivimate-drammen.no,404,no,AVAILABLE
+tivimate-durham.us,404,no,AVAILABLE
 tivimate-edmonton.ca,404,no,AVAILABLE
 tivimate-elpaso.us,404,no,AVAILABLE
 tivimate-epg.ca,404,no,AVAILABLE
@@ -21824,6 +21831,7 @@ tivimate-fresno.us,404,no,AVAILABLE
 tivimate-gatineau.ca,404,no,AVAILABLE
 tivimate-gavle.se,,no,UNKNOWN
 tivimate-goteborg.se,,no,UNKNOWN
+tivimate-greensboro.us,404,no,AVAILABLE
 tivimate-guelph.ca,404,no,AVAILABLE
 tivimate-guide.ca,404,no,AVAILABLE
 tivimate-guide.co.uk,404,no,AVAILABLE
@@ -21835,6 +21843,7 @@ tivimate-guide.uk,404,no,AVAILABLE
 tivimate-guide.us,404,no,AVAILABLE
 tivimate-halifax.ca,404,no,AVAILABLE
 tivimate-hamilton.ca,404,no,AVAILABLE
+tivimate-harstad.no,404,no,AVAILABLE
 tivimate-hdr.ca,404,no,AVAILABLE
 tivimate-hdr.co.uk,404,no,AVAILABLE
 tivimate-hdr.dk,404,no,AVAILABLE
@@ -21855,6 +21864,7 @@ tivimate-hevc.se,,no,UNKNOWN
 tivimate-hevc.uk,404,no,AVAILABLE
 tivimate-hevc.us,404,no,AVAILABLE
 tivimate-honolulu.us,404,no,AVAILABLE
+tivimate-horsens.dk,404,no,AVAILABLE
 tivimate-houston.us,404,no,AVAILABLE
 tivimate-indianapolis.us,404,no,AVAILABLE
 tivimate-install.ca,404,no,AVAILABLE
@@ -21895,6 +21905,7 @@ tivimate-kodi.se,,no,UNKNOWN
 tivimate-kodi.uk,404,no,AVAILABLE
 tivimate-kodi.us,404,no,AVAILABLE
 tivimate-kolding.dk,404,no,AVAILABLE
+tivimate-kotka.fi,404,no,AVAILABLE
 tivimate-kristiansand.no,404,no,AVAILABLE
 tivimate-kuopio.fi,404,no,AVAILABLE
 tivimate-lahti.fi,404,no,AVAILABLE
@@ -21902,6 +21913,7 @@ tivimate-lappeenranta.fi,404,no,AVAILABLE
 tivimate-lasvegas.us,404,no,AVAILABLE
 tivimate-laval.ca,404,no,AVAILABLE
 tivimate-lethbridge.ca,404,no,AVAILABLE
+tivimate-lillehammer.no,404,no,AVAILABLE
 tivimate-line.ca,404,no,AVAILABLE
 tivimate-line.dk,404,no,AVAILABLE
 tivimate-line.fi,404,no,AVAILABLE
@@ -21942,10 +21954,12 @@ tivimate-markham.ca,404,no,AVAILABLE
 tivimate-medicinehat.ca,404,no,AVAILABLE
 tivimate-memphis.us,404,no,AVAILABLE
 tivimate-miami.us,404,no,AVAILABLE
+tivimate-mikkeli.fi,404,no,AVAILABLE
 tivimate-milton.ca,404,no,AVAILABLE
 tivimate-milwaukee.us,404,no,AVAILABLE
 tivimate-minneapolis.us,404,no,AVAILABLE
 tivimate-mississauga.ca,404,no,AVAILABLE
+tivimate-molde.no,404,no,AVAILABLE
 tivimate-moncton.ca,404,no,AVAILABLE
 tivimate-montreal.ca,404,no,AVAILABLE
 tivimate-movie.ca,404,no,AVAILABLE
@@ -21970,6 +21984,7 @@ tivimate-niagara.ca,404,no,AVAILABLE
 tivimate-norfolk.us,404,no,AVAILABLE
 tivimate-norge.no,404,no,AVAILABLE
 tivimate-norrkoping.se,,no,UNKNOWN
+tivimate-oakland.us,404,no,AVAILABLE
 tivimate-oakville.ca,404,no,AVAILABLE
 tivimate-odense.dk,404,no,AVAILABLE
 tivimate-omaha.us,404,no,AVAILABLE
@@ -22061,6 +22076,7 @@ tivimate-setup.se,,no,UNKNOWN
 tivimate-setup.uk,404,no,AVAILABLE
 tivimate-setup.us,404,no,AVAILABLE
 tivimate-sherbrooke.ca,404,no,AVAILABLE
+tivimate-silkeborg.dk,404,no,AVAILABLE
 tivimate-spokane.us,404,no,AVAILABLE
 tivimate-sport.ca,404,no,AVAILABLE
 tivimate-sport.co.uk,404,no,AVAILABLE
@@ -22083,6 +22099,7 @@ tivimate-sudbury.ca,404,no,AVAILABLE
 tivimate-suomi.fi,404,no,AVAILABLE
 tivimate-surrey.ca,404,no,AVAILABLE
 tivimate-sverige.se,,no,UNKNOWN
+tivimate-tacoma.us,404,no,AVAILABLE
 tivimate-tampa.us,404,no,AVAILABLE
 tivimate-tampere.fi,404,no,AVAILABLE
 tivimate-thunderbay.ca,404,no,AVAILABLE
@@ -24242,6 +24259,8 @@ yonne-iptv.se,,no,UNKNOWN
 yonne-iptv.us,404,no,AVAILABLE
 yorkshire-guide.co.uk,200,yes,TAKEN
 yorkshire-guide.uk,404,no,AVAILABLE
+yorkshire-tivimate.co.uk,404,no,AVAILABLE
+yorkshire-tivimate.uk,404,no,AVAILABLE
 yoruba-iptv.ca,404,no,AVAILABLE
 yoruba-iptv.ch,404,no,AVAILABLE
 yoruba-iptv.de,404,no,AVAILABLE

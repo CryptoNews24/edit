@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-16 02:34 UTC
+Updated 2026-09-16 02:37 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
@@ -13462,6 +13462,8 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-dns.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  tivimate-durham.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-elpaso.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-epg.us
@@ -13473,6 +13475,8 @@ United States
   tivimate-firestick.us
     iptv firestick — 590/mo KD 38 Possible CPC N/A [US]
   tivimate-fresno.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  tivimate-greensboro.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-guide.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -13524,6 +13528,8 @@ United States
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-norfolk.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  tivimate-oakland.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-omaha.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-orlando.us
@@ -13571,6 +13577,8 @@ United States
   tivimate-sport.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-stream.us
+    best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
+  tivimate-tacoma.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
   tivimate-tampa.us
     best iptv — 5.4K/mo KD 23 Easy CPC N/A [US]
@@ -18302,6 +18310,8 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-dns.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  tivimate-durham.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-elpaso.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-epg.us
@@ -18313,6 +18323,8 @@ United States
   tivimate-firestick.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-fresno.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  tivimate-greensboro.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-guide.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -18364,6 +18376,8 @@ United States
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-norfolk.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  tivimate-oakland.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-omaha.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-orlando.us
@@ -18411,6 +18425,8 @@ United States
   tivimate-sport.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-stream.us
+    native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
+  tivimate-tacoma.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
   tivimate-tampa.us
     native nic.us RDAP 404 + no DNS. Semrush US volume N/A — not in Top 10 yet.
@@ -19458,6 +19474,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   cornwall-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  cornwall-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  cornwall-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   cotswold-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   cotswold-guide.uk
@@ -20203,6 +20223,10 @@ United Kingdom
   kent-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   kent-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  kent-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  kent-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   kilchoan-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -20998,6 +21022,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   scotland-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  scotland-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  scotland-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   selkirk-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   selkirk-guide.uk
@@ -21660,6 +21688,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   yorkshire-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  yorkshire-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  yorkshire-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
 
 ======== COUNTRY TLDs (.ca .us Europe) — AVAILABLE leftovers ========
 
@@ -21667,7 +21699,7 @@ AVAILABLE = native RDAP 404 + no DNS. Two-word names only. Confirm/UNKNOWN are N
 Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.
 
 .ca  Canada  AVAILABLE=2373  confirm=0  unknown=0
-.us  United States  AVAILABLE=2407  confirm=0  unknown=0
+.us  United States  AVAILABLE=2411  confirm=0  unknown=0
 .fr  France  AVAILABLE=2213  confirm=0  unknown=0
 .de  Germany  AVAILABLE=2080  confirm=0  unknown=0
 .nl  Netherlands  AVAILABLE=2007  confirm=0  unknown=115
@@ -21678,13 +21710,13 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
 .it  Italy  AVAILABLE=0  confirm=12  unknown=0
 .pt  Portugal  AVAILABLE=0  confirm=9  unknown=0
 .se  Sweden  AVAILABLE=1  confirm=7  unknown=2217
-.no  Norway  AVAILABLE=2238  confirm=0  unknown=0
-.dk  Denmark  AVAILABLE=2234  confirm=0  unknown=0
-.fi  Finland  AVAILABLE=2238  confirm=0  unknown=0
+.no  Norway  AVAILABLE=2241  confirm=0  unknown=0
+.dk  Denmark  AVAILABLE=2236  confirm=0  unknown=0
+.fi  Finland  AVAILABLE=2240  confirm=0  unknown=0
 .pl  Poland  AVAILABLE=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=717  confirm=0  unknown=7
+.co.uk  United Kingdom  AVAILABLE=721  confirm=0  unknown=7
 
 -------- .ca Canada AVAILABLE --------
   4k-box.ca
@@ -26190,12 +26222,14 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-desmoines.us
   tivimate-detroit.us
   tivimate-dns.us
+  tivimate-durham.us
   tivimate-elpaso.us
   tivimate-epg.us
   tivimate-film.us
   tivimate-films.us
   tivimate-firestick.us
   tivimate-fresno.us
+  tivimate-greensboro.us
   tivimate-guide.us
   tivimate-hdr.us
   tivimate-hevc.us
@@ -26221,6 +26255,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-nashville.us
   tivimate-news.us
   tivimate-norfolk.us
+  tivimate-oakland.us
   tivimate-omaha.us
   tivimate-orlando.us
   tivimate-pack.us
@@ -26245,6 +26280,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-spokane.us
   tivimate-sport.us
   tivimate-stream.us
+  tivimate-tacoma.us
   tivimate-tampa.us
   tivimate-timeshift.us
   tivimate-trial.us
@@ -36893,6 +36929,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-films.no
   tivimate-fredrikstad.no
   tivimate-guide.no
+  tivimate-harstad.no
   tivimate-hdr.no
   tivimate-hevc.no
   tivimate-install.no
@@ -36900,10 +36937,12 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-kids.no
   tivimate-kodi.no
   tivimate-kristiansand.no
+  tivimate-lillehammer.no
   tivimate-line.no
   tivimate-live.no
   tivimate-m3u.no
   tivimate-mac.no
+  tivimate-molde.no
   tivimate-movie.no
   tivimate-news.no
   tivimate-norge.no
@@ -39133,6 +39172,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-hdr.dk
   tivimate-herning.dk
   tivimate-hevc.dk
+  tivimate-horsens.dk
   tivimate-install.dk
   tivimate-iptv.dk
   tivimate-kids.dk
@@ -39155,6 +39195,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-replay.dk
   tivimate-roskilde.dk
   tivimate-setup.dk
+  tivimate-silkeborg.dk
   tivimate-sport.dk
   tivimate-stream.dk
   tivimate-timeshift.dk
@@ -41373,6 +41414,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-jyvaskyla.fi
   tivimate-kids.fi
   tivimate-kodi.fi
+  tivimate-kotka.fi
   tivimate-kuopio.fi
   tivimate-lahti.fi
   tivimate-lappeenranta.fi
@@ -41380,6 +41422,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-live.fi
   tivimate-m3u.fi
   tivimate-mac.fi
+  tivimate-mikkeli.fi
   tivimate-movie.fi
   tivimate-news.fi
   tivimate-oulu.fi
@@ -41780,6 +41823,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   comrie-guide.co.uk
   convalmore-guide.co.uk
   cord-cut.co.uk
+  cornwall-tivimate.co.uk
   cotswold-guide.co.uk
   county-guide.co.uk
   couparangus-guide.co.uk
@@ -41969,6 +42013,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   kenmore-guide.co.uk
   kennoway-guide.co.uk
   kent-guide.co.uk
+  kent-tivimate.co.uk
   kilchoan-guide.co.uk
   kilchoman-guide.co.uk
   kilcreggan-guide.co.uk
@@ -42170,6 +42215,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   scarinish-guide.co.uk
   scilly-guide.co.uk
   scone-guide.co.uk
+  scotland-tivimate.co.uk
   selkirk-guide.co.uk
   severn-guide.co.uk
   shapinsay-guide.co.uk
@@ -42344,6 +42390,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   xtream-tivimate.co.uk
   xtreamguide.co.uk
   yettsocochil-guide.co.uk
+  yorkshire-tivimate.co.uk
   UNKNOWN: duplex-box.co.uk, duplex-player.co.uk, extreme-player.co.uk, kodi-guide.co.uk, navigator-player.co.uk, purple-player.co.uk, sparkle-tv.co.uk
 
 ======== NOTES ========

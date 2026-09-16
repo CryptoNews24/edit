@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-16 02:34 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-16 02:37 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -4409,11 +4409,13 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-desmoines.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-detroit.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-dns.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `tivimate-durham.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-elpaso.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-epg.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-film.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-films.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-fresno.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `tivimate-greensboro.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-guide.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-hdr.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-hevc.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -4439,6 +4441,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-nashville.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-news.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-norfolk.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `tivimate-oakland.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-omaha.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-orlando.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-pack.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -4463,6 +4466,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-spokane.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-sport.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-stream.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
+| `tivimate-tacoma.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-tampa.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-timeshift.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
 | `tivimate-trial.us` | United States | best iptv | 5.4K | 23 Easy | AVAILABLE |
@@ -7090,7 +7094,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **3850**.
+AVAILABLE in this dump: **3862**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -7826,6 +7830,8 @@ AVAILABLE in this dump: **3850**.
 | `cornish-box.us` | .us | native RDAP 404 + no DNS |
 | `cornish-iptv.us` | .us | native RDAP 404 + no DNS |
 | `cornwall-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cornwall-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cornwall-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `correze-iptv.us` | .us | native RDAP 404 + no DNS |
 | `corse-iptv.us` | .us | native RDAP 404 + no DNS |
 | `corsican-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -8799,6 +8805,8 @@ AVAILABLE in this dump: **3850**.
 | `kenosha-iptv.us` | .us | native RDAP 404 + no DNS |
 | `kent-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `kent-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `kent-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `kent-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `khmer-box.us` | .us | native RDAP 404 + no DNS |
 | `khmer-iptv.us` | .us | native RDAP 404 + no DNS |
 | `kids-box.us` | .us | native RDAP 404 + no DNS |
@@ -9957,6 +9965,8 @@ AVAILABLE in this dump: **3850**.
 | `scone-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `scone-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `scotland-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `scotland-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `scotland-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `scots-iptv.us` | .us | native RDAP 404 + no DNS |
 | `seattle-iptv.us` | .us | native RDAP 404 + no DNS |
 | `sedanais-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -10518,6 +10528,7 @@ AVAILABLE in this dump: **3850**.
 | `tivimate-desmoines.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-detroit.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-dns.us` | .us | native RDAP 404 + no DNS |
+| `tivimate-durham.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-elpaso.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-epg.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tivimate-epg.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10528,6 +10539,7 @@ AVAILABLE in this dump: **3850**.
 | `tivimate-films.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-firestick.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-fresno.us` | .us | native RDAP 404 + no DNS |
+| `tivimate-greensboro.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tivimate-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tivimate-guide.us` | .us | native RDAP 404 + no DNS |
@@ -10573,6 +10585,7 @@ AVAILABLE in this dump: **3850**.
 | `tivimate-news.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tivimate-news.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-norfolk.us` | .us | native RDAP 404 + no DNS |
+| `tivimate-oakland.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-omaha.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-orlando.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-pack.us` | .us | native RDAP 404 + no DNS |
@@ -10611,6 +10624,7 @@ AVAILABLE in this dump: **3850**.
 | `tivimate-sport.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tivimate-sport.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-stream.us` | .us | native RDAP 404 + no DNS |
+| `tivimate-tacoma.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-tampa.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-timeshift.us` | .us | native RDAP 404 + no DNS |
 | `tivimate-trial.us` | .us | native RDAP 404 + no DNS |
@@ -10932,6 +10946,8 @@ AVAILABLE in this dump: **3850**.
 | `yonne-box.us` | .us | native RDAP 404 + no DNS |
 | `yonne-iptv.us` | .us | native RDAP 404 + no DNS |
 | `yorkshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `yorkshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `yorkshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `yoruba-iptv.us` | .us | native RDAP 404 + no DNS |
 | `yssingelais-iptv.us` | .us | native RDAP 404 + no DNS |
 | `yvelines-box.us` | .us | native RDAP 404 + no DNS |
@@ -10953,7 +10969,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | TLD | Country | AVAILABLE | Confirm (not free) | UNKNOWN |
 | --- | --- | ---: | ---: | ---: |
 | .ca | Canada | 2373 | 0 | 0 |
-| .us | United States | 2407 | 0 | 0 |
+| .us | United States | 2411 | 0 | 0 |
 | .fr | France | 2213 | 0 | 0 |
 | .de | Germany | 2080 | 0 | 0 |
 | .nl | Netherlands | 2007 | 0 | 115 |
@@ -10964,13 +10980,13 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | .it | Italy | 0 | 12 | 0 |
 | .pt | Portugal | 0 | 9 | 0 |
 | .se | Sweden | 1 | 7 | 2217 |
-| .no | Norway | 2238 | 0 | 0 |
-| .dk | Denmark | 2234 | 0 | 0 |
-| .fi | Finland | 2238 | 0 | 0 |
+| .no | Norway | 2241 | 0 | 0 |
+| .dk | Denmark | 2236 | 0 | 0 |
+| .fi | Finland | 2240 | 0 | 0 |
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 717 | 0 | 7 |
+| .co.uk | United Kingdom | 721 | 0 | 7 |
 
 ### .ca — Canada
 
@@ -13355,7 +13371,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 ### .us — United States
 
-**AVAILABLE (2407)** — native RDAP 404 + no DNS.
+**AVAILABLE (2411)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -15487,12 +15503,14 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-desmoines.us` |
 | `tivimate-detroit.us` |
 | `tivimate-dns.us` |
+| `tivimate-durham.us` |
 | `tivimate-elpaso.us` |
 | `tivimate-epg.us` |
 | `tivimate-film.us` |
 | `tivimate-films.us` |
 | `tivimate-firestick.us` |
 | `tivimate-fresno.us` |
+| `tivimate-greensboro.us` |
 | `tivimate-guide.us` |
 | `tivimate-hdr.us` |
 | `tivimate-hevc.us` |
@@ -15518,6 +15536,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-nashville.us` |
 | `tivimate-news.us` |
 | `tivimate-norfolk.us` |
+| `tivimate-oakland.us` |
 | `tivimate-omaha.us` |
 | `tivimate-orlando.us` |
 | `tivimate-pack.us` |
@@ -15542,6 +15561,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-spokane.us` |
 | `tivimate-sport.us` |
 | `tivimate-stream.us` |
+| `tivimate-tacoma.us` |
 | `tivimate-tampa.us` |
 | `tivimate-timeshift.us` |
 | `tivimate-trial.us` |
@@ -24247,7 +24267,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .no — Norway
 
-**AVAILABLE (2238)** — native RDAP 404 + no DNS.
+**AVAILABLE (2241)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -26245,6 +26265,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-films.no` |
 | `tivimate-fredrikstad.no` |
 | `tivimate-guide.no` |
+| `tivimate-harstad.no` |
 | `tivimate-hdr.no` |
 | `tivimate-hevc.no` |
 | `tivimate-install.no` |
@@ -26252,10 +26273,12 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-kids.no` |
 | `tivimate-kodi.no` |
 | `tivimate-kristiansand.no` |
+| `tivimate-lillehammer.no` |
 | `tivimate-line.no` |
 | `tivimate-live.no` |
 | `tivimate-m3u.no` |
 | `tivimate-mac.no` |
+| `tivimate-molde.no` |
 | `tivimate-movie.no` |
 | `tivimate-news.no` |
 | `tivimate-norge.no` |
@@ -26493,7 +26516,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .dk — Denmark
 
-**AVAILABLE (2234)** — native RDAP 404 + no DNS.
+**AVAILABLE (2236)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -28491,6 +28514,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-hdr.dk` |
 | `tivimate-herning.dk` |
 | `tivimate-hevc.dk` |
+| `tivimate-horsens.dk` |
 | `tivimate-install.dk` |
 | `tivimate-iptv.dk` |
 | `tivimate-kids.dk` |
@@ -28513,6 +28537,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-replay.dk` |
 | `tivimate-roskilde.dk` |
 | `tivimate-setup.dk` |
+| `tivimate-silkeborg.dk` |
 | `tivimate-sport.dk` |
 | `tivimate-stream.dk` |
 | `tivimate-timeshift.dk` |
@@ -28735,7 +28760,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .fi — Finland
 
-**AVAILABLE (2238)** — native RDAP 404 + no DNS.
+**AVAILABLE (2240)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -30737,6 +30762,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-jyvaskyla.fi` |
 | `tivimate-kids.fi` |
 | `tivimate-kodi.fi` |
+| `tivimate-kotka.fi` |
 | `tivimate-kuopio.fi` |
 | `tivimate-lahti.fi` |
 | `tivimate-lappeenranta.fi` |
@@ -30744,6 +30770,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-live.fi` |
 | `tivimate-m3u.fi` |
 | `tivimate-mac.fi` |
+| `tivimate-mikkeli.fi` |
 | `tivimate-movie.fi` |
 | `tivimate-news.fi` |
 | `tivimate-oulu.fi` |
@@ -31002,7 +31029,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (717)** — native RDAP 404 + no DNS.
+**AVAILABLE (721)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -31159,6 +31186,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `comrie-guide.co.uk` |
 | `convalmore-guide.co.uk` |
 | `cord-cut.co.uk` |
+| `cornwall-tivimate.co.uk` |
 | `cotswold-guide.co.uk` |
 | `county-guide.co.uk` |
 | `couparangus-guide.co.uk` |
@@ -31348,6 +31376,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `kenmore-guide.co.uk` |
 | `kennoway-guide.co.uk` |
 | `kent-guide.co.uk` |
+| `kent-tivimate.co.uk` |
 | `kilchoan-guide.co.uk` |
 | `kilchoman-guide.co.uk` |
 | `kilcreggan-guide.co.uk` |
@@ -31549,6 +31578,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `scarinish-guide.co.uk` |
 | `scilly-guide.co.uk` |
 | `scone-guide.co.uk` |
+| `scotland-tivimate.co.uk` |
 | `selkirk-guide.co.uk` |
 | `severn-guide.co.uk` |
 | `shapinsay-guide.co.uk` |
@@ -31723,6 +31753,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `xtream-tivimate.co.uk` |
 | `xtreamguide.co.uk` |
 | `yettsocochil-guide.co.uk` |
+| `yorkshire-tivimate.co.uk` |
 
 **UNKNOWN (RDAP failed):** `duplex-box.co.uk`, `duplex-player.co.uk`, `extreme-player.co.uk`, `kodi-guide.co.uk`, `navigator-player.co.uk`, `purple-player.co.uk`, `sparkle-tv.co.uk`
 
