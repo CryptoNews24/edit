@@ -1003,6 +1003,12 @@ QUEUED = (
     ("smarters plus", "us", "Smarters Plus"),
     ("ibo plus", "us", "IBO Plus"),
     ("rk3566z box", "us", "RK3566Z chipset box"),
+    ("kodi 20", "us", "Kodi 20"),
+    ("ott plus", "us", "OTT Plus"),
+    ("gse plus", "us", "GSE Plus"),
+    ("televizo plus", "us", "Televizo Plus"),
+    ("xciptv plus", "us", "XCIPTV Plus"),
+    ("t982x box", "us", "T982X chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1980,6 +1986,12 @@ NEEDLES = {
     "smarters plus": ("smartersplus-apk",),
     "ibo plus": ("iboplus-apk",),
     "rk3566z box": ("rk3566z-box",),
+    "kodi 20": ("kodi20-apk",),
+    "ott plus": ("ottplus-apk",),
+    "gse plus": ("gseplus-apk",),
+    "televizo plus": ("televizoplus-apk",),
+    "xciptv plus": ("xciptvplus-apk",),
+    "t982x box": ("t982x-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
