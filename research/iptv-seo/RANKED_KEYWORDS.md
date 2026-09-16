@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 07:59 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 08:09 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -693,5 +693,12 @@ Updated 2026-09-16 07:59 UTC. **Only this file** is the keyword ranking. Real se
 | Q681 | `pipepipe apk` | United States | N/A | N/A | — | PipePipe APK (Semrush pending) | `pipepipe-apk.us` |
 | Q682 | `rk3568u box` | United States | N/A | N/A | — | RK3568U chipset box (Semrush pending) | `rk3568u-box.us` |
 | Q683 | `t968v box` | United States | N/A | N/A | — | T968V chipset box (Semrush pending) | `t968v-box.us` |
+| Q684 | `bromite apk` | United States | N/A | N/A | — | Bromite APK (Semrush pending) | `bromite-apk.us` |
+| Q685 | `mull apk` | United States | N/A | N/A | — | Mull browser APK (Semrush pending) | `mull-apk.us` |
+| Q686 | `iceraven apk` | United States | N/A | N/A | — | Iceraven APK (Semrush pending) | `iceraven-apk.us` |
+| Q687 | `shelter apk` | United States | N/A | N/A | — | Shelter APK (Semrush pending) | `shelter-apk.us` |
+| Q688 | `lawnchair apk` | United States | N/A | N/A | — | Lawnchair APK (Semrush pending) | `lawnchair-apk.us` |
+| Q689 | `h313v box` | United States | N/A | N/A | — | H313V chipset box (Semrush pending) | `h313v-box.us` |
+| Q690 | `t972v box` | United States | N/A | N/A | — | T972V chipset box (Semrush pending) | `t972v-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
