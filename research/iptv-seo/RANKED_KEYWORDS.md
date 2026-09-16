@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:10 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:13 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -226,5 +226,15 @@ Updated 2026-09-16 04:10 UTC. **Only this file** is the keyword ranking. Real se
 | Q214 | `jellyseerr` | United States | N/A | N/A | — | Jellyseerr requests (Semrush pending) | `jellyseerr-box.us` |
 | Q215 | `plexamp` | United States | N/A | N/A | — | Plexamp app (Semrush pending) | `plexamp-box.us` |
 | Q216 | `wetek box` | United States | N/A | N/A | — | WeTek Android box (Semrush pending) | `wetek-box.us` |
+| Q217 | `skyworth box` | United States | N/A | N/A | — | Skyworth Android box (Semrush pending) | `skyworth-box.us` |
+| Q218 | `philips tv` | United States | N/A | N/A | — | Philips smart TV (Semrush pending) | `philips-tv.us` |
+| Q219 | `panasonic tv` | United States | N/A | N/A | — | Panasonic smart TV (Semrush pending) | `panasonic-tv.us` |
+| Q220 | `toshiba tv` | United States | N/A | N/A | — | Toshiba smart TV (Semrush pending) | `toshiba-tv.us` |
+| Q221 | `sharp tv` | United States | N/A | N/A | — | Sharp smart TV (Semrush pending) | `sharp-tv.us` |
+| Q222 | `tcl tv` | United States | N/A | N/A | — | TCL Google TV (Semrush pending) | `tcl-tv.us` |
+| Q223 | `realme tv` | United States | N/A | N/A | — | Realme smart TV (Semrush pending) | `realme-tv.us` |
+| Q224 | `oneplus tv` | United States | N/A | N/A | — | OnePlus TV (Semrush pending) | `oneplus-tv.us` |
+| Q225 | `xiaomi tv` | United States | N/A | N/A | — | Xiaomi smart TV (Semrush pending) | `xiaomi-tv.us` |
+| Q226 | `sony tv` | United States | N/A | N/A | — | Sony smart TV (Semrush pending) | `sony-tv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
