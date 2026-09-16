@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:16 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:19 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -247,5 +247,16 @@ Updated 2026-09-16 04:16 UTC. **Only this file** is the keyword ranking. Real se
 | Q235 | `steam deck` | United States | N/A | N/A | — | Steam Deck media (Semrush pending) | `steamdeck-box.us` |
 | Q236 | `legion go` | United States | N/A | N/A | — | Legion Go handheld (Semrush pending) | `legion-go.us` |
 | Q237 | `my iptv` | United States | N/A | N/A | — | MyIPTV player app (Semrush pending) | `myiptv-box.us` |
+| Q238 | `mag player` | United States | N/A | N/A | — | MAG Player app (Semrush pending) | `mag-player.us` |
+| Q239 | `epg guide` | United States | N/A | N/A | — | EPG guide setup (Semrush pending) | `epg-guide.us` |
+| Q240 | `smart stb` | United States | N/A | N/A | — | Smart STB MAG clone (Semrush pending) | `smart-stb.us` |
+| Q241 | `stalker portal` | United States | N/A | N/A | — | Stalker portal MAG (Semrush pending) | `stalker-portal.us` |
+| Q242 | `ministra` | United States | N/A | N/A | — | Ministra middleware (Semrush pending) | `ministra-box.us` |
+| Q243 | `nebula player` | United States | N/A | N/A | — | Nebula IPTV player (Semrush pending) | `nebula-player.us` |
+| Q244 | `m3u playlist` | United States | N/A | N/A | — | M3U playlist setup (Semrush pending) | `m3u-playlist.us` |
+| Q245 | `xmltv guide` | United States | N/A | N/A | — | XMLTV EPG guide (Semrush pending) | `xmltv-guide.us` |
+| Q246 | `playlist editor` | United States | N/A | N/A | — | Playlist editor app (Semrush pending) | `playlist-editor.us` |
+| Q247 | `mag portal` | United States | N/A | N/A | — | MAG portal setup (Semrush pending) | `mag-portal.us` |
+| Q248 | `dragon player` | United States | N/A | N/A | — | Dragon Player app (Semrush pending) | `dragon-player.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

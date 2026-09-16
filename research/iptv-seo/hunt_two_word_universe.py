@@ -2892,6 +2892,16 @@ APP_STEMS = (
     "steamdeck-box",
     "legion-go",
     "myiptv-box",
+    "smart-stb",
+    "stalker-portal",
+    "ministra-box",
+    "nebula-player",
+    "m3u-playlist",
+    "xmltv-guide",
+    "playlist-editor",
+    "mag-portal",
+    "dragon-player",
+    "nebula-tv",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4107,6 +4117,9 @@ def candidates() -> list[str]:
         "southronaldsay-tivimate",
         "callanish-tivimate",
         "breasclete-tivimate",
+        "leurbost-tivimate",
+        "leverburgh-tivimate",
+        "scalpay-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
