@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 23:08 UTC. **Only this file** is the keyword ranking. **Verified rows 1–N have Semrush volume. Every `Q` row is a hunt candidate with volume N/A — not 18K, not Semrush. Do not treat leftover domains as traffic.** Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — **not `.fr`**. France `abonnement iptv` 18.1K is FR-database only and is **out of this hunt**. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 23:13 UTC. **This file is leftover-domain hunt, not the keyword list.** Strong keywords (volume, no domains): `STRONG_KEYWORDS.md`. Q-rows have volume N/A. Do not treat leftovers as traffic. Smash leftovers only. Focus `.ca` `.us` `.co.uk`/`.uk` `.dk` `.no` `.fi` — not `.fr`.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |

@@ -106,7 +106,7 @@ def main() -> None:
         "",
         "Rules: do not buy from this file. Ignore `.ie` domains. Skip `.uk` names that contain `iptv`. **Two-word domain names only** (hyphen or smashed, e.g. `avis-iptv.fr` / `compareiptv.us`). No 3+ word labels. TiviMate / IPTV Smarters / IBO / GSE / OTT Navigator = SEO topics, not brand domains.",
         "",
-        "Keyword ranking (one table, participant queries only): `RANKED_KEYWORDS.md`. Apps/platforms hunted on CA/US/UK/Nordics, **not `.fr`**. A leftover domain does **not** inherit a country head-term volume (no more `h618k-iptv.fr` = 18.1K). New two-word names stay off scored lists until Noxtools Semrush confirms volume ≥ 500.",
+        "Keyword list (volume, no leftovers): `STRONG_KEYWORDS.md`. `RANKED_KEYWORDS.md` is leftover-domain hunt only.",
         "",
         "## Top 10 AVAILABLE (high traffic, low competition)",
         "",

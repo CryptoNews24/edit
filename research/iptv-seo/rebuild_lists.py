@@ -146,8 +146,10 @@ def main() -> None:
     print(f"canva={len(canva_rows)} available_unfiltered={len(avail_rows)} taken={len(existing)}")
 
     from generate_ranked_keywords import main as write_ranked
+    from generate_strong_keywords import main as write_strong
 
     write_ranked()
+    write_strong()
 
 
 if __name__ == "__main__":
