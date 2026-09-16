@@ -889,6 +889,12 @@ QUEUED = (
     ("inputleap apk", "us", "Input Leap APK"),
     ("deskflow apk", "us", "Deskflow APK"),
     ("a311dz box", "us", "A311DZ chipset box"),
+    ("kdeconnect apk", "us", "KDE Connect APK"),
+    ("localsend apk", "us", "LocalSend APK"),
+    ("snapdrop apk", "us", "Snapdrop APK"),
+    ("pairdrop apk", "us", "PairDrop APK"),
+    ("gsconnect apk", "us", "GSConnect APK"),
+    ("s905x2z box", "us", "S905X2Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1752,6 +1758,12 @@ NEEDLES = {
     "inputleap apk": ("inputleap-apk",),
     "deskflow apk": ("deskflow-apk",),
     "a311dz box": ("a311dz-box",),
+    "kdeconnect apk": ("kdeconnect-apk",),
+    "localsend apk": ("localsend-apk",),
+    "snapdrop apk": ("snapdrop-apk",),
+    "pairdrop apk": ("pairdrop-apk",),
+    "gsconnect apk": ("gsconnect-apk",),
+    "s905x2z box": ("s905x2z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

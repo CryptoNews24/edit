@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T14:08:35Z",
+  "updated": "2026-09-16T14:18:44Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -8751,10 +8751,20 @@
     "spacedesk-apk.ca": "best iptv canada",
     "spacedesk-apk.us": "best iptv",
     "synergy-apk.ca": "best iptv canada",
-    "synergy-apk.us": "best iptv"
+    "synergy-apk.us": "best iptv",
+    "gsconnect-apk.ca": "best iptv canada",
+    "gsconnect-apk.us": "best iptv",
+    "kdeconnect-apk.ca": "best iptv canada",
+    "kdeconnect-apk.us": "best iptv",
+    "localsend-apk.ca": "best iptv canada",
+    "localsend-apk.us": "best iptv",
+    "pairdrop-apk.ca": "best iptv canada",
+    "pairdrop-apk.us": "best iptv",
+    "snapdrop-apk.ca": "best iptv canada",
+    "snapdrop-apk.us": "best iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T14:08:35Z",
+    "attempted": "2026-09-16T14:18:44Z",
     "status": "partial",
     "detail": "Noxtools 14:07 UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour (14:xx). Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
     "min_volume": 500,

@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 14:08 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 14:19 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -868,5 +868,11 @@ Updated 2026-09-16 14:08 UTC. **Only this file** is the keyword ranking. Real se
 | Q856 | `inputleap apk` | United States | N/A | N/A | — | Input Leap APK (Semrush pending) | `inputleap-apk.us` |
 | Q857 | `deskflow apk` | United States | N/A | N/A | — | Deskflow APK (Semrush pending) | `deskflow-apk.us` |
 | Q858 | `a311dz box` | United States | N/A | N/A | — | A311DZ chipset box (Semrush pending) | `a311dz-box.us` |
+| Q859 | `kdeconnect apk` | United States | N/A | N/A | — | KDE Connect APK (Semrush pending) | `kdeconnect-apk.us` |
+| Q860 | `localsend apk` | United States | N/A | N/A | — | LocalSend APK (Semrush pending) | `localsend-apk.us` |
+| Q861 | `snapdrop apk` | United States | N/A | N/A | — | Snapdrop APK (Semrush pending) | `snapdrop-apk.us` |
+| Q862 | `pairdrop apk` | United States | N/A | N/A | — | PairDrop APK (Semrush pending) | `pairdrop-apk.us` |
+| Q863 | `gsconnect apk` | United States | N/A | N/A | — | GSConnect APK (Semrush pending) | `gsconnect-apk.us` |
+| Q864 | `s905x2z box` | United States | N/A | N/A | — | S905X2Z chipset box (Semrush pending) | `s905x2z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
