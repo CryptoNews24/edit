@@ -3505,6 +3505,12 @@ APP_STEMS = (
     "todesk-apk",
     "dwservice-apk",
     "rk3326z-box",
+    "spacedesk-apk",
+    "barrier-apk",
+    "synergy-apk",
+    "inputleap-apk",
+    "deskflow-apk",
+    "a311dz-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4921,6 +4927,9 @@ def candidates() -> list[str]:
         "marypark-tivimate",
         "mortlach-tivimate",
         "glenfarclas-tivimate",
+        "minmore-tivimate",
+        "cragganmore-tivimate",
+        "tomnavoulin-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

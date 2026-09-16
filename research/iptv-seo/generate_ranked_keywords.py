@@ -883,6 +883,12 @@ QUEUED = (
     ("todesk apk", "us", "ToDesk APK"),
     ("dwservice apk", "us", "DWService APK"),
     ("rk3326z box", "us", "RK3326Z chipset box"),
+    ("spacedesk apk", "us", "SpaceDesk APK"),
+    ("barrier apk", "us", "Barrier APK"),
+    ("synergy apk", "us", "Synergy APK"),
+    ("inputleap apk", "us", "Input Leap APK"),
+    ("deskflow apk", "us", "Deskflow APK"),
+    ("a311dz box", "us", "A311DZ chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1740,6 +1746,12 @@ NEEDLES = {
     "todesk apk": ("todesk-apk",),
     "dwservice apk": ("dwservice-apk",),
     "rk3326z box": ("rk3326z-box",),
+    "spacedesk apk": ("spacedesk-apk",),
+    "barrier apk": ("barrier-apk",),
+    "synergy apk": ("synergy-apk",),
+    "inputleap apk": ("inputleap-apk",),
+    "deskflow apk": ("deskflow-apk",),
+    "a311dz box": ("a311dz-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

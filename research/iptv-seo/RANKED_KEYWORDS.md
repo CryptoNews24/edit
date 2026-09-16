@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 13:50 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 14:08 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -862,5 +862,11 @@ Updated 2026-09-16 13:50 UTC. **Only this file** is the keyword ranking. Real se
 | Q850 | `todesk apk` | United States | N/A | N/A | — | ToDesk APK (Semrush pending) | `todesk-apk.us` |
 | Q851 | `dwservice apk` | United States | N/A | N/A | — | DWService APK (Semrush pending) | `dwservice-apk.us` |
 | Q852 | `rk3326z box` | United States | N/A | N/A | — | RK3326Z chipset box (Semrush pending) | `rk3326z-box.us` |
+| Q853 | `spacedesk apk` | United States | N/A | N/A | — | SpaceDesk APK (Semrush pending) | `spacedesk-apk.us` |
+| Q854 | `barrier apk` | United States | N/A | N/A | — | Barrier APK (Semrush pending) | `barrier-apk.us` |
+| Q855 | `synergy apk` | United States | N/A | N/A | — | Synergy APK (Semrush pending) | `synergy-apk.us` |
+| Q856 | `inputleap apk` | United States | N/A | N/A | — | Input Leap APK (Semrush pending) | `inputleap-apk.us` |
+| Q857 | `deskflow apk` | United States | N/A | N/A | — | Deskflow APK (Semrush pending) | `deskflow-apk.us` |
+| Q858 | `a311dz box` | United States | N/A | N/A | — | A311DZ chipset box (Semrush pending) | `a311dz-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
