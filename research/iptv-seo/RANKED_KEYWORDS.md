@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:19 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:22 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -258,5 +258,15 @@ Updated 2026-09-16 04:19 UTC. **Only this file** is the keyword ranking. Real se
 | Q246 | `playlist editor` | United States | N/A | N/A | — | Playlist editor app (Semrush pending) | `playlist-editor.us` |
 | Q247 | `mag portal` | United States | N/A | N/A | — | MAG portal setup (Semrush pending) | `mag-portal.us` |
 | Q248 | `dragon player` | United States | N/A | N/A | — | Dragon Player app (Semrush pending) | `dragon-player.us` |
+| Q249 | `t982s box` | United States | N/A | N/A | — | T982S chipset box (Semrush pending) | `t982s-box.us` |
+| Q250 | `tvip box` | United States | N/A | N/A | — | TVIP MAG box (Semrush pending) | `tvip-box.us` |
+| Q251 | `aurora player` | United States | N/A | N/A | — | Aurora IPTV player (Semrush pending) | `aurora-player.us` |
+| Q252 | `gplayer` | United States | N/A | N/A | — | GPlayer IPTV app (Semrush pending) | `gplayer-box.us` |
+| Q253 | `xtream panel` | United States | N/A | N/A | — | Xtream Codes panel (Semrush pending) | `xtream-panel.us` |
+| Q254 | `enigma2` | United States | N/A | N/A | — | Enigma2 image (Semrush pending) | `enigma2-box.us` |
+| Q255 | `openatv` | United States | N/A | N/A | — | OpenATV Enigma image (Semrush pending) | `openatv-box.us` |
+| Q256 | `openpli` | United States | N/A | N/A | — | OpenPLi Enigma image (Semrush pending) | `openpli-box.us` |
+| Q257 | `rk3229s box` | United States | N/A | N/A | — | RK3229S chipset box (Semrush pending) | `rk3229s-box.us` |
+| Q258 | `bouquet editor` | United States | N/A | N/A | — | Enigma bouquet editor (Semrush pending) | `bouquet-editor.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

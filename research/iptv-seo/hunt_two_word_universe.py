@@ -2902,6 +2902,16 @@ APP_STEMS = (
     "mag-portal",
     "dragon-player",
     "nebula-tv",
+    "tvip-box",
+    "aurora-player",
+    "gplayer-box",
+    "xtream-panel",
+    "enigma2-box",
+    "openatv-box",
+    "openpli-box",
+    "rk3229s-box",
+    "t982s-box",
+    "bouquet-editor",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4120,6 +4130,9 @@ def candidates() -> list[str]:
         "leurbost-tivimate",
         "leverburgh-tivimate",
         "scalpay-tivimate",
+        "grimshader-tivimate",
+        "eriskay-tivimate",
+        "lochboisdale-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

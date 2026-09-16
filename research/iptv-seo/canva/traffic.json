@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:19:30Z",
+  "updated": "2026-09-16T04:22:28Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -7665,10 +7665,28 @@
     "stalker-portal.ca": "best iptv canada",
     "stalker-portal.us": "best iptv",
     "xmltv-guide.ca": "best iptv canada",
-    "xmltv-guide.us": "best iptv"
+    "xmltv-guide.us": "best iptv",
+    "aurora-player.ca": "best iptv canada",
+    "aurora-player.us": "best iptv",
+    "bouquet-editor.ca": "best iptv canada",
+    "bouquet-editor.us": "best iptv",
+    "enigma2-box.ca": "best iptv canada",
+    "enigma2-box.us": "best iptv",
+    "gplayer-box.ca": "best iptv canada",
+    "gplayer-box.us": "best iptv",
+    "openatv-box.ca": "best iptv canada",
+    "openatv-box.us": "best iptv",
+    "openpli-box.ca": "best iptv canada",
+    "openpli-box.us": "best iptv",
+    "rk3229s-box.ca": "best iptv canada",
+    "rk3229s-box.us": "best iptv",
+    "tvip-box.ca": "best iptv canada",
+    "tvip-box.us": "best iptv",
+    "xtream-panel.ca": "best iptv canada",
+    "xtream-panel.us": "best iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T04:19:30Z",
+    "attempted": "2026-09-16T04:22:28Z",
     "status": "partial",
     "detail": "Noxtools 04:00 UTC probe: login GET Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour. Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
     "min_volume": 500,
