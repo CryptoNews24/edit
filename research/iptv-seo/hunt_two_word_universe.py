@@ -2828,6 +2828,17 @@ APP_STEMS = (
     "kodi-isengard",
     "kodi-gotham",
     "shield-tv",
+    "smarttube-box",
+    "newpipe-box",
+    "libretube-box",
+    "grayjay-box",
+    "freetube-box",
+    "tvheadend-box",
+    "nextpvr-box",
+    "kodi-pvr",
+    "emby-theater",
+    "mx-player",
+    "nova-player",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4025,6 +4036,9 @@ def candidates() -> list[str]:
         "johnogroats-tivimate",
         "bettyhill-tivimate",
         "altnaharra-tivimate",
+        "kinlochbervie-tivimate",
+        "lerwick-tivimate",
+        "scalloway-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:58 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:01 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -182,5 +182,16 @@ Updated 2026-09-16 03:58 UTC. **Only this file** is the keyword ranking. Real se
 | Q170 | `kodi isengard` | United States | N/A | N/A | — | Kodi Isengard setup (Semrush pending) | `kodi-isengard.us` |
 | Q171 | `kodi gotham` | United States | N/A | N/A | — | Kodi Gotham setup (Semrush pending) | `kodi-gotham.us` |
 | Q172 | `shield tv` | United States | N/A | N/A | — | Shield TV box (Semrush pending) | `shield-tv.us` |
+| Q173 | `smarttube` | United States | N/A | N/A | — | SmartTube YouTube client (Semrush pending) | `smarttube-box.us` |
+| Q174 | `newpipe` | United States | N/A | N/A | — | NewPipe player (Semrush pending) | `newpipe-box.us` |
+| Q175 | `libretube` | United States | N/A | N/A | — | LibreTube player (Semrush pending) | `libretube-box.us` |
+| Q176 | `grayjay` | United States | N/A | N/A | — | Grayjay player (Semrush pending) | `grayjay-box.us` |
+| Q177 | `freetube` | United States | N/A | N/A | — | FreeTube player (Semrush pending) | `freetube-box.us` |
+| Q178 | `tvheadend` | United States | N/A | N/A | — | Tvheadend PVR (Semrush pending) | `tvheadend-box.us` |
+| Q179 | `nextpvr` | United States | N/A | N/A | — | NextPVR backend (Semrush pending) | `nextpvr-box.us` |
+| Q180 | `kodi pvr` | United States | N/A | N/A | — | Kodi PVR setup (Semrush pending) | `kodi-pvr.us` |
+| Q181 | `emby theater` | United States | N/A | N/A | — | Emby Theater app (Semrush pending) | `emby-theater.us` |
+| Q182 | `mx player` | United States | N/A | N/A | — | MX Player app (Semrush pending) | `mx-player.us` |
+| Q183 | `nova player` | United States | N/A | N/A | — | Nova Player app (Semrush pending) | `nova-player.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
