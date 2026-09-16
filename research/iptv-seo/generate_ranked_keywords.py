@@ -967,6 +967,12 @@ QUEUED = (
     ("nova tv", "us", "Nova TV"),
     ("live netv", "us", "Live NetV"),
     ("t310w box", "us", "T310W chipset box"),
+    ("unlinked apk", "us", "Unlinked APK"),
+    ("tvzion apk", "us", "TVZion APK"),
+    ("cinema hd", "us", "Cinema HD"),
+    ("beast tv", "us", "Beast TV"),
+    ("pretzel tv", "us", "Pretzel TV"),
+    ("a133x box", "us", "A133X chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1908,6 +1914,12 @@ NEEDLES = {
     "nova tv": ("novatv-apk",),
     "live netv": ("livenetv-apk",),
     "t310w box": ("t310w-box",),
+    "unlinked apk": ("unlinked-apk",),
+    "tvzion apk": ("tvzion-apk",),
+    "cinema hd": ("cinemahd-apk",),
+    "beast tv": ("beasttv-apk",),
+    "pretzel tv": ("pretzeltv-apk",),
+    "a133x box": ("a133x-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

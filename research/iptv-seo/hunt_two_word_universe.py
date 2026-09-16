@@ -3589,6 +3589,12 @@ APP_STEMS = (
     "novatv-apk",
     "livenetv-apk",
     "t310w-box",
+    "unlinked-apk",
+    "tvzion-apk",
+    "cinemahd-apk",
+    "beasttv-apk",
+    "pretzeltv-apk",
+    "a133x-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -5047,6 +5053,9 @@ def candidates() -> list[str]:
         "caperdonich-tivimate",
         "convalmore-tivimate",
         "pittvaich-tivimate",
+        "coleburn-tivimate",
+        "glenugie-tivimate",
+        "millburn-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

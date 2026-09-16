@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 16:30 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 16:39 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -946,5 +946,11 @@ Updated 2026-09-16 16:30 UTC. **Only this file** is the keyword ranking. Space-s
 | Q934 | `nova tv` | United States | N/A | N/A | — | Nova TV (Semrush pending) | `novatv-apk.us` |
 | Q935 | `live netv` | United States | N/A | N/A | — | Live NetV (Semrush pending) | `livenetv-apk.us` |
 | Q936 | `t310w box` | United States | N/A | N/A | — | T310W chipset box (Semrush pending) | `t310w-box.us` |
+| Q937 | `unlinked apk` | United States | N/A | N/A | — | Unlinked APK (Semrush pending) | `unlinked-apk.us` |
+| Q938 | `tvzion apk` | United States | N/A | N/A | — | TVZion APK (Semrush pending) | `tvzion-apk.us` |
+| Q939 | `cinema hd` | United States | N/A | N/A | — | Cinema HD (Semrush pending) | `cinemahd-apk.us` |
+| Q940 | `beast tv` | United States | N/A | N/A | — | Beast TV (Semrush pending) | `beasttv-apk.us` |
+| Q941 | `pretzel tv` | United States | N/A | N/A | — | Pretzel TV (Semrush pending) | `pretzeltv-apk.us` |
+| Q942 | `a133x box` | United States | N/A | N/A | — | A133X chipset box (Semrush pending) | `a133x-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.
