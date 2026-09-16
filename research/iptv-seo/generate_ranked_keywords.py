@@ -865,6 +865,12 @@ QUEUED = (
     ("ipvanish apk", "us", "IPVanish APK"),
     ("purevpn apk", "us", "PureVPN APK"),
     ("h618z box", "us", "H618Z chipset box"),
+    ("adguard apk", "us", "AdGuard APK"),
+    ("nextdns apk", "us", "NextDNS APK"),
+    ("pihole apk", "us", "Pi-hole APK"),
+    ("wireguard apk", "us", "WireGuard APK"),
+    ("tailscale apk", "us", "Tailscale APK"),
+    ("rk3568z box", "us", "RK3568Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1704,6 +1710,12 @@ NEEDLES = {
     "ipvanish apk": ("ipvanish-apk",),
     "purevpn apk": ("purevpn-apk",),
     "h618z box": ("h618z-box",),
+    "adguard apk": ("adguard-apk",),
+    "nextdns apk": ("nextdns-apk",),
+    "pihole apk": ("pihole-apk",),
+    "wireguard apk": ("wireguard-apk",),
+    "tailscale apk": ("tailscale-apk",),
+    "rk3568z box": ("rk3568z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

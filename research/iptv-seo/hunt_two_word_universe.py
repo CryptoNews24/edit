@@ -3487,6 +3487,12 @@ APP_STEMS = (
     "ipvanish-apk",
     "purevpn-apk",
     "h618z-box",
+    "adguard-apk",
+    "nextdns-apk",
+    "pihole-apk",
+    "wireguard-apk",
+    "tailscale-apk",
+    "rk3568z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4894,6 +4900,9 @@ def candidates() -> list[str]:
         "aberlour-tivimate",
         "craigellachie-tivimate",
         "rothes-tivimate",
+        "dufftown-tivimate",
+        "knockando-tivimate",
+        "glenlivet-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
