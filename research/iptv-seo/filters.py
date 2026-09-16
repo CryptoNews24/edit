@@ -1342,6 +1342,7 @@ _WORD_TOKENS = tuple(
             "whisparr",
             "autobrr",
             "recyclarr",
+            "notifiarr",
             "radarr",
             "pureneos",
             "egami",

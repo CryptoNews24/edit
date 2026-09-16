@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:41 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:43 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -370,5 +370,22 @@ Updated 2026-09-16 04:41 UTC. **Only this file** is the keyword ranking. Real se
 | Q358 | `whisparr` | United States | N/A | N/A | — | Whisparr PVR (Semrush pending) | `whisparr-box.us` |
 | Q359 | `t950m box` | United States | N/A | N/A | — | T950M chipset box (Semrush pending) | `t950m-box.us` |
 | Q360 | `s905x4s box` | United States | N/A | N/A | — | S905X4S chipset box (Semrush pending) | `s905x4s-box.us` |
+| Q361 | `jellyfin apk` | United States | N/A | N/A | — | Jellyfin APK (Semrush pending) | `jellyfin-apk.us` |
+| Q362 | `plex apk` | United States | N/A | N/A | — | Plex APK (Semrush pending) | `plex-apk.us` |
+| Q363 | `emby apk` | United States | N/A | N/A | — | Emby APK (Semrush pending) | `emby-apk.us` |
+| Q364 | `smarttube apk` | United States | N/A | N/A | — | SmartTube APK (Semrush pending) | `smarttube-apk.us` |
+| Q365 | `newpipe apk` | United States | N/A | N/A | — | NewPipe APK (Semrush pending) | `newpipe-apk.us` |
+| Q366 | `tivimate pro` | United States | N/A | N/A | — | TiviMate Premium app (Semrush pending) | `tivimate-pro.us` |
+| Q367 | `smarters lite` | United States | N/A | N/A | — | Smarters Lite app (Semrush pending) | `smarters-lite.us` |
+| Q368 | `ibo lite` | United States | N/A | N/A | — | IBO Lite app (Semrush pending) | `ibo-lite.us` |
+| Q369 | `kodi placenta` | United States | N/A | N/A | — | Kodi Placenta addon (Semrush pending) | `kodi-placenta.us` |
+| Q370 | `kodi asgard` | United States | N/A | N/A | — | Kodi Asgard addon (Semrush pending) | `kodi-asgard.us` |
+| Q371 | `kodi shadow` | United States | N/A | N/A | — | Kodi Shadow addon (Semrush pending) | `kodi-shadow.us` |
+| Q372 | `autobrr` | United States | N/A | N/A | — | autobrr downloads (Semrush pending) | `autobrr-box.us` |
+| Q373 | `recyclarr` | United States | N/A | N/A | — | Recyclarr sync (Semrush pending) | `recyclarr-box.us` |
+| Q374 | `notifiarr` | United States | N/A | N/A | — | Notifiarr alerts (Semrush pending) | `notifiarr-box.us` |
+| Q375 | `potplayer apk` | United States | N/A | N/A | — | PotPlayer APK (Semrush pending) | `potplayer-apk.us` |
+| Q376 | `t968k box` | United States | N/A | N/A | — | T968K chipset box (Semrush pending) | `t968k-box.us` |
+| Q377 | `rk3528s box` | United States | N/A | N/A | — | RK3528S chipset box (Semrush pending) | `rk3528s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
