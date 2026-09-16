@@ -901,6 +901,12 @@ QUEUED = (
     ("sharik apk", "us", "Sharik APK"),
     ("croc apk", "us", "Croc APK"),
     ("s905w2z box", "us", "S905W2Z chipset box"),
+    ("onionshare apk", "us", "OnionShare APK"),
+    ("qrcp apk", "us", "qrcp APK"),
+    ("wormhole apk", "us", "wormhole APK"),
+    ("termscp apk", "us", "termscp APK"),
+    ("magic wormhole", "us", "magic wormhole transfer"),
+    ("s922xz box", "us", "S922XZ chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1776,6 +1782,12 @@ NEEDLES = {
     "sharik apk": ("sharik-apk",),
     "croc apk": ("croc-apk",),
     "s905w2z box": ("s905w2z-box",),
+    "onionshare apk": ("onionshare-apk",),
+    "qrcp apk": ("qrcp-apk",),
+    "wormhole apk": ("wormhole-apk",),
+    "termscp apk": ("termscp-apk",),
+    "magic wormhole": ("magicwormhole-apk",),
+    "s922xz box": ("s922xz-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

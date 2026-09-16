@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 14:31 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 14:47 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -880,5 +880,11 @@ Updated 2026-09-16 14:31 UTC. **Only this file** is the keyword ranking. Real se
 | Q868 | `sharik apk` | United States | N/A | N/A | — | Sharik APK (Semrush pending) | `sharik-apk.us` |
 | Q869 | `croc apk` | United States | N/A | N/A | — | Croc APK (Semrush pending) | `croc-apk.us` |
 | Q870 | `s905w2z box` | United States | N/A | N/A | — | S905W2Z chipset box (Semrush pending) | `s905w2z-box.us` |
+| Q871 | `onionshare apk` | United States | N/A | N/A | — | OnionShare APK (Semrush pending) | `onionshare-apk.us` |
+| Q872 | `qrcp apk` | United States | N/A | N/A | — | qrcp APK (Semrush pending) | `qrcp-apk.us` |
+| Q873 | `wormhole apk` | United States | N/A | N/A | — | wormhole APK (Semrush pending) | `wormhole-apk.us` |
+| Q874 | `termscp apk` | United States | N/A | N/A | — | termscp APK (Semrush pending) | `termscp-apk.us` |
+| Q875 | `magic wormhole` | United States | N/A | N/A | — | magic wormhole transfer (Semrush pending) | `magicwormhole-apk.us` |
+| Q876 | `s922xz box` | United States | N/A | N/A | — | S922XZ chipset box (Semrush pending) | `s922xz-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
