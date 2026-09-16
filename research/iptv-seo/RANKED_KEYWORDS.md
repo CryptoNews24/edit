@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 12:06 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 12:18 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -815,5 +815,11 @@ Updated 2026-09-16 12:06 UTC. **Only this file** is the keyword ranking. Real se
 | Q803 | `enpass apk` | United States | N/A | N/A | — | Enpass APK (Semrush pending) | `enpass-apk.us` |
 | Q804 | `keeper apk` | United States | N/A | N/A | — | Keeper APK (Semrush pending) | `keeper-apk.us` |
 | Q805 | `t965z box` | United States | N/A | N/A | — | T965Z chipset box (Semrush pending) | `t965z-box.us` |
+| Q806 | `aegis apk` | United States | N/A | N/A | — | Aegis APK (Semrush pending) | `aegis-apk.us` |
+| Q807 | `2fas apk` | United States | N/A | N/A | — | 2FAS APK (Semrush pending) | `2fas-apk.us` |
+| Q808 | `authy apk` | United States | N/A | N/A | — | Authy APK (Semrush pending) | `authy-apk.us` |
+| Q809 | `andotp apk` | United States | N/A | N/A | — | andOTP APK (Semrush pending) | `andotp-apk.us` |
+| Q810 | `raivo apk` | United States | N/A | N/A | — | Raivo APK (Semrush pending) | `raivo-apk.us` |
+| Q811 | `a133z box` | United States | N/A | N/A | — | A133Z chipset box (Semrush pending) | `a133z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
