@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 15:13 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 15:25 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -898,5 +898,11 @@ Updated 2026-09-16 15:13 UTC. **Only this file** is the keyword ranking. Real se
 | Q886 | `es file` | United States | N/A | N/A | — | ES File Explorer (Semrush pending) | `esfile-apk.us` |
 | Q887 | `amaze file` | United States | N/A | N/A | — | Amaze File Manager (Semrush pending) | `amaze-apk.us` |
 | Q888 | `rk3528z box` | United States | N/A | N/A | — | RK3528Z chipset box (Semrush pending) | `rk3528z-box.us` |
+| Q889 | `1dm apk` | United States | N/A | N/A | — | 1DM downloader (Semrush pending) | `1dm-apk.us` |
+| Q890 | `idm plus` | United States | N/A | N/A | — | IDM+ (Semrush pending) | `idmplus-apk.us` |
+| Q891 | `loader droid` | United States | N/A | N/A | — | Loader Droid (Semrush pending) | `loaderdroid-apk.us` |
+| Q892 | `adm pro` | United States | N/A | N/A | — | ADM Pro (Semrush pending) | `admpro-apk.us` |
+| Q893 | `advanced download` | United States | N/A | N/A | — | Advanced Download Manager (Semrush pending) | `advanceddownload-apk.us` |
+| Q894 | `rk3399z box` | United States | N/A | N/A | — | RK3399Z chipset box (Semrush pending) | `rk3399z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

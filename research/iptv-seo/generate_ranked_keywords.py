@@ -919,6 +919,12 @@ QUEUED = (
     ("es file", "us", "ES File Explorer"),
     ("amaze file", "us", "Amaze File Manager"),
     ("rk3528z box", "us", "RK3528Z chipset box"),
+    ("1dm apk", "us", "1DM downloader"),
+    ("idm plus", "us", "IDM+"),
+    ("loader droid", "us", "Loader Droid"),
+    ("adm pro", "us", "ADM Pro"),
+    ("advanced download", "us", "Advanced Download Manager"),
+    ("rk3399z box", "us", "RK3399Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1812,6 +1818,12 @@ NEEDLES = {
     "es file": ("esfile-apk",),
     "amaze file": ("amaze-apk",),
     "rk3528z box": ("rk3528z-box",),
+    "1dm apk": ("1dm-apk",),
+    "idm plus": ("idmplus-apk",),
+    "loader droid": ("loaderdroid-apk",),
+    "adm pro": ("admpro-apk",),
+    "advanced download": ("advanceddownload-apk",),
+    "rk3399z box": ("rk3399z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
