@@ -2849,6 +2849,28 @@ def candidates() -> list[str]:
     _push("tivimate-stavanger.no", seen, out)
     _push("tivimate-malmo.se", seen, out)
     _push("tivimate-goteborg.se", seen, out)
+    _push("tivimate-windsor.ca", seen, out)
+    _push("tivimate-kingston.ca", seen, out)
+    _push("tivimate-sudbury.ca", seen, out)
+    _push("tivimate-lasvegas.us", seen, out)
+    _push("tivimate-sacramento.us", seen, out)
+    _push("tivimate-cleveland.us", seen, out)
+    _push("tivimate-pittsburgh.us", seen, out)
+    _push("tivimate-milwaukee.us", seen, out)
+    _push("tivimate-columbus.us", seen, out)
+    _push("tivimate-raleigh.us", seen, out)
+    _push("tivimate-oulu.fi", seen, out)
+    _push("tivimate-odense.dk", seen, out)
+    _push("tivimate-aalborg.dk", seen, out)
+    _push("tivimate-tromso.no", seen, out)
+    _push("tivimate-uppsala.se", seen, out)
+    for stem in (
+        "tivimate-addon",
+        "tivimate-dns",
+        "tivimate-backup",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3459,6 +3481,13 @@ def candidates() -> list[str]:
         "sheffield-tivimate",
         "edinburgh-tivimate",
         "cardiff-tivimate",
+        "nottingham-tivimate",
+        "leicester-tivimate",
+        "brighton-tivimate",
+        "southampton-tivimate",
+        "aberdeen-tivimate",
+        "belfast-tivimate",
+        "tivimate-addon",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

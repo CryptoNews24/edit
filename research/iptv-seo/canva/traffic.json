@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T01:43:08Z",
+  "updated": "2026-09-16T01:46:20Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -7056,10 +7056,26 @@
     "tivimate-regina.ca": "best iptv canada",
     "tivimate-saskatoon.ca": "best iptv canada",
     "tivimate-tampa.us": "best iptv",
-    "tivimate-victoria.ca": "best iptv canada"
+    "tivimate-victoria.ca": "best iptv canada",
+    "tivimate-addon.ca": "best iptv canada",
+    "tivimate-addon.us": "best iptv",
+    "tivimate-backup.ca": "best iptv canada",
+    "tivimate-backup.us": "best iptv",
+    "tivimate-cleveland.us": "best iptv",
+    "tivimate-columbus.us": "best iptv",
+    "tivimate-dns.ca": "best iptv canada",
+    "tivimate-dns.us": "best iptv",
+    "tivimate-kingston.ca": "best iptv canada",
+    "tivimate-lasvegas.us": "best iptv",
+    "tivimate-milwaukee.us": "best iptv",
+    "tivimate-pittsburgh.us": "best iptv",
+    "tivimate-raleigh.us": "best iptv",
+    "tivimate-sacramento.us": "best iptv",
+    "tivimate-sudbury.ca": "best iptv canada",
+    "tivimate-windsor.ca": "best iptv canada"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T01:43:08Z",
+    "attempted": "2026-09-16T01:46:20Z",
     "status": "partial",
     "detail": "Noxtools 01:02 UTC probe: login Cloudflare 403 (not HTTP 429). Servers 1-2 HTTP 200 Session expired. No login POST this hour. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works. Semrush keyword - keyword pair rows are excluded.",
     "min_volume": 500,
