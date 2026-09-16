@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 16:02 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 16:10 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -922,5 +922,11 @@ Updated 2026-09-16 16:02 UTC. **Only this file** is the keyword ranking. Real se
 | Q910 | `libmpv apk` | United States | N/A | N/A | — | libmpv APK (Semrush pending) | `libmpv-apk.us` |
 | Q911 | `next player` | United States | N/A | N/A | — | Next Player (Semrush pending) | `nextplayer-apk.us` |
 | Q912 | `a733z box` | United States | N/A | N/A | — | A733Z chipset box (Semrush pending) | `a733z-box.us` |
+| Q913 | `weyd apk` | United States | N/A | N/A | — | Weyd APK (Semrush pending) | `weyd-apk.us` |
+| Q914 | `movie box` | United States | N/A | N/A | — | MovieBox (Semrush pending) | `moviebox-apk.us` |
+| Q915 | `hdo apk` | United States | N/A | N/A | — | HDO APK (Semrush pending) | `hdo-apk.us` |
+| Q916 | `flix vision` | United States | N/A | N/A | — | FlixVision (Semrush pending) | `flixvision-apk.us` |
+| Q917 | `cine hd` | United States | N/A | N/A | — | Cine HD (Semrush pending) | `cinehd-apk.us` |
+| Q918 | `s905x5z box` | United States | N/A | N/A | — | S905X5Z chipset box (Semrush pending) | `s905x5z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

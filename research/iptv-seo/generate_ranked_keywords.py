@@ -943,6 +943,12 @@ QUEUED = (
     ("libmpv apk", "us", "libmpv APK"),
     ("next player", "us", "Next Player"),
     ("a733z box", "us", "A733Z chipset box"),
+    ("weyd apk", "us", "Weyd APK"),
+    ("movie box", "us", "MovieBox"),
+    ("hdo apk", "us", "HDO APK"),
+    ("flix vision", "us", "FlixVision"),
+    ("cine hd", "us", "Cine HD"),
+    ("s905x5z box", "us", "S905X5Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1860,6 +1866,12 @@ NEEDLES = {
     "libmpv apk": ("libmpv-apk",),
     "next player": ("nextplayer-apk",),
     "a733z box": ("a733z-box",),
+    "weyd apk": ("weyd-apk",),
+    "movie box": ("moviebox-apk",),
+    "hdo apk": ("hdo-apk",),
+    "flix vision": ("flixvision-apk",),
+    "cine hd": ("cinehd-apk",),
+    "s905x5z box": ("s905x5z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
