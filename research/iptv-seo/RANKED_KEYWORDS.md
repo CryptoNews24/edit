@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:52 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -429,5 +429,17 @@ Updated 2026-09-16 04:52 UTC. **Only this file** is the keyword ranking. Real se
 | Q417 | `onn apk` | United States | N/A | N/A | — | Onn box APK (Semrush pending) | `onn-apk.us` |
 | Q418 | `t972k box` | United States | N/A | N/A | — | T972K chipset box (Semrush pending) | `t972k-box.us` |
 | Q419 | `s905y4s box` | United States | N/A | N/A | — | S905Y4S chipset box (Semrush pending) | `s905y4s-box.us` |
+| Q420 | `google tv apk` | United States | N/A | N/A | — | Google TV APK (Semrush pending) | `googletv-apk.us` |
+| Q421 | `android tv apk` | United States | N/A | N/A | — | Android TV APK (Semrush pending) | `androidtv-apk.us` |
+| Q422 | `tizen apk` | United States | N/A | N/A | — | Tizen APK (Semrush pending) | `tizen-apk.us` |
+| Q423 | `webos apk` | United States | N/A | N/A | — | webOS APK (Semrush pending) | `webos-apk.us` |
+| Q424 | `bravia apk` | United States | N/A | N/A | — | Bravia APK (Semrush pending) | `bravia-apk.us` |
+| Q425 | `hisense apk` | United States | N/A | N/A | — | Hisense APK (Semrush pending) | `hisense-apk.us` |
+| Q426 | `vidaa apk` | United States | N/A | N/A | — | VIDAA APK (Semrush pending) | `vidaa-apk.us` |
+| Q427 | `shield apk` | United States | N/A | N/A | — | Shield TV APK (Semrush pending) | `shield-apk.us` |
+| Q428 | `gplayer apk` | United States | N/A | N/A | — | GPlayer APK (Semrush pending) | `gplayer-apk.us` |
+| Q429 | `dragon apk` | United States | N/A | N/A | — | Dragon Player APK (Semrush pending) | `dragon-apk.us` |
+| Q430 | `xmltv apk` | United States | N/A | N/A | — | XMLTV APK (Semrush pending) | `xmltv-apk.us` |
+| Q431 | `t963m box` | United States | N/A | N/A | — | T963M chipset box (Semrush pending) | `t963m-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
