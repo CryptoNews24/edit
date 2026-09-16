@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 11:08 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 11:23 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -783,5 +783,11 @@ Updated 2026-09-16 11:08 UTC. **Only this file** is the keyword ranking. Real se
 | Q771 | `duplicati apk` | United States | N/A | N/A | — | Duplicati APK (Semrush pending) | `duplicati-apk.us` |
 | Q772 | `a133y box` | United States | N/A | N/A | — | A133Y chipset box (Semrush pending) | `a133y-box.us` |
 | Q773 | `t972y box` | United States | N/A | N/A | — | T972Y chipset box (Semrush pending) | `t972y-box.us` |
+| Q774 | `restic apk` | United States | N/A | N/A | — | Restic APK (Semrush pending) | `restic-apk.us` |
+| Q775 | `borgbackup apk` | United States | N/A | N/A | — | BorgBackup APK (Semrush pending) | `borgbackup-apk.us` |
+| Q776 | `kopia apk` | United States | N/A | N/A | — | Kopia APK (Semrush pending) | `kopia-apk.us` |
+| Q777 | `rclone apk` | United States | N/A | N/A | — | Rclone APK (Semrush pending) | `rclone-apk.us` |
+| Q778 | `duplicacy apk` | United States | N/A | N/A | — | Duplicacy APK (Semrush pending) | `duplicacy-apk.us` |
+| Q779 | `h618y box` | United States | N/A | N/A | — | H618Y chipset box (Semrush pending) | `h618y-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
