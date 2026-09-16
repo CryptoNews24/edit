@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:26 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:28 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -552,5 +552,16 @@ Updated 2026-09-16 05:26 UTC. **Only this file** is the keyword ranking. Real se
 | Q540 | `companion apk` | United States | N/A | N/A | — | Kodi companion APK (Semrush pending) | `companion-apk.us` |
 | Q541 | `t962p box` | United States | N/A | N/A | — | T962P chipset box (Semrush pending) | `t962p-box.us` |
 | Q542 | `a133p box` | United States | N/A | N/A | — | A133P chipset box (Semrush pending) | `a133p-box.us` |
+| Q543 | `sonarr apk` | United States | N/A | N/A | — | Sonarr APK (Semrush pending) | `sonarr-apk.us` |
+| Q544 | `radarr apk` | United States | N/A | N/A | — | Radarr APK (Semrush pending) | `radarr-apk.us` |
+| Q545 | `lidarr apk` | United States | N/A | N/A | — | Lidarr APK (Semrush pending) | `lidarr-apk.us` |
+| Q546 | `bazarr apk` | United States | N/A | N/A | — | Bazarr APK (Semrush pending) | `bazarr-apk.us` |
+| Q547 | `prowlarr apk` | United States | N/A | N/A | — | Prowlarr APK (Semrush pending) | `prowlarr-apk.us` |
+| Q548 | `readarr apk` | United States | N/A | N/A | — | Readarr APK (Semrush pending) | `readarr-apk.us` |
+| Q549 | `elementum apk` | United States | N/A | N/A | — | Elementum APK (Semrush pending) | `elementum-apk.us` |
+| Q550 | `jackett apk` | United States | N/A | N/A | — | Jackett APK (Semrush pending) | `jackett-apk.us` |
+| Q551 | `fenlight apk` | United States | N/A | N/A | — | Fen Light APK (Semrush pending) | `fenlight-apk.us` |
+| Q552 | `t965p box` | United States | N/A | N/A | — | T965P chipset box (Semrush pending) | `t965p-box.us` |
+| Q553 | `rk3562p box` | United States | N/A | N/A | — | RK3562P chipset box (Semrush pending) | `rk3562p-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
