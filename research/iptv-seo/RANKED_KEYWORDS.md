@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 20:45 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 20:50 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -192,7 +192,7 @@ Updated 2026-09-16 20:45 UTC. **Only this file** is the keyword ranking. Space-s
 | Q180 | `kodi pvr` | United States | N/A | N/A | — | Kodi PVR setup (Semrush pending) | `—` |
 | Q181 | `emby theater` | United States | N/A | N/A | — | Emby Theater app (Semrush pending) | `—` |
 | Q182 | `mx player` | United States | N/A | N/A | — | MX Player app (Semrush pending) | `—` |
-| Q183 | `nova player` | United States | N/A | N/A | — | Nova Player app (Semrush pending) | `—` |
+| Q183 | `nova player` | United States | N/A | N/A | — | Nova Player app (Semrush pending) | `novaplayer.us` |
 | Q184 | `iptvnator` | United States | N/A | N/A | — | IPTVnator playlist app (Semrush pending) | `—` |
 | Q185 | `hypnotix` | United States | N/A | N/A | — | Hypnotix IPTV app (Semrush pending) | `—` |
 | Q186 | `jellyfin theater` | United States | N/A | N/A | — | Jellyfin Theater app (Semrush pending) | `—` |
@@ -206,7 +206,7 @@ Updated 2026-09-16 20:45 UTC. **Only this file** is the keyword ranking. Space-s
 | Q194 | `synology video` | United States | N/A | N/A | — | Synology Video Station (Semrush pending) | `—` |
 | Q195 | `mythtv` | United States | N/A | N/A | — | MythTV PVR (Semrush pending) | `—` |
 | Q196 | `hdhomerun` | United States | N/A | N/A | — | HDHomeRun tuner (Semrush pending) | `hdhomerunbox.us` |
-| Q197 | `tablo tv` | United States | N/A | N/A | — | Tablo TV tuner (Semrush pending) | `tablobox.us` |
+| Q197 | `tablo tv` | United States | N/A | N/A | — | Tablo TV tuner (Semrush pending) | `tablotv.us` |
 | Q198 | `tautulli` | United States | N/A | N/A | — | Tautulli Plex stats (Semrush pending) | `—` |
 | Q199 | `overseerr` | United States | N/A | N/A | — | Overseerr requests (Semrush pending) | `—` |
 | Q200 | `jellyfin server` | United States | N/A | N/A | — | Jellyfin server setup (Semrush pending) | `—` |
@@ -215,8 +215,8 @@ Updated 2026-09-16 20:45 UTC. **Only this file** is the keyword ranking. Space-s
 | Q203 | `kodi server` | United States | N/A | N/A | — | Kodi server setup (Semrush pending) | `—` |
 | Q204 | `silicondust` | United States | N/A | N/A | — | SiliconDust HDHomeRun (Semrush pending) | `—` |
 | Q205 | `minidlna` | United States | N/A | N/A | — | ReadyMedia MiniDLNA (Semrush pending) | `—` |
-| Q206 | `tizen tv` | United States | N/A | N/A | — | Samsung Tizen TV (Semrush pending) | `—` |
-| Q207 | `webos tv` | United States | N/A | N/A | — | LG webOS TV (Semrush pending) | `—` |
+| Q206 | `tizen tv` | United States | N/A | N/A | — | Samsung Tizen TV (Semrush pending) | `tizentv.us` |
+| Q207 | `webos tv` | United States | N/A | N/A | — | LG webOS TV (Semrush pending) | `webostv.us` |
 | Q208 | `samsung tv` | United States | N/A | N/A | — | Samsung TV IPTV (Semrush pending) | `samsungtv.us` |
 | Q209 | `bravia tv` | United States | N/A | N/A | — | Sony Bravia TV (Semrush pending) | `—` |
 | Q210 | `hisense tv` | United States | N/A | N/A | — | Hisense VIDAA TV (Semrush pending) | `—` |
@@ -315,7 +315,7 @@ Updated 2026-09-16 20:45 UTC. **Only this file** is the keyword ranking. Space-s
 | Q303 | `s905y4 box` | United States | N/A | N/A | — | S905Y4 chipset box (Semrush pending) | `—` |
 | Q304 | `t972e box` | United States | N/A | N/A | — | T972E chipset box (Semrush pending) | `—` |
 | Q305 | `a311ds box` | United States | N/A | N/A | — | A311DS chipset box (Semrush pending) | `—` |
-| Q306 | `real debrid` | United States | N/A | N/A | — | Real-Debrid Stremio (Semrush pending) | `—` |
+| Q306 | `real debrid` | United States | N/A | N/A | — | Real-Debrid Stremio (Semrush pending) | `realdebrid.us` |
 | Q307 | `alldebrid` | United States | N/A | N/A | — | AllDebrid Stremio (Semrush pending) | `—` |
 | Q308 | `premiumize` | United States | N/A | N/A | — | Premiumize Stremio (Semrush pending) | `—` |
 | Q309 | `mediafusion` | United States | N/A | N/A | — | MediaFusion addon (Semrush pending) | `—` |
@@ -1028,5 +1028,24 @@ Updated 2026-09-16 20:45 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1016 | `caribbean iptv` | United States | N/A | N/A | — | Caribbean IPTV smash (Semrush pending) | `caribbeaniptv.us` |
 | Q1017 | `hotel iptv` | United States | N/A | N/A | — | Hotel IPTV smash (Semrush pending) | `hoteliptv.us` |
 | Q1018 | `christian iptv` | United States | N/A | N/A | — | Christian IPTV smash (Semrush pending) | `christianiptv.us` |
+| Q1019 | `lifetime iptv` | United States | N/A | N/A | — | Lifetime IPTV smash (Semrush pending) | `lifetimeiptv.fi` |
+| Q1020 | `signup iptv` | United States | N/A | N/A | — | Signup IPTV smash (Semrush pending) | `signupiptv.us` |
+| Q1021 | `netflix tv` | United States | N/A | N/A | — | Netflix TV smash (Semrush pending) | `netflixtv.us` |
+| Q1022 | `hulu tv` | United States | N/A | N/A | — | Hulu TV smash (Semrush pending) | `hulutv.us` |
+| Q1023 | `peacock tv` | United States | N/A | N/A | — | Peacock TV smash (Semrush pending) | `peacocktv.dk` |
+| Q1024 | `pluto tv` | United States | N/A | N/A | — | Pluto TV smash (Semrush pending) | `plutotv.co.uk` |
+| Q1025 | `tubi tv` | United States | N/A | N/A | — | Tubi TV smash (Semrush pending) | `tubitv.ca` |
+| Q1026 | `disney plus` | United States | N/A | N/A | — | Disney Plus smash (Semrush pending) | `—` |
+| Q1027 | `amazon tv` | United States | N/A | N/A | — | Amazon TV smash (Semrush pending) | `amazontv.co.uk` |
+| Q1028 | `hbo max` | United States | N/A | N/A | — | HBO Max smash (Semrush pending) | `—` |
+| Q1029 | `espn iptv` | United States | N/A | N/A | — | ESPN IPTV smash (Semrush pending) | `espniptv.ca` |
+| Q1030 | `epl iptv` | United States | N/A | N/A | — | EPL IPTV smash (Semrush pending) | `epliptv.us` |
+| Q1031 | `syncler iptv` | United States | N/A | N/A | — | Syncler IPTV smash (Semrush pending) | `syncleriptv.us` |
+| Q1032 | `sideload iptv` | United States | N/A | N/A | — | Sideload IPTV smash (Semrush pending) | `sideloadiptv.us` |
+| Q1033 | `bbc iplayer` | United Kingdom | N/A | N/A | — | BBC iPlayer smash (Semrush pending) | `bbciplayer.ca` |
+| Q1034 | `sky go` | United Kingdom | N/A | N/A | — | Sky Go smash (Semrush pending) | `skygo.dk` |
+| Q1035 | `cord cutter` | United States | N/A | N/A | — | Cord cutter smash (Semrush pending) | `cordcutter.us` |
+| Q1036 | `sportsnet` | Canada | N/A | N/A | — | Sportsnet smash (Semrush pending) | `sportsnet.uk` |
+| Q1037 | `irish box` | United Kingdom | N/A | N/A | — | Irish box smash (Semrush pending) | `irishbox.co.uk` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
