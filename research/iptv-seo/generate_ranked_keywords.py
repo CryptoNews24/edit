@@ -895,6 +895,12 @@ QUEUED = (
     ("pairdrop apk", "us", "PairDrop APK"),
     ("gsconnect apk", "us", "GSConnect APK"),
     ("s905x2z box", "us", "S905X2Z chipset box"),
+    ("warpinator apk", "us", "Warpinator APK"),
+    ("nitroshare apk", "us", "NitroShare APK"),
+    ("trebleshot apk", "us", "Trebleshot APK"),
+    ("sharik apk", "us", "Sharik APK"),
+    ("croc apk", "us", "Croc APK"),
+    ("s905w2z box", "us", "S905W2Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1764,6 +1770,12 @@ NEEDLES = {
     "pairdrop apk": ("pairdrop-apk",),
     "gsconnect apk": ("gsconnect-apk",),
     "s905x2z box": ("s905x2z-box",),
+    "warpinator apk": ("warpinator-apk",),
+    "nitroshare apk": ("nitroshare-apk",),
+    "trebleshot apk": ("trebleshot-apk",),
+    "sharik apk": ("sharik-apk",),
+    "croc apk": ("croc-apk",),
+    "s905w2z box": ("s905w2z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

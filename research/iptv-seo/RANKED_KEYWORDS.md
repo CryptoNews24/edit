@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 14:19 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 14:31 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -874,5 +874,11 @@ Updated 2026-09-16 14:19 UTC. **Only this file** is the keyword ranking. Real se
 | Q862 | `pairdrop apk` | United States | N/A | N/A | — | PairDrop APK (Semrush pending) | `pairdrop-apk.us` |
 | Q863 | `gsconnect apk` | United States | N/A | N/A | — | GSConnect APK (Semrush pending) | `gsconnect-apk.us` |
 | Q864 | `s905x2z box` | United States | N/A | N/A | — | S905X2Z chipset box (Semrush pending) | `s905x2z-box.us` |
+| Q865 | `warpinator apk` | United States | N/A | N/A | — | Warpinator APK (Semrush pending) | `warpinator-apk.us` |
+| Q866 | `nitroshare apk` | United States | N/A | N/A | — | NitroShare APK (Semrush pending) | `nitroshare-apk.us` |
+| Q867 | `trebleshot apk` | United States | N/A | N/A | — | Trebleshot APK (Semrush pending) | `trebleshot-apk.us` |
+| Q868 | `sharik apk` | United States | N/A | N/A | — | Sharik APK (Semrush pending) | `sharik-apk.us` |
+| Q869 | `croc apk` | United States | N/A | N/A | — | Croc APK (Semrush pending) | `croc-apk.us` |
+| Q870 | `s905w2z box` | United States | N/A | N/A | — | S905W2Z chipset box (Semrush pending) | `s905w2z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
