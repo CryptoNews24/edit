@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 08:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 09:12 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -720,5 +720,12 @@ Updated 2026-09-16 08:55 UTC. **Only this file** is the keyword ranking. Real se
 | Q708 | `simplegallery apk` | United States | N/A | N/A | — | Simple Gallery APK (Semrush pending) | `simplegallery-apk.us` |
 | Q709 | `h618v box` | United States | N/A | N/A | — | H618V chipset box (Semrush pending) | `h618v-box.us` |
 | Q710 | `rk3562v box` | United States | N/A | N/A | — | RK3562V chipset box (Semrush pending) | `rk3562v-box.us` |
+| Q711 | `antennapod apk` | United States | N/A | N/A | — | AntennaPod APK (Semrush pending) | `antennapod-apk.us` |
+| Q712 | `fairmail apk` | United States | N/A | N/A | — | FairEmail APK (Semrush pending) | `fairmail-apk.us` |
+| Q713 | `k9mail apk` | United States | N/A | N/A | — | K-9 Mail APK (Semrush pending) | `k9mail-apk.us` |
+| Q714 | `osmand apk` | United States | N/A | N/A | — | OsmAnd APK (Semrush pending) | `osmand-apk.us` |
+| Q715 | `fossifygallery apk` | United States | N/A | N/A | — | Fossify Gallery APK (Semrush pending) | `fossifygallery-apk.us` |
+| Q716 | `h313w box` | United States | N/A | N/A | — | H313W chipset box (Semrush pending) | `h313w-box.us` |
+| Q717 | `t950w box` | United States | N/A | N/A | — | T950W chipset box (Semrush pending) | `t950w-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
