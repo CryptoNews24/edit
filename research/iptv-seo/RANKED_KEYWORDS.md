@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 21:26 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 21:36 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -1131,5 +1131,20 @@ Updated 2026-09-16 21:26 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1119 | `box tv` | United States | N/A | N/A | — | Box TV smash (Semrush pending) | `boxtv.us` |
 | Q1120 | `mag tv` | United States | N/A | N/A | — | MAG TV smash (Semrush pending) | `magtv.us` |
 | Q1121 | `linux tv` | United States | N/A | N/A | — | Linux TV smash (Semrush pending) | `linuxtv.us` |
+| Q1122 | `hockey tv` | United States | N/A | N/A | — | Hockey TV smash (Semrush pending) | `hockeytv.us` |
+| Q1123 | `soccer tv` | United States | N/A | N/A | — | Soccer TV smash (Semrush pending) | `soccertv.uk` |
+| Q1124 | `cricket tv` | United States | N/A | N/A | — | Cricket TV smash (Semrush pending) | `crickettv.us` |
+| Q1125 | `golf tv` | United States | N/A | N/A | — | Golf TV smash (Semrush pending) | `golftv.dk` |
+| Q1126 | `boxing tv` | United States | N/A | N/A | — | Boxing TV smash (Semrush pending) | `boxingtv.us` |
+| Q1127 | `basketball tv` | United States | N/A | N/A | — | Basketball TV smash (Semrush pending) | `basketballtv.us` |
+| Q1128 | `baseball tv` | United States | N/A | N/A | — | Baseball TV smash (Semrush pending) | `baseballtv.us` |
+| Q1129 | `live stream` | United States | N/A | N/A | — | Livestream smash (Semrush pending) | `—` |
+| Q1130 | `flix tv` | United States | N/A | N/A | — | Flix TV smash (Semrush pending) | `flixtv.us` |
+| Q1131 | `toronto tv` | Canada | N/A | N/A | — | Toronto TV smash (Semrush pending) | `torontotv.ca` |
+| Q1132 | `vancouver tv` | Canada | N/A | N/A | — | Vancouver TV smash (Semrush pending) | `vancouvertv.ca` |
+| Q1133 | `montreal tv` | Canada | N/A | N/A | — | Montreal TV smash (Semrush pending) | `montrealtv.ca` |
+| Q1134 | `manchester tv` | United Kingdom | N/A | N/A | — | Manchester TV smash (Semrush pending) | `manchestertv.us` |
+| Q1135 | `oslo tv` | Norway | N/A | N/A | — | Oslo TV smash (Semrush pending) | `oslotv.ca` |
+| Q1136 | `zgemma tv` | United States | N/A | N/A | — | Zgemma TV smash (Semrush pending) | `zgemmatv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
