@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 21:01 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 21:06 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -264,7 +264,7 @@ Updated 2026-09-16 21:01 UTC. **Only this file** is the keyword ranking. Space-s
 | Q252 | `gplayer` | United States | N/A | N/A | — | GPlayer IPTV app (Semrush pending) | `—` |
 | Q253 | `xtream panel` | United States | N/A | N/A | — | Xtream Codes panel (Semrush pending) | `xtreampanel.us` |
 | Q254 | `enigma2` | United States | N/A | N/A | — | Enigma2 image (Semrush pending) | `—` |
-| Q255 | `openatv` | United States | N/A | N/A | — | OpenATV Enigma image (Semrush pending) | `—` |
+| Q255 | `openatv` | United States | N/A | N/A | — | OpenATV Enigma image (Semrush pending) | `openatvbox.us` |
 | Q256 | `openpli` | United States | N/A | N/A | — | OpenPLi Enigma image (Semrush pending) | `—` |
 | Q257 | `rk3229s box` | United States | N/A | N/A | — | RK3229S chipset box (Semrush pending) | `—` |
 | Q258 | `bouquet editor` | United States | N/A | N/A | — | Enigma bouquet editor (Semrush pending) | `—` |
@@ -1079,5 +1079,24 @@ Updated 2026-09-16 21:01 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1067 | `live player` | United States | N/A | N/A | — | Live player smash (Semrush pending) | `liveplayer.us` |
 | Q1068 | `enigma tv` | United States | N/A | N/A | — | Enigma TV smash (Semrush pending) | `enigmatv.us` |
 | Q1069 | `dish tv` | United States | N/A | N/A | — | Dish TV smash (Semrush pending) | `dishtv.us` |
+| Q1070 | `global tv` | Canada | N/A | N/A | — | Global TV smash (Semrush pending) | `globaltv.dk` |
+| Q1071 | `cbc tv` | Canada | N/A | N/A | — | CBC TV smash (Semrush pending) | `cbctv.us` |
+| Q1072 | `tsn tv` | Canada | N/A | N/A | — | TSN TV smash (Semrush pending) | `tsntv.ca` |
+| Q1073 | `catchup tv` | United States | N/A | N/A | — | Catchup TV smash (Semrush pending) | `catchuptv.us` |
+| Q1074 | `replay tv` | United States | N/A | N/A | — | Replay TV smash (Semrush pending) | `replaytv.us` |
+| Q1075 | `vlc tv` | United States | N/A | N/A | — | VLC TV smash (Semrush pending) | `vlctv.us` |
+| Q1076 | `quebec tv` | Canada | N/A | N/A | — | Quebec TV smash (Semrush pending) | `quebectv.us` |
+| Q1077 | `nvidia tv` | United States | N/A | N/A | — | Nvidia TV smash (Semrush pending) | `nvidiatv.us` |
+| Q1078 | `walmart tv` | United States | N/A | N/A | — | Walmart TV smash (Semrush pending) | `walmarttv.us` |
+| Q1079 | `virgin media` | United Kingdom | N/A | N/A | — | Virgin Media smash (Semrush pending) | `virginmedia.dk` |
+| Q1080 | `nebula tv` | United States | N/A | N/A | — | Nebula TV smash (Semrush pending) | `nebulatv.ca` |
+| Q1081 | `stalker tv` | United States | N/A | N/A | — | Stalker portal smash (Semrush pending) | `stalkertv.us` |
+| Q1082 | `starz tv` | United States | N/A | N/A | — | Starz TV smash (Semrush pending) | `starztv.us` |
+| Q1083 | `showtime tv` | United States | N/A | N/A | — | Showtime TV smash (Semrush pending) | `showtimetv.us` |
+| Q1084 | `london tv` | United Kingdom | N/A | N/A | — | London TV smash (Semrush pending) | `londontv.uk` |
+| Q1085 | `ireland tv` | United Kingdom | N/A | N/A | — | Ireland TV smash (Semrush pending) | `irelandtv.co.uk` |
+| Q1086 | `ontario tv` | Canada | N/A | N/A | — | Ontario TV smash (Semrush pending) | `ontariotv.ca` |
+| Q1087 | `match tv` | United States | N/A | N/A | — | Match TV smash (Semrush pending) | `matchtv.us` |
+| Q1088 | `playoff tv` | United States | N/A | N/A | — | Playoff TV smash (Semrush pending) | `playofftv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
