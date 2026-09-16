@@ -1,6 +1,6 @@
 # Suggested keywords (queued)
 
-Volumes are **not invented**. These are the next Noxtools Semrush lookups (Servers 1→4). Difficult KD stays off scored lists. Brand apps = SEO content, not EMD domains.
+Volumes are **not invented**. These are the next Noxtools Semrush lookups (Servers 1→4). Difficult KD stays off scored lists. **Skip Semrush `keyword - keyword` pair rows** (not queries). Brand apps = SEO content, not EMD domains.
 
 ## Priority queue (verify first)
 

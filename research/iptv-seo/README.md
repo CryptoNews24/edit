@@ -49,4 +49,5 @@ Rebuild: `python3 rebuild_lists.py && python3 generate_text_list.py`
 - Ignore `.ie` domains
 - Skip `.uk` names that contain `iptv`
 - Two-word domain names only (e.g. `avis-iptv.fr`, `compareiptv.us`). Do not hunt 3+ word labels
+- Exclude Semrush `keyword - keyword` pair rows (Related / also-rank labels, not queries)
 - TiviMate / IPTV Smarters = SEO topics, not brand EMDs

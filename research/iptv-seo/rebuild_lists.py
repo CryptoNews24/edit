@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from filters import domain_meets_volume, skip_domain
+from filters import domain_meets_volume, skip_domain, skip_keyword
 
 ROOT = Path(__file__).resolve().parent
 CANVA = ROOT / "canva"
@@ -153,13 +153,18 @@ def main() -> None:
     kwmap["compareiptv.us"] = "best iptv"
     kwmap["compareriptv.us"] = "best iptv"
     kwmap["avis-iptv.us"] = "best iptv"
+    kws = traffic.get("keywords") or {}
+    traffic["keywords"] = {n: k for n, k in kws.items() if not skip_keyword(n)}
+    kwmap = {d: kw for d, kw in kwmap.items() if not skip_keyword(kw)}
+    traffic["domain_keyword_map"] = kwmap
     traffic["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     traffic["semrush_refresh"] = {
         "attempted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "status": "partial",
-        "detail": "Noxtools login is Cloudflare 403 from this VM (not HTTP 429). Servers 1-2 return HTTP 200 Session expired. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works.",
+        "detail": "Noxtools login is Cloudflare 403 from this VM (not HTTP 429). Servers 1-2 return HTTP 200 Session expired. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works. Semrush keyword - keyword pair rows are excluded.",
         "min_volume": 500,
         "exclude_kd": "Difficult",
+        "exclude_keyword_pairs": True,
     }
     (CANVA / "traffic.json").write_text(json.dumps(traffic, indent=2) + "\n", encoding="utf-8")
 

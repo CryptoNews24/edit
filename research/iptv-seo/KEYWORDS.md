@@ -1,7 +1,7 @@
 # IPTV keyword table
 
-Updated 2026-09-16 00:37 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
-Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.
+Updated 2026-09-16 00:40 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
 

@@ -18,6 +18,7 @@ from filters import (
     meets_opportunity,
     rank_available_domains,
     skip_domain,
+    skip_keyword,
 )
 
 ROOT = Path(__file__).resolve().parent
@@ -99,7 +100,7 @@ def main() -> None:
         "# IPTV keyword table",
         "",
         f"Updated {now}. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ {MIN_VOLUME}).",
-        f"Keywords with Semrush volume **under {MIN_VOLUME}** are excluded. **Difficult** KD is excluded. Unverified (N/A) keywords are excluded until Semrush confirms them.",
+        f"Keywords with Semrush volume **under {MIN_VOLUME}** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.",
         "",
         "Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**",
         "",
@@ -241,6 +242,8 @@ def main() -> None:
         if "difficult" in (r.get("KD Category") or "").lower():
             continue
         kw = r["Keyword"]
+        if skip_keyword(kw):
+            continue
         serp = r.get("SERP Difficulty") or "N/A"
         insp = insp_by_kw.get(kw.lower())
         if insp and (not serp or serp == "N/A"):

@@ -3,7 +3,12 @@
 
 from __future__ import annotations
 
+import re
+
 MIN_VOLUME = 500
+
+# Semrush Related / also-rank rows look like "abonnement iptv - france". Not queries.
+_KEYWORD_PAIR_RE = re.compile(r"\s+-\s+")
 
 # Country-code hunt order: CA, US, then Europe. `.ie` is never listed.
 COUNTRY_TLD_LABELS = [
@@ -2469,13 +2474,22 @@ def keyword_volume(traffic: dict, name: str | None) -> int | None:
         return None
 
 
+def skip_keyword(name: str | None) -> bool:
+    """Exclude Semrush 'keyword - keyword' pair labels."""
+    if not name or not str(name).strip():
+        return True
+    return bool(_KEYWORD_PAIR_RE.search(str(name)))
+
+
 def meets_volume(traffic: dict, name: str | None) -> bool:
     vol = keyword_volume(traffic, name)
     return vol is not None and vol >= MIN_VOLUME
 
 
 def meets_opportunity(traffic: dict, name: str | None) -> bool:
-    """Volume >= 500 and KD is not Difficult."""
+    """Volume >= 500 and KD is not Difficult. Pairs like 'iptv - box' are out."""
+    if skip_keyword(name):
+        return False
     if not meets_volume(traffic, name):
         return False
     k = (traffic.get("keywords") or {}).get(name)
@@ -2484,7 +2498,7 @@ def meets_opportunity(traffic: dict, name: str | None) -> bool:
 
 def mapped_keyword(traffic: dict, domain: str) -> str | None:
     kw = (traffic.get("domain_keyword_map") or {}).get(domain)
-    if not kw:
+    if not kw or skip_keyword(kw):
         return None
     kws = traffic.get("keywords") or {}
     if kd_is_excluded(kws.get(kw)):

@@ -155,7 +155,7 @@ def main() -> None:
         "IPTV SEO domain hunt — AVAILABLE names only",
         f"Updated {now}",
         "",
-        f"Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= {MIN_VOLUME}/mo (verified). **Difficult KD excluded.**",
+        f"Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= {MIN_VOLUME}/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**",
         "Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).",
         "Confirm-at-registrar and unverified (N/A) names are not buyable.",
         "Do not purchase from this file. Recheck at a registrar cart before buying.",

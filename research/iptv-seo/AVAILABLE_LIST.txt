@@ -1,7 +1,7 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-16 00:36 UTC
+Updated 2026-09-16 00:40 UTC
 
-Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.**
+Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
 Confirm-at-registrar and unverified (N/A) names are not buyable.
 Do not purchase from this file. Recheck at a registrar cart before buying.
