@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:23 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:26 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -542,5 +542,15 @@ Updated 2026-09-16 05:23 UTC. **Only this file** is the keyword ranking. Real se
 | Q530 | `m3u4u apk` | United States | N/A | N/A | — | M3U4U APK (Semrush pending) | `m3u4u-apk.us` |
 | Q531 | `iptvboss apk` | United States | N/A | N/A | — | IPTV Boss APK (Semrush pending) | `iptvboss-apk.us` |
 | Q532 | `superflix apk` | United States | N/A | N/A | — | Superflix APK (Semrush pending) | `superflix-apk.us` |
+| Q533 | `seren apk` | United States | N/A | N/A | — | Seren Kodi addon APK (Semrush pending) | `seren-apk.us` |
+| Q534 | `umbrella apk` | United States | N/A | N/A | — | Umbrella Kodi addon APK (Semrush pending) | `umbrella-apk.us` |
+| Q535 | `covenant apk` | United States | N/A | N/A | — | Covenant Kodi addon APK (Semrush pending) | `covenant-apk.us` |
+| Q536 | `exodus apk` | United States | N/A | N/A | — | Exodus Kodi addon APK (Semrush pending) | `exodus-apk.us` |
+| Q537 | `venom apk` | United States | N/A | N/A | — | Venom Kodi addon APK (Semrush pending) | `venom-apk.us` |
+| Q538 | `wombat apk` | United States | N/A | N/A | — | Wombat Kodi addon APK (Semrush pending) | `wombat-apk.us` |
+| Q539 | `minidlna apk` | United States | N/A | N/A | — | MiniDLNA APK (Semrush pending) | `minidlna-apk.us` |
+| Q540 | `companion apk` | United States | N/A | N/A | — | Kodi companion APK (Semrush pending) | `companion-apk.us` |
+| Q541 | `t962p box` | United States | N/A | N/A | — | T962P chipset box (Semrush pending) | `t962p-box.us` |
+| Q542 | `a133p box` | United States | N/A | N/A | — | A133P chipset box (Semrush pending) | `a133p-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
