@@ -3475,6 +3475,12 @@ APP_STEMS = (
     "windscribe-apk",
     "surfshark-apk",
     "t963z-box",
+    "nordvpn-apk",
+    "expressvpn-apk",
+    "cyberghost-apk",
+    "pia-apk",
+    "vyprvpn-apk",
+    "t982z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4876,6 +4882,9 @@ def candidates() -> list[str]:
         "buckie-tivimate",
         "cullen-tivimate",
         "portknockie-tivimate",
+        "findochty-tivimate",
+        "portgordon-tivimate",
+        "speybay-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

@@ -853,6 +853,12 @@ QUEUED = (
     ("windscribe apk", "us", "Windscribe APK"),
     ("surfshark apk", "us", "Surfshark APK"),
     ("t963z box", "us", "T963Z chipset box"),
+    ("nordvpn apk", "us", "NordVPN APK"),
+    ("expressvpn apk", "us", "ExpressVPN APK"),
+    ("cyberghost apk", "us", "CyberGhost APK"),
+    ("pia apk", "us", "PIA APK"),
+    ("vyprvpn apk", "us", "VyprVPN APK"),
+    ("t982z box", "us", "T982Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1680,6 +1686,12 @@ NEEDLES = {
     "windscribe apk": ("windscribe-apk",),
     "surfshark apk": ("surfshark-apk",),
     "t963z box": ("t963z-box",),
+    "nordvpn apk": ("nordvpn-apk",),
+    "expressvpn apk": ("expressvpn-apk",),
+    "cyberghost apk": ("cyberghost-apk",),
+    "pia apk": ("pia-apk",),
+    "vyprvpn apk": ("vyprvpn-apk",),
+    "t982z box": ("t982z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
