@@ -2759,6 +2759,9 @@ APP_STEMS = (
     "googletv-box",
     "firecube-box",
     "appletv-box",
+    "netiptv-box",
+    "downloader-box",
+    "enigma-box",
 )
 
 
@@ -3021,6 +3024,20 @@ def candidates() -> list[str]:
     ):
         for tld in (".ca", ".us", ".dk", ".no", ".fi"):
             _push(f"{stem}{tld}", seen, out)
+    _push("tivimate-barrie.ca", seen, out)
+    _push("tivimate-guelph.ca", seen, out)
+    _push("tivimate-thunderbay.ca", seen, out)
+    _push("tivimate-medicinehat.ca", seen, out)
+    _push("tivimate-charlottetown.ca", seen, out)
+    _push("tivimate-fredericton.ca", seen, out)
+    _push("tivimate-waterloo.ca", seen, out)
+    _push("tivimate-stjohns.ca", seen, out)
+    _push("tivimate-spokane.us", seen, out)
+    _push("tivimate-reno.us", seen, out)
+    _push("tivimate-boise.us", seen, out)
+    _push("tivimate-desmoines.us", seen, out)
+    _push("tivimate-visby.se", seen, out)
+    _push("tivimate-randers.dk", seen, out)
     for stem in (
         "tivimate-hdr",
         "tivimate-pvr",
@@ -3661,6 +3678,7 @@ def candidates() -> list[str]:
         "tivimate-live",
         "tivimate-watch",
         "tivimate-compare",
+        "waterloo-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

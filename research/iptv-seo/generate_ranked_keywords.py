@@ -68,6 +68,9 @@ QUEUED = (
     ("formuler iptv", "us", "Formuler box"),
     ("sparkle iptv", "us", "Sparkle TV app"),
     ("set iptv", "us", "SetIPTV app"),
+    ("net iptv", "us", "Net IPTV app"),
+    ("enigma iptv", "us", "Enigma box setup"),
+    ("iptv downloader", "us", "Downloader + Fire Stick"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -110,6 +113,9 @@ NEEDLES = {
     "formuler iptv": ("formuler-box", "formuler-guide"),
     "sparkle iptv": ("sparkle-player", "sparkle-box", "sparkle-tv"),
     "set iptv": ("setiptv-box",),
+    "net iptv": ("netiptv-box",),
+    "enigma iptv": ("enigma-box",),
+    "iptv downloader": ("downloader-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
