@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:01 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -464,5 +464,16 @@ Updated 2026-09-16 05:01 UTC. **Only this file** is the keyword ranking. Real se
 | Q452 | `epg apk` | United States | N/A | N/A | — | EPG APK (Semrush pending) | `epg-apk.us` |
 | Q453 | `t968m box` | United States | N/A | N/A | — | T968M chipset box (Semrush pending) | `t968m-box.us` |
 | Q454 | `rk3562s box` | United States | N/A | N/A | — | RK3562S chipset box (Semrush pending) | `rk3562s-box.us` |
+| Q455 | `formuler apk` | United States | N/A | N/A | — | Formuler APK (Semrush pending) | `formuler-apk.us` |
+| Q456 | `vontar apk` | United States | N/A | N/A | — | Vontar APK (Semrush pending) | `vontar-apk.us` |
+| Q457 | `mecool apk` | United States | N/A | N/A | — | Mecool APK (Semrush pending) | `mecool-apk.us` |
+| Q458 | `tanix apk` | United States | N/A | N/A | — | Tanix APK (Semrush pending) | `tanix-apk.us` |
+| Q459 | `zidoo apk` | United States | N/A | N/A | — | Zidoo APK (Semrush pending) | `zidoo-apk.us` |
+| Q460 | `ugoos apk` | United States | N/A | N/A | — | Ugoos APK (Semrush pending) | `ugoos-apk.us` |
+| Q461 | `minix apk` | United States | N/A | N/A | — | MINIX APK (Semrush pending) | `minix-apk.us` |
+| Q462 | `wetek apk` | United States | N/A | N/A | — | WeTek APK (Semrush pending) | `wetek-apk.us` |
+| Q463 | `beelink apk` | United States | N/A | N/A | — | Beelink APK (Semrush pending) | `beelink-apk.us` |
+| Q464 | `t962m box` | United States | N/A | N/A | — | T962M chipset box (Semrush pending) | `t962m-box.us` |
+| Q465 | `s905x3s box` | United States | N/A | N/A | — | S905X3S chipset box (Semrush pending) | `s905x3s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
