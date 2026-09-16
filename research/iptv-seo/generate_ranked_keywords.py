@@ -979,6 +979,12 @@ QUEUED = (
     ("smash stream", "us", "Smashstream"),
     ("debridio apk", "us", "Debridio APK"),
     ("rk3588w box", "us", "RK3588W chipset box"),
+    ("plex debrid", "us", "Plex Debrid"),
+    ("rdt client", "us", "RDT-Client"),
+    ("zurg apk", "us", "Zurg APK"),
+    ("ghost tv", "us", "Ghost TV"),
+    ("cinema box", "us", "CinemaBox"),
+    ("t965x box", "us", "T965X chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1932,6 +1938,12 @@ NEEDLES = {
     "smash stream": ("smashstream-apk",),
     "debridio apk": ("debridio-apk",),
     "rk3588w box": ("rk3588w-box",),
+    "plex debrid": ("plexdebrid-apk",),
+    "rdt client": ("rdtclient-apk",),
+    "zurg apk": ("zurg-apk",),
+    "ghost tv": ("ghosttv-apk",),
+    "cinema box": ("cinemabox-apk",),
+    "t965x box": ("t965x-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

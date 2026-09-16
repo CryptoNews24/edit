@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 16:45 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 16:57 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -958,5 +958,11 @@ Updated 2026-09-16 16:45 UTC. **Only this file** is the keyword ranking. Space-s
 | Q946 | `smash stream` | United States | N/A | N/A | — | Smashstream (Semrush pending) | `smashstream-apk.us` |
 | Q947 | `debridio apk` | United States | N/A | N/A | — | Debridio APK (Semrush pending) | `debridio-apk.us` |
 | Q948 | `rk3588w box` | United States | N/A | N/A | — | RK3588W chipset box (Semrush pending) | `rk3588w-box.us` |
+| Q949 | `plex debrid` | United States | N/A | N/A | — | Plex Debrid (Semrush pending) | `plexdebrid-apk.us` |
+| Q950 | `rdt client` | United States | N/A | N/A | — | RDT-Client (Semrush pending) | `rdtclient-apk.us` |
+| Q951 | `zurg apk` | United States | N/A | N/A | — | Zurg APK (Semrush pending) | `zurg-apk.us` |
+| Q952 | `ghost tv` | United States | N/A | N/A | — | Ghost TV (Semrush pending) | `ghosttv-apk.us` |
+| Q953 | `cinema box` | United States | N/A | N/A | — | CinemaBox (Semrush pending) | `cinemabox-apk.us` |
+| Q954 | `t965x box` | United States | N/A | N/A | — | T965X chipset box (Semrush pending) | `t965x-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.
