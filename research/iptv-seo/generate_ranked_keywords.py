@@ -96,6 +96,8 @@ QUEUED = (
     ("rk3229 box", "us", "RK3229 chipset box"),
     ("s905l3 box", "us", "S905L3 chipset box"),
     ("rk3288 box", "us", "RK3288 chipset box"),
+    ("s905x5 box", "us", "S905X5 chipset box"),
+    ("s905l2 box", "us", "S905L2 chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -166,6 +168,8 @@ NEEDLES = {
     "rk3229 box": ("rk3229-box",),
     "s905l3 box": ("s905l3-box",),
     "rk3288 box": ("rk3288-box",),
+    "s905x5 box": ("s905x5-box",),
+    "s905l2 box": ("s905l2-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
