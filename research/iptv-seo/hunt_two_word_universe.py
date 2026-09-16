@@ -3118,6 +3118,18 @@ APP_STEMS = (
     "beelink-apk",
     "t962m-box",
     "s905x3s-box",
+    "nexbox-apk",
+    "odroid-apk",
+    "khadas-apk",
+    "mutant-apk",
+    "vuplus-apk",
+    "octagon-apk",
+    "gigablue-apk",
+    "dreambox-apk",
+    "avov-apk",
+    "zgemma-apk",
+    "t965k-box",
+    "rk3399k-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4381,6 +4393,9 @@ def candidates() -> list[str]:
         "comrie-tivimate",
         "crieff-tivimate",
         "auchterarder-tivimate",
+        "blackford-tivimate",
+        "dunkeld-tivimate",
+        "pitlochry-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

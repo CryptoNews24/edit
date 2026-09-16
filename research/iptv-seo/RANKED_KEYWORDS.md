@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:07 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -475,5 +475,17 @@ Updated 2026-09-16 05:04 UTC. **Only this file** is the keyword ranking. Real se
 | Q463 | `beelink apk` | United States | N/A | N/A | — | Beelink APK (Semrush pending) | `beelink-apk.us` |
 | Q464 | `t962m box` | United States | N/A | N/A | — | T962M chipset box (Semrush pending) | `t962m-box.us` |
 | Q465 | `s905x3s box` | United States | N/A | N/A | — | S905X3S chipset box (Semrush pending) | `s905x3s-box.us` |
+| Q466 | `nexbox apk` | United States | N/A | N/A | — | Nexbox APK (Semrush pending) | `nexbox-apk.us` |
+| Q467 | `odroid apk` | United States | N/A | N/A | — | ODROID APK (Semrush pending) | `odroid-apk.us` |
+| Q468 | `khadas apk` | United States | N/A | N/A | — | Khadas APK (Semrush pending) | `khadas-apk.us` |
+| Q469 | `mutant apk` | United States | N/A | N/A | — | Mutant APK (Semrush pending) | `mutant-apk.us` |
+| Q470 | `vu plus apk` | United States | N/A | N/A | — | VU+ APK (Semrush pending) | `vuplus-apk.us` |
+| Q471 | `octagon apk` | United States | N/A | N/A | — | Octagon APK (Semrush pending) | `octagon-apk.us` |
+| Q472 | `gigablue apk` | United States | N/A | N/A | — | GigaBlue APK (Semrush pending) | `gigablue-apk.us` |
+| Q473 | `dreambox apk` | United States | N/A | N/A | — | DreamBox APK (Semrush pending) | `dreambox-apk.us` |
+| Q474 | `avov apk` | United States | N/A | N/A | — | Avov APK (Semrush pending) | `avov-apk.us` |
+| Q475 | `zgemma apk` | United States | N/A | N/A | — | Zgemma APK (Semrush pending) | `zgemma-apk.us` |
+| Q476 | `t965k box` | United States | N/A | N/A | — | T965K chipset box (Semrush pending) | `t965k-box.us` |
+| Q477 | `rk3399k box` | United States | N/A | N/A | — | RK3399K chipset box (Semrush pending) | `rk3399k-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
