@@ -2808,6 +2808,32 @@ def candidates() -> list[str]:
     ):
         for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
             _push(f"{stem}{tld}", seen, out)
+    _push("tivimate-halifax.ca", seen, out)
+    _push("tivimate-winnipeg.ca", seen, out)
+    _push("tivimate-chicago.us", seen, out)
+    _push("tivimate-houston.us", seen, out)
+    _push("tivimate-miami.us", seen, out)
+    _push("tivimate-seattle.us", seen, out)
+    _push("tivimate-denver.us", seen, out)
+    _push("tivimate-boston.us", seen, out)
+    _push("tivimate-dallas.us", seen, out)
+    _push("tivimate-austin.us", seen, out)
+    _push("tivimate-phoenix.us", seen, out)
+    _push("tivimate-oslo.no", seen, out)
+    _push("oslo-tivimate.no", seen, out)
+    _push("tivimate-bergen.no", seen, out)
+    _push("tivimate-kobenhavn.dk", seen, out)
+    _push("tivimate-copenhagen.dk", seen, out)
+    _push("tivimate-helsinki.fi", seen, out)
+    _push("helsinki-tivimate.fi", seen, out)
+    _push("tivimate-stockholm.se", seen, out)
+    for stem in (
+        "tivimate-hdr",
+        "tivimate-pvr",
+        "tivimate-timeshift",
+    ):
+        for tld in (".ca", ".us", ".dk", ".no", ".se", ".fi"):
+            _push(f"{stem}{tld}", seen, out)
     # Nominet: two-word names with NO "iptv" in the label.
     for stem in (
         "box-guide",
@@ -3397,6 +3423,15 @@ def candidates() -> list[str]:
         "british-watch",
         "british-live",
         "british-tivimate",
+        "tivimate-london",
+        "london-tivimate",
+        "uk-tivimate",
+        "birmingham-tivimate",
+        "manchester-tivimate",
+        "glasgow-tivimate",
+        "leeds-tivimate",
+        "tivimate-hdr",
+        "tivimate-pvr",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
