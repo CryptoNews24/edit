@@ -789,6 +789,13 @@ QUEUED = (
     ("pumble apk", "us", "Pumble APK"),
     ("t968y box", "us", "T968Y chipset box"),
     ("t962y box", "us", "T962Y chipset box"),
+    ("jitsi apk", "us", "Jitsi APK"),
+    ("nextcloud apk", "us", "Nextcloud APK"),
+    ("collabora apk", "us", "Collabora APK"),
+    ("onlyoffice apk", "us", "ONLYOFFICE APK"),
+    ("cryptpad apk", "us", "CryptPad APK"),
+    ("t965y box", "us", "T965Y chipset box"),
+    ("rk3328y box", "us", "RK3328Y chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1552,6 +1559,13 @@ NEEDLES = {
     "pumble apk": ("pumble-apk",),
     "t968y box": ("t968y-box",),
     "t962y box": ("t962y-box",),
+    "jitsi apk": ("jitsi-apk",),
+    "nextcloud apk": ("nextcloud-apk",),
+    "collabora apk": ("collabora-apk",),
+    "onlyoffice apk": ("onlyoffice-apk",),
+    "cryptpad apk": ("cryptpad-apk",),
+    "t965y box": ("t965y-box",),
+    "rk3328y box": ("rk3328y-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

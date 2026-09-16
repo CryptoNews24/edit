@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 10:41 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 10:52 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -769,5 +769,12 @@ Updated 2026-09-16 10:41 UTC. **Only this file** is the keyword ranking. Real se
 | Q757 | `pumble apk` | United States | N/A | N/A | — | Pumble APK (Semrush pending) | `pumble-apk.us` |
 | Q758 | `t968y box` | United States | N/A | N/A | — | T968Y chipset box (Semrush pending) | `t968y-box.us` |
 | Q759 | `t962y box` | United States | N/A | N/A | — | T962Y chipset box (Semrush pending) | `t962y-box.us` |
+| Q760 | `jitsi apk` | United States | N/A | N/A | — | Jitsi APK (Semrush pending) | `jitsi-apk.us` |
+| Q761 | `nextcloud apk` | United States | N/A | N/A | — | Nextcloud APK (Semrush pending) | `nextcloud-apk.us` |
+| Q762 | `collabora apk` | United States | N/A | N/A | — | Collabora APK (Semrush pending) | `collabora-apk.us` |
+| Q763 | `onlyoffice apk` | United States | N/A | N/A | — | ONLYOFFICE APK (Semrush pending) | `onlyoffice-apk.us` |
+| Q764 | `cryptpad apk` | United States | N/A | N/A | — | CryptPad APK (Semrush pending) | `cryptpad-apk.us` |
+| Q765 | `t965y box` | United States | N/A | N/A | — | T965Y chipset box (Semrush pending) | `t965y-box.us` |
+| Q766 | `rk3328y box` | United States | N/A | N/A | — | RK3328Y chipset box (Semrush pending) | `rk3328y-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
