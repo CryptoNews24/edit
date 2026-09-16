@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:28 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:30 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -563,5 +563,14 @@ Updated 2026-09-16 05:28 UTC. **Only this file** is the keyword ranking. Real se
 | Q551 | `fenlight apk` | United States | N/A | N/A | — | Fen Light APK (Semrush pending) | `fenlight-apk.us` |
 | Q552 | `t965p box` | United States | N/A | N/A | — | T965P chipset box (Semrush pending) | `t965p-box.us` |
 | Q553 | `rk3562p box` | United States | N/A | N/A | — | RK3562P chipset box (Semrush pending) | `rk3562p-box.us` |
+| Q554 | `gaia apk` | United States | N/A | N/A | — | Gaia Kodi addon APK (Semrush pending) | `gaia-apk.us` |
+| Q555 | `asgard apk` | United States | N/A | N/A | — | Asgard Kodi addon APK (Semrush pending) | `asgard-apk.us` |
+| Q556 | `premiumize apk` | United States | N/A | N/A | — | Premiumize APK (Semrush pending) | `premiumize-apk.us` |
+| Q557 | `alldebrid apk` | United States | N/A | N/A | — | AllDebrid APK (Semrush pending) | `alldebrid-apk.us` |
+| Q558 | `nzbhydra apk` | United States | N/A | N/A | — | NZBHydra APK (Semrush pending) | `nzbhydra-apk.us` |
+| Q559 | `sabnzbd apk` | United States | N/A | N/A | — | SABnzbd APK (Semrush pending) | `sabnzbd-apk.us` |
+| Q560 | `qbittorrent apk` | United States | N/A | N/A | — | qBittorrent APK (Semrush pending) | `qbittorrent-apk.us` |
+| Q561 | `t972p box` | United States | N/A | N/A | — | T972P chipset box (Semrush pending) | `t972p-box.us` |
+| Q562 | `h618p box` | United States | N/A | N/A | — | H618P chipset box (Semrush pending) | `h618p-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

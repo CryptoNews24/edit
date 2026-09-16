@@ -3206,6 +3206,15 @@ APP_STEMS = (
     "fenlight-apk",
     "t965p-box",
     "rk3562p-box",
+    "gaia-apk",
+    "asgard-apk",
+    "premiumize-apk",
+    "alldebrid-apk",
+    "nzbhydra-apk",
+    "sabnzbd-apk",
+    "qbittorrent-apk",
+    "t972p-box",
+    "h618p-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4493,6 +4502,9 @@ def candidates() -> list[str]:
         "kilrenny-tivimate",
         "cupar-tivimate",
         "ladybank-tivimate",
+        "auchtermuchty-tivimate",
+        "falkland-tivimate",
+        "markinch-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
