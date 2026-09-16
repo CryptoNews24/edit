@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-16 02:43 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-16 02:46 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -7099,7 +7099,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **3889**.
+AVAILABLE in this dump: **3905**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -7845,6 +7845,8 @@ AVAILABLE in this dump: **3889**.
 | `cotedor-iptv.us` | .us | native RDAP 404 + no DNS |
 | `cotswold-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `cotswold-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cotswold-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cotswold-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `coubronnais-box.us` | .us | native RDAP 404 + no DNS |
 | `coubronnais-iptv.us` | .us | native RDAP 404 + no DNS |
 | `coulommierois-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -7975,6 +7977,8 @@ AVAILABLE in this dump: **3889**.
 | `dordogne-iptv.us` | .us | native RDAP 404 + no DNS |
 | `dorset-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `dorset-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `dorset-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `dorset-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `douarneniste-iptv.us` | .us | native RDAP 404 + no DNS |
 | `doubs-box.us` | .us | native RDAP 404 + no DNS |
 | `doubs-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -8453,6 +8457,8 @@ AVAILABLE in this dump: **3889**.
 | `halpa-iptv.us` | .us | native RDAP 404 + no DNS |
 | `hampshire-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `hampshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `hampshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `hampshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `handball-box.us` | .us | native RDAP 404 + no DNS |
 | `handball-iptv.us` | .us | native RDAP 404 + no DNS |
 | `harbour-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10035,6 +10041,8 @@ AVAILABLE in this dump: **3889**.
 | `shire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `shona-iptv.us` | .us | native RDAP 404 + no DNS |
 | `shropshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `shropshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `shropshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `sicilian-iptv.us` | .us | native RDAP 404 + no DNS |
 | `simmental-iptv.us` | .us | native RDAP 404 + no DNS |
 | `sindhi-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -10087,6 +10095,8 @@ AVAILABLE in this dump: **3889**.
 | `somali-iptv.us` | .us | native RDAP 404 + no DNS |
 | `somerset-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `somerset-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `somerset-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `somerset-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `somme-box.us` | .us | native RDAP 404 + no DNS |
 | `somme-iptv.us` | .us | native RDAP 404 + no DNS |
 | `sony-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -10142,6 +10152,8 @@ AVAILABLE in this dump: **3889**.
 | `ssiptv-player.us` | .us | native RDAP 404 + no DNS |
 | `stafford-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `stafford-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `stafford-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `stafford-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `stainois-box.us` | .us | native RDAP 404 + no DNS |
 | `stainois-iptv.us` | .us | native RDAP 404 + no DNS |
 | `starbox-box.us` | .us | native RDAP 404 + no DNS |
@@ -10216,6 +10228,8 @@ AVAILABLE in this dump: **3889**.
 | `suresnois-iptv.us` | .us | native RDAP 404 + no DNS |
 | `surrey-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `surrey-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `surrey-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `surrey-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `suscripcion-iptv.us` | .us | native RDAP 404 + no DNS |
 | `sussex-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `sussex-guide.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10921,6 +10935,8 @@ AVAILABLE in this dump: **3889**.
 | `wigtown-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `wiltshire-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `wiltshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `wiltshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `wiltshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `windygates-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `windygates-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `wishaw-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -11014,11 +11030,11 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | .se | Sweden | 1 | 7 | 2217 |
 | .no | Norway | 2241 | 0 | 0 |
 | .dk | Denmark | 2238 | 0 | 0 |
-| .fi | Finland | 2241 | 0 | 0 |
+| .fi | Finland | 2242 | 0 | 0 |
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 733 | 0 | 7 |
+| .co.uk | United Kingdom | 741 | 0 | 7 |
 
 ### .ca — Canada
 
@@ -28799,7 +28815,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .fi — Finland
 
-**AVAILABLE (2241)** — native RDAP 404 + no DNS.
+**AVAILABLE (2242)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -30822,6 +30838,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `tivimate-pvr.fi` |
 | `tivimate-replay.fi` |
 | `tivimate-rovaniemi.fi` |
+| `tivimate-seinajoki.fi` |
 | `tivimate-setup.fi` |
 | `tivimate-sport.fi` |
 | `tivimate-stream.fi` |
@@ -31069,7 +31086,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (733)** — native RDAP 404 + no DNS.
+**AVAILABLE (741)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -31229,6 +31246,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `cord-cut.co.uk` |
 | `cornwall-tivimate.co.uk` |
 | `cotswold-guide.co.uk` |
+| `cotswold-tivimate.co.uk` |
 | `county-guide.co.uk` |
 | `couparangus-guide.co.uk` |
 | `coventry-tivimate.co.uk` |
@@ -31267,6 +31285,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `devon-tivimate.co.uk` |
 | `dollar-guide.co.uk` |
 | `dorset-guide.co.uk` |
+| `dorset-tivimate.co.uk` |
 | `doune-guide.co.uk` |
 | `downloader-box.co.uk` |
 | `downs-guide.co.uk` |
@@ -31379,6 +31398,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `gwynedd-guide.co.uk` |
 | `halifax-tivimate.co.uk` |
 | `hampshire-guide.co.uk` |
+| `hampshire-tivimate.co.uk` |
 | `harbour-guide.co.uk` |
 | `hawick-guide.co.uk` |
 | `hebrides-guide.co.uk` |
@@ -31634,6 +31654,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `shetland-guide.co.uk` |
 | `shield-tivimate.co.uk` |
 | `shire-guide.co.uk` |
+| `shropshire-tivimate.co.uk` |
 | `skye-guide.co.uk` |
 | `smarters-box.co.uk` |
 | `smarters-guide.co.uk` |
@@ -31648,6 +31669,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `soccer-guide.co.uk` |
 | `solent-guide.co.uk` |
 | `somerset-guide.co.uk` |
+| `somerset-tivimate.co.uk` |
 | `southampton-tivimate.co.uk` |
 | `southronaldsay-guide.co.uk` |
 | `sparkle-box.co.uk` |
@@ -31664,6 +31686,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `springbank-guide.co.uk` |
 | `springfield-guide.co.uk` |
 | `stafford-guide.co.uk` |
+| `stafford-tivimate.co.uk` |
 | `stevenston-guide.co.uk` |
 | `stfillans-guide.co.uk` |
 | `stick-guide.co.uk` |
@@ -31694,6 +31717,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `suffolk-guide.co.uk` |
 | `suffolk-tivimate.co.uk` |
 | `surrey-guide.co.uk` |
+| `surrey-tivimate.co.uk` |
 | `sussex-guide.co.uk` |
 | `sussex-tivimate.co.uk` |
 | `swansea-tivimate.co.uk` |
@@ -31793,6 +31817,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `wight-guide.co.uk` |
 | `wigtown-guide.co.uk` |
 | `wiltshire-guide.co.uk` |
+| `wiltshire-tivimate.co.uk` |
 | `windygates-guide.co.uk` |
 | `wishaw-guide.co.uk` |
 | `wolfburn-guide.co.uk` |
