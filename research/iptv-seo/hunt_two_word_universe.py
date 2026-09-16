@@ -2742,6 +2742,17 @@ APP_STEMS = (
     "rk3288-box",
     "s905x5-box",
     "s905l2-box",
+    "rk3528-box",
+    "rk3562-box",
+    "ugoos-box",
+    "buzztv-box",
+    "dreamlink-box",
+    "zgemma-box",
+    "nvidia-shield",
+    "coreelec-box",
+    "libreelec-box",
+    "stbemu-box",
+    "mytvonline-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3915,6 +3926,9 @@ def candidates() -> list[str]:
         "dalry-tivimate",
         "rothesay-tivimate",
         "dunoon-tivimate",
+        "millport-tivimate",
+        "campbeltown-tivimate",
+        "inveraray-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

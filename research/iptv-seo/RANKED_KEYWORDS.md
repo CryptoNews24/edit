@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:37 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:40 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -78,5 +78,21 @@ Updated 2026-09-16 03:37 UTC. **Only this file** is the keyword ranking. Real se
 | Q66 | `rk3288 box` | United States | N/A | N/A | — | RK3288 chipset box (Semrush pending) | `rk3288-box.us` |
 | Q67 | `s905x5 box` | United States | N/A | N/A | — | S905X5 chipset box (Semrush pending) | `s905x5-box.us` |
 | Q68 | `s905l2 box` | United States | N/A | N/A | — | S905L2 chipset box (Semrush pending) | `s905l2-box.us` |
+| Q69 | `mecool box` | United States | N/A | N/A | — | Mecool Android box (Semrush pending) | `mecool-box.us` |
+| Q70 | `beelink box` | United States | N/A | N/A | — | Beelink Android box (Semrush pending) | `beelink-box.us` |
+| Q71 | `tanix box` | United States | N/A | N/A | — | Tanix Android box (Semrush pending) | `tanix-box.us` |
+| Q72 | `zidoo box` | United States | N/A | N/A | — | Zidoo media box (Semrush pending) | `zidoo-box.us` |
+| Q73 | `ugoos box` | United States | N/A | N/A | — | Ugoos Android box (Semrush pending) | `ugoos-box.us` |
+| Q74 | `buzz tv` | United States | N/A | N/A | — | BuzzTV Android box (Semrush pending) | `buzztv-box.us` |
+| Q75 | `dreamlink box` | United States | N/A | N/A | — | Dreamlink box (Semrush pending) | `dreamlink-box.us` |
+| Q76 | `zgemma box` | United States | N/A | N/A | — | Zgemma Enigma box (Semrush pending) | `zgemma-box.us` |
+| Q77 | `chromecast iptv` | United States | N/A | N/A | — | Chromecast + IPTV (Semrush pending) | `chromecast-box.us` |
+| Q78 | `nvidia shield` | United States | N/A | N/A | — | NVIDIA Shield TV (Semrush pending) | `nvidia-shield.us` |
+| Q79 | `coreelec box` | United States | N/A | N/A | — | CoreELEC firmware box (Semrush pending) | `coreelec-box.us` |
+| Q80 | `rk3528 box` | United States | N/A | N/A | — | RK3528 chipset box (Semrush pending) | `rk3528-box.us` |
+| Q81 | `t982 box` | United States | N/A | N/A | — | T982 chipset box (Semrush pending) | `t982-box.us` |
+| Q82 | `stbemu` | United States | N/A | N/A | — | STB Emu MAG clone (Semrush pending) | `stbemu-box.us` |
+| Q83 | `mytvonline` | United States | N/A | N/A | — | MyTVOnline Formuler app (Semrush pending) | `mytvonline-box.us` |
+| Q84 | `libreelec box` | United States | N/A | N/A | — | LibreELEC firmware box (Semrush pending) | `libreelec-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
