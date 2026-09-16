@@ -615,6 +615,9 @@ livewatch.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list a
 livewatch.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 livewatch.se,Sweden,TAKEN,DNS yes,,Not available. Do not list as a buy.
 livewatch.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
+localtv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
+localtv.co.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
+localtv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 m3u-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 m3u-iptv.fr,France,TAKEN,DNS yes,,Not available. Do not list as a buy.
 m3u-iptv.nl,Netherlands,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -855,6 +858,7 @@ satellitetv.co.uk,United Kingdom,TAKEN,No DNS / offline-looking,,Not available. 
 satellitetv.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
 sauerland-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 scotland-guide.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.
+selectiptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 sender-iptv.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 server-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 server-panel.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
@@ -1135,6 +1139,8 @@ usatv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 vancouveriptv.ca,Canada,TAKEN,DNS yes,,Not available. Do not list as a buy.
 var-box.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
 vergleich-anbieter.de,Germany,TAKEN,DNS yes,,Not available. Do not list as a buy.
+viaplaytv.fi,Finland,TAKEN,DNS yes,,Not available. Do not list as a buy.
+viaplaytv.no,Norway,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 vipiptv.ca,Canada,TAKEN,No DNS / offline-looking,,Not available. Do not list as a buy.
 vipiptv.us,United States,TAKEN,DNS yes,,Not available. Do not list as a buy.
 vodbox.co.uk,United Kingdom,TAKEN,DNS yes,,Not available. Do not list as a buy.

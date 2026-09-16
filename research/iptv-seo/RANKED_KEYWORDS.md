@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 19:48 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 20:05 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -1003,5 +1003,10 @@ Updated 2026-09-16 19:48 UTC. **Only this file** is the keyword ranking. Space-s
 | Q991 | `ios iptv` | United States | N/A | N/A | — | iOS IPTV commercial smash (Semrush pending) | `iosiptv.us` |
 | Q992 | `mobile iptv` | United States | N/A | N/A | — | Mobile IPTV commercial smash (Semrush pending) | `mobileiptv.us` |
 | Q993 | `itv hub` | United Kingdom | N/A | N/A | — | ITV Hub smash (Semrush pending) | `itvhub.uk` |
+| Q994 | `try iptv` | United States | N/A | N/A | — | Try IPTV commercial smash (Semrush pending) | `tryiptv.us` |
+| Q995 | `local iptv` | United States | N/A | N/A | — | Local IPTV commercial smash (Semrush pending) | `localiptv.us` |
+| Q996 | `telegram iptv` | United States | N/A | N/A | — | Telegram IPTV smash (Semrush pending) | `telegramiptv.us` |
+| Q997 | `order iptv` | United States | N/A | N/A | — | Order IPTV commercial smash (Semrush pending) | `orderiptv.us` |
+| Q998 | `join iptv` | United States | N/A | N/A | — | Join IPTV commercial smash (Semrush pending) | `joiniptv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.
