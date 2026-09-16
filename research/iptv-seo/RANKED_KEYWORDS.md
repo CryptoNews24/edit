@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 19:27 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 19:38 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -99,7 +99,7 @@ Updated 2026-09-16 19:27 UTC. **Only this file** is the keyword ranking. Space-s
 | Q87 | `jellyfin iptv` | United States | N/A | N/A | — | Jellyfin + Live TV (Semrush pending) | `jellyfiniptv.us` |
 | Q88 | `emby iptv` | United States | N/A | N/A | — | Emby Live TV (Semrush pending) | `embyiptv.us` |
 | Q89 | `avov box` | United States | N/A | N/A | — | Avov TVOnline box (Semrush pending) | `avovbox.us` |
-| Q90 | `dreambox` | United States | N/A | N/A | — | DreamBox Enigma (Semrush pending) | `—` |
+| Q90 | `dreambox` | United States | N/A | N/A | — | DreamBox Enigma (Semrush pending) | `dreamboxbox.us` |
 | Q91 | `gigablue box` | United States | N/A | N/A | — | GigaBlue Enigma box (Semrush pending) | `gigabluebox.us` |
 | Q92 | `octagon box` | United States | N/A | N/A | — | Octagon Enigma box (Semrush pending) | `octagonbox.us` |
 | Q93 | `h728 box` | United States | N/A | N/A | — | H728 chipset box (Semrush pending) | `—` |
@@ -114,7 +114,7 @@ Updated 2026-09-16 19:27 UTC. **Only this file** is the keyword ranking. Space-s
 | Q102 | `mutant box` | United States | N/A | N/A | — | Mutant Enigma box (Semrush pending) | `mutantbox.us` |
 | Q103 | `odroid box` | United States | N/A | N/A | — | ODROID media box (Semrush pending) | `odroidbox.us` |
 | Q104 | `khadas box` | United States | N/A | N/A | — | Khadas media box (Semrush pending) | `khadasbox.us` |
-| Q105 | `nexbox box` | United States | N/A | N/A | — | Nexbox Android box (Semrush pending) | `—` |
+| Q105 | `nexbox box` | United States | N/A | N/A | — | Nexbox Android box (Semrush pending) | `nexboxbox.us` |
 | Q106 | `x96q box` | United States | N/A | N/A | — | X96Q Android box (Semrush pending) | `x96qbox.us` |
 | Q107 | `synology iptv` | United States | N/A | N/A | — | Synology Video Station (Semrush pending) | `synologyiptv.us` |
 | Q108 | `channels dvr` | United States | N/A | N/A | — | Channels DVR Live TV (Semrush pending) | `channelsdvr.us` |
@@ -254,7 +254,7 @@ Updated 2026-09-16 19:27 UTC. **Only this file** is the keyword ranking. Space-s
 | Q242 | `ministra` | United States | N/A | N/A | — | Ministra middleware (Semrush pending) | `—` |
 | Q243 | `nebula player` | United States | N/A | N/A | — | Nebula IPTV player (Semrush pending) | `—` |
 | Q244 | `m3u playlist` | United States | N/A | N/A | — | M3U playlist setup (Semrush pending) | `—` |
-| Q245 | `xmltv guide` | United States | N/A | N/A | — | XMLTV EPG guide (Semrush pending) | `—` |
+| Q245 | `xmltv guide` | United States | N/A | N/A | — | XMLTV EPG guide (Semrush pending) | `xmltvguide.us` |
 | Q246 | `playlist editor` | United States | N/A | N/A | — | Playlist editor app (Semrush pending) | `playlisteditor.us` |
 | Q247 | `mag portal` | United States | N/A | N/A | — | MAG portal setup (Semrush pending) | `—` |
 | Q248 | `dragon player` | United States | N/A | N/A | — | Dragon Player app (Semrush pending) | `—` |
@@ -320,7 +320,7 @@ Updated 2026-09-16 19:27 UTC. **Only this file** is the keyword ranking. Space-s
 | Q308 | `premiumize` | United States | N/A | N/A | — | Premiumize Stremio (Semrush pending) | `—` |
 | Q309 | `mediafusion` | United States | N/A | N/A | — | MediaFusion addon (Semrush pending) | `—` |
 | Q310 | `kometa` | United States | N/A | N/A | — | Kometa Plex overlay (Semrush pending) | `—` |
-| Q311 | `xtream ui` | United States | N/A | N/A | — | Xtream UI panel (Semrush pending) | `—` |
+| Q311 | `xtream ui` | United States | N/A | N/A | — | Xtream UI panel (Semrush pending) | `xtreamui.us` |
 | Q312 | `xui one` | United States | N/A | N/A | — | XUI One panel (Semrush pending) | `—` |
 | Q313 | `sparkle apk` | United States | N/A | N/A | — | Sparkle TV APK (Semrush pending) | `—` |
 | Q314 | `smarters apk` | United States | N/A | N/A | — | Smarters Pro APK (Semrush pending) | `—` |
@@ -958,19 +958,19 @@ Updated 2026-09-16 19:27 UTC. **Only this file** is the keyword ranking. Space-s
 | Q946 | `smash stream` | United States | N/A | N/A | — | Smashstream (Semrush pending) | `—` |
 | Q947 | `debridio apk` | United States | N/A | N/A | — | Debridio APK (Semrush pending) | `—` |
 | Q948 | `rk3588w box` | United States | N/A | N/A | — | RK3588W chipset box (Semrush pending) | `—` |
-| Q949 | `plex debrid` | United States | N/A | N/A | — | Plex Debrid (Semrush pending) | `—` |
+| Q949 | `plex debrid` | United States | N/A | N/A | — | Plex Debrid (Semrush pending) | `plexdebrid.us` |
 | Q950 | `rdt client` | United States | N/A | N/A | — | RDT-Client (Semrush pending) | `—` |
 | Q951 | `zurg apk` | United States | N/A | N/A | — | Zurg APK (Semrush pending) | `—` |
-| Q952 | `ghost tv` | United States | N/A | N/A | — | Ghost TV (Semrush pending) | `—` |
-| Q953 | `cinema box` | United States | N/A | N/A | — | CinemaBox (Semrush pending) | `—` |
+| Q952 | `ghost tv` | United States | N/A | N/A | — | Ghost TV (Semrush pending) | `ghosttv.us` |
+| Q953 | `cinema box` | United States | N/A | N/A | — | CinemaBox (Semrush pending) | `cinemabox.us` |
 | Q954 | `t965x box` | United States | N/A | N/A | — | T965X chipset box (Semrush pending) | `—` |
 | Q955 | `easy news` | United States | N/A | N/A | — | Easynews (Semrush pending) | `—` |
 | Q956 | `flix fire` | United States | N/A | N/A | — | FlixFire (Semrush pending) | `—` |
-| Q957 | `phantom tv` | United States | N/A | N/A | — | Phantom TV (Semrush pending) | `—` |
+| Q957 | `phantom tv` | United States | N/A | N/A | — | Phantom TV (Semrush pending) | `phantomtv.us` |
 | Q958 | `debridav apk` | United States | N/A | N/A | — | Debridav APK (Semrush pending) | `—` |
 | Q959 | `kodi 18` | United States | N/A | N/A | — | Kodi 18 (Semrush pending) | `—` |
 | Q960 | `s905x3z box` | United States | N/A | N/A | — | S905X3Z chipset box (Semrush pending) | `—` |
-| Q961 | `syncler plus` | United States | N/A | N/A | — | Syncler Plus (Semrush pending) | `—` |
+| Q961 | `syncler plus` | United States | N/A | N/A | — | Syncler Plus (Semrush pending) | `synclerplus.us` |
 | Q962 | `magis pro` | United States | N/A | N/A | — | Magis Pro (Semrush pending) | `magispro.ca` |
 | Q963 | `stream flix` | United States | N/A | N/A | — | StreamFlix (Semrush pending) | `—` |
 | Q964 | `rdnet apk` | United States | N/A | N/A | — | RDNet APK (Semrush pending) | `—` |

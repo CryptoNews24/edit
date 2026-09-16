@@ -2044,6 +2044,14 @@ NEEDLES = {
     "ott plus": ("ottplus",),
     "gse plus": ("gseplus",),
     "sparkle plus": ("sparkleplus",),
+    "xmltv guide": ("xmltvguide",),
+    "dreambox": ("dreamboxbox", "dreamboxtv", "dreamboxapp"),
+    "nexbox box": ("nexboxbox", "nexboxtv", "nexboxapp"),
+    "ghost tv": ("ghosttv",),
+    "cinema box": ("cinemabox", "cinematv"),
+    "phantom tv": ("phantomtv",),
+    "syncler plus": ("synclerplus",),
+    "xtream ui": ("xtreamui",),
 }
 
 
