@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 21:36 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 21:49 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -1146,5 +1146,18 @@ Updated 2026-09-16 21:36 UTC. **Only this file** is the keyword ranking. Space-s
 | Q1134 | `manchester tv` | United Kingdom | N/A | N/A | — | Manchester TV smash (Semrush pending) | `manchestertv.us` |
 | Q1135 | `oslo tv` | Norway | N/A | N/A | — | Oslo TV smash (Semrush pending) | `oslotv.ca` |
 | Q1136 | `zgemma tv` | United States | N/A | N/A | — | Zgemma TV smash (Semrush pending) | `zgemmatv.us` |
+| Q1137 | `f1 tv` | United States | N/A | N/A | — | F1 TV smash (Semrush pending) | `f1tv.ca` |
+| Q1138 | `ufc tv` | United States | N/A | N/A | — | UFC TV smash (Semrush pending) | `ufctv.us` |
+| Q1139 | `wwe tv` | United States | N/A | N/A | — | WWE TV smash (Semrush pending) | `wwetv.us` |
+| Q1140 | `fifa tv` | United States | N/A | N/A | — | FIFA TV smash (Semrush pending) | `fifatv.us` |
+| Q1141 | `nascar tv` | United States | N/A | N/A | — | NASCAR TV smash (Semrush pending) | `nascartv.ca` |
+| Q1142 | `bundesliga tv` | United States | N/A | N/A | — | Bundesliga TV smash (Semrush pending) | `bundesligatv.us` |
+| Q1143 | `world series` | United States | N/A | N/A | — | World Series smash (Semrush pending) | `worldseries.dk` |
+| Q1144 | `sky kids` | United Kingdom | N/A | N/A | — | Sky Kids smash (Semrush pending) | `skykids.dk` |
+| Q1145 | `oled tv` | United States | N/A | N/A | — | OLED TV smash (Semrush pending) | `oledtv.us` |
+| Q1146 | `8k tv` | United States | N/A | N/A | — | 8K TV smash (Semrush pending) | `8ktv.ca` |
+| Q1147 | `king tv` | United States | N/A | N/A | — | King TV smash (Semrush pending) | `kingtv.dk` |
+| Q1148 | `tv2 news` | Denmark | N/A | N/A | — | TV 2 News smash (Semrush pending) | `tv2news.ca` |
+| Q1149 | `odroid tv` | United States | N/A | N/A | — | Odroid TV smash (Semrush pending) | `odroidtv.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated queries. AVAILABLE leftover column is smashed two-word domains only.

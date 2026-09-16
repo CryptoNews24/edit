@@ -1173,6 +1173,19 @@ QUEUED = (
     ("manchester tv", "uk", "Manchester TV smash"),
     ("oslo tv", "no", "Oslo TV smash"),
     ("zgemma tv", "us", "Zgemma TV smash"),
+    ("f1 tv", "us", "F1 TV smash"),
+    ("ufc tv", "us", "UFC TV smash"),
+    ("wwe tv", "us", "WWE TV smash"),
+    ("fifa tv", "us", "FIFA TV smash"),
+    ("nascar tv", "us", "NASCAR TV smash"),
+    ("bundesliga tv", "us", "Bundesliga TV smash"),
+    ("world series", "us", "World Series smash"),
+    ("sky kids", "uk", "Sky Kids smash"),
+    ("oled tv", "us", "OLED TV smash"),
+    ("8k tv", "us", "8K TV smash"),
+    ("king tv", "us", "King TV smash"),
+    ("tv2 news", "dk", "TV 2 News smash"),
+    ("odroid tv", "us", "Odroid TV smash"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
