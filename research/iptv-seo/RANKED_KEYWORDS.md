@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 02:32 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 02:34 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -51,5 +51,7 @@ Updated 2026-09-16 02:32 UTC. **Only this file** is the keyword ranking. Real se
 | Q39 | `net iptv` | United States | N/A | N/A | — | Net IPTV app (Semrush pending) | `netiptv-box.us` |
 | Q40 | `enigma iptv` | United States | N/A | N/A | — | Enigma box setup (Semrush pending) | `enigma-box.us` |
 | Q41 | `iptv downloader` | United States | N/A | N/A | — | Downloader + Fire Stick (Semrush pending) | `downloader-box.us` |
+| Q42 | `mag 254` | United States | N/A | N/A | — | MAG 254 box (Semrush pending) | `mag254-box.us` |
+| Q43 | `infomir` | United States | N/A | N/A | — | Infomir MAG boxes (Semrush pending) | `infomir-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
