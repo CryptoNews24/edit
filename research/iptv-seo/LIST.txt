@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-16 03:01 UTC
+Updated 2026-09-16 03:04 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
@@ -18992,6 +18992,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   anglia-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  anglia-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  anglia-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   angus-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   angus-guide.uk
@@ -19798,6 +19802,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   dyfed-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  dyfed-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  dyfed-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   dysart-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   dysart-guide.uk
@@ -20114,6 +20122,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   grampian-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  grampian-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  grampian-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   grandtully-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   grandtully-guide.uk
@@ -20153,6 +20165,10 @@ United Kingdom
   gwent-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   gwent-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gwent-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gwent-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   gwynedd-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -20641,6 +20657,10 @@ United Kingdom
   lothian-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   lothian-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  lothian-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  lothian-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   luib-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21404,6 +21424,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   strathclyde-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  strathclyde-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  strathclyde-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   strathisla-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   strathisla-guide.uk
@@ -21862,9 +21886,17 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   wessex-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  wessex-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  wessex-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   westmorland-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   westmorland-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  westmorland-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  westmorland-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   westray-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21974,7 +22006,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
 .pl  Poland  AVAILABLE=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=774  confirm=0  unknown=7
+.co.uk  United Kingdom  AVAILABLE=782  confirm=0  unknown=7
 
 -------- .ca Canada AVAILABLE --------
   4k-box.ca
@@ -41975,6 +42007,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   androidtvguide.co.uk
   anglesey-guide.co.uk
   anglia-guide.co.uk
+  anglia-tivimate.co.uk
   angus-guide.co.uk
   anime-guide.co.uk
   anstruther-guide.co.uk
@@ -42180,6 +42213,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   durham-tivimate.co.uk
   durness-guide.co.uk
   dyfed-guide.co.uk
+  dyfed-tivimate.co.uk
   dysart-guide.co.uk
   eastkilbride-guide.co.uk
   eastwemyss-guide.co.uk
@@ -42262,6 +42296,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   googletv-box.co.uk
   gourock-guide.co.uk
   grampian-guide.co.uk
+  grampian-tivimate.co.uk
   grandtully-guide.co.uk
   grantown-guide.co.uk
   greenloaning-guide.co.uk
@@ -42272,6 +42307,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   gse-player.co.uk
   gse-smart.co.uk
   gwent-guide.co.uk
+  gwent-tivimate.co.uk
   gwynedd-guide.co.uk
   gwynedd-tivimate.co.uk
   halifax-tivimate.co.uk
@@ -42395,6 +42431,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   longrow-guide.co.uk
   lossiemouth-guide.co.uk
   lothian-guide.co.uk
+  lothian-tivimate.co.uk
   luib-guide.co.uk
   luncarty-guide.co.uk
   m3uguide.co.uk
@@ -42590,6 +42627,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   strachur-guide.co.uk
   stranraer-guide.co.uk
   strathclyde-guide.co.uk
+  strathclyde-tivimate.co.uk
   strathisla-guide.co.uk
   strathmill-guide.co.uk
   strathnairn-guide.co.uk
@@ -42710,7 +42748,9 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   weem-guide.co.uk
   welsh-tivimate.co.uk
   wessex-guide.co.uk
+  wessex-tivimate.co.uk
   westmorland-guide.co.uk
+  westmorland-tivimate.co.uk
   westray-guide.co.uk
   westwemyss-guide.co.uk
   wifi-guide.co.uk

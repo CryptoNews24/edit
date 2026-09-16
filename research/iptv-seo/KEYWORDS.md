@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-16 03:01 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-16 03:04 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -7112,7 +7112,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **3973**.
+AVAILABLE in this dump: **3989**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -7233,6 +7233,8 @@ AVAILABLE in this dump: **3973**.
 | `anglesey-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `anglia-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `anglia-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `anglia-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `anglia-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `angoumoisin-iptv.us` | .us | native RDAP 404 + no DNS |
 | `angus-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `angus-guide.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -8068,6 +8070,8 @@ AVAILABLE in this dump: **3973**.
 | `durness-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `dyfed-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `dyfed-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `dyfed-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `dyfed-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `dysart-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `dysart-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `eastkilbride-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -8385,6 +8389,8 @@ AVAILABLE in this dump: **3973**.
 | `gourock-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `grampian-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `grampian-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `grampian-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `grampian-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `grandtully-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `grandtully-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `grantown-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -8433,6 +8439,8 @@ AVAILABLE in this dump: **3973**.
 | `guyane-iptv.us` | .us | native RDAP 404 + no DNS |
 | `gwent-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `gwent-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `gwent-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `gwent-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `gwynedd-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `gwynedd-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `gwynedd-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -9118,6 +9126,8 @@ AVAILABLE in this dump: **3973**.
 | `lot-iptv.us` | .us | native RDAP 404 + no DNS |
 | `lothian-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `lothian-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `lothian-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `lothian-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `louisville-iptv.us` | .us | native RDAP 404 + no DNS |
 | `lourdais-iptv.us` | .us | native RDAP 404 + no DNS |
 | `louveciennois-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -10248,6 +10258,8 @@ AVAILABLE in this dump: **3973**.
 | `strasbourgeois-iptv.us` | .us | native RDAP 404 + no DNS |
 | `strathclyde-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `strathclyde-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `strathclyde-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `strathclyde-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `strathisla-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `strathisla-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `strathmill-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10994,9 +11006,13 @@ AVAILABLE in this dump: **3973**.
 | `weser-iptv.us` | .us | native RDAP 404 + no DNS |
 | `wessex-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `wessex-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `wessex-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `wessex-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `westfalen-iptv.us` | .us | native RDAP 404 + no DNS |
 | `westmorland-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `westmorland-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `westmorland-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `westmorland-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `westray-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `westray-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `westwemyss-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -11115,7 +11131,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 774 | 0 | 7 |
+| .co.uk | United Kingdom | 782 | 0 | 7 |
 
 ### .ca — Canada
 
@@ -31188,7 +31204,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (774)** — native RDAP 404 + no DNS.
+**AVAILABLE (782)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -31209,6 +31225,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `androidtvguide.co.uk` |
 | `anglesey-guide.co.uk` |
 | `anglia-guide.co.uk` |
+| `anglia-tivimate.co.uk` |
 | `angus-guide.co.uk` |
 | `anime-guide.co.uk` |
 | `anstruther-guide.co.uk` |
@@ -31414,6 +31431,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `durham-tivimate.co.uk` |
 | `durness-guide.co.uk` |
 | `dyfed-guide.co.uk` |
+| `dyfed-tivimate.co.uk` |
 | `dysart-guide.co.uk` |
 | `eastkilbride-guide.co.uk` |
 | `eastwemyss-guide.co.uk` |
@@ -31496,6 +31514,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `googletv-box.co.uk` |
 | `gourock-guide.co.uk` |
 | `grampian-guide.co.uk` |
+| `grampian-tivimate.co.uk` |
 | `grandtully-guide.co.uk` |
 | `grantown-guide.co.uk` |
 | `greenloaning-guide.co.uk` |
@@ -31506,6 +31525,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `gse-player.co.uk` |
 | `gse-smart.co.uk` |
 | `gwent-guide.co.uk` |
+| `gwent-tivimate.co.uk` |
 | `gwynedd-guide.co.uk` |
 | `gwynedd-tivimate.co.uk` |
 | `halifax-tivimate.co.uk` |
@@ -31629,6 +31649,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `longrow-guide.co.uk` |
 | `lossiemouth-guide.co.uk` |
 | `lothian-guide.co.uk` |
+| `lothian-tivimate.co.uk` |
 | `luib-guide.co.uk` |
 | `luncarty-guide.co.uk` |
 | `m3uguide.co.uk` |
@@ -31824,6 +31845,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `strachur-guide.co.uk` |
 | `stranraer-guide.co.uk` |
 | `strathclyde-guide.co.uk` |
+| `strathclyde-tivimate.co.uk` |
 | `strathisla-guide.co.uk` |
 | `strathmill-guide.co.uk` |
 | `strathnairn-guide.co.uk` |
@@ -31944,7 +31966,9 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `weem-guide.co.uk` |
 | `welsh-tivimate.co.uk` |
 | `wessex-guide.co.uk` |
+| `wessex-tivimate.co.uk` |
 | `westmorland-guide.co.uk` |
+| `westmorland-tivimate.co.uk` |
 | `westray-guide.co.uk` |
 | `westwemyss-guide.co.uk` |
 | `wifi-guide.co.uk` |

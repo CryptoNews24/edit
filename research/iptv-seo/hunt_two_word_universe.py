@@ -3818,6 +3818,14 @@ def candidates() -> list[str]:
         "teesside-tivimate",
         "clydeside-tivimate",
         "tayside-tivimate",
+        "westmorland-tivimate",
+        "gwent-tivimate",
+        "dyfed-tivimate",
+        "strathclyde-tivimate",
+        "lothian-tivimate",
+        "grampian-tivimate",
+        "wessex-tivimate",
+        "anglia-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
