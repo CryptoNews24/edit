@@ -733,6 +733,13 @@ QUEUED = (
     ("pixelxpert apk", "us", "PixelXpert APK"),
     ("smartlauncher apk", "us", "Smart Launcher APK"),
     ("rk3328v box", "us", "RK3328V chipset box"),
+    ("fennec apk", "us", "Fennec APK"),
+    ("organicmaps apk", "us", "Organic Maps APK"),
+    ("beforelauncher apk", "us", "Before Launcher APK"),
+    ("actionlauncher apk", "us", "Action Launcher APK"),
+    ("simplegallery apk", "us", "Simple Gallery APK"),
+    ("h618v box", "us", "H618V chipset box"),
+    ("rk3562v box", "us", "RK3562V chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1440,6 +1447,13 @@ NEEDLES = {
     "pixelxpert apk": ("pixelxpert-apk",),
     "smartlauncher apk": ("smartlauncher-apk",),
     "rk3328v box": ("rk3328v-box",),
+    "fennec apk": ("fennec-apk",),
+    "organicmaps apk": ("organicmaps-apk",),
+    "beforelauncher apk": ("beforelauncher-apk",),
+    "actionlauncher apk": ("actionlauncher-apk",),
+    "simplegallery apk": ("simplegallery-apk",),
+    "h618v box": ("h618v-box",),
+    "rk3562v box": ("rk3562v-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

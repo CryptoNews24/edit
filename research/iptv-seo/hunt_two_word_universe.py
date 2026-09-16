@@ -3356,6 +3356,13 @@ APP_STEMS = (
     "pixelxpert-apk",
     "smartlauncher-apk",
     "rk3328v-box",
+    "fennec-apk",
+    "organicmaps-apk",
+    "beforelauncher-apk",
+    "actionlauncher-apk",
+    "simplegallery-apk",
+    "h618v-box",
+    "rk3562v-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4703,6 +4710,9 @@ def candidates() -> list[str]:
         "meikleour-tivimate",
         "spittalfield-tivimate",
         "caputh-tivimate",
+        "kenmore-tivimate",
+        "fearnan-tivimate",
+        "weem-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 08:43 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 08:55 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -713,5 +713,12 @@ Updated 2026-09-16 08:43 UTC. **Only this file** is the keyword ranking. Real se
 | Q701 | `pixelxpert apk` | United States | N/A | N/A | — | PixelXpert APK (Semrush pending) | `pixelxpert-apk.us` |
 | Q702 | `smartlauncher apk` | United States | N/A | N/A | — | Smart Launcher APK (Semrush pending) | `smartlauncher-apk.us` |
 | Q703 | `rk3328v box` | United States | N/A | N/A | — | RK3328V chipset box (Semrush pending) | `rk3328v-box.us` |
+| Q704 | `fennec apk` | United States | N/A | N/A | — | Fennec APK (Semrush pending) | `fennec-apk.us` |
+| Q705 | `organicmaps apk` | United States | N/A | N/A | — | Organic Maps APK (Semrush pending) | `organicmaps-apk.us` |
+| Q706 | `beforelauncher apk` | United States | N/A | N/A | — | Before Launcher APK (Semrush pending) | `beforelauncher-apk.us` |
+| Q707 | `actionlauncher apk` | United States | N/A | N/A | — | Action Launcher APK (Semrush pending) | `actionlauncher-apk.us` |
+| Q708 | `simplegallery apk` | United States | N/A | N/A | — | Simple Gallery APK (Semrush pending) | `simplegallery-apk.us` |
+| Q709 | `h618v box` | United States | N/A | N/A | — | H618V chipset box (Semrush pending) | `h618v-box.us` |
+| Q710 | `rk3562v box` | United States | N/A | N/A | — | RK3562V chipset box (Semrush pending) | `rk3562v-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
