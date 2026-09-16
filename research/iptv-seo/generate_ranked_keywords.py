@@ -720,6 +720,13 @@ QUEUED = (
     ("lawnchair apk", "us", "Lawnchair APK"),
     ("h313v box", "us", "H313V chipset box"),
     ("t972v box", "us", "T972V chipset box"),
+    ("adaway apk", "us", "AdAway APK"),
+    ("netguard apk", "us", "NetGuard APK"),
+    ("swiftbackup apk", "us", "Swift Backup APK"),
+    ("lspatch apk", "us", "LSPatch APK"),
+    ("niagara apk", "us", "Niagara Launcher APK"),
+    ("a133v box", "us", "A133V chipset box"),
+    ("t965v box", "us", "T965V chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1414,6 +1421,13 @@ NEEDLES = {
     "lawnchair apk": ("lawnchair-apk",),
     "h313v box": ("h313v-box",),
     "t972v box": ("t972v-box",),
+    "adaway apk": ("adaway-apk",),
+    "netguard apk": ("netguard-apk",),
+    "swiftbackup apk": ("swiftbackup-apk",),
+    "lspatch apk": ("lspatch-apk",),
+    "niagara apk": ("niagara-apk",),
+    "a133v box": ("a133v-box",),
+    "t965v box": ("t965v-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
