@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:27:57Z",
+  "updated": "2026-09-16T03:31:06Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -7342,10 +7342,12 @@
     "s905w2-box.ca": "best iptv canada",
     "s905w2-box.us": "best iptv",
     "rk3399-box.ca": "best iptv canada",
-    "rk3399-box.us": "best iptv"
+    "rk3399-box.us": "best iptv",
+    "rk3229-box.ca": "best iptv canada",
+    "rk3229-box.us": "best iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T03:27:57Z",
+    "attempted": "2026-09-16T03:31:06Z",
     "status": "partial",
     "detail": "Noxtools 03:00 UTC probe: login Cloudflare 403 (not HTTP 429). Server 1 HTTP 200 Session expired. No login POST this hour. Did not use Semrush free tools. No invented Keyword Overview volumes. Two-word RDAP hunt appended; volumes stay N/A until a live Noxtools session works. Semrush keyword - keyword pair rows are excluded. Ranked table is RANKED_KEYWORDS.md only (CA/US/UK/Nordics leftover focus).",
     "min_volume": 500,

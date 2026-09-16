@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:28 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:31 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -72,5 +72,7 @@ Updated 2026-09-16 03:28 UTC. **Only this file** is the keyword ranking. Real se
 | Q60 | `a311d box` | United States | N/A | N/A | — | A311D chipset box (Semrush pending) | `a311d-box.us` |
 | Q61 | `s922x box` | United States | N/A | N/A | — | S922X chipset box (Semrush pending) | `s922x-box.us` |
 | Q62 | `rk3399 box` | United States | N/A | N/A | — | RK3399 chipset box (Semrush pending) | `rk3399-box.us` |
+| Q63 | `s905x2 box` | United States | N/A | N/A | — | S905X2 chipset box (Semrush pending) | `s905x2-box.us` |
+| Q64 | `rk3229 box` | United States | N/A | N/A | — | RK3229 chipset box (Semrush pending) | `rk3229-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
