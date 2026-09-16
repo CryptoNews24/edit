@@ -747,6 +747,13 @@ QUEUED = (
     ("fossifygallery apk", "us", "Fossify Gallery APK"),
     ("h313w box", "us", "H313W chipset box"),
     ("t950w box", "us", "T950W chipset box"),
+    ("thunderbird apk", "us", "Thunderbird APK"),
+    ("tusky apk", "us", "Tusky APK"),
+    ("fedilab apk", "us", "Fedilab APK"),
+    ("element apk", "us", "Element APK"),
+    ("molly apk", "us", "Molly APK"),
+    ("t962w box", "us", "T962W chipset box"),
+    ("t968w box", "us", "T968W chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1468,6 +1475,13 @@ NEEDLES = {
     "fossifygallery apk": ("fossifygallery-apk",),
     "h313w box": ("h313w-box",),
     "t950w box": ("t950w-box",),
+    "thunderbird apk": ("thunderbird-apk",),
+    "tusky apk": ("tusky-apk",),
+    "fedilab apk": ("fedilab-apk",),
+    "element apk": ("element-apk",),
+    "molly apk": ("molly-apk",),
+    "t962w box": ("t962w-box",),
+    "t968w box": ("t968w-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

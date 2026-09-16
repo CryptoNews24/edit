@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 09:12 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 09:33 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -727,5 +727,12 @@ Updated 2026-09-16 09:12 UTC. **Only this file** is the keyword ranking. Real se
 | Q715 | `fossifygallery apk` | United States | N/A | N/A | — | Fossify Gallery APK (Semrush pending) | `fossifygallery-apk.us` |
 | Q716 | `h313w box` | United States | N/A | N/A | — | H313W chipset box (Semrush pending) | `h313w-box.us` |
 | Q717 | `t950w box` | United States | N/A | N/A | — | T950W chipset box (Semrush pending) | `t950w-box.us` |
+| Q718 | `thunderbird apk` | United States | N/A | N/A | — | Thunderbird APK (Semrush pending) | `thunderbird-apk.us` |
+| Q719 | `tusky apk` | United States | N/A | N/A | — | Tusky APK (Semrush pending) | `tusky-apk.us` |
+| Q720 | `fedilab apk` | United States | N/A | N/A | — | Fedilab APK (Semrush pending) | `fedilab-apk.us` |
+| Q721 | `element apk` | United States | N/A | N/A | — | Element APK (Semrush pending) | `element-apk.us` |
+| Q722 | `molly apk` | United States | N/A | N/A | — | Molly APK (Semrush pending) | `molly-apk.us` |
+| Q723 | `t962w box` | United States | N/A | N/A | — | T962W chipset box (Semrush pending) | `t962w-box.us` |
+| Q724 | `t968w box` | United States | N/A | N/A | — | T968W chipset box (Semrush pending) | `t968w-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
