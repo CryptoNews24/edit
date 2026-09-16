@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 05:37 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 05:40 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -588,5 +588,13 @@ Updated 2026-09-16 05:37 UTC. **Only this file** is the keyword ranking. Real se
 | Q576 | `aiostreams apk` | United States | N/A | N/A | — | AIOStreams APK (Semrush pending) | `aiostreams-apk.us` |
 | Q577 | `t968r box` | United States | N/A | N/A | — | T968R chipset box (Semrush pending) | `t968r-box.us` |
 | Q578 | `h313r box` | United States | N/A | N/A | — | H313R chipset box (Semrush pending) | `h313r-box.us` |
+| Q579 | `mxplayer apk` | United States | N/A | N/A | — | MX Player APK (Semrush pending) | `mxplayer-apk.us` |
+| Q580 | `justplayer apk` | United States | N/A | N/A | — | Just Player APK (Semrush pending) | `justplayer-apk.us` |
+| Q581 | `thecrew apk` | United States | N/A | N/A | — | The Crew addon APK (Semrush pending) | `thecrew-apk.us` |
+| Q582 | `nightwing apk` | United States | N/A | N/A | — | Nightwing addon APK (Semrush pending) | `nightwing-apk.us` |
+| Q583 | `annatar apk` | United States | N/A | N/A | — | Annatar Stremio APK (Semrush pending) | `annatar-apk.us` |
+| Q584 | `knightcrawler apk` | United States | N/A | N/A | — | KnightCrawler APK (Semrush pending) | `knightcrawler-apk.us` |
+| Q585 | `t962r box` | United States | N/A | N/A | — | T962R chipset box (Semrush pending) | `t962r-box.us` |
+| Q586 | `rk3326r box` | United States | N/A | N/A | — | RK3326R chipset box (Semrush pending) | `rk3326r-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
