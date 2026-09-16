@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 18:02 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 18:18 UTC. **Only this file** is the keyword ranking. Space-separated queries. Leftover domains are **smashed two-word labels** (`compareiptv.us`), not `word-word` hyphens. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a smashed leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -31,7 +31,7 @@ Updated 2026-09-16 18:02 UTC. **Only this file** is the keyword ranking. Space-s
 | Q19 | `purple player` | United States | N/A | N/A | — | Purple Player app (Semrush pending) | `—` |
 | Q20 | `flix iptv` | United States | N/A | N/A | — | Flix IPTV app (Semrush pending) | `—` |
 | Q21 | `magis tv` | United States | N/A | N/A | — | Magis TV app (Semrush pending) | `magistv.ca` |
-| Q22 | `google tv iptv` | United States | N/A | N/A | — | Google TV box commercial (Semrush pending) | `googletvbox.us` |
+| Q22 | `google tv iptv` | United States | N/A | N/A | — | Google TV box commercial (Semrush pending) | `googletviptv.us` |
 | Q23 | `onn box` | United States | N/A | N/A | — | Walmart Onn box (Semrush pending) | `—` |
 | Q24 | `xiaomi iptv` | United States | N/A | N/A | — | Cheap Android box (Semrush pending) | `—` |
 | Q25 | `roku iptv` | United States | N/A | N/A | — | Roku + IPTV setup (Semrush pending) | `rokuiptv.us` |
@@ -42,7 +42,7 @@ Updated 2026-09-16 18:02 UTC. **Only this file** is the keyword ranking. Space-s
 | Q30 | `beste iptv` | Norway | N/A | N/A | — | Norwegian best IPTV (Semrush pending) | `besteiptv.no` |
 | Q31 | `bedste iptv` | Denmark | N/A | N/A | — | Danish best IPTV (Semrush pending) | `bedsteiptv.dk` |
 | Q32 | `basta iptv` | Sweden | N/A | N/A | — | Swedish best IPTV (Semrush pending) | `bastaiptv.ca` |
-| Q33 | `paras iptv` | Finland | N/A | N/A | — | Finnish best IPTV (Semrush pending) | `parasiptv.ca` |
+| Q33 | `paras iptv` | Finland | N/A | N/A | — | Finnish best IPTV (Semrush pending) | `parasbox.fi` |
 | Q34 | `tivimate canada` | Canada | N/A | N/A | — | TiviMate + CA geo (Semrush pending) | `—` |
 | Q35 | `tivimate firestick` | United States | N/A | N/A | — | App + Fire Stick (Semrush pending) | `firestickguide.us` |
 | Q36 | `formuler iptv` | United States | N/A | N/A | — | Formuler box (Semrush pending) | `formulerbox.us` |
@@ -86,7 +86,7 @@ Updated 2026-09-16 18:02 UTC. **Only this file** is the keyword ranking. Space-s
 | Q74 | `buzz tv` | United States | N/A | N/A | — | BuzzTV Android box (Semrush pending) | `—` |
 | Q75 | `dreamlink box` | United States | N/A | N/A | — | Dreamlink box (Semrush pending) | `—` |
 | Q76 | `zgemma box` | United States | N/A | N/A | — | Zgemma Enigma box (Semrush pending) | `—` |
-| Q77 | `chromecast iptv` | United States | N/A | N/A | — | Chromecast + IPTV (Semrush pending) | `—` |
+| Q77 | `chromecast iptv` | United States | N/A | N/A | — | Chromecast + IPTV (Semrush pending) | `chromecastiptv.us` |
 | Q78 | `nvidia shield` | United States | N/A | N/A | — | NVIDIA Shield TV (Semrush pending) | `shieldbox.us` |
 | Q79 | `coreelec box` | United States | N/A | N/A | — | CoreELEC firmware box (Semrush pending) | `—` |
 | Q80 | `rk3528 box` | United States | N/A | N/A | — | RK3528 chipset box (Semrush pending) | `—` |
