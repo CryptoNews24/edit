@@ -823,6 +823,12 @@ QUEUED = (
     ("synccom apk", "us", "Sync.com APK"),
     ("t968z box", "us", "T968Z chipset box"),
     ("h313z box", "us", "H313Z chipset box"),
+    ("bitwarden apk", "us", "Bitwarden APK"),
+    ("keepass apk", "us", "KeePass APK"),
+    ("protonpass apk", "us", "Proton Pass APK"),
+    ("1password apk", "us", "1Password APK"),
+    ("dashlane apk", "us", "Dashlane APK"),
+    ("t962z box", "us", "T962Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1620,6 +1626,12 @@ NEEDLES = {
     "synccom apk": ("synccom-apk",),
     "t968z box": ("t968z-box",),
     "h313z box": ("h313z-box",),
+    "bitwarden apk": ("bitwarden-apk",),
+    "keepass apk": ("keepass-apk",),
+    "protonpass apk": ("protonpass-apk",),
+    "1password apk": ("1password-apk",),
+    "dashlane apk": ("dashlane-apk",),
+    "t962z box": ("t962z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

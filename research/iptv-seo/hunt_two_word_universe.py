@@ -3445,6 +3445,12 @@ APP_STEMS = (
     "synccom-apk",
     "t968z-box",
     "h313z-box",
+    "bitwarden-apk",
+    "keepass-apk",
+    "protonpass-apk",
+    "1password-apk",
+    "dashlane-apk",
+    "t962z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4831,6 +4837,9 @@ def candidates() -> list[str]:
         "grantown-tivimate",
         "nethybridge-tivimate",
         "boatofgarten-tivimate",
+        "dulnainbridge-tivimate",
+        "tomatin-tivimate",
+        "daviot-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
