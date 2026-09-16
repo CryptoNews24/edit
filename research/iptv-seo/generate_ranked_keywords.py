@@ -77,6 +77,8 @@ QUEUED = (
     ("uclan iptv", "uk", "UCLAN box setup"),
     ("vontar box", "us", "Vontar Android box"),
     ("h96 max", "us", "H96 Max box"),
+    ("transpeed box", "us", "Transpeed Android box"),
+    ("hk1 max", "us", "HK1 Max box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -128,6 +130,8 @@ NEEDLES = {
     "uclan iptv": ("uclan-guide", "uclan-tivimate"),
     "vontar box": ("vontar-box",),
     "h96 max": ("h96max-box",),
+    "transpeed box": ("transpeed-box",),
+    "hk1 max": ("hk1max-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

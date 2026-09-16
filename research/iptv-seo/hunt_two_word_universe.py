@@ -2720,6 +2720,8 @@ APP_STEMS = (
     "vontar-box",
     "h96max-box",
     "x96max-box",
+    "transpeed-box",
+    "hk1max-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3837,6 +3839,14 @@ def candidates() -> list[str]:
         "perthshire-tivimate",
         "aberdeenshire-tivimate",
         "ayrshire-tivimate",
+        "lanarkshire-tivimate",
+        "inverness-tivimate",
+        "falkirk-tivimate",
+        "dunfermline-tivimate",
+        "paisley-tivimate",
+        "kilmarnock-tivimate",
+        "greenock-tivimate",
+        "livingston-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
