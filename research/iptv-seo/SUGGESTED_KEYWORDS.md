@@ -465,6 +465,9 @@ Noxtools recheck (2026-09-16 01:04 UTC): same hour as 01:02 probe — **not HTTP
 | FR Yvelines 6 | `etangvillais iptv` / `saintnomois iptv` / `feucherollais iptv` / `morainvillois iptv` | Gentilé commercial | AVAILABLE leftovers: `etangvillais-iptv.fr`, `saintnomois-iptv.fr`, `feucherollais-iptv.fr`, `morainvillois-iptv.fr`. `.se` UNKNOWN — not a buy |
 | Boxes | `s905y4w iptv` / `s905x5l iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905y4w-iptv.fr`, `s905x5l-iptv.fr`. `.se` UNKNOWN — not a buy |
 | UK geo 119 | `dalmore guide` / `talisker guide` / `edradour guide` | Nominet no-iptv | AVAILABLE: `dalmore-guide.co.uk`, `talisker-guide.co.uk`, `edradour-guide.co.uk` (also `.uk`) |
+| FR Yvelines 7 | `noisyrois iptv` / `portmarlyais iptv` / `mareillois iptv` / `aigremontois iptv` | Gentilé commercial | AVAILABLE leftovers: `noisyrois-iptv.fr`, `portmarlyais-iptv.fr`, `mareillois-iptv.fr`, `aigremontois-iptv.fr`. `.se` UNKNOWN — not a buy |
+| Boxes | `a733w iptv` / `s905x2l iptv` | Cheap Android SoC | AVAILABLE leftovers: `a733w-iptv.fr`, `s905x2l-iptv.fr`. `.se` UNKNOWN — not a buy |
+| UK geo 120 | `glenmorangie guide` / `ardmore guide` / `lagavulin guide` | Nominet no-iptv | AVAILABLE: `glenmorangie-guide.co.uk`, `ardmore-guide.co.uk`, `lagavulin-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Exclude Semrush `keyword - keyword` pair rows.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
