@@ -925,6 +925,12 @@ QUEUED = (
     ("adm pro", "us", "ADM Pro"),
     ("advanced download", "us", "Advanced Download Manager"),
     ("rk3399z box", "us", "RK3399Z chipset box"),
+    ("tubular apk", "us", "Tubular APK"),
+    ("ytdlp apk", "us", "yt-dlp APK"),
+    ("ffmpeg apk", "us", "FFmpeg APK"),
+    ("piped apk", "us", "Piped APK"),
+    ("invidious apk", "us", "Invidious APK"),
+    ("rk3588z box", "us", "RK3588Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1824,6 +1830,12 @@ NEEDLES = {
     "adm pro": ("admpro-apk",),
     "advanced download": ("advanceddownload-apk",),
     "rk3399z box": ("rk3399z-box",),
+    "tubular apk": ("tubular-apk",),
+    "ytdlp apk": ("ytdlp-apk",),
+    "ffmpeg apk": ("ffmpeg-apk",),
+    "piped apk": ("piped-apk",),
+    "invidious apk": ("invidious-apk",),
+    "rk3588z box": ("rk3588z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
