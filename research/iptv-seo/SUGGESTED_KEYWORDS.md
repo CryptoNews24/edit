@@ -26,7 +26,7 @@ Volumes are **not invented**. These are the next Noxtools Semrush lookups (Serve
 
 | All | `family iptv` / `hotel iptv` / `home iptv` | Household / hospitality | `family-iptv.fr`, `hotel-iptv.fr`, `home-iptv.fr`, `family-iptv.us` |
 
-Noxtools recheck (2026-09-16 00:27 UTC): same hour as 00:00 probe — **not HTTP 429**. Login Cloudflare 403; servers 1–2 session expired. No login POST this wave. No invented volumes. Paste `box avis` FR Overview to remap `box-avis.fr`.
+Noxtools recheck (2026-09-16 00:30 UTC): same hour as 00:00 probe — **not HTTP 429**. Login Cloudflare 403; servers 1–2 session expired. No login POST this wave. No invented volumes. Paste `box avis` FR Overview to remap `box-avis.fr`.
 
 | FR overseas | `iptv martinique` / `iptv guadeloupe` / `iptv mayotte` / `iptv romandie` | DOM-TOM + CH-FR | `martinique-iptv.fr`, `guadeloupe-iptv.fr`, `mayotte-iptv.fr`, `polynesie-iptv.fr`, `romandie-iptv.ch` |
 | Sports leagues | `iptv bundesliga` / `iptv laliga` / `iptv eredivisie` / `iptv ligue 1` | Local league commercial | AVAILABLE leftovers: `bundesliga-iptv.de`, `laliga-iptv.fr`, `eredivisie-iptv.nl`, `ligue1-iptv.fr` (volumes N/A until Noxtools) |
@@ -420,5 +420,8 @@ Noxtools recheck (2026-09-16 00:27 UTC): same hour as 00:00 probe — **not HTTP
 | FR Seine-Saint-Denis 1 | `balbynien iptv` / `dranceen iptv` / `audonien iptv` / `sevrannais iptv` | Gentilé commercial | AVAILABLE leftovers: `balbynien-iptv.fr`, `dranceen-iptv.fr`, `audonien-iptv.fr`, `sevrannais-iptv.fr`. `.se` UNKNOWN — not a buy |
 | Boxes | `s905x2z iptv` / `rk3399z iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905x2z-iptv.fr`, `rk3399z-iptv.fr`. `.se` UNKNOWN — not a buy |
 | UK geo 104 | `tamdhu guide` / `glenallachie guide` / `benriach guide` | Nominet no-iptv | AVAILABLE: `tamdhu-guide.co.uk`, `glenallachie-guide.co.uk`, `benriach-guide.co.uk` (also `.uk`) |
+| FR Seine-Saint-Denis 2 | `rainceen iptv` / `villemomblais iptv` / `rosneen iptv` / `vaujoursois iptv` | Gentilé commercial | AVAILABLE leftovers: `rainceen-iptv.fr`, `villemomblais-iptv.fr`, `rosneen-iptv.fr`, `vaujoursois-iptv.fr`. `.se` UNKNOWN — not a buy. `rosneen-iptv.ch` UNKNOWN — not a buy |
+| Boxes | `s905w2z iptv` / `s922xz iptv` | Cheap Android SoC | AVAILABLE leftovers: `s905w2z-iptv.fr`, `s922xz-iptv.fr`. `.se` UNKNOWN — not a buy |
+| UK geo 105 | `glen grant guide` / `strathisla guide` / `glen moray guide` | Nominet no-iptv | AVAILABLE: `glengrant-guide.co.uk`, `strathisla-guide.co.uk`, `glenmoray-guide.co.uk` (also `.uk`) |
 - Ignore `.ie`. Skip `.uk` names that contain `iptv`.
 - Two-word domains only. Taken names stay off buy lists (almost-expired table only).
