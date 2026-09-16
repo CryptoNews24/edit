@@ -973,6 +973,12 @@ QUEUED = (
     ("beast tv", "us", "Beast TV"),
     ("pretzel tv", "us", "Pretzel TV"),
     ("a133x box", "us", "A133X chipset box"),
+    ("morpheus tv", "us", "Morpheus TV"),
+    ("flix zone", "us", "FlixZone"),
+    ("movie hd", "us", "Movie HD"),
+    ("smash stream", "us", "Smashstream"),
+    ("debridio apk", "us", "Debridio APK"),
+    ("rk3588w box", "us", "RK3588W chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1920,6 +1926,12 @@ NEEDLES = {
     "beast tv": ("beasttv-apk",),
     "pretzel tv": ("pretzeltv-apk",),
     "a133x box": ("a133x-box",),
+    "morpheus tv": ("morpheustv-apk",),
+    "flix zone": ("flixzone-apk",),
+    "movie hd": ("moviehd-apk",),
+    "smash stream": ("smashstream-apk",),
+    "debridio apk": ("debridio-apk",),
+    "rk3588w box": ("rk3588w-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

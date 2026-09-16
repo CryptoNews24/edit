@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 16:39 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 16:45 UTC. **Only this file** is the keyword ranking. Space-separated queries by default. **No Semrush `keyword - keyword` pair rows.** Hyphen-joined queries only if Overview volume ≥ 500 (not Difficult) **and** a hyphen leftover is AVAILABLE. No invented volumes. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -952,5 +952,11 @@ Updated 2026-09-16 16:39 UTC. **Only this file** is the keyword ranking. Space-s
 | Q940 | `beast tv` | United States | N/A | N/A | — | Beast TV (Semrush pending) | `beasttv-apk.us` |
 | Q941 | `pretzel tv` | United States | N/A | N/A | — | Pretzel TV (Semrush pending) | `pretzeltv-apk.us` |
 | Q942 | `a133x box` | United States | N/A | N/A | — | A133X chipset box (Semrush pending) | `a133x-box.us` |
+| Q943 | `morpheus tv` | United States | N/A | N/A | — | Morpheus TV (Semrush pending) | `morpheustv-apk.us` |
+| Q944 | `flix zone` | United States | N/A | N/A | — | FlixZone (Semrush pending) | `flixzone-apk.us` |
+| Q945 | `movie hd` | United States | N/A | N/A | — | Movie HD (Semrush pending) | `moviehd-apk.us` |
+| Q946 | `smash stream` | United States | N/A | N/A | — | Smashstream (Semrush pending) | `smashstream-apk.us` |
+| Q947 | `debridio apk` | United States | N/A | N/A | — | Debridio APK (Semrush pending) | `debridio-apk.us` |
+| Q948 | `rk3588w box` | United States | N/A | N/A | — | RK3588W chipset box (Semrush pending) | `rk3588w-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are space-separated app/platform queries with no Overview yet. Hyphen Q-rows are not queued without verified high volume.
