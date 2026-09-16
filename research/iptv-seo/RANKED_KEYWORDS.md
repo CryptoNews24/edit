@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:36 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:39 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -333,5 +333,24 @@ Updated 2026-09-16 04:36 UTC. **Only this file** is the keyword ranking. Real se
 | Q321 | `playlist manager` | United States | N/A | N/A | — | Playlist manager app (Semrush pending) | `playlist-manager.us` |
 | Q322 | `sonarr` | United States | N/A | N/A | — | Sonarr PVR (Semrush pending) | `sonarr-box.us` |
 | Q323 | `radarr` | United States | N/A | N/A | — | Radarr PVR (Semrush pending) | `radarr-box.us` |
+| Q324 | `lidarr` | United States | N/A | N/A | — | Lidarr PVR (Semrush pending) | `lidarr-box.us` |
+| Q325 | `bazarr` | United States | N/A | N/A | — | Bazarr subtitles (Semrush pending) | `bazarr-box.us` |
+| Q326 | `prowlarr` | United States | N/A | N/A | — | Prowlarr indexer (Semrush pending) | `prowlarr-box.us` |
+| Q327 | `tdarr` | United States | N/A | N/A | — | Tdarr transcode (Semrush pending) | `tdarr-box.us` |
+| Q328 | `filelinked` | United States | N/A | N/A | — | FileLinked Fire Stick (Semrush pending) | `filelinked-box.us` |
+| Q329 | `gse apk` | United States | N/A | N/A | — | GSE Smart IPTV APK (Semrush pending) | `gse-apk.us` |
+| Q330 | `xciptv apk` | United States | N/A | N/A | — | XCIPTV APK (Semrush pending) | `xciptv-apk.us` |
+| Q331 | `televizo apk` | United States | N/A | N/A | — | Televizo APK (Semrush pending) | `televizo-apk.us` |
+| Q332 | `stremio apk` | United States | N/A | N/A | — | Stremio APK (Semrush pending) | `stremio-apk.us` |
+| Q333 | `kodi apk` | United States | N/A | N/A | — | Kodi APK (Semrush pending) | `kodi-apk.us` |
+| Q334 | `infuse apk` | United States | N/A | N/A | — | Infuse APK (Semrush pending) | `infuse-apk.us` |
+| Q335 | `nplayer apk` | United States | N/A | N/A | — | nPlayer APK (Semrush pending) | `nplayer-apk.us` |
+| Q336 | `ss iptv apk` | United States | N/A | N/A | — | SS IPTV APK (Semrush pending) | `ssiptv-apk.us` |
+| Q337 | `smart iptv apk` | United States | N/A | N/A | — | Smart IPTV APK (Semrush pending) | `smartiptv-apk.us` |
+| Q338 | `downloader apk` | United States | N/A | N/A | — | Downloader APK (Semrush pending) | `downloader-apk.us` |
+| Q339 | `kodi pov` | United States | N/A | N/A | — | Kodi POV addon (Semrush pending) | `kodi-pov.us` |
+| Q340 | `kodi covenant` | United States | N/A | N/A | — | Kodi Covenant addon (Semrush pending) | `kodi-covenant.us` |
+| Q341 | `t963k box` | United States | N/A | N/A | — | T963K chipset box (Semrush pending) | `t963k-box.us` |
+| Q342 | `rk3399e box` | United States | N/A | N/A | — | RK3399E chipset box (Semrush pending) | `rk3399e-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
