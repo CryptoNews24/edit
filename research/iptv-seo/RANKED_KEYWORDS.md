@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 15:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 15:13 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -892,5 +892,11 @@ Updated 2026-09-16 15:04 UTC. **Only this file** is the keyword ranking. Real se
 | Q880 | `material files` | United States | N/A | N/A | — | Material Files (Semrush pending) | `materialfiles-apk.us` |
 | Q881 | `ghost commander` | United States | N/A | N/A | — | Ghost Commander (Semrush pending) | `ghostcommander-apk.us` |
 | Q882 | `t310z box` | United States | N/A | N/A | — | T310Z chipset box (Semrush pending) | `t310z-box.us` |
+| Q883 | `xplore apk` | United States | N/A | N/A | — | X-plore APK (Semrush pending) | `xplore-apk.us` |
+| Q884 | `solid explorer` | United States | N/A | N/A | — | Solid Explorer (Semrush pending) | `solidexplorer-apk.us` |
+| Q885 | `rs file` | United States | N/A | N/A | — | RS File (Semrush pending) | `rsfile-apk.us` |
+| Q886 | `es file` | United States | N/A | N/A | — | ES File Explorer (Semrush pending) | `esfile-apk.us` |
+| Q887 | `amaze file` | United States | N/A | N/A | — | Amaze File Manager (Semrush pending) | `amaze-apk.us` |
+| Q888 | `rk3528z box` | United States | N/A | N/A | — | RK3528Z chipset box (Semrush pending) | `rk3528z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.

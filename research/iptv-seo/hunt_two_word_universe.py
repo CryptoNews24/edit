@@ -3535,6 +3535,12 @@ APP_STEMS = (
     "materialfiles-apk",
     "ghostcommander-apk",
     "t310z-box",
+    "xplore-apk",
+    "solidexplorer-apk",
+    "rsfile-apk",
+    "esfile-apk",
+    "amaze-apk",
+    "rk3528z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4966,6 +4972,9 @@ def candidates() -> list[str]:
         "glengrant-tivimate",
         "strathisla-tivimate",
         "glenmoray-tivimate",
+        "benromach-tivimate",
+        "dallasdhu-tivimate",
+        "miltonduff-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

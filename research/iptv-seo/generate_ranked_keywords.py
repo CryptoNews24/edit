@@ -913,6 +913,12 @@ QUEUED = (
     ("material files", "us", "Material Files"),
     ("ghost commander", "us", "Ghost Commander"),
     ("t310z box", "us", "T310Z chipset box"),
+    ("xplore apk", "us", "X-plore APK"),
+    ("solid explorer", "us", "Solid Explorer"),
+    ("rs file", "us", "RS File"),
+    ("es file", "us", "ES File Explorer"),
+    ("amaze file", "us", "Amaze File Manager"),
+    ("rk3528z box", "us", "RK3528Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1800,6 +1806,12 @@ NEEDLES = {
     "material files": ("materialfiles-apk",),
     "ghost commander": ("ghostcommander-apk",),
     "t310z box": ("t310z-box",),
+    "xplore apk": ("xplore-apk",),
+    "solid explorer": ("solidexplorer-apk",),
+    "rs file": ("rsfile-apk",),
+    "es file": ("esfile-apk",),
+    "amaze file": ("amaze-apk",),
+    "rk3528z box": ("rk3528z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
