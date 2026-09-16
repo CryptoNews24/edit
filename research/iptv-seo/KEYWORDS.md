@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-16 02:58 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-16 03:01 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -6774,6 +6774,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-firestick.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-fredericton.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-gatineau.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tivimate-gitxsan.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-guelph.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-guide.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-haida.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -6809,6 +6810,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-nanaimo.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-news.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-niagara.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tivimate-nisgaa.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-oakville.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-ojibwe.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-ontario.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -6839,6 +6841,7 @@ Unverified rows and volumes under 500 are omitted. Ireland is SEO-only (no `.ie`
 | `tivimate-surrey.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-thunderbay.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-timeshift.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
+| `tivimate-tlingit.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-toronto.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-trial.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
 | `tivimate-vancouver.ca` | Canada | best iptv canada | 1.9K | 32 Possible | AVAILABLE |
@@ -7109,7 +7112,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **3965**.
+AVAILABLE in this dump: **3973**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -7791,6 +7794,8 @@ AVAILABLE in this dump: **3965**.
 | `clydebank-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `clydeside-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `clydeside-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `clydeside-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `clydeside-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `clynelish-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `clynelish-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `coast-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -8572,6 +8577,8 @@ AVAILABLE in this dump: **3965**.
 | `humber-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `humberside-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `humberside-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `humberside-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `humberside-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `hungarian-box.us` | .us | native RDAP 404 + no DNS |
 | `hungarian-iptv.us` | .us | native RDAP 404 + no DNS |
 | `ibo-box.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10513,6 +10520,8 @@ AVAILABLE in this dump: **3965**.
 | `tayport-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tayside-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tayside-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `tayside-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `tayside-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tayvallich-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tayvallich-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `tcl-box.us` | .us | native RDAP 404 + no DNS |
@@ -10523,6 +10532,8 @@ AVAILABLE in this dump: **3965**.
 | `tees-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `teesside-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `teesside-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `teesside-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `teesside-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `telenovela-iptv.us` | .us | native RDAP 404 + no DNS |
 | `televizo-box.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `televizo-box.us` | .us | native RDAP 404 + no DNS |
@@ -11086,7 +11097,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 
 | TLD | Country | AVAILABLE | Confirm (not free) | UNKNOWN |
 | --- | --- | ---: | ---: | ---: |
-| .ca | Canada | 2383 | 0 | 0 |
+| .ca | Canada | 2386 | 0 | 0 |
 | .us | United States | 2416 | 0 | 0 |
 | .fr | France | 2213 | 0 | 0 |
 | .de | Germany | 2080 | 0 | 0 |
@@ -11104,11 +11115,11 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 770 | 0 | 7 |
+| .co.uk | United Kingdom | 774 | 0 | 7 |
 
 ### .ca — Canada
 
-**AVAILABLE (2383)** — native RDAP 404 + no DNS.
+**AVAILABLE (2386)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -13199,6 +13210,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-firestick.ca` |
 | `tivimate-fredericton.ca` |
 | `tivimate-gatineau.ca` |
+| `tivimate-gitxsan.ca` |
 | `tivimate-guelph.ca` |
 | `tivimate-guide.ca` |
 | `tivimate-haida.ca` |
@@ -13234,6 +13246,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-nanaimo.ca` |
 | `tivimate-news.ca` |
 | `tivimate-niagara.ca` |
+| `tivimate-nisgaa.ca` |
 | `tivimate-oakville.ca` |
 | `tivimate-ojibwe.ca` |
 | `tivimate-ontario.ca` |
@@ -13264,6 +13277,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | `tivimate-surrey.ca` |
 | `tivimate-thunderbay.ca` |
 | `tivimate-timeshift.ca` |
+| `tivimate-tlingit.ca` |
 | `tivimate-toronto.ca` |
 | `tivimate-trial.ca` |
 | `tivimate-vancouver.ca` |
@@ -31174,7 +31188,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (770)** — native RDAP 404 + no DNS.
+**AVAILABLE (774)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -31322,6 +31336,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `clyde-guide.co.uk` |
 | `clydebank-guide.co.uk` |
 | `clydeside-guide.co.uk` |
+| `clydeside-tivimate.co.uk` |
 | `clynelish-guide.co.uk` |
 | `coast-guide.co.uk` |
 | `coatbridge-guide.co.uk` |
@@ -31512,6 +31527,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `hull-tivimate.co.uk` |
 | `humber-guide.co.uk` |
 | `humberside-guide.co.uk` |
+| `humberside-tivimate.co.uk` |
 | `ibo-box.co.uk` |
 | `ibo-guide.co.uk` |
 | `ibo-player.co.uk` |
@@ -31841,10 +31857,12 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `taynuilt-guide.co.uk` |
 | `tayport-guide.co.uk` |
 | `tayside-guide.co.uk` |
+| `tayside-tivimate.co.uk` |
 | `tayvallich-guide.co.uk` |
 | `teaninich-guide.co.uk` |
 | `tees-guide.co.uk` |
 | `teesside-guide.co.uk` |
+| `teesside-tivimate.co.uk` |
 | `televizo-box.co.uk` |
 | `televizo-guide.co.uk` |
 | `televizo-player.co.uk` |

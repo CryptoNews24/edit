@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-16 02:58 UTC
+Updated 2026-09-16 03:01 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
@@ -4204,6 +4204,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-gatineau.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  tivimate-gitxsan.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-guelph.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-guide.ca
@@ -4274,6 +4276,8 @@ Canada
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-niagara.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  tivimate-nisgaa.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-oakville.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-ojibwe.ca
@@ -4333,6 +4337,8 @@ Canada
   tivimate-thunderbay.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-timeshift.ca
+    best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
+  tivimate-tlingit.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
   tivimate-toronto.ca
     best iptv canada — 1.9K/mo KD 32 Possible CPC N/A [CA]
@@ -19486,6 +19492,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   clydeside-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  clydeside-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  clydeside-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   clynelish-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   clynelish-guide.uk
@@ -20229,6 +20239,10 @@ United Kingdom
   humberside-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   humberside-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  humberside-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  humberside-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   ibo-box.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21508,6 +21522,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   tayside-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  tayside-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  tayside-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   tayvallich-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   tayvallich-guide.uk
@@ -21523,6 +21541,10 @@ United Kingdom
   teesside-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   teesside-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  teesside-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  teesside-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   televizo-box.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21934,7 +21956,7 @@ United Kingdom
 AVAILABLE = native RDAP 404 + no DNS. Two-word names only. Confirm/UNKNOWN are NOT free. .ie ignored. .uk with iptv skipped.
 Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top 10 until Semrush >= 500.
 
-.ca  Canada  AVAILABLE=2383  confirm=0  unknown=0
+.ca  Canada  AVAILABLE=2386  confirm=0  unknown=0
 .us  United States  AVAILABLE=2416  confirm=0  unknown=0
 .fr  France  AVAILABLE=2213  confirm=0  unknown=0
 .de  Germany  AVAILABLE=2080  confirm=0  unknown=0
@@ -21952,7 +21974,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
 .pl  Poland  AVAILABLE=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=770  confirm=0  unknown=7
+.co.uk  United Kingdom  AVAILABLE=774  confirm=0  unknown=7
 
 -------- .ca Canada AVAILABLE --------
   4k-box.ca
@@ -24042,6 +24064,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-firestick.ca
   tivimate-fredericton.ca
   tivimate-gatineau.ca
+  tivimate-gitxsan.ca
   tivimate-guelph.ca
   tivimate-guide.ca
   tivimate-haida.ca
@@ -24077,6 +24100,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-nanaimo.ca
   tivimate-news.ca
   tivimate-niagara.ca
+  tivimate-nisgaa.ca
   tivimate-oakville.ca
   tivimate-ojibwe.ca
   tivimate-ontario.ca
@@ -24107,6 +24131,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   tivimate-surrey.ca
   tivimate-thunderbay.ca
   tivimate-timeshift.ca
+  tivimate-tlingit.ca
   tivimate-toronto.ca
   tivimate-trial.ca
   tivimate-vancouver.ca
@@ -42077,6 +42102,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   clyde-guide.co.uk
   clydebank-guide.co.uk
   clydeside-guide.co.uk
+  clydeside-tivimate.co.uk
   clynelish-guide.co.uk
   coast-guide.co.uk
   coatbridge-guide.co.uk
@@ -42267,6 +42293,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   hull-tivimate.co.uk
   humber-guide.co.uk
   humberside-guide.co.uk
+  humberside-tivimate.co.uk
   ibo-box.co.uk
   ibo-guide.co.uk
   ibo-player.co.uk
@@ -42596,10 +42623,12 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   taynuilt-guide.co.uk
   tayport-guide.co.uk
   tayside-guide.co.uk
+  tayside-tivimate.co.uk
   tayvallich-guide.co.uk
   teaninich-guide.co.uk
   tees-guide.co.uk
   teesside-guide.co.uk
+  teesside-tivimate.co.uk
   televizo-box.co.uk
   televizo-guide.co.uk
   televizo-player.co.uk
