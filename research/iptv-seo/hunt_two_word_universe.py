@@ -3529,6 +3529,12 @@ APP_STEMS = (
     "termscp-apk",
     "magicwormhole-apk",
     "s922xz-box",
+    "cxfile-apk",
+    "totalcmd-apk",
+    "fxexplorer-apk",
+    "materialfiles-apk",
+    "ghostcommander-apk",
+    "t310z-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4957,6 +4963,9 @@ def candidates() -> list[str]:
         "tamdhu-tivimate",
         "glenallachie-tivimate",
         "benriach-tivimate",
+        "glengrant-tivimate",
+        "strathisla-tivimate",
+        "glenmoray-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

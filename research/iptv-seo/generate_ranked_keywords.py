@@ -907,6 +907,12 @@ QUEUED = (
     ("termscp apk", "us", "termscp APK"),
     ("magic wormhole", "us", "magic wormhole transfer"),
     ("s922xz box", "us", "S922XZ chipset box"),
+    ("cx explorer", "us", "CX File Explorer"),
+    ("total commander", "us", "Total Commander"),
+    ("fx explorer", "us", "FX File Explorer"),
+    ("material files", "us", "Material Files"),
+    ("ghost commander", "us", "Ghost Commander"),
+    ("t310z box", "us", "T310Z chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1788,6 +1794,12 @@ NEEDLES = {
     "termscp apk": ("termscp-apk",),
     "magic wormhole": ("magicwormhole-apk",),
     "s922xz box": ("s922xz-box",),
+    "cx explorer": ("cxfile-apk",),
+    "total commander": ("totalcmd-apk",),
+    "fx explorer": ("fxexplorer-apk",),
+    "material files": ("materialfiles-apk",),
+    "ghost commander": ("ghostcommander-apk",),
+    "t310z box": ("t310z-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),

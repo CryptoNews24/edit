@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 14:47 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 15:04 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -886,5 +886,11 @@ Updated 2026-09-16 14:47 UTC. **Only this file** is the keyword ranking. Real se
 | Q874 | `termscp apk` | United States | N/A | N/A | — | termscp APK (Semrush pending) | `termscp-apk.us` |
 | Q875 | `magic wormhole` | United States | N/A | N/A | — | magic wormhole transfer (Semrush pending) | `magicwormhole-apk.us` |
 | Q876 | `s922xz box` | United States | N/A | N/A | — | S922XZ chipset box (Semrush pending) | `s922xz-box.us` |
+| Q877 | `cx explorer` | United States | N/A | N/A | — | CX File Explorer (Semrush pending) | `cxfile-apk.us` |
+| Q878 | `total commander` | United States | N/A | N/A | — | Total Commander (Semrush pending) | `totalcmd-apk.us` |
+| Q879 | `fx explorer` | United States | N/A | N/A | — | FX File Explorer (Semrush pending) | `fxexplorer-apk.us` |
+| Q880 | `material files` | United States | N/A | N/A | — | Material Files (Semrush pending) | `materialfiles-apk.us` |
+| Q881 | `ghost commander` | United States | N/A | N/A | — | Ghost Commander (Semrush pending) | `ghostcommander-apk.us` |
+| Q882 | `t310z box` | United States | N/A | N/A | — | T310Z chipset box (Semrush pending) | `t310z-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
