@@ -3418,6 +3418,13 @@ APP_STEMS = (
     "cryptpad-apk",
     "t965y-box",
     "rk3328y-box",
+    "seafile-apk",
+    "syncthing-apk",
+    "photoprism-apk",
+    "filebrowser-apk",
+    "duplicati-apk",
+    "a133y-box",
+    "t972y-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4792,6 +4799,9 @@ def candidates() -> list[str]:
         "calvine-tivimate",
         "dalnaspidal-tivimate",
         "struan-tivimate",
+        "tummelbridge-tivimate",
+        "kinlochrannoch-tivimate",
+        "rannochstation-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

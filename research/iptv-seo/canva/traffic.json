@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:51:58Z",
+  "updated": "2026-09-16T11:08:33Z",
   "source": "Noxtools SEMrush Keyword Overview where noted; domain availability = native RDAP 404 + no DNS. Recheck 2026-09-15 20:43 UTC from 44.239.53.183: noxtools.com Cloudflare 403, 1-4.semrush.com.in HTTP 200 session expired \u2014 not HTTP 429.",
   "note": "Keyword monthly search volume is not the same as sessions on an existing website. Unregistered or dead domains have 0 site traffic.",
   "keywords": {
@@ -8587,12 +8587,24 @@
     "onlyoffice-apk.ca": "best iptv canada",
     "onlyoffice-apk.us": "best iptv",
     "rk3328y-box.ca": "best iptv canada",
-    "rk3328y-box.us": "best iptv"
+    "rk3328y-box.us": "best iptv",
+    "a133y-box.ca": "best iptv canada",
+    "a133y-box.us": "best iptv",
+    "duplicati-apk.ca": "best iptv canada",
+    "duplicati-apk.us": "best iptv",
+    "filebrowser-apk.ca": "best iptv canada",
+    "filebrowser-apk.us": "best iptv",
+    "photoprism-apk.ca": "best iptv canada",
+    "photoprism-apk.us": "best iptv",
+    "seafile-apk.ca": "best iptv canada",
+    "seafile-apk.us": "best iptv",
+    "syncthing-apk.ca": "best iptv canada",
+    "syncthing-apk.us": "best iptv"
   },
   "semrush_refresh": {
-    "attempted": "2026-09-16T10:51:58Z",
+    "attempted": "2026-09-16T11:08:33Z",
     "status": "partial",
-    "detail": "Noxtools 10:09 UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour. Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
+    "detail": "Noxtools 11:07 UTC GET login Cloudflare 403 (Just a moment, not HTTP 429). No login POST this hour. Did not use Semrush free tools. No invented volumes. Two-word RDAP hunt on CA/US/UK/Nordics not extra .fr. Pair-row and hyphen-joined keywords excluded. Ranked table is RANKED_KEYWORDS.md only.",
     "min_volume": 500,
     "exclude_kd": "Difficult",
     "exclude_keyword_pairs": true

@@ -796,6 +796,13 @@ QUEUED = (
     ("cryptpad apk", "us", "CryptPad APK"),
     ("t965y box", "us", "T965Y chipset box"),
     ("rk3328y box", "us", "RK3328Y chipset box"),
+    ("seafile apk", "us", "Seafile APK"),
+    ("syncthing apk", "us", "Syncthing APK"),
+    ("photoprism apk", "us", "PhotoPrism APK"),
+    ("filebrowser apk", "us", "File Browser APK"),
+    ("duplicati apk", "us", "Duplicati APK"),
+    ("a133y box", "us", "A133Y chipset box"),
+    ("t972y box", "us", "T972Y chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1566,6 +1573,13 @@ NEEDLES = {
     "cryptpad apk": ("cryptpad-apk",),
     "t965y box": ("t965y-box",),
     "rk3328y box": ("rk3328y-box",),
+    "seafile apk": ("seafile-apk",),
+    "syncthing apk": ("syncthing-apk",),
+    "photoprism apk": ("photoprism-apk",),
+    "filebrowser apk": ("filebrowser-apk",),
+    "duplicati apk": ("duplicati-apk",),
+    "a133y box": ("a133y-box",),
+    "t972y box": ("t972y-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
