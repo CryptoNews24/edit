@@ -2761,6 +2761,18 @@ APP_STEMS = (
     "jellyfin-box",
     "emby-box",
     "avov-box",
+    "s905m2-box",
+    "h713-box",
+    "rk3399pro-box",
+    "minix-box",
+    "vuplus-box",
+    "mutant-box",
+    "odroid-box",
+    "khadas-box",
+    "nexbox-box",
+    "x96q-box",
+    "synology-box",
+    "channels-dvr",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -3940,6 +3952,9 @@ def candidates() -> list[str]:
         "lochgilphead-tivimate",
         "tarbert-tivimate",
         "bowmore-tivimate",
+        "portellen-tivimate",
+        "stornoway-tivimate",
+        "ullapool-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

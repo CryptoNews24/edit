@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 03:43 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 03:45 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -106,5 +106,17 @@ Updated 2026-09-16 03:43 UTC. **Only this file** is the keyword ranking. Real se
 | Q94 | `rk3576 box` | United States | N/A | N/A | — | RK3576 chipset box (Semrush pending) | `rk3576-box.us` |
 | Q95 | `t968 box` | United States | N/A | N/A | — | T968 chipset box (Semrush pending) | `t968-box.us` |
 | Q96 | `rk3588s box` | United States | N/A | N/A | — | RK3588S chipset box (Semrush pending) | `rk3588s-box.us` |
+| Q97 | `s905m2 box` | United States | N/A | N/A | — | S905M2 chipset box (Semrush pending) | `s905m2-box.us` |
+| Q98 | `h713 box` | United States | N/A | N/A | — | H713 chipset box (Semrush pending) | `h713-box.us` |
+| Q99 | `rk3399 pro` | United States | N/A | N/A | — | RK3399 Pro chipset box (Semrush pending) | `rk3399pro-box.us` |
+| Q100 | `minix box` | United States | N/A | N/A | — | MINIX Android box (Semrush pending) | `minix-box.us` |
+| Q101 | `vu plus` | United States | N/A | N/A | — | VU+ Enigma box (Semrush pending) | `vuplus-box.us` |
+| Q102 | `mutant box` | United States | N/A | N/A | — | Mutant Enigma box (Semrush pending) | `mutant-box.us` |
+| Q103 | `odroid box` | United States | N/A | N/A | — | ODROID media box (Semrush pending) | `odroid-box.us` |
+| Q104 | `khadas box` | United States | N/A | N/A | — | Khadas media box (Semrush pending) | `khadas-box.us` |
+| Q105 | `nexbox box` | United States | N/A | N/A | — | Nexbox Android box (Semrush pending) | `nexbox-box.us` |
+| Q106 | `x96q box` | United States | N/A | N/A | — | X96Q Android box (Semrush pending) | `x96q-box.us` |
+| Q107 | `synology iptv` | United States | N/A | N/A | — | Synology Video Station (Semrush pending) | `synology-box.us` |
+| Q108 | `channels dvr` | United States | N/A | N/A | — | Channels DVR Live TV (Semrush pending) | `channels-dvr.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
