@@ -699,6 +699,20 @@ QUEUED = (
     ("shamiko apk", "us", "Shamiko APK"),
     ("t965u box", "us", "T965U chipset box"),
     ("rk3328u box", "us", "RK3328U chipset box"),
+    ("fdroid apk", "us", "F-Droid APK"),
+    ("obtainium apk", "us", "Obtainium APK"),
+    ("neostore apk", "us", "Neo Store APK"),
+    ("termux apk", "us", "Termux APK"),
+    ("t972u box", "us", "T972U chipset box"),
+    ("h618u box", "us", "H618U chipset box"),
+    ("droidify apk", "us", "Droid-ify APK"),
+    ("foxydroid apk", "us", "Foxy Droid APK"),
+    ("shizuku apk", "us", "Shizuku APK"),
+    ("apatch apk", "us", "APatch APK"),
+    ("revanced apk", "us", "ReVanced APK"),
+    ("pipepipe apk", "us", "PipePipe APK"),
+    ("rk3568u box", "us", "RK3568U chipset box"),
+    ("t968v box", "us", "T968V chipset box"),
 )
 
 # Map queued keyword -> domain needles (two-word focus TLDs).
@@ -1372,6 +1386,20 @@ NEEDLES = {
     "shamiko apk": ("shamiko-apk",),
     "t965u box": ("t965u-box",),
     "rk3328u box": ("rk3328u-box",),
+    "fdroid apk": ("fdroid-apk",),
+    "obtainium apk": ("obtainium-apk",),
+    "neostore apk": ("neostore-apk",),
+    "termux apk": ("termux-apk",),
+    "t972u box": ("t972u-box",),
+    "h618u box": ("h618u-box",),
+    "droidify apk": ("droidify-apk",),
+    "foxydroid apk": ("foxydroid-apk",),
+    "shizuku apk": ("shizuku-apk",),
+    "apatch apk": ("apatch-apk",),
+    "revanced apk": ("revanced-apk",),
+    "pipepipe apk": ("pipepipe-apk",),
+    "rk3568u box": ("rk3568u-box",),
+    "t968v box": ("t968v-box",),
     "best iptv": ("compareiptv", "avis-iptv"),
     "iptv usa": ("usa-tivimate", "tivimate-usa"),
     "best iptv canada": ("compareiptv", "iptvguide"),
@@ -1502,6 +1530,7 @@ def main() -> None:
         if skip_keyword(name) or name in seen:
             continue
         leftover = pick_leftover(NEEDLES.get(name, (name.replace(" ", "-"),)), pool, db)
+        seen.add(name)
         queued.append(
             {
                 "keyword": name,
