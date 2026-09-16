@@ -3772,6 +3772,15 @@ def candidates() -> list[str]:
         "stafford-tivimate",
         "surrey-tivimate",
         "cotswold-tivimate",
+        "derbyshire-tivimate",
+        "oxfordshire-tivimate",
+        "cambridgeshire-tivimate",
+        "northumberland-tivimate",
+        "lincoln-tivimate",
+        "worcester-tivimate",
+        "gloucester-tivimate",
+        "pembroke-tivimate",
+        "powys-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)

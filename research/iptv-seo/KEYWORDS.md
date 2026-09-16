@@ -1,6 +1,6 @@
 # IPTV keyword table
 
-Updated 2026-09-16 02:46 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
+Updated 2026-09-16 02:49 UTC. **AVAILABLE names only** in every buy/opportunity table. Taken names are **not listed** except in **§6 Almost expired** (taken + site down + expiry soon + volume ≥ 500).
 Keywords with Semrush volume **under 500** are excluded. **Difficult** KD is excluded. **`keyword - keyword` pair rows are excluded.** Unverified (N/A) keywords are excluded until Semrush confirms them.
 
 Semrush: Noxtools member servers only (never free Semrush). **No new volumes invented.**
@@ -7099,7 +7099,7 @@ Taken + website down/parked + expiry soon. **Not for sale today.** Everything el
 ## 7. AVAILABLE `.us` and `.uk` (no `iptv` in `.uk` names)
 
 Native RDAP: `rdap.nic.us` and Nominet. **404 + no DNS = AVAILABLE**. Semrush US/UK volume is still **N/A** from this IP, so these are **not** in the Top 10 until a keyword is verified ≥ 500. Taken names are omitted (see §6 if almost expired).
-AVAILABLE in this dump: **3905**.
+AVAILABLE in this dump: **3923**.
 
 | Domain | TLD | Notes |
 | --- | --- | --- |
@@ -7636,6 +7636,8 @@ AVAILABLE in this dump: **3905**.
 | `cambridge-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `cambridgeshire-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `cambridgeshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cambridgeshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `cambridgeshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `campbeltown-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `campbeltown-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `canadianiptv.us` | .us | native RDAP 404 + no DNS |
@@ -7953,6 +7955,8 @@ AVAILABLE in this dump: **3905**.
 | `derby-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `derbyshire-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `derbyshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `derbyshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `derbyshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `desi-box.us` | .us | native RDAP 404 + no DNS |
 | `desi-iptv.us` | .us | native RDAP 404 + no DNS |
 | `desmoines-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -8337,6 +8341,8 @@ AVAILABLE in this dump: **3905**.
 | `glenugie-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `gloucester-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `gloucester-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `gloucester-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `gloucester-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `goedkope-iptv.us` | .us | native RDAP 404 + no DNS |
 | `golf-iptv.us` | .us | native RDAP 404 + no DNS |
 | `golspie-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -9004,6 +9010,8 @@ AVAILABLE in this dump: **3905**.
 | `lincoln-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `lincoln-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `lincoln-iptv.us` | .us | native RDAP 404 + no DNS |
+| `lincoln-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `lincoln-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `line-box.us` | .us | native RDAP 404 + no DNS |
 | `line-iptv.us` | .us | native RDAP 404 + no DNS |
 | `lingala-box.us` | .us | native RDAP 404 + no DNS |
@@ -9428,6 +9436,8 @@ AVAILABLE in this dump: **3905**.
 | `northbay-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `northumberland-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `northumberland-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `northumberland-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `northumberland-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `norwich-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `norwich-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `nottingham-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -9517,6 +9527,8 @@ AVAILABLE in this dump: **3905**.
 | `oxford-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `oxfordshire-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `oxfordshire-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `oxfordshire-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `oxfordshire-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `oyonnaxien-box.us` | .us | native RDAP 404 + no DNS |
 | `oyonnaxien-iptv.us` | .us | native RDAP 404 + no DNS |
 | `ozoirien-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -9557,6 +9569,8 @@ AVAILABLE in this dump: **3905**.
 | `peel-iptv.us` | .us | native RDAP 404 + no DNS |
 | `pembroke-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `pembroke-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `pembroke-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `pembroke-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `pennine-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `pennine-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `pentland-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -9659,6 +9673,8 @@ AVAILABLE in this dump: **3905**.
 | `portree-guide.uk` | .co.uk | native RDAP 404 + no DNS |
 | `powys-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `powys-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `powys-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `powys-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `premier-iptv.us` | .us | native RDAP 404 + no DNS |
 | `preston-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `preston-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
@@ -10949,6 +10965,8 @@ AVAILABLE in this dump: **3905**.
 | `wolof-iptv.us` | .us | native RDAP 404 + no DNS |
 | `worcester-guide.co.uk` | .co.uk | native RDAP 404 + no DNS |
 | `worcester-guide.uk` | .co.uk | native RDAP 404 + no DNS |
+| `worcester-tivimate.co.uk` | .co.uk | native RDAP 404 + no DNS |
+| `worcester-tivimate.uk` | .co.uk | native RDAP 404 + no DNS |
 | `worldcup-iptv.us` | .us | native RDAP 404 + no DNS |
 | `wwe-box.us` | .us | native RDAP 404 + no DNS |
 | `wwe-iptv.us` | .us | native RDAP 404 + no DNS |
@@ -11034,7 +11052,7 @@ Taken names are omitted from this section. Semrush is still unverified for US/UK
 | .pl | Poland | 0 | 9 | 0 |
 | .cz | Czechia | 0 | 9 | 0 |
 | .eu | EU (.eu) | 0 | 0 | 8 |
-| .co.uk | United Kingdom | 741 | 0 | 7 |
+| .co.uk | United Kingdom | 750 | 0 | 7 |
 
 ### .ca — Canada
 
@@ -31086,7 +31104,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 
 ### .co.uk — United Kingdom
 
-**AVAILABLE (741)** — native RDAP 404 + no DNS.
+**AVAILABLE (750)** — native RDAP 404 + no DNS.
 
 | Domain |
 | --- |
@@ -31205,6 +31223,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `calvine-guide.co.uk` |
 | `cambridge-tivimate.co.uk` |
 | `cambridgeshire-guide.co.uk` |
+| `cambridgeshire-tivimate.co.uk` |
 | `campbeltown-guide.co.uk` |
 | `canal-guide.co.uk` |
 | `caolila-guide.co.uk` |
@@ -31281,6 +31300,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `daviot-guide.co.uk` |
 | `derby-tivimate.co.uk` |
 | `derbyshire-guide.co.uk` |
+| `derbyshire-tivimate.co.uk` |
 | `devon-guide.co.uk` |
 | `devon-tivimate.co.uk` |
 | `dollar-guide.co.uk` |
@@ -31381,6 +31401,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `glenturret-guide.co.uk` |
 | `glenugie-guide.co.uk` |
 | `gloucester-guide.co.uk` |
+| `gloucester-tivimate.co.uk` |
 | `golspie-guide.co.uk` |
 | `googletv-box.co.uk` |
 | `gourock-guide.co.uk` |
@@ -31492,6 +31513,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `leurbost-guide.co.uk` |
 | `leverburgh-guide.co.uk` |
 | `lincoln-guide.co.uk` |
+| `lincoln-tivimate.co.uk` |
 | `linkwood-guide.co.uk` |
 | `linwood-guide.co.uk` |
 | `live-guide.co.uk` |
@@ -31571,6 +31593,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `northampton-guide.co.uk` |
 | `northbay-guide.co.uk` |
 | `northumberland-guide.co.uk` |
+| `northumberland-tivimate.co.uk` |
 | `norwich-tivimate.co.uk` |
 | `nottingham-guide.co.uk` |
 | `nottingham-tivimate.co.uk` |
@@ -31589,10 +31612,12 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `ouse-guide.co.uk` |
 | `oxford-tivimate.co.uk` |
 | `oxfordshire-guide.co.uk` |
+| `oxfordshire-tivimate.co.uk` |
 | `paisley-guide.co.uk` |
 | `peak-guide.co.uk` |
 | `peebles-guide.co.uk` |
 | `pembroke-guide.co.uk` |
+| `pembroke-tivimate.co.uk` |
 | `pennine-guide.co.uk` |
 | `pentland-guide.co.uk` |
 | `perfect-player.co.uk` |
@@ -31618,6 +31643,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `portknockie-guide.co.uk` |
 | `portree-guide.co.uk` |
 | `powys-guide.co.uk` |
+| `powys-tivimate.co.uk` |
 | `preston-tivimate.co.uk` |
 | `prestwick-guide.co.uk` |
 | `purple-tv.co.uk` |
@@ -31823,6 +31849,7 @@ No names marked AVAILABLE (native RDAP not trusted, or none free).
 | `wolfburn-guide.co.uk` |
 | `wolfhill-guide.co.uk` |
 | `worcester-guide.co.uk` |
+| `worcester-tivimate.co.uk` |
 | `wye-guide.co.uk` |
 | `xeplayer-box.co.uk` |
 | `xiaomi-box.co.uk` |

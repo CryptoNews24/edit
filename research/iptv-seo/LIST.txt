@@ -1,5 +1,5 @@
 IPTV SEO domain hunt — AVAILABLE names only
-Updated 2026-09-16 02:46 UTC
+Updated 2026-09-16 02:49 UTC
 
 Filters: AVAILABLE only. Two-word names only (no 3+ word labels). Semrush volume >= 500/mo (verified). **Difficult KD excluded.** **keyword - keyword pairs excluded.**
 Taken names are omitted except the almost-expired table (site down + expiry soon + mapped volume >= 500).
@@ -19346,6 +19346,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   cambridgeshire-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  cambridgeshire-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  cambridgeshire-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   campbeltown-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   campbeltown-guide.uk
@@ -19641,6 +19645,10 @@ United Kingdom
   derbyshire-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   derbyshire-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  derbyshire-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  derbyshire-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   devon-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -20031,6 +20039,10 @@ United Kingdom
   gloucester-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   gloucester-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gloucester-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  gloucester-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   golspie-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -20476,6 +20488,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   lincoln-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  lincoln-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  lincoln-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   linkwood-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   linkwood-guide.uk
@@ -20792,6 +20808,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   northumberland-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  northumberland-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  northumberland-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   norwich-tivimate.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   norwich-tivimate.uk
@@ -20856,6 +20876,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   oxfordshire-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  oxfordshire-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  oxfordshire-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   paisley-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   paisley-guide.uk
@@ -20871,6 +20895,10 @@ United Kingdom
   pembroke-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   pembroke-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  pembroke-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  pembroke-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   pennine-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -20965,6 +20993,10 @@ United Kingdom
   powys-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   powys-guide.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  powys-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  powys-tivimate.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   preston-tivimate.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
@@ -21756,6 +21788,10 @@ United Kingdom
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   worcester-guide.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  worcester-tivimate.co.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
+  worcester-tivimate.uk
+    Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   wye-guide.co.uk
     Nominet RDAP 404 + no DNS. No iptv in the name. Semrush UK volume N/A — not in Top 10 yet.
   wye-guide.uk
@@ -21812,7 +21848,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
 .pl  Poland  AVAILABLE=0  confirm=9  unknown=0
 .cz  Czechia  AVAILABLE=0  confirm=9  unknown=0
 .eu  EU (.eu)  AVAILABLE=0  confirm=0  unknown=8
-.co.uk  United Kingdom  AVAILABLE=741  confirm=0  unknown=7
+.co.uk  United Kingdom  AVAILABLE=750  confirm=0  unknown=7
 
 -------- .ca Canada AVAILABLE --------
   4k-box.ca
@@ -41890,6 +41926,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   calvine-guide.co.uk
   cambridge-tivimate.co.uk
   cambridgeshire-guide.co.uk
+  cambridgeshire-tivimate.co.uk
   campbeltown-guide.co.uk
   canal-guide.co.uk
   caolila-guide.co.uk
@@ -41966,6 +42003,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   daviot-guide.co.uk
   derby-tivimate.co.uk
   derbyshire-guide.co.uk
+  derbyshire-tivimate.co.uk
   devon-guide.co.uk
   devon-tivimate.co.uk
   dollar-guide.co.uk
@@ -42066,6 +42104,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   glenturret-guide.co.uk
   glenugie-guide.co.uk
   gloucester-guide.co.uk
+  gloucester-tivimate.co.uk
   golspie-guide.co.uk
   googletv-box.co.uk
   gourock-guide.co.uk
@@ -42177,6 +42216,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   leurbost-guide.co.uk
   leverburgh-guide.co.uk
   lincoln-guide.co.uk
+  lincoln-tivimate.co.uk
   linkwood-guide.co.uk
   linwood-guide.co.uk
   live-guide.co.uk
@@ -42256,6 +42296,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   northampton-guide.co.uk
   northbay-guide.co.uk
   northumberland-guide.co.uk
+  northumberland-tivimate.co.uk
   norwich-tivimate.co.uk
   nottingham-guide.co.uk
   nottingham-tivimate.co.uk
@@ -42274,10 +42315,12 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   ouse-guide.co.uk
   oxford-tivimate.co.uk
   oxfordshire-guide.co.uk
+  oxfordshire-tivimate.co.uk
   paisley-guide.co.uk
   peak-guide.co.uk
   peebles-guide.co.uk
   pembroke-guide.co.uk
+  pembroke-tivimate.co.uk
   pennine-guide.co.uk
   pentland-guide.co.uk
   perfect-player.co.uk
@@ -42303,6 +42346,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   portknockie-guide.co.uk
   portree-guide.co.uk
   powys-guide.co.uk
+  powys-tivimate.co.uk
   preston-tivimate.co.uk
   prestwick-guide.co.uk
   purple-tv.co.uk
@@ -42508,6 +42552,7 @@ Taken names omitted. US/UK/most EU volumes still N/A from this IP — not in Top
   wolfburn-guide.co.uk
   wolfhill-guide.co.uk
   worcester-guide.co.uk
+  worcester-tivimate.co.uk
   wye-guide.co.uk
   xeplayer-box.co.uk
   xiaomi-box.co.uk
