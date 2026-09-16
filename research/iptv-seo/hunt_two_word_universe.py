@@ -3223,6 +3223,14 @@ APP_STEMS = (
     "transmission-apk",
     "t950r-box",
     "s905w4s-box",
+    "trakt-apk",
+    "simkl-apk",
+    "orion-apk",
+    "stremthru-apk",
+    "jackettio-apk",
+    "aiostreams-apk",
+    "t968r-box",
+    "h313r-box",
     "ibopro-player",
     "gse-player",
     "gse-box",
@@ -4516,6 +4524,9 @@ def candidates() -> list[str]:
         "kennoway-tivimate",
         "methil-tivimate",
         "buckhaven-tivimate",
+        "windygates-tivimate",
+        "glenrothes-tivimate",
+        "lochgelly-tivimate",
     ):
         _push(f"{stem}.co.uk", seen, out)
         _push(f"{stem}.uk", seen, out)
