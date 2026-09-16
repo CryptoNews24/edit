@@ -1,6 +1,6 @@
 # Ranked keywords (one table)
 
-Updated 2026-09-16 04:47 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
+Updated 2026-09-16 04:49 UTC. **Only this file** is the keyword ranking. Real search queries (spaces). **No Semrush `keyword - keyword` pair rows.** No invented volumes. Difficult KD and volume < 500 are out. Focus leftovers: `.ca` `.us` `.co.uk`/`.uk` (no `iptv` in UK labels) `.dk` `.no` `.fi` — not `.fr`. `.se` UNKNOWN is not listed as a buy.
 
 | Rank | Keyword | Market | Vol / mo | KD | Score | Why it is strong | AVAILABLE leftover (focus TLD) |
 | ---: | --- | --- | ---: | --- | ---: | --- | --- |
@@ -401,5 +401,19 @@ Updated 2026-09-16 04:47 UTC. **Only this file** is the keyword ranking. Real se
 | Q389 | `chromecast apk` | United States | N/A | N/A | — | Chromecast APK (Semrush pending) | `chromecast-apk.us` |
 | Q390 | `t962k box` | United States | N/A | N/A | — | T962K chipset box (Semrush pending) | `t962k-box.us` |
 | Q391 | `h618e box` | United States | N/A | N/A | — | H618E chipset box (Semrush pending) | `h618e-box.us` |
+| Q392 | `osmc apk` | United States | N/A | N/A | — | OSMC APK (Semrush pending) | `osmc-apk.us` |
+| Q393 | `spmc apk` | United States | N/A | N/A | — | SPMC APK (Semrush pending) | `spmc-apk.us` |
+| Q394 | `xbmc apk` | United States | N/A | N/A | — | XBMC APK (Semrush pending) | `xbmc-apk.us` |
+| Q395 | `iina apk` | United States | N/A | N/A | — | IINA APK (Semrush pending) | `iina-apk.us` |
+| Q396 | `overseerr apk` | United States | N/A | N/A | — | Overseerr APK (Semrush pending) | `overseerr-apk.us` |
+| Q397 | `jellyseerr apk` | United States | N/A | N/A | — | Jellyseerr APK (Semrush pending) | `jellyseerr-apk.us` |
+| Q398 | `plexamp apk` | United States | N/A | N/A | — | Plexamp APK (Semrush pending) | `plexamp-apk.us` |
+| Q399 | `hdhomerun apk` | United States | N/A | N/A | — | HDHomeRun APK (Semrush pending) | `hdhomerun-apk.us` |
+| Q400 | `tablo apk` | United States | N/A | N/A | — | Tablo APK (Semrush pending) | `tablo-apk.us` |
+| Q401 | `mythtv apk` | United States | N/A | N/A | — | MythTV APK (Semrush pending) | `mythtv-apk.us` |
+| Q402 | `synology apk` | United States | N/A | N/A | — | Synology APK (Semrush pending) | `synology-apk.us` |
+| Q403 | `sparkle lite` | United States | N/A | N/A | — | Sparkle Lite app (Semrush pending) | `sparkle-lite.us` |
+| Q404 | `t965e box` | United States | N/A | N/A | — | T965E chipset box (Semrush pending) | `t965e-box.us` |
+| Q405 | `rk3288s box` | United States | N/A | N/A | — | RK3288S chipset box (Semrush pending) | `rk3288s-box.us` |
 
 Score = volume × (100 − KD) / 100 on verified rows only. Q-rows are participant app/platform queries with no Overview yet.
